@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1084827141,
+      "collectionId": 1129798125,
+      "artistName": "池波正太郎",
+      "collectionName": "狐火(鬼平犯科帳より): 鬼平犯科帳より",
+      "collectionCensoredName": "狐火(鬼平犯科帳より): 鬼平犯科帳より",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E6%B1%A0%E6%B3%A2%E6%AD%A3%E5%A4%AA%E9%83%8E/id1084827141?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/%E7%8B%90%E7%81%AB-%E9%AC%BC%E5%B9%B3%E7%8A%AF%E7%A7%91%E5%B8%B3%E3%82%88%E3%82%8A-%E9%AC%BC%E5%B9%B3%E7%8A%AF%E7%A7%91%E5%B8%B3%E3%82%88%E3%82%8A/id1129798125?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ca/f7/cd/caf7cdc0-5235-88f3-2395-995859236b12/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ca/f7/cd/caf7cdc0-5235-88f3-2395-995859236b12/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 866,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2016 ことのは出版",
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2016-07-20T07:00:00Z",
+      "primaryGenreName": "フィクション",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/71/7e/1c/717e1c77-db29-7fed-d966-1fb31ab27bff/mzaf_6495556951603430847.std.aac.p.m4a",
+      "description": "上方一帯にきこえた大盗賊、先代の「狐火の勇五郎」は、真の盗賊の典型だった。おまさ父子も狐火の下にいたことがあった。だか、このところ凄惨をきわめる現場に「狐火札」が残されている。 (時代小説)監督/吉田純子・編集/三好達也_林岳史"
+    }
+  ]
+}

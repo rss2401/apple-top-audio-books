@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 62951791,
+      "collectionId": 6808544750,
+      "artistName": "Julian Jackson",
+      "collectionName": "La Chute. France, 1940",
+      "collectionCensoredName": "La Chute. France, 1940",
+      "artistViewUrl": "https://books.apple.com/fr/artist/julian-jackson/62951791?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/la-chute-france-1940/id6808544750?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/dc/e2/47dce2e6-36af-9e23-9609-690c54d93641/9782387072641.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/dc/e2/47dce2e6-36af-9e23-9609-690c54d93641/9782387072641.jpg/100x100bb.jpg",
+      "collectionPrice": 21.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2026 Cascades",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2026-10-12T07:00:00Z",
+      "primaryGenreName": "Histoire",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3d/3c/66/3d3c66d3-1184-bec9-bda4-a2267652e0bb/mzaf_10283699115046295893.std.aac.p.m4a",
+      "description": "En seulement six semaines au printemps 1940, la France connaît l'un des effondrements militaires les plus stupéfiants de l'histoire moderne. Comment une grande puissance européenne, dotée d'une armée réputée invincible et de chars technologiquement supérieurs, a-t-elle pu s'effondrer aussi rapidement face à l'offensive allemande ?<br /><br />Julian Jackson déconstruit magistralement les mythes entourant cette défaite. Loin des explications simplistes, il révèle une tragédie aux multiples facettes : doctrine militaire obsolète, leadership politique paralysé, divisions sociales profondes et choc psychologique face à une nouvelle forme de guerre. De la percée surprise à Sedan aux débats déchirants sur l'armistice, en passant par l'évacuation dramatique de Dunkerque, cet ouvrage explore comment un désastre militaire a balayé la démocratie française et redessiné l'équilibre géopolitique mondial.<br /><br />Cette lecture essentielle offre bien plus qu'un récit militaire : c'est une leçon sur la fragilité des démocraties face aux crises. L'analyse de Julian Jackson éclaire notre présent autant que notre passé. Un ouvrage incontournable pour comprendre comment une nation peut basculer - et se reconstruire."
+    }
+  ]
+}

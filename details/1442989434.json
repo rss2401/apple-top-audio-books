@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 358501447,
+      "collectionId": 1442989434,
+      "artistName": "Liza Mundy",
+      "collectionName": "Code Girls",
+      "collectionCensoredName": "Code Girls",
+      "artistViewUrl": "https://books.apple.com/us/author/liza-mundy/id358501447?uo=4",
+      "collectionViewUrl": "https://books.apple.com/us/audiobook/code-girls/id1442989434?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/66/f1/1666f191-fe18-24f9-5ca3-29b038836389/9781478922711.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/66/f1/1666f191-fe18-24f9-5ca3-29b038836389/9781478922711.jpg/100x100bb.jpg",
+      "collectionPrice": 4.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 2,
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2017-10-10T07:00:00Z",
+      "primaryGenreName": "History",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/ed/c1/65/edc1653d-3c58-1bcd-7f82-451e33e93cb4/mzaf_1592561147342016485.std.aac.p.m4a",
+      "description": "<b>The secret history of the American women who served as codebreakers during World War II is revealed in this </b><i><b>New York Times</b></i><b> bestseller.</b><br /><br /><b>\"Prodigiously researched and engrossing.\" —</b><i><b>New York Times</b></i><br /><br />     Recruited by the U.S. Army and Navy from small towns and elite colleges, more than ten thousand women served as codebreakers during World War II. While their brothers and boyfriends took up arms, these women moved to Washington and learned the meticulous work of code-breaking. Their efforts shortened the war, saved countless lives, and gave them access to careers previously denied to them. <br /><br />     A strict vow of secrecy nearly erased their efforts from history; now, through dazzling research and interviews with surviving code girls, bestselling author Liza Mundy brings to life this riveting and vital story of American courage, service, and scientific accomplishment."
+    }
+  ]
+}

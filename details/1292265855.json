@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 75623644,
+      "collectionId": 1292265855,
+      "artistName": "Gérard de Nerval",
+      "collectionName": "Gérard de Nerval - 23 Poèmes",
+      "collectionCensoredName": "Gérard de Nerval - 23 Poèmes",
+      "artistViewUrl": "https://books.apple.com/fr/author/g%C3%A9rard-de-nerval/id75623644?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/g%C3%A9rard-de-nerval-23-po%C3%A8mes/id1292265855?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/e8/7c/78/e87c7832-7f8e-d2eb-6c65-b4b2211e7cd9/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/e8/7c/78/e87c7832-7f8e-d2eb-6c65-b4b2211e7cd9/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 4.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2024 Isis",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2024-10-31T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/a4/c4/12/a4c4127f-37ab-54fe-099d-1c5bfd9f3957/mzaf_6170940385643886417.std.aac.p.m4a",
+      "description": "Gérard de Nerval est l'une des figures majeures du romantisme, fasciné qu'il fût d'ésotérisme et de symboles. Faisant appel aux ressources du passé, réel ou imaginé, au rêve et à la rêverie, aux interférences du vécu, aux réminiscences livresques, il aboutit à un réseau complexe de thèmes et de mythes, à la nostalgie de quelque chose d'autre, d'un ailleurs pouvant ouvrir les portes de l'invisible."
+    }
+  ]
+}

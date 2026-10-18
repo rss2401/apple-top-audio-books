@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 874297391,
+      "collectionId": 1503391435,
+      "artistName": "Petra Hülsmann",
+      "collectionName": "Un petit grain de sable",
+      "collectionCensoredName": "Un petit grain de sable",
+      "artistViewUrl": "https://books.apple.com/fr/author/petra-h%C3%BClsmann/id874297391?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/un-petit-grain-de-sable/id1503391435?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/39/c9/bf/39c9bf3a-c0b7-16b7-f15e-4000ee3f4bc9/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/39/c9/bf/39c9bf3a-c0b7-16b7-f15e-4000ee3f4bc9/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 17.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2026 Audible Studios",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2026-09-10T07:00:00Z",
+      "primaryGenreName": "Romance",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/25/57/38/255738cb-3dda-aeb7-ea28-8818f2044493/mzaf_17682162522821579295.std.aac.p.m4a",
+      "description": "La vie n'est pas un long fleuve tranquille.&#xa0;<br /><br />Sans être maniaque, Isa, 27 ans, a une vie bien réglée. Voilà onze ans qu'elle travaille chez la même fleuriste, déjeune chaque midi dans le même restaurant vietnamien et regarde chaque soir un épisode de son feuilleton préféré.<br /><br />Mais un petit grain de sable vient enrayer la belle mécanique... Mr Lee a fermé boutique et le resto bobo branchouille qui a ouvert à la place ne sert pas de soupes de nouilles !<br /><br />Le premier réflexe d'Isa est de prendre en grippe son nouveau voisin. Quel type prétentieux, ce Jens, et arrogant ! Mais n'est-il pas aussi terriblement séduisant ? Et célibataire...<br /><br />Avec ce deuxième roman, Petra Hülsman signe une comédie romantique piquante. Une explosion de saveurs."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 493228541,
+      "collectionId": 1568926605,
+      "artistName": "Charles Pépin",
+      "collectionName": "La rencontre, une philosophie",
+      "collectionCensoredName": "La rencontre, une philosophie",
+      "artistViewUrl": "https://books.apple.com/fr/author/charles-p%C3%A9pin/id493228541?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/la-rencontre-une-philosophie/id1568926605?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/3a/e8/ca3ae847-e015-d04c-4fed-4d39dd9b121c/9791036615931.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/3a/e8/ca3ae847-e015-d04c-4fed-4d39dd9b121c/9791036615931.jpg/100x100bb.jpg",
+      "collectionPrice": 17.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "2021 © Allary Éditions, 2021.℗ Lizzie, un département d'Univers Poche, Paris, 2021",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2021-06-10T07:00:00Z",
+      "primaryGenreName": "Essais et sciences humaines",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/91/80/57/91805754-f395-4bec-8ddb-8908ff905463/mzaf_10926513842344805338.std.aac.p.m4a",
+      "description": "Pourquoi certaines rencontres nous donnent-elles l'impression de renaître ? Comment se rendre disponibles à celles qui vont intensifier nos vies, nous révéler à nous-mêmes ? Dans la lignée de Les Vertus de l'échec et La Confiance en soi, un nouvel essai de philosophie pratique, où Charles Pépin montre que toute vraie rencontre est en même temps une découverte de soi et une redécouverte du monde.La rencontre – amoureuse, amicale, professionnelle – n'est pas un \" plus \" dans nos vies. Au cœur de notre existence, dont l'étymologie latine ex-sistere signifie \" sortir de soi \", il y a ce mouvement vers l'extérieur, ce besoin d'aller vers les autres. Cette aventure de la rencontre n'est pas sans risque, mais elle a le goût de la \" vraie vie \".De Platon à Christian Bobin en passant par Belle du Seigneur d'Albert Cohen ou Sur la route de Madison de Clint Eastwood, Charles Pépin convoque philosophes, romanciers et cinéastes pour nous révéler la puissance, la grâce de la rencontre. En analysant quelques amours ou amitiés fertiles – Picasso et Éluard, David Bowie et Lou Reed, Voltaire et Émilie du Châtelet... – il montre que toute vraie rencontre est en même temps une découverte de soi et une redécouverte du monde.Une philosophie salutaire en ces temps de repli sur soi."
+    }
+  ]
+}

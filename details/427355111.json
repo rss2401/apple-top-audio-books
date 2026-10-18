@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 3712522,
+      "collectionId": 427355111,
+      "amgArtistId": 551528,
+      "artistName": "Kenneth Grahame",
+      "collectionName": "Der Wind in den Weiden",
+      "collectionCensoredName": "Der Wind in den Weiden",
+      "artistViewUrl": "https://books.apple.com/de/author/kenneth-grahame/id3712522?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/der-wind-in-den-weiden/id427355111?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music/99/84/3d/mzi.ypifacda.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music/99/84/3d/mzi.ypifacda.jpg/100x100bb.jpg",
+      "collectionPrice": 19.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2007 Kein & Aber Records",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2007-01-01T08:00:00Z",
+      "primaryGenreName": "Kinder und Jugend",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/7b/02/29/7b022940-7eac-b055-e459-79a0f6b731af/mzaf_994161403266803883.std.aac.p.m4a",
+      "description": "In England zählen die Tiergeschichten von Kenneth Grahame zu den meistgelesenen Kindergeschichten. Und auch hier erfreuen sich die Abenteuer des Maulwurfs, der Wasserratte, des Dachs und der Kröte einer immer größer werdenden Beliebtheit."
+    }
+  ]
+}

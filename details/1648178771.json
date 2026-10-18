@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1152282530,
+      "collectionId": 1648178771,
+      "artistName": "柚木 麻子",
+      "collectionName": "ついでにジェントルメン",
+      "collectionCensoredName": "ついでにジェントルメン",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E6%9F%9A%E6%9C%A8-%E9%BA%BB%E5%AD%90/id1152282530?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/%E3%81%A4%E3%81%84%E3%81%A7%E3%81%AB%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%83%AB%E3%83%A1%E3%83%B3/id1648178771?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/80/08/c0/8008c063-f7e6-9e9d-1618-5c1f4763229b/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/80/08/c0/8008c063-f7e6-9e9d-1618-5c1f4763229b/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 2750,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2022 Audible Studios",
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2022-10-08T07:00:00Z",
+      "primaryGenreName": "フィクション",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/8b/53/24/8b5324f7-fffb-b39a-d9c0-955c5f58caf0/mzaf_7686526887766542709.std.aac.p.m4a",
+      "description": "分かるし、刺さるし、救われる――自由になれる7つの物語。\n\n編集者にダメ出しをされ続ける新人作家、女性専用車両に乗り込んでしまったびっくりするほど老けた四十五歳男性、男たちの意地悪にさらされないために美容整形をしようとする十九歳女性……などなど、なぜか微妙に社会と歯車の噛み合わない人々のもどかしさを、しなやかな筆致とユーモアで軽やかに飛び越えていく短編集。"
+    }
+  ]
+}

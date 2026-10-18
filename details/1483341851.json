@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 134881193,
+      "collectionId": 1483341851,
+      "artistName": "Allen Carr",
+      "collectionName": "The Easy Way to Stop Smoking",
+      "collectionCensoredName": "The Easy Way to Stop Smoking",
+      "artistViewUrl": "https://books.apple.com/gb/author/allen-carr/id134881193?uo=4",
+      "collectionViewUrl": "https://books.apple.com/gb/audiobook/the-easy-way-to-stop-smoking/id1483341851?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/aa/f4/05/aaf40578-7c97-5c1c-d505-8e60a1082ff6/9781784280543_cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/aa/f4/05/aaf40578-7c97-5c1c-d505-8e60a1082ff6/9781784280543_cover.jpg/100x100bb.jpg",
+      "collectionPrice": 16.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2014 Arcturus Publishing Limited",
+      "country": "GBR",
+      "currency": "GBP",
+      "releaseDate": "2014-10-30T07:00:00Z",
+      "primaryGenreName": "Self-Development",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/40/54/83/40548371-9f69-bcf2-c086-f09c94200171/mzaf_17203952574331827765.std.aac.p.m4a",
+      "description": "'If you follow my instructions you will be a happy non-smoker for the rest of your life.'&#xa0;<br /><br />That's a strong claim from Allen Carr, but as the world's leading quit smoking expert, he was right to boast!<br /><br />This classic guide to the world's most successful stop smoking method is all you need to give up smoking, now available as an audiobook. You can even smoke while you listen. There are no scare tactics, you will not gain weight and stopping will not feel like you are sacrificing anything. If you want to kick the habit then go for it.&#xa0;<br /><br />Allen Carr has helped millions of people become happy non-smokers. His unique method removes your psychological dependence on cigarettes and literally sets you free. Accept no substitute. Eighteen million people can't be wrong.<br /><br />What people say about Allen Carr's Easyway method:<br /><br />\"Allen Carr's international bestseller... has helped countless people quit\" –&#xa0;Time Out New York<br /><br />\"I read this book and quit smoking instantly\" –&#xa0;Nikki Glaser<br /><br />\"The Allen Carr program was nothing short of a miracle\" –&#xa0;Anjelica Huston<br /><br />\"It was such a revelation that instantly I was freed from my addiction\" –&#xa0;Sir Anthony Hopkins<br /><br />\"His skill is in removing the psychological dependence\" –&#xa0;The Sunday Times"
+    }
+  ]
+}

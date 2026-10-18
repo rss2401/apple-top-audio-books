@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1207226126,
+      "collectionId": 6797538139,
+      "artistName": "Erine Kova & Hugo Publishing",
+      "collectionName": "Grand mariage, petits meurtres & mauvais esprits",
+      "collectionCensoredName": "Grand mariage, petits meurtres & mauvais esprits",
+      "artistViewUrl": "https://books.apple.com/fr/author/erine-kova/id1207226126?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/grand-mariage-petits-meurtres-mauvais-esprits/id6797538139?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/49/8d/dc498dec-ae7b-93a1-19c9-8d4670fcbfec/9791042910426.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/49/8d/dc498dec-ae7b-93a1-19c9-8d4670fcbfec/9791042910426.jpg/100x100bb.jpg",
+      "collectionPrice": 19.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2026 Hugo Publishing",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2026-09-30T07:00:00Z",
+      "primaryGenreName": "Romance",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b4/83/fc/b483fcdf-d15e-7046-0476-03398290735b/mzaf_6456662578953243151.std.aac.p.m4a",
+      "description": "Une spooky romance, mêlée à une ambiance cosy mystery !\r\n\r\nSerena, sorcière sans pouvoir, cherche à trouver refuge à Ronces, un village qui bénéficie d'une barrière magique, protégeant ses habitants des prédateurs extérieurs. Seulement, son visa est entre les mains du protecteur du village : Edgemon Roncières, et ce dernier à une exigence...\r\nSerena acceptera-t-elle de devenir sa quatrième épouse ? Une idée plus que risquée quand on sait que les trois autres ont disparues dans des circonstances plus que suspectes quelques jours après les noces !\r\nUne autre aurait pu fuir, mais Serena, elle, se sent prête à relever le défi, quitte à dormir avec un poignard sous son oreiller. Et quand sonne l'heure de l'enquête, quoi de mieux que de demander à ses nouvelles amies du club de spiritisme de l'aider à résoudre ce mystère ?\r\n\r\n*IH ou Interprétation Humaine signifie que des comédiennes et comédiens ont travaillé à l'enregistrement de ce livre audio, et qu'aucune voix n'a été enregistrée avec l'intelligence artificielle."
+    }
+  ]
+}

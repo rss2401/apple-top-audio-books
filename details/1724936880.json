@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 504818729,
+      "collectionId": 1724936880,
+      "amgArtistId": 3528612,
+      "artistName": "Olivier Norek",
+      "collectionName": "Code 93",
+      "collectionCensoredName": "Code 93",
+      "artistViewUrl": "https://books.apple.com/fr/author/olivier-norek/id504818729?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/code-93/id1724936880?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/80/7e/5d/807e5de9-99ed-242f-3b7b-f015756c4465/9791036632372.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/80/7e/5d/807e5de9-99ed-242f-3b7b-f015756c4465/9791036632372.jpg/100x100bb.jpg",
+      "collectionPrice": 18.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "2024 © Éditions Michel Lafon, 2013..© Pocket, un département d'Univers Poche, 2014...℗ Lizzie, un département d'Univers Poche, Paris, 2024.....",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2024-01-25T08:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/bd/69/22/bd6922dc-a4b4-8d06-0718-2f00f4024546/mzaf_13585815607179045427.std.aac.p.m4a",
+      "description": "Le premier volet de la trilogie sombre et haletante autour du capitaine Coste. Un cadavre, émasculé, qui rouvre les yeux sur la table d'autopsie. Un portable qui se met à sonner dans le corps d'un jeune toxico, mort de brûlures inexplicables. Malgré quinze ans de terrain en Seine-Saint-Denis, Victor Coste, capitaine de police, se prépare au pire. Et que penser de ces lettres anonymes qui dessinent une première piste : celle d'un mystérieux dossier, le \" Code 93 \" ? Une piste qui, des cercles huppés parisiens aux quartiers déshérités, fera franchir à Coste les limites du périphérique, et de la raison... \" Un scénario qui tient en haleine jusqu'à la dernière page. Du grand art de polar. \" L'Express \" On ressort bluffé par ce thriller. \" Le Figaro (Coup de cœur de l'année)Prix Saint-Maur en Poche catégorie prix du public 2015"
+    }
+  ]
+}

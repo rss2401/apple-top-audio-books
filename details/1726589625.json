@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 357992761,
+      "collectionId": 1726589625,
+      "artistName": "Tracy Wolff",
+      "collectionName": "Assoiffés - Tome 7 : Envoûtés",
+      "collectionCensoredName": "Assoiffés - Tome 7 : Envoûtés",
+      "artistViewUrl": "https://books.apple.com/fr/author/tracy-wolff/id357992761?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/assoiff%C3%A9s-tome-7-envo%C3%BBt%C3%A9s/id1726589625?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5d/62/77/5d627784-10de-e75d-695c-3571c186ad28/9791036632549.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5d/62/77/5d627784-10de-e75d-695c-3571c186ad28/9791036632549.jpg/100x100bb.jpg",
+      "collectionPrice": 18.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2024 ℗ Lizzie, un département d’Univers Poche, Paris, 2024",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2024-02-15T08:00:00Z",
+      "primaryGenreName": "Jeunesse",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/28/16/5e/28165e0c-a7d4-7162-bc3b-dea5d192f829/mzaf_17636891727935361257.std.aac.p.m4a",
+      "description": "Le septième tome de la série évènement Assoiffées ! Grace : Après ce que j'ai vécu au lycée Katmere, rien ne devrait plus me surprendre. Pas même le monde parallèle où je viens de reprendre connaissance. Hélas, me voici prisonnière d'un lieu inconnu sur lequel plane une terrible menace, avec pour seul compagnon de captivité Hudson Vega, le frère de Jaxon. Un sociopathe. Un meurtrier. Un monstre assoiffé de sang. Hudson : Grace Foster voit en moi la pire des créatures. Elle me tient pour responsable de tous les malheurs du monde. En vérité, elle ignore tout de moi. Mais connaît elle seulement sa propre nature ? A-t-elle conscience que c'est par sa faute que nous devons partager cette prison, et qu'elle seule pourra nous en délivrer ?"
+    }
+  ]
+}

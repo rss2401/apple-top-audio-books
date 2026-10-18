@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 434274411,
+      "collectionId": 1683117710,
+      "artistName": "Robert Philip",
+      "collectionName": "A Little History of Music",
+      "collectionCensoredName": "A Little History of Music",
+      "artistViewUrl": "https://music.apple.com/jp/artist/robert-philip/434274411?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/a-little-history-of-music/id1683117710?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3e/f8/05/3ef80511-ca54-efef-d1f2-4af01f0b77d6/9780300272727.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3e/f8/05/3ef80511-ca54-efef-d1f2-4af01f0b77d6/9780300272727.png/100x100bb.jpg",
+      "collectionPrice": 2241,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2023 Yale University Press",
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2023-05-23T07:00:00Z",
+      "primaryGenreName": "ノンフィクション",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/4f/4f/53/4f4f53e7-02c6-d974-1a4e-7f2c55f1083e/mzaf_18172698406139462148.std.aac.p.m4a",
+      "description": "A lively, engaging guide to music around the world, from prehistory to the present<br /><br />Human beings have always made music. Music can move us and tell stories of faith, struggle, or love. It is common to all cultures across the world. But how has it changed over the millennia?<br /><br />Robert Philip explores the extraordinary history of music in all its forms, from our earliest ancestors to today’s mass-produced songs. This is a truly global story. Looking to Europe, South America, Asia, Africa, and beyond, Philip reveals how musicians have been brought together by trade and migration and examines the vast impact of colonialism. From Hildegard von Bingen and Clara Schumann to Bob Dylan and Aretha Franklin, great performers and composers have profoundly shaped music as we know it.<br /><br />Covering a remarkable range of genres, including medieval chant, classical opera, jazz, and hip hop, this Little History shines a light on the wonder of music—and why it is treasured across the world."
+    }
+  ]
+}

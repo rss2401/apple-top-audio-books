@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 2071937,
+      "collectionId": 1830494509,
+      "artistName": "Larry McMurtry",
+      "collectionName": "Lonesome Dove (Unabridged)",
+      "collectionCensoredName": "Lonesome Dove (Unabridged)",
+      "artistViewUrl": "https://books.apple.com/us/author/larry-mcmurtry/id2071937?uo=4",
+      "collectionViewUrl": "https://books.apple.com/us/audiobook/lonesome-dove-unabridged/id1830494509?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/3b/1d/653b1d84-c516-0bd9-bada-ec72265447c6/9781668149041.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/3b/1d/653b1d84-c516-0bd9-bada-ec72265447c6/9781668149041.jpg/100x100bb.jpg",
+      "collectionPrice": 29.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 2,
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2025-09-23T07:00:00Z",
+      "primaryGenreName": "Fiction",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/83/04/74/83047457-e3ca-2bf2-7641-810c277d6c65/mzaf_4358751379375702964.std.aac.p.m4a",
+      "description": "<b>A 2026 Audie Award Finalist for Best Fiction Narrator</b><br /><br /><b><b>An epic of the frontier, <i>Lonesome Dove</i> is the grandest novel ever written about the last defiant wilderness</b>.</b><br /><br /> <b>“My favorite book: there are so many that I would be afraid to say. Probably if I had to pick anything I’d say <i>Lonesome Dove </i>by Larry McMurtry.” —Stephen King</b><br /><br /> <b>“If I had to recommend one Great American Novel, Larry McMurtry’s <i>Lonesome Dove</i> would be high on my list. It’s got everything I love as a reader: unforgettable characters, a huge sense of adventure, humor, heartbreak, and a story that never lets go of you.” —James Patterson</b><br /><br />Journey to the dusty little town of <i>Lonesome Dove</i>, where retired Texas Rangers Augustus McCrae and Woodrow Call undertake a perilous cattle drive to the untamed plains of Montana. Along the way, they face danger, adventure, and an unforgettable cast of characters. Richly authentic and beautifully written, <i>Lonesome Dove</i> is a story of love, loss, and the unyielding spirit of the American West."
+    }
+  ]
+}

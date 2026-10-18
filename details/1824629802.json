@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 517517953,
+      "collectionId": 1824629802,
+      "artistName": "Dan Wang",
+      "collectionName": "Breakneck",
+      "collectionCensoredName": "Breakneck",
+      "artistViewUrl": "https://books.apple.com/fr/author/dan-wang/id517517953?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/breakneck/id1824629802?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7b/7b/9c/7b7b9c93-847b-15b6-95c4-a720c0afd2d3/9781837312283.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7b/7b/9c/7b7b9c93-847b-15b6-95c4-a720c0afd2d3/9781837312283.jpg/100x100bb.jpg",
+      "collectionPrice": 11.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2025-08-26T07:00:00Z",
+      "primaryGenreName": "Histoire",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5f/73/56/5f7356d3-2c96-58eb-0d87-8eacbd8192dd/mzaf_17831283209019423111.std.aac.p.m4a",
+      "description": "<b>Brought to you by Penguin.</b><br /><br /><b>From an indispensable voice on China, comes a riveting, first-hand account of China's seismic progress </b><br /><br />For close to a decade, Dan Wang has been observing China’s tumultuous and astounding growth. The state has constructed towering bridges, gleaming railways and sprawling factories to improve economic outcomes in record time. But rapid change has also sent ripples of pain throughout society.<br /><br />China has grown so quickly in part by beating America at its own game: capitalism and harnessing the restless energy of a vast population. Here Wang blends political and economic analysis with reportage into a provocative new framework for understanding China – one that helps us see America more clearly, too. Whereas China is an engineering state, relentlessly building big, the United States has transformed into a lawyerly society, stalling every attempt to make change, both good and bad.<br /><br />As relations between the US and China are tense and uncertain and the potential for dreadful conflict looms, Wang offers an inventive new way of thinking about the two superpowers. <i>Breakneck </i>reveals that each country points towards a better path for the other. How much better the world would be, he argues, if Americans could live in a society not only governed by lawyers, and Chinese citizens could live with a state that values their individual liberties.<br /><br />© Dan Wang 2025 (P) Penguin Audio 2025"
+    }
+  ]
+}

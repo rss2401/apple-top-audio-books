@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 255453362,
+      "collectionId": 1837184433,
+      "artistName": "James Clavell",
+      "collectionName": "Shōgun - Tome 2 - Shōgun",
+      "collectionCensoredName": "Shōgun - Tome 2 - Shōgun",
+      "artistViewUrl": "https://books.apple.com/fr/author/james-clavell/id255453362?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/sh%C5%8Dgun-tome-2-sh%C5%8Dgun/id1837184433?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/81/0c/e5/810ce5a1-7ea6-408b-bc0e-9c178601e2fc/9782487064331.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/81/0c/e5/810ce5a1-7ea6-408b-bc0e-9c178601e2fc/9782487064331.jpg/100x100bb.jpg",
+      "collectionPrice": 46.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 2,
+      "copyright": "© 2024 Cascades",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2024-08-05T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f5/be/5c/f5be5ce1-e320-6e8f-49f7-ec65a19736a3/mzaf_11648323933282489109.std.aac.p.m4a",
+      "description": "À présent familiarisé avec les&#xa0;mœurs japonaises – notamment grâce à l’enseignement de Mariko, son interprète –, Blackthorne est parvenu à gagner le respect de Toranaga. Celui-ci, conscient de l’importance du « barbare » dans le conflit à venir, l’a même élevé au rang d’hatamoto. Mais en ces temps troublés, où complots et trahisons sont légion, celui que l’on surnomme Anjin-san sait qu’il ne pourra compter que sur lui-même. Car Ishido a rallié le Conseil des régents à sa cause, poussant Toranaga dans ses derniers retranchements… et rendant la guerre inévitable."
+    }
+  ]
+}

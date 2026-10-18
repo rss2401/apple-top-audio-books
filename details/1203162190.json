@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1203162222,
+      "collectionId": 1203162190,
+      "artistName": "乾石 智子",
+      "collectionName": "夜の写本師",
+      "collectionCensoredName": "夜の写本師",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E4%B9%BE%E7%9F%B3-%E6%99%BA%E5%AD%90/id1203162222?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/%E5%A4%9C%E3%81%AE%E5%86%99%E6%9C%AC%E5%B8%AB/id1203162190?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/2c/1f/e6/2c1fe6e3-95d8-f500-d26d-5d2075becdce/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/2c/1f/e6/2c1fe6e3-95d8-f500-d26d-5d2075becdce/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 3259,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2017 (株)アールアールジェイ",
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2017-02-08T08:00:00Z",
+      "primaryGenreName": "フィクション",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/c3/40/82/c3408210-2595-ea90-e671-8a8a344bd96f/mzaf_1251129235075561341.std.aac.p.m4a",
+      "description": "月石、黒曜石、真珠。三つの品をもって生まれてきたカリュドウ。だが、育ての親が目の前で殺されたことで、彼の運命は一変する。女を殺しては魔法の力を奪う呪われた大魔道師アンジスト。アンジストに殺された三人の魔女の運命が、数千年の時をへてカリュドウの運命とまじわる。敵をうつべく、カリュドウは〈夜の写本師〉としての修行をつむが……。運命に翻弄される人々の姿を壮大なスケールで描く、日本ファンタジーの新星登場!"
+    }
+  ]
+}

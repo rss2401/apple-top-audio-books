@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1815908633,
+      "collectionId": 6822195975,
+      "artistName": "宇野 千代",
+      "collectionName": "生きて行く私: (KADOKAWA)",
+      "collectionCensoredName": "生きて行く私: (KADOKAWA)",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E5%AE%87%E9%87%8E-%E5%8D%83%E4%BB%A3/id1815908633?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/%E7%94%9F%E3%81%8D%E3%81%A6%E8%A1%8C%E3%81%8F%E7%A7%81-kadokawa/id6822195975?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c9/92/02/c99202ad-53cc-002f-9d1d-3d79948f7595/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c9/92/02/c99202ad-53cc-002f-9d1d-3d79948f7595/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 3259,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 2,
+      "copyright": "© 2026 KADOKAWA",
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2026-10-16T07:00:00Z",
+      "primaryGenreName": "伝記／自叙伝",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/23/b1/ce/23b1ce0d-db6c-a999-8ebf-20fdd62ee986/mzaf_12013414066477121323.std.aac.p.m4a",
+      "description": "山口県岩国の生家と父母、小学校代用教員の時の恋と初体験、いとことの結婚、新聞懸賞小説の入選、尾崎士郎との出会いと同棲、東郷青児、北原武夫とつづく愛の遍歴……数えて百歳。感動を呼ぶ大河自伝。"
+    }
+  ]
+}

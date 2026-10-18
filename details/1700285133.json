@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1672611732,
+      "collectionId": 1700285133,
+      "artistName": "Dino Ranch (Français)",
+      "collectionName": "Épisode 45-48: La course de relais",
+      "collectionCensoredName": "Épisode 45-48: La course de relais",
+      "artistViewUrl": "https://music.apple.com/fr/artist/dino-ranch-fran%C3%A7ais/1672611732?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/%C3%A9pisode-45-48-la-course-de-relais/id1700285133?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e1/9a/48/e19a4862-2cdc-990d-fb36-1ec62c1e0d85/4013575945306.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e1/9a/48/e19a4862-2cdc-990d-fb36-1ec62c1e0d85/4013575945306.jpg/100x100bb.jpg",
+      "collectionPrice": 5.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2023 LEONINE Distribution GmbH",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2023-09-22T07:00:00Z",
+      "primaryGenreName": "Jeunesse",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/8b/2f/d5/8b2fd5d1-7c85-6418-1f05-b48f23bd4789/mzaf_2172776859737164541.std.aac.p.m4a",
+      "description": "Le ranch Dino est exploité par Bo et Jane Cassidy et leurs enfants tous adoptés, Jon, l'ainé qui aimerait devenir Dino entraineur, Min ambitionne de devenir Dino médecin et Miguel le cadet créatif. Dans un monde où humains et dinosaures vivent côte à côte, Jon, Min et Miguel découvrent le frisson de la vie au ranch avec leur Dino."
+    }
+  ]
+}

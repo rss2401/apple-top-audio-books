@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 680525830,
+      "collectionId": 1450679794,
+      "artistName": "池井戸 潤",
+      "collectionName": "陸王",
+      "collectionCensoredName": "陸王",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E6%B1%A0%E4%BA%95%E6%88%B8-%E6%BD%A4/id680525830?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/%E9%99%B8%E7%8E%8B/id1450679794?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/07/07/97/070797af-ccb2-bb74-b65c-d9dc9cd693cb/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/07/07/97/070797af-ccb2-bb74-b65c-d9dc9cd693cb/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 4481,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2019 Audible Studios",
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2019-02-01T08:00:00Z",
+      "primaryGenreName": "フィクション",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/77/39/76/7739766f-9496-3dc1-799e-a715804bb63b/mzaf_2645338929794743551.std.aac.p.m4a",
+      "description": "勝利を、信じろ。埼玉県行田市にある「こはぜ屋」は、足袋作り百年の老舗。日々資金繰りに頭を悩ませる宮沢社長は、足袋製造の技術を生かしたランニングシューズの開発を思いつく。伝統と情熱、そして仲間との強い結びつきで、こはぜ屋は一世一代の大勝負に打って出る! ドラマ化(TBS日曜劇場 主演:役所広司)でも話題を呼んだ、感動の物語。"
+    }
+  ]
+}

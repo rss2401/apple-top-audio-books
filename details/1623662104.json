@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1613204253,
+      "collectionId": 1623662104,
+      "artistName": "Boitempo",
+      "collectionName": "Manifesto comunista",
+      "collectionCensoredName": "Manifesto comunista",
+      "artistViewUrl": "https://books.apple.com/fr/artist/boitempo/1613204253?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/manifesto-comunista/id1623662104?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5f/85/fe/5f85fe34-bc80-80ab-41d4-74e929ee1515/9786557171554.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5f/85/fe/5f85fe34-bc80-80ab-41d4-74e929ee1515/9786557171554.jpg/100x100bb.jpg",
+      "collectionPrice": 2.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2022 Boitempo",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2015-10-26T07:00:00Z",
+      "primaryGenreName": "Essais et sciences humaines",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/4a/d7/af/4ad7af20-6e2a-851b-361d-320d4b766a12/mzaf_899005617063540866.std.aac.p.m4a",
+      "description": "No final de fevereiro de 1848, foi publicado em Londres um pequeno panfleto que acabaria por se tornar o documento político mais importante de todos os tempos: o Manifesto Comunista, de Karl Marx e Friedrich Engels. Passado mais de um século e meio, a atualidade e o vigor deste texto continuam reconhecidos por intelectuais das mais diversas correntes de pensamento. A Boitempo Editorial utilizou, com alguns ajustes ortográficos, a tradução feita por Álvaro Pina a partir da edição alemã de 1890, prefaciada e anotada por Engels. O cotejo foi feito de forma minuciosa com as principais edições inglesa, francesa e italiana, confrontadas com duas edições brasileiras anteriores. Além do Manifesto Comunista em si, o volume traz ainda a reflexão de seis especialistas sobre as múltiplas facetas desta que é, ainda hoje, a obra política mais lida e difundida em todo o mundo. Com organização de Osvaldo Coggiola, o livro tem ensaios de Antonio Labriola, Jean Jaurès, Leon Trotsky, Harold Laski, Lucien Martin e James Petras. A edição compila ainda sete prefácios de Marx e Engels à obra, feitos em diferentes períodos."
+    }
+  ]
+}

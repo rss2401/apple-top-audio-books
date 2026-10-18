@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 365482291,
+      "collectionId": 1871963094,
+      "artistName": "Kevin Roose",
+      "collectionName": "The AGI Chronicles (Unabridged)",
+      "collectionCensoredName": "The AGI Chronicles (Unabridged)",
+      "artistViewUrl": "https://books.apple.com/gb/author/kevin-roose/id365482291?uo=4",
+      "collectionViewUrl": "https://books.apple.com/gb/audiobook/the-agi-chronicles-unabridged/id1871963094?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fe/16/1e/fe161ec3-3797-42f3-bc2a-9b225d8de085/9781398555341.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fe/16/1e/fe161ec3-3797-42f3-bc2a-9b225d8de085/9781398555341.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "GBR",
+      "currency": "GBP",
+      "releaseDate": "2026-10-08T07:00:00Z",
+      "primaryGenreName": "Non-Fiction",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/77/56/33/77563369-d186-00f7-70d4-4f81d7248b3c/mzaf_13585165583903958047.std.aac.p.m4a",
+      "description": "<b>‘Exciting and brilliantly reported’ </b>Walter Isaacson<br /><br /><b>This is the story of the twenty-first century’s Manhattan Project: the trillion-dollar sprint to create artificial general intelligence.</b><br /><br />For the last decade, a handful of companies have been racing to build the most powerful technology in history: artificial general intelligence (AGI) – a computer system capable of outdoing humans at almost anything. Some of them hoped AGI would cure diseases and heal the planet. Others feared it could kill everyone on Earth. They decided to build it anyway.<br /><br />Drawing on more than 150 interviews with insiders at OpenAI, Anthropic and Google DeepMind, as well as unpublished company documents and research memos, Kevin Roose reconstructs the most consequential decade in tech history. With reportorial rigor and page-turning suspense, he takes us inside the rooms where researchers watch large language models learn to talk, reason and code at superhuman speed. He brings us to the White House, where top officials grapple with a technology that is improving too fast to understand, let alone regulate. He offers new details on the disagreements that led the founders of Anthropic to defect from OpenAI and fresh reporting on Sam Altman’s dramatic firing – and equally dramatic reinstatement – as CEO. He charts Google’s frantic attempt to catch up to the AI frontier. And he ushers us into the San Francisco AI scene, where ‘accelerationists’ in hacker houses and ‘doomers’ at AI safety summits battle each other for supremacy.<br /><br />More than a billion people now use AI every day, yet almost nobody knows how it was created. <i>The AGI Chronicles</i> is the definitive, behind-the-scenes account of how an obscure research project became the defining technology of our age."
+    }
+  ]
+}

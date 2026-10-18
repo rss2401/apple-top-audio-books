@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1451004723,
+      "collectionId": 1882927510,
+      "artistName": "Sam Tallent",
+      "collectionName": "Brut: A Novel (Unabridged)",
+      "collectionCensoredName": "Brut: A Novel (Unabridged)",
+      "artistViewUrl": "https://music.apple.com/us/artist/sam-tallent/1451004723?uo=4",
+      "collectionViewUrl": "https://books.apple.com/us/audiobook/brut-a-novel-unabridged/id1882927510?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/9a/4a/a49a4ad4-21b8-27ce-2bdf-a7a619dbc069/9798217405084.d.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/9a/4a/a49a4ad4-21b8-27ce-2bdf-a7a619dbc069/9798217405084.d.jpg/100x100bb.jpg",
+      "collectionPrice": 16.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2026-09-22T07:00:00Z",
+      "primaryGenreName": "Mysteries & Thrillers",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/88/74/e6/8874e614-cd47-e74c-0367-5d44246e060e/mzaf_8424936299462851545.std.aac.p.m4a",
+      "description": "<b>A propulsive, electrifying novel about a hitman who is forced to take an impossible job, by the rising literary sensation and comedian Sam Tallent, author of <i>Running The Light</i></b><br /><br /><b>“With his American contract killer in Paris, Sam Tallent has created a protagonist you’ll never forget as the bodies pile up like cordwood. <i>Brut</i> comes on like a freight train and never stops. Violent, chilling, wonderfully well written, as modern as tomorrow—this is a novel for our times.”—Terry Hayes, <i>New York Times</i> bestselling author of <i>I Am Pilgrim</i></b><br /><br />Robert Beaujolais forfeited the last years of his youth to the Marines, watching his friends die. Beaujolais survived, but civilian life made him regret it. Compared to the truth of war, peace fit him like a casket. At least he was in love, even if he was the only one who could admit it. They were together—until they weren't. <br /><br />Then, out of nothing, something: the architects of the world offer Beaujolais a job in the blood business. They prefer to call it arbitration, but Beauj knows murder—killing is his calling—and as an arbiter, Beauj is the ultimate judge. <br /><br />But when Beaujolais botches a simple hit in San Francisco, his shadowy employers manifest to remind him that he is, in fact, capable of dying. Beauj is given a choice: kill or be erased. The destination is Paris; the target is Europe’s last remaining godfather, the Archangel of Florence.<br /><br />A blistering tale of love and violence, <i>Brut</i> is the story of a man measuring the circumference of his soul in bulletholes. Is his or any other life worth saving? Only the arbiter can decide."
+    }
+  ]
+}

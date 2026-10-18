@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 357992761,
+      "collectionId": 1734995089,
+      "artistName": "Tracy Wolff",
+      "collectionName": "Assoiffés - Tome 8 : Exilés",
+      "collectionCensoredName": "Assoiffés - Tome 8 : Exilés",
+      "artistViewUrl": "https://books.apple.com/fr/author/tracy-wolff/id357992761?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/assoiff%C3%A9s-tome-8-exil%C3%A9s/id1734995089?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/b7/1c/5ab71c79-5bf6-3053-aa5c-b945ca492934/9791036632594.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5a/b7/1c/5ab71c79-5bf6-3053-aa5c-b945ca492934/9791036632594.jpg/100x100bb.jpg",
+      "collectionPrice": 19.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "2024 Copyright © 2022, Tracy Deebs-Elkenaney © 2024, éditions Pocket Jeunesse, pour la présente traduction française et la présente édition, qui correspond à la seconde partie du texte original ℗ Lizzie, un département d'Univers Poche, Paris, 2024..",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2024-03-14T07:00:00Z",
+      "primaryGenreName": "Jeunesse",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/be/7d/1c/be7d1ca0-2133-4c21-f2ce-f864669ef568/mzaf_3936033118895481271.std.aac.p.m4a",
+      "description": "Le huitième tome de la série évènement Assoiffés ! Après la Katmere Academy, rien ne devrait plus me surprendre. Pas même l'existence d'un monde parallèle au mien : le Royaume des Ombres. Me voilà prisonnière d'un endroit aussi dangereux qu'étranger, en compagnie du pire être surnaturel de tous les temps, monstre parmi les monstres : Hudson Vega. Il a beau être le frère de Jaxon, cela ne l'empêche pas d'être une vraie plaie. Reste à savoir si nous parviendrons à nous enfuir avant que je le tue...ou qu'il soit trop tard. Grace en est convaincue : tout est toujours ma faute. Moi je suis presque certain que cette fille est beaucoup moins humaine qu'elle ne le pense, et que c'est à cause d'elle que nous sommes coincés ici. Si nous voulons survivre et sauver nos proches, nous allons devoir faire équipe."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 357992761,
+      "collectionId": 1724939007,
+      "artistName": "Tracy Wolff",
+      "collectionName": "Assoiffés - Tome 6 : Libérés",
+      "collectionCensoredName": "Assoiffés - Tome 6 : Libérés",
+      "artistViewUrl": "https://books.apple.com/fr/author/tracy-wolff/id357992761?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/assoiff%C3%A9s-tome-6-lib%C3%A9r%C3%A9s/id1724939007?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/50/8b/67/508b67ab-f1e0-f593-3f5d-63c90b95145e/9791036632495.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/50/8b/67/508b67ab-f1e0-f593-3f5d-63c90b95145e/9791036632495.jpg/100x100bb.jpg",
+      "collectionPrice": 20.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "2024 Copyright © 2022, Tracy Deebs..© 2023, éditions Pocket Jeunesse...℗ Lizzie, un département d'Univers Poche, Paris, 2024.",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2024-01-25T08:00:00Z",
+      "primaryGenreName": "Jeunesse",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/8a/68/51/8a685176-045b-a54f-1219-6f9105fd2060/mzaf_13334313076872790032.std.aac.p.m4a",
+      "description": "Le sixième tome de la série événement Assoiffés !\nLa situation est plus désespérée que jamais. Pour sauver les élèves et les professeurs de mon lycée, j'ai conclu un marché avec Cyrus. Le roi vampire convoite la Pierre Divine, un talisman aux pouvoirs immenses, caché à la Cour des Gargouilles depuis des siècles.\nL'heure est également venue de me confronter aux Épreuves Insurmontables pour remporter les Larmes d'Eléos, l'unique antidote au poison qui condamne les gargouilles à une mort certaine.\nUne chose est sûre, je n'ai pas le droit à l'erreur si je veux me montrer digne de mon peuple et sauver le monde magique du joug de Cyrus."
+    }
+  ]
+}

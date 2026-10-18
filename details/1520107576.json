@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1126784033,
+      "collectionId": 1520107576,
+      "artistName": "Julia Chapman",
+      "collectionName": "Rendez-vous avec le mystère - Les détectives du Yorkshire - Tome 3",
+      "collectionCensoredName": "Rendez-vous avec le mystère - Les détectives du Yorkshire - Tome 3",
+      "artistViewUrl": "https://books.apple.com/fr/author/julia-chapman/id1126784033?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/rendez-vous-avec-le-myst%C3%A8re-les-d%C3%A9tectives-du-yorkshire/id1520107576?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/75/7b/f7/757bf779-9415-af2d-d1d5-fbaf9127bef4/9791036607615.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/75/7b/f7/757bf779-9415-af2d-d1d5-fbaf9127bef4/9791036607615.jpg/100x100bb.jpg",
+      "collectionPrice": 19.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "2020 Titre original : DATE WITH MYSTERY.© Julia Chapman, 2018.Traduction française : ©Éditions Robert Laffont, S.A.S., Paris, 2018.℗ Lizzie, un département d'Univers Poche, Paris, 2020",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2020-07-09T07:00:00Z",
+      "primaryGenreName": "Policier et suspense",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/ac/7e/30/ac7e30ad-05b4-4a06-81c0-7ecaecb95cfe/mzaf_7676718346689373635.std.aac.p.m4a",
+      "description": "\" Un rendez-vous avec le crime, cela ne se refuse pas. Surtout s'il s'agit d'une série british qui ne manque pas d'humour ! \" Amélie Cordonnier, Femme actuelle Engagé par le notaire Matty Thistlethwaite pour retrouver le certificat de décès d'une femme morte il y a vingt ans, le détective privé Samson O'Brien imagine l'affaire vite pliée. Mais dans le petit village de Bruncliffe, les choses sont rarement aussi simples. Surtout que Matty insiste pour que Delilah Metcalfe, avec sa connaissance intime de la région et de ses habitants, collabore à l'enquête. Au fil de leurs investigations, Samson et Delilah se retrouvent entraînés dans un mystère qui pèse sur Bruncliffe depuis des décennies. En cherchant la vérité, ils vont déterrer des secrets que certains auraient préféré garder bien enfouis."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 186957897,
+      "collectionId": 1440371867,
+      "artistName": "Stephenie Meyer",
+      "collectionName": "Twilight 1 - Fascination",
+      "collectionCensoredName": "Twilight 1 - Fascination",
+      "artistViewUrl": "https://books.apple.com/fr/author/stephenie-meyer/id186957897?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/twilight-1-fascination/id1440371867?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/7a/e0/b17ae0a5-dbaf-ea38-eade-a1136a7f84ea/9782356411556.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/7a/e0/b17ae0a5-dbaf-ea38-eade-a1136a7f84ea/9782356411556.jpg/100x100bb.jpg",
+      "collectionPrice": 16.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2009-05-13T07:00:00Z",
+      "primaryGenreName": "Jeunesse",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/e3/2e/4f/e32e4fe6-dbc3-119e-9faf-98f4d965c5dd/mzaf_2500048328805314403.std.aac.p.m4a",
+      "description": "Bella, dix-sept ans décide de quitter l’Arizona ensoleillé où elle vivait avec sa mère, pour s’installer chez son père. Elle croit renoncer à tout ce qu’elle aime, certaine qu’elle ne s’habituera jamais ni à la pluie ni à Forks où l’anonymat est interdit. Mais elle rencontre Edward, lycéen de son âge, d’une beauté inquiétante. Quels mystères et quels dangers cache cet être insaisissable, aux humeurs si changeantes ? A la fois attirant et hors d’atteinte, Edward Cullen n’est pas humain. Il est plus que ça. Bella en est certaine.<br /><br />La voix de Maia Baran résonnera longtemps en vous. Elle communique toute l'intensité émotionnelle ressentie par les héros de ce livre culte."
+    }
+  ]
+}

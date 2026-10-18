@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 401210503,
+      "collectionId": 1883994784,
+      "artistName": "Lucinda Riley",
+      "collectionName": "La Soeur disparue  - Les Sept Soeurs, tome 7",
+      "collectionCensoredName": "La Soeur disparue  - Les Sept Soeurs, tome 7",
+      "artistViewUrl": "https://books.apple.com/fr/author/lucinda-riley/id401210503?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/la-soeur-disparue-les-sept-soeurs-tome-7/id1883994784?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0b/7d/e5/0b7de55f-8b80-34ac-04fb-b7de142c2741/9791035412142.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0b/7d/e5/0b7de55f-8b80-34ac-04fb-b7de142c2741/9791035412142.jpg/100x100bb.jpg",
+      "collectionPrice": 23.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2026-05-06T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ff/9f/cd/ff9fcda2-040f-db75-e113-41ce942ee1a7/mzaf_3463208455772178412.std.aac.p.m4a",
+      "description": "Maia, Ally, Star, CeCe, Tiggy et Électra. Recueillies bébés par l’énigmatique Pa<br />Salt, les six soeurs d’Aplièse ont chacune découvert leur histoire. Mais elles ont<br />toujours su qu’elles devaient être sept, comme les étoiles des Pléiades à l’origine<br />de leurs prénoms.<br />À présent que leur père a disparu, elles n’ont qu’un indice pour trouver leur dernière soeur : une bague sertie d’émeraudes formant une étoile à sept branches. Elles se lancent alors dans une quête haletante où, parcourant différents continents, elles découvrent une magnifique histoire d’amour, de bravoure et de sacrifice, qui a commencé près d’un siècle plus tôt, tandis que d’autres courageuses jeunes femmes avaient décidé de risquer leur vie pour changer le monde autour d’elles…<br /><br />La Soeur disparue est le septième tome de la série événement Les Sept Soeurs, qui a conquis 25 millions de lecteurs dans le monde. À travers ses romans au souffle unique, peuplés de personnages inoubliables, liés par les drames et l’amour, Lucinda Riley a affirmé son immense talent, créant un genre littéraire à part entière."
+    }
+  ]
+}

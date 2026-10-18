@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 296898111,
+      "collectionId": 1571832179,
+      "artistName": "Frank Herbert",
+      "collectionName": "Dune – Der Wüstenplanet",
+      "collectionCensoredName": "Dune – Der Wüstenplanet",
+      "artistViewUrl": "https://books.apple.com/de/author/frank-herbert/id296898111?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/dune-der-w%C3%BCstenplanet/id1571832179?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/86/b9/16/86b91637-1544-2a19-a2ea-34c7033d0bb5/9783837153569.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/86/b9/16/86b91637-1544-2a19-a2ea-34c7033d0bb5/9783837153569.jpg/100x100bb.jpg",
+      "collectionPrice": 29.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 2,
+      "copyright": "© 2020 Random House Audio",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2020-06-09T07:00:00Z",
+      "primaryGenreName": "Science-Fiction und Fantasy",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/9f/cc/d3/9fccd3f6-4666-bf1f-5caa-d67f78ca2195/mzaf_589249851300388931.std.aac.p.m4a",
+      "description": "<b>Der erfolgreichste Science-Fiction-Roman aller Zeiten - jetzt neu übersetzt</b><br /><br />Tausende von Jahren in der Zukunft und eine fantastische Welt: Arrakis, der Wüstenplanet. Einzigartig, herrlich – und grausam. Und doch haben es die Menschen geschafft, sich dieser lebensfeindlichen Umwelt anzupassen ... Vor fünfzig Jahren erschien Frank Herberts Roman „Der Wüstenplanet” – ein Datum, das den Beginn einer großartigen Erfolgsgeschichte markiert: \"Der Wüstenplanet\" wurde zum weltweiten Bestseller und 2021/2024 von Denis Villeneuve spektakulär neu verfilmt. Die Filme \"Dune 1\" und \"Dune 2\" umfassen inhaltlich den ersten Band der Wüstenplanet-Reihe. Heute gilt der Roman als Meilenstein der Zukunftsliteratur – ein monumentales Epos, das jede Generation neu für sich entdeckt.<br /><br />Ungekürzte Lesung mit Mark Bremer, Uta Dänekamp<br />24h 44min"
+    }
+  ]
+}

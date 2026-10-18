@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1737840418,
+      "collectionId": 6816108838,
+      "artistName": "Sascha Ulderup",
+      "collectionName": "Tagebuch -  Ostfront - So erlebte ich den Feldzug gegen Russland",
+      "collectionCensoredName": "Tagebuch -  Ostfront - So erlebte ich den Feldzug gegen Russland",
+      "artistViewUrl": "https://books.apple.com/de/author/sascha-ulderup/id1737840418?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/tagebuch-ostfront-so-erlebte-ich-den-feldzug-gegen/id6816108838?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/bb/92/a0bb9204-3a2e-d7b4-501d-ce12de39b248/9783911338448.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/bb/92/a0bb9204-3a2e-d7b4-501d-ce12de39b248/9783911338448.jpg/100x100bb.jpg",
+      "collectionPrice": 8.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2026 unbekannt",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2026-09-25T07:00:00Z",
+      "primaryGenreName": "Sachbücher",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9c/ec/fa/9cecfa15-d1c3-d89e-cf89-3a774ca7a89c/mzaf_11808359856233963367.std.aac.p.m4a",
+      "description": "Ostfront 1941: \r\nEin junger Soldat wird an die Ostfront geschickt – hinein in einen Krieg, auf den ihn nichts vorbereiten konnte. Fern der Heimat beginnt für ihn in den Weiten Russlands ein Kampf ums Überleben. Kälte, Erschöpfung, Angst und die ständige Ungewissheit werden zu seinen täglichen Begleitern. Im Raum Rschew erlebt er die erbarmungslose Realität der Ostfront – einen Krieg, der nicht nur an der Front, sondern auch in den Köpfen der Soldaten tiefe Spuren hinterlässt. Was bedeutete es für einen jungen Menschen, 1941 in den Russlandfeldzug geschickt zu werden? Wie fühlte sich der Alltag eines einfachen Soldaten zwischen endlosen Märschen, eisigen Nächten, Artilleriefeuer und der Hoffnung an, den nächsten Tag noch zu erleben? Diese Geschichte führt mitten hinein in eines der dunkelsten Kapitel des Zweiten Weltkriegs  und erzählt die Ereignisse aus der unmittelbaren Perspektive eines jungen Soldaten.  Eine Geschichte über Angst, Kameradschaft, Entbehrung und das nackte Überleben an der Ostfront."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 215359113,
+      "collectionId": 1750672857,
+      "artistName": "Timothy Zahn",
+      "collectionName": "Star Wars - La croisade noire du jedi fou - La bataille des Jedi - Tome 2",
+      "collectionCensoredName": "Star Wars - La croisade noire du jedi fou - La bataille des Jedi - Tome 2",
+      "artistViewUrl": "https://books.apple.com/fr/author/timothy-zahn/id215359113?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/star-wars-la-croisade-noire-du-jedi-fou-la-bataille/id1750672857?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6c/f7/ef/6cf7ef07-5beb-1853-11f4-7b8149db3484/9791036632891.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6c/f7/ef/6cf7ef07-5beb-1853-11f4-7b8149db3484/9791036632891.jpg/100x100bb.jpg",
+      "collectionPrice": 18.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2024 ℗ Lizzie, un département d’Univers Poche, Paris, 2024",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2024-07-18T07:00:00Z",
+      "primaryGenreName": "SF et fantasy",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c6/47/12/c6471243-5ed3-8c3e-29c7-ab145de94175/mzaf_416275154135724600.std.aac.p.m4a",
+      "description": "Cinq ans après sa grande victoire sur l'Empire, la République est encore vacillante. La bataille des jedi est le deuxième épisode de la trilogie La croisade du jedi fou. Star Wars légendes - n°151 Il y a bien longtemps, dans une galaxie lointaine, très lointaine... Cinq ans se sont écoulés depuis que l'Alliance Rebelle a détruit l'Étoile de la Mort. Dark Vador et l'Empereur, son maître, ne sont plus. La République prospère sous l'égide de la Princesse Leia et de son époux, Han Solo. Luke Skywalker est quant à lui le premier d'une nouvelle lignée de Jedi. Dans les confins de l'espace, les derniers bâtiments impériaux se sont rassemblés sous la bannière du Grand Amiral Thrawn. Un César de carnaval que l'on ne prend pas au sérieux. Mais celui-ci a fait deux découvertes capitales qui pourraient faire tomber la jeune République. Et le Côté Obscur est encore vivace..."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 31469590,
+      "collectionId": 1534287375,
+      "artistName": "村上春樹",
+      "collectionName": "Norwegian Wood",
+      "collectionCensoredName": "Norwegian Wood",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9/id31469590?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/norwegian-wood/id1534287375?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9d/bb/13/9dbb13fe-a7a4-3282-48c7-ef3b225183a2/9781473582569.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9d/bb/13/9dbb13fe-a7a4-3282-48c7-ef3b225183a2/9781473582569.jpg/100x100bb.jpg",
+      "collectionPrice": 1273,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2020-10-29T07:00:00Z",
+      "primaryGenreName": "フィクション",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/c9/4f/49/c94f492c-83ae-a2f5-c63c-cd69b62bed68/mzaf_2823360834709762373.std.aac.p.m4a",
+      "description": "<b>The haunting love story that turned Murakami into a literary superstar.</b><br /><br />When he hears her favourite Beatles song, Toru Watanabe recalls his first love Naoko, the girlfriend of his best friend Kizuki. Immediately he is transported back almost twenty years to his student days in Tokyo, adrift in a world of uneasy friendships, casual sex, passion, loss and desire - to a time when an impetuous young woman called Midori marches into his life and he has to choose between the future and the past.<br /><br /><b>'Evocative, entertaining, sexy and funny; but then Murakami is one of the best writers around' <i>Time Out</i></b><br /><br /><b>'Such is the exquisite, gossamer construction of Murakami's writing that everything he chooses to describe trembles with symbolic possibility' <i>Guardian</i></b><br /><br /><b>'This book is undeniably hip, full of student uprisings, free love, booze and 1960s pop, it's also genuinely emotionally engaging, and describes the highs of adolescence as well as the lows' <i>Independent on Sunday</i></b><br /><br />© Haruki Murakami 1987 (P) Penguin Audio 2020"
+    }
+  ]
+}

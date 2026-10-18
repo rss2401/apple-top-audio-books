@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 370621799,
+      "collectionId": 1708043066,
+      "artistName": "Mary Beard",
+      "collectionName": "Emperor of Rome : Ruling the Ancient World",
+      "collectionCensoredName": "Emperor of Rome : Ruling the Ancient World",
+      "artistViewUrl": "https://books.apple.com/us/author/mary-beard/id370621799?uo=4",
+      "collectionViewUrl": "https://books.apple.com/us/audiobook/emperor-of-rome-ruling-the-ancient-world/id1708043066?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/49/a6/db49a63f-e398-546d-161f-8aa6b1390cd4/9798890594860.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/db/49/a6/db49a63f-e398-546d-161f-8aa6b1390cd4/9798890594860.jpg/100x100bb.jpg",
+      "collectionPrice": 4.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 2,
+      "copyright": "© 2023 Profile Books Ltd",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2023-10-24T07:00:00Z",
+      "primaryGenreName": "History",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/b9/ca/f7/b9caf70c-4e7b-77b4-03f8-7d121fbafb49/mzaf_6123320040522682253.std.aac.p.m4a",
+      "description": "INSTANT NEW YORK TIMES BESTSELLER<br /><br />In her international bestseller SPQR, Mary Beard told the thousand-year story of ancient Rome, from its slightly shabby Iron Age origins to its reign as the undisputed hegemon of the Mediterranean. Now, drawing on more than thirty years of teaching and writing about Roman history, Beard turns to the emperors who ruled the Roman Empire, beginning with Julius Caesar (assassinated 44 BCE) and taking us through the nearly three centuries—and some thirty emperors—that separate him from the boy-king Alexander Severus (assassinated 235 CE). <br /><br />Yet Emperor of Rome is not your typical chronological account of Roman rulers, one emperor after another: the mad Caligula, the monster Nero, the philosopher Marcus Aurelius. Instead, Beard asks different, often larger and more probing questions: What power did emperors actually have? Was the Roman palace really so bloodstained? What kind of jokes did Augustus tell? And for that matter, what really happened between the emperor Hadrian and his beloved Antinous? <br /><br />Effortlessly combining the epic with the quotidian, Beard tracks the emperor down at home, at the races, on his travels, even on his way to heaven. <br /><br />Along the way, Beard explores Roman fictions of imperial power, overturning many of the assumptions we hold as gospel, not the least of them the perception that emperors one and all were orchestrators of extreme brutality and cruelty. <br /><br />Here Beard introduces us to the emperor’s wives and lovers, rivals and slaves,court jesters and soldiers, and the ordinary people who pressed begging letters into his hand—whose chamber pot disputes were adjudicated by Augustus, and whose budgets were approved by Vespasian, himself the son of a tax collector. <br /><br />With its finely nuanced portrayal of sex, class, and politics, Emperor of Rome goes directly to the heart of Roman fantasies (and our own) about what it was to be Roman at its richest, most luxurious, most extreme, most powerful, and most deadly, offering an account of Roman history as it has never been presented before."
+    }
+  ]
+}

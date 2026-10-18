@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 2079141,
+      "collectionId": 1600677269,
+      "artistName": "Harlan Coben",
+      "collectionName": "Sans un adieu",
+      "collectionCensoredName": "Sans un adieu",
+      "artistViewUrl": "https://books.apple.com/fr/author/harlan-coben/id2079141?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/sans-un-adieu/id1600677269?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1f/86/b9/1f86b9cd-29d7-ba9c-16fd-e2490b408772/9791036621222.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1f/86/b9/1f86b9cd-29d7-ba9c-16fd-e2490b408772/9791036621222.jpg/100x100bb.jpg",
+      "collectionPrice": 19.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2021 ℗ Lizzie, un département d’Univers Poche, Paris, 2021",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2021-12-09T08:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/d6/02/8c/d6028c53-76a9-ed99-df8f-4fde8ff88882/mzaf_1961894304679393397.std.aac.p.m4a",
+      "description": "Le maître de vos nuits blanches : les origines. Suspense magistral, intrigue machiavélique à souhait, tension psychologique à son comble. Des côtes australiennes aux parcs de Boston et aux banlieues new-yorkaises, le premier coup d'éclat de celui qui allait révolutionner le monde du thriller. Laura Ayars et David Baskin, l'ancien top model devenue femme d'affaires et la superstar de l'équipe de basket des Celtics : un couple béni des dieux ! Mais, en pleine lune de miel, la tragédie frappe. David part nager et disparaît. Sans un adieu... Accident ? Meurtre ? Suicide ? Laura se lance dans l'enquête et découvre bientôt des secrets vieux de trente ans, que ses proches ont tout fait pour enfouir... Mensonges, trahisons, jalousies, meurtres... Quand le passé menace de ressurgir, un tueur tapi dans l'ombre est prêt à tout pour empêcher la vérité d'éclater."
+    }
+  ]
+}

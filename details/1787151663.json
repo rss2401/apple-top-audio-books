@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1766598366,
+      "collectionId": 1787151663,
+      "artistName": "Clémence Biel",
+      "collectionName": "Et si c'était votre mère le problème ?",
+      "collectionCensoredName": "Et si c'était votre mère le problème ?",
+      "artistViewUrl": "https://books.apple.com/fr/author/cl%C3%A9mence-biel/id1766598366?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/et-si-c%C3%A9tait-votre-m%C3%A8re-le-probl%C3%A8me/id1787151663?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/d9/3f/65d93fc6-4c53-4c27-6dcc-cc7b62802910/9781004194865.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/d9/3f/65d93fc6-4c53-4c27-6dcc-cc7b62802910/9781004194865.jpg/100x100bb.jpg",
+      "collectionPrice": 8.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2025 W.F. Howes Ltd",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2025-02-27T08:00:00Z",
+      "primaryGenreName": "Essais et sciences humaines",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/50/88/bd/5088bd40-d165-2810-ebb8-56a3d4387a05/mzaf_9104024161400921257.std.aac.p.m4a",
+      "description": "À celles qui subissent leur relation avec leur mère mais qui sont conditionnées depuis l'enfance à croire que le problème vient d'elles. À celles qui angoissent devant un appel entrant qui affiche « maman ». À celles qui culpabilisent par peur d'être « une fille ingrate ». À celles qui ont sacrifié leur identité profonde pour répondre aux attentes de leur mère. À celles qui se sentent comme une petite fille blessée malgré leur apparence de femme puissante... Je m'adresse à vous.<br /><br />Le titre de ce livre n'a pas été choisi pour accuser votre mère, mais pour vous interpeller.<br /><br />La relation que vous avez eue avec votre maman constitue vos fondations. Malgré tous vos efforts, la vie que vous essayez de construire restera bancale tant que vos fondations ne sont pas saines et solides.<br /><br />Comment l'influence maternelle a façonné la femme que vous êtes devenue ? Avez-vous grandi auprès d'une mère toxique ? Et si oui, de quel type ? Quels blocages psychologiques et culturels vous empêchent de vous émanciper complètement ? Quelles sont les étapes à suivre pour sortir du rôle de la gentille fille et devenir pleinement vous-même ?<br /><br />Dans ce livre, je ne vais pas vous dire « Ta mère a fait de son mieux ! » ou « Une mère, on n'en a qu'une ! ». Je vous propose plutôt de mettre des mots sur vos blessures pour les transformer. En m'appuyant sur les neurosciences, la psychologie du développement, des techniques de thérapie cognitive et comportementale et les milliers de témoignages que j'ai reçus, je vous accompagne étape par étape vers l'émancipation.<br /><br />Je suis Clémence Biel, experte de la blessure de la mère, fondatrice du compte Instagram et du programme Become Your Own Mama qui aident les femmes à se libérer des schémas hérités de leur mère. Vous n'êtes plus seules, nous sommes des millions."
+    }
+  ]
+}

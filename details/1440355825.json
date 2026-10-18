@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 2808713,
+      "collectionId": 1440355825,
+      "artistName": "Walter Isaacson",
+      "collectionName": "Steve Jobs",
+      "collectionCensoredName": "Steve Jobs",
+      "artistViewUrl": "https://books.apple.com/fr/author/walter-isaacson/id2808713?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/steve-jobs/id1440355825?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/23/85/ac/2385acd3-4edc-3dc2-6563-5aa0a6ceecd5/9782356414649.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/23/85/ac/2385acd3-4edc-3dc2-6563-5aa0a6ceecd5/9782356414649.jpg/100x100bb.jpg",
+      "collectionPrice": 22.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2012-04-18T07:00:00Z",
+      "primaryGenreName": "Biographies et mémoires",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/cd/7b/b7/cd7bb7bc-ab97-1649-62bc-7dd1b2f3e333/mzaf_5245032655477800157.std.aac.p.m4a",
+      "description": "À partir d’une quarantaine d’interviews exclusives et de multiples rencontres avec sa famille, ses proches, ses collaborateurs comme ses concurrents, Walter Isaacson a reconstitué d’une façon magistrale la vie, l’oeuvre et la vision du monde d’un des plus grands innovateurs de notre XXIe siècle qui a su allier le plus haut degré de technicité avec le raffinement esthétique.<br /><br />D’une voix pimentée d’une pointe de savoureuse étrangeté, Lemmy Constantine donne tout son relief au récit de cette vie hors norme."
+    }
+  ]
+}

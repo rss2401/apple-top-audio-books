@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 960677258,
+      "collectionId": 1434284802,
+      "artistName": "植田一三 & 上田敏子",
+      "collectionName": "英語で説明する日本の文化",
+      "collectionCensoredName": "英語で説明する日本の文化",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E6%A4%8D%E7%94%B0%E4%B8%80%E4%B8%89/id960677258?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/%E8%8B%B1%E8%AA%9E%E3%81%A7%E8%AA%AC%E6%98%8E%E3%81%99%E3%82%8B%E6%97%A5%E6%9C%AC%E3%81%AE%E6%96%87%E5%8C%96/id1434284802?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/9f/24/46/9f24461d-fd35-fecb-a0dc-9527f345bf8a/dj.voholfyh.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/9f/24/46/9f24461d-fd35-fecb-a0dc-9527f345bf8a/dj.voholfyh.png/100x100bb.jpg",
+      "collectionPrice": 1069,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2009-06-01T07:00:00Z",
+      "primaryGenreName": "言語",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/02/67/1e/02671e16-eab2-3511-1ac7-8c4b676ddc9e/mzaf_1854729303730994352.std.aac.p.m4a",
+      "description": "日本のことが英語で何でも言えるようになる「語彙力・表現力UPの決定版」! 外国人によく聞かれる質問への答はこれでばっちり。 プロのガイド体験、俳句季語による語彙補強、雑学など充実したコラムとクイズも満載。"
+    }
+  ]
+}

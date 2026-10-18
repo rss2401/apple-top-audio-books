@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 493270298,
+      "collectionId": 1440367502,
+      "artistName": "Pierre Bottero",
+      "collectionName": "La Quête d'Ewilan 2 - Les Frontières de glace",
+      "collectionCensoredName": "La Quête d'Ewilan 2 - Les Frontières de glace",
+      "artistViewUrl": "https://books.apple.com/fr/author/pierre-bottero/id493270298?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/la-qu%C3%AAte-dewilan-2-les-fronti%C3%A8res-de-glace/id1440367502?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/19/bc/c819bc97-faae-e3b9-dbf8-593284ce941d/9782367623252.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/19/bc/c819bc97-faae-e3b9-dbf8-593284ce941d/9782367623252.jpg/100x100bb.jpg",
+      "collectionPrice": 11.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2017-06-07T07:00:00Z",
+      "primaryGenreName": "Jeunesse",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/96/41/46/964146dd-d616-df85-5078-831bec10e545/mzaf_5820855546134832830.std.aac.p.m4a",
+      "description": "Les frontières de l’empire de Gwendalavir sont menacées et seule Ewilan a le pouvoir de libérer les Sentinelles, capables de repousser les envahisseurs.<br />De multiples ennemis attendent Ewilan, Salim et leurs compagnons&#xa0; : guerriers cochons, ogres et mercenaires du Chaos, alliés des Ts’liches, mais ils se découvrent un peuple allié : les Faëls. Face au maître d’armes, Ewilan assoit son autorité et affermit son Don. Mais pour prétendre délivrer les Sentinelles, elle devra d’abord percer le secret du Dragon.<br />&#xa0; <br />Le deuxième volume de l’épopée exceptionnelle de Pierre Bottero&#xa0; !"
+    }
+  ]
+}

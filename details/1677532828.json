@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 421675931,
+      "collectionId": 1677532828,
+      "artistName": "Charles River Editors",
+      "collectionName": "Captain John Franklin and Sir Ernest Shackleton: The History of Britain’s Most Famous Polar Explorers and Their Expeditions",
+      "collectionCensoredName": "Captain John Franklin and Sir Ernest Shackleton: The History of Britain’s Most Famous Polar Explorers and Their Expeditions",
+      "artistViewUrl": "https://books.apple.com/jp/author/charles-river-editors/id421675931?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/captain-john-franklin-and-sir-ernest-shackleton/id1677532828?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e8/2e/4e/e82e4e82-93b5-b7cd-211b-1c67dc8cd13a/9798368930374.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e8/2e/4e/e82e4e82-93b5-b7cd-211b-1c67dc8cd13a/9798368930374.png/100x100bb.jpg",
+      "collectionPrice": 662,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2023 Charles River Editors",
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2023-03-13T07:00:00Z",
+      "primaryGenreName": "伝記／自叙伝",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a5/f5/a2/a5f5a2ee-7715-bb25-9d4e-d943997fccd4/mzaf_8336790382701498569.std.aac.p.m4a",
+      "description": "After the discovery of the Americas, several European countries were interested in finding the route, and nations from France to Spain sent out explorers searching for the mysterious route. While these voyages did not reveal the hoped for route, they did result in large parts of both North and South America being mapped, and as more of the new land mass was determined, the parameters of the search for such a route were narrowed. By the 18th century, explorers began to seek such a route to the north, looking for the legendary Northwest Passage. <br /><br />Eventually, some countries lost interest, but England remained determined, and the masters of the waves continued to send ship after ship and crew after crew across the Atlantic. By the early 19th century, the search was taking expeditions to the Arctic, and each time a team returned to England telling stories of how it was stymied by ice or bad weather, another team confidently went out, certain that it would be the one to make it through. <br /><br />This ultimately led to the voyage of Captain John Franklin, who left Britain in 1845 for the Arctic in the hopes of completing mapping the Northwest Passage. Instead of returning with spices and silks, Franklin and his men disappeared, leaving behind them a mystery that plagued the English conscience for decades. Ironically, the ill-fated trip only became more legendary when its mystery was solved than it was when it remained a curiosity. It was a tale of ice and cold, starvation and desperation, and a tragically fatal one.&#xa0;<br /><br />Shackleton’s place in history is not the one he set out to make, but his extraordinary deeds have made his contributions to early exploration of Antarctica indelible. Despite the victor’s wreath eventually going to another, Shackleton’s name is essential to any discussion of Antarctic exploration, based on personal heroism more than logistical triumphs."
+    }
+  ]
+}

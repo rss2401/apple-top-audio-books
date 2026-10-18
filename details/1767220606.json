@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 445190216,
+      "collectionId": 1767220606,
+      "artistName": "Dag Heward-Mills",
+      "collectionName": "Ceux Qui Sont Des Fils Dangereux",
+      "collectionCensoredName": "Ceux Qui Sont Des Fils Dangereux",
+      "artistViewUrl": "https://books.apple.com/fr/author/dag-heward-mills/id445190216?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/ceux-qui-sont-des-fils-dangereux/id1767220606?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/d2/f5/35d2f560-8454-40c6-a170-f5690faed017/9798882215728.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/d2/f5/35d2f560-8454-40c6-a170-f5690faed017/9798882215728.png/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2019 Speak The Word Audio",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2021-03-07T08:00:00Z",
+      "primaryGenreName": "Religion et spiritualité",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f1/49/17/f14917f0-3547-4652-209f-91473f6b439e/mzaf_13650341979541486666.std.aac.p.m4a",
+      "description": "Un des secrets du succès de Lighthouse Chapel International à travers le monde, c’est la loyauté. Cet ouvrage aborde d’importantes vérités relatives à la loyauté et déloyauté, nécessaire à la stabilité de toute église, tout ministère ou groupe de partage. Ce livre est vivement recommandé à tous les dirigeants chrétiens!"
+    }
+  ]
+}

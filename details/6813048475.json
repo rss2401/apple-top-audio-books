@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1880903978,
+      "collectionId": 6813048475,
+      "artistName": "Evan Gershkovich",
+      "collectionName": "Dieses verfluchte wunderschöne Land: 491 Tage in russischer Haft: Meine Geschichte",
+      "collectionCensoredName": "Dieses verfluchte wunderschöne Land: 491 Tage in russischer Haft: Meine Geschichte",
+      "artistViewUrl": "https://books.apple.com/de/author/evan-gershkovich/id1880903978?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/dieses-verfluchte-wundersch%C3%B6ne-land-491-tage-in-russischer/id6813048475?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/ca/e1/58cae11a-f2c6-13f4-5d8e-2ffbef9702f3/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/ca/e1/58cae11a-f2c6-13f4-5d8e-2ffbef9702f3/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 23.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 2,
+      "copyright": "© 2026 Der Audio Verlag",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2026-09-30T07:00:00Z",
+      "primaryGenreName": "Biografien und Memoiren",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/18/6f/a5/186fa579-b76e-b598-6b5c-e0ef7fbad38e/mzaf_17217010899541025488.std.aac.p.m4a",
+      "description": "2023 wird Evan Gershkovich, Reporter des Wall Street Journal, in Russland wegen angeblicher Spionage festgenommen und später zu sechzehn Jahren Haft verurteilt. International löst sein Fall Entsetzen aus – erstmals seit dem Ende des Kalten Krieges wurde ein amerikanischer Journalist wegen Spionage verurteilt. Gershkovich war zur Schachfigur in einem geopolitischen Machtspiel geworden. Seine Freilassung gelang erst durch einen spektakulären Gefangenenaustausch, in dem auch der »Tiergarten-Mörder« Vadim Krassikow eine Rolle spielte."
+    }
+  ]
+}

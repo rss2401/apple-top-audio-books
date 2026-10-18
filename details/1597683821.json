@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1254353551,
+      "collectionId": 1597683821,
+      "artistName": "青木 仁志",
+      "collectionName": "一生折れない自信のつくり方",
+      "collectionCensoredName": "一生折れない自信のつくり方",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E9%9D%92%E6%9C%A8-%E4%BB%81%E5%BF%97/id1254353551?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/%E4%B8%80%E7%94%9F%E6%8A%98%E3%82%8C%E3%81%AA%E3%81%84%E8%87%AA%E4%BF%A1%E3%81%AE%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9/id1597683821?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/42/5a/27/425a270f-820d-9df8-a407-37a93fd3574f/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/42/5a/27/425a270f-820d-9df8-a407-37a93fd3574f/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 3157,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 2,
+      "copyright": "© 2021 Audible Studios",
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2021-12-03T08:00:00Z",
+      "primaryGenreName": "自己啓発",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/d3/22/4b/d3224b88-4763-8b87-2616-679812a5bc6b/mzaf_10548463173842317551.std.aac.p.m4a",
+      "description": "本タイトルには付属資料が用意されています。詳しくは「デジタルブックレットの探し方」ガイドをご参照ください。 https://support.apple.com/ja-jp/HT208929<br /><br />「小さな達成の積み重ねが大きな自信をつくる!」&#xa0;&#xa0;<br /><br />自信とは、その人自身の思い込み。「できる」という考え方です。だから、あなたが「できる」と思えば、自信があります。ただし、思い込みだけでは、「一生折れない自信」にはなりません。私もかつては自分の力を過信し、事業に失敗したことがありました。思い込みのままでは、大きな壁や困難にぶつかったときに折れてしまいます。一生折れない、揺ぎない自信を持つためには、たくさんの成功体験や突破体験を積むしかありません。"
+    }
+  ]
+}

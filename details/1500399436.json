@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 411665117,
+      "collectionId": 1500399436,
+      "amgArtistId": 3005392,
+      "artistName": "Nele Neuhaus",
+      "collectionName": "Böser Wolf  (Ein Bodenstein-Kirchhoff-Krimi 6)",
+      "collectionCensoredName": "Böser Wolf  (Ein Bodenstein-Kirchhoff-Krimi 6)",
+      "artistViewUrl": "https://books.apple.com/de/author/nele-neuhaus/id411665117?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/b%C3%B6ser-wolf-ein-bodenstein-kirchhoff-krimi-6/id1500399436?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/39/a5/b939a506-5b05-c49f-4fed-06394b79dc54/9783844906318.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/39/a5/b939a506-5b05-c49f-4fed-06394b79dc54/9783844906318.jpg/100x100bb.jpg",
+      "collectionPrice": 24.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2012 Hörbuch Hamburg HHV GmbH, Hamburg",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2012-10-11T07:00:00Z",
+      "primaryGenreName": "Krimis und Thriller",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d9/bd/c2/d9bdc2dd-f090-8269-4a2f-2fc68643db02/mzaf_14108050028501281753.std.aac.p.m4a",
+      "description": "Das Ermittlerduo Pia Kirchhoff und Oliver von Bodenstein löst seinen 6. Fall! Die Bestsellerreihe von Nele Neuhaus\nEin totes Mädchen, das keiner vermisst …\nAn einem heißen Tag im Juni wird die Leiche einer 16-Jährigen aus dem Main bei Eddersheim geborgen. Sie wurde misshandelt und ermordet, und niemand vermisst sie. Auch nach Wochen hat das K 11 keinen Hinweis auf ihre Identität.\nDie Spuren führen unter anderem zu einer Fernsehmoderatorin, die bei ihren Recherchen den falschen Leuten zu nahe gekommen ist. Pia Kirchhoff und Oliver von Bodenstein graben tiefer und stoßen inmitten gepflegter Bürgerlichkeit auf einen Abgrund an Bösartigkeit und Brutalität. Und dann wird der Fall persönlich."
+    }
+  ]
+}

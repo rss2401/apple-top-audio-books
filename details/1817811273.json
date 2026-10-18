@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1139783040,
+      "collectionId": 1817811273,
+      "artistName": "OSHO",
+      "collectionName": "Times of Crisis Are Times for Individual Revolution",
+      "collectionCensoredName": "Times of Crisis Are Times for Individual Revolution",
+      "artistViewUrl": "https://books.apple.com/jp/author/osho/id1139783040?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/times-of-crisis-are-times-for-individual-revolution/id1817811273?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/e3/36/e2e33658-5ac3-16ed-d36b-f4e0df116824/9780880504850.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/e3/36/e2e33658-5ac3-16ed-d36b-f4e0df116824/9780880504850.jpg/100x100bb.jpg",
+      "collectionPrice": 713,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 1975 Osho International Foundation",
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2015-11-23T08:00:00Z",
+      "primaryGenreName": "宗教／スピリチュアル",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b8/10/15/b8101509-8c7a-0da6-5f89-f7236d9ed06c/mzaf_11007141965942740325.std.aac.p.m4a",
+      "description": "'OSHO SINGLE': This is a short audio talk by Osho, selected from one of the many series of Osho Talks to listeners from around the world\nCrisis is a very valuable time. When everything is in chaos, nothing is static, nothing is secure. Who knows what is going to happen next? In such a chaotic moment you are free, you can change. You can escape from your inner prison and attain to the innermost core of your being. In times of great crisis enlightenment is more accessible. The time can be used for your individual growth.\nThe questioning mind is the problem, not the question. When no questions arise, that non-questioning consciousness is the answer to all questions.\nOsho's emphasis is always on individual transformation: rather than changing political systems, change yourself. Unless you change, nothing changes.\n© &amp; ℗ 1975 OSHO International Foundation"
+    }
+  ]
+}

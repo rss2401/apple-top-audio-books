@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1438899802,
+      "collectionId": 1517476681,
+      "artistName": "楠木 建",
+      "collectionName": "ストーリーとしての競争戦略: 優れた戦略の条件",
+      "collectionCensoredName": "ストーリーとしての競争戦略: 優れた戦略の条件",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E6%A5%A0%E6%9C%A8-%E5%BB%BA/id1438899802?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AE%E7%AB%B6%E4%BA%89%E6%88%A6%E7%95%A5-%E5%84%AA%E3%82%8C%E3%81%9F%E6%88%A6%E7%95%A5%E3%81%AE%E6%9D%A1%E4%BB%B6/id1517476681?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f3/01/52/f30152b8-89ee-0183-bdd3-0fbeedc5002d/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f3/01/52/f30152b8-89ee-0183-bdd3-0fbeedc5002d/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 5194,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 2,
+      "copyright": "© 2020 Audible Studios",
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2020-06-05T07:00:00Z",
+      "primaryGenreName": "ビジネス",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/1c/d0/1a/1cd01ad0-456a-0f74-e375-61813f1431f0/mzaf_7966014044728974879.std.aac.p.m4a",
+      "description": "本タイトルには付属資料が用意されています。詳しくは「デジタルブックレットの探し方」ガイドをご参照ください。 https://support.apple.com/ja-jp/HT208929<br /><br />2011年ビジネス書大賞受賞! 500ページ超という本格経営書でありながら、異例の12万部を突破したベストセラー!“戦略の神髄は 思わず人に話したくなるような 面白いストーリーにある。”大きな成功を収め、その成功を持続している企業は、戦略が流れと動きを持った「ストーリー」として組み立てられている。本書では、多くの企業事例をもとに「ストーリー」という視点から、究極の競争優位をもたらす論理を解明していく。"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 407970776,
+      "collectionId": 1895369774,
+      "artistName": "James Lovegrove",
+      "collectionName": "Sherlock Holmes et les monstruosités du Miskatonic (nouvelle édition)",
+      "collectionCensoredName": "Sherlock Holmes et les monstruosités du Miskatonic (nouvelle édition)",
+      "artistViewUrl": "https://books.apple.com/fr/author/james-lovegrove/id407970776?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/sherlock-holmes-et-les-monstruosit%C3%A9s-du-miskatonic/id1895369774?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/81/56/80/8156804f-1eeb-be90-c88d-67381d44515b/9791035424442-001-y.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/81/56/80/8156804f-1eeb-be90-c88d-67381d44515b/9791035424442-001-y.jpg/100x100bb.jpg",
+      "collectionPrice": 21.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2026-10-14T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b2/5e/44/b25e441d-efee-05a6-4e46-bf13424c41fb/mzaf_18281815852119252550.std.aac.p.m4a",
+      "description": "Printemps 1895. Malgré quinze ans de combat contre des entités surnaturelles qui leur ont coûté cher, Sherlock Holmes et John Watson accourent sans hésiter lorsqu’on les appelle à Bedlam, asile psychiatrique de sombre renommée. Ils y rencontrent un étrange patient qui parle r’lyehen, la langue des Grands Anciens. L’homme, amnésique, est horriblement mutilé. Il s’agit en réalité de l’un des deux survivants d’une expédition scientifique maudite visant à capturer un shoggoth, une créature quasi mythique. Et lorsqu’il disparaît, enlevé par des forces occultes, il devient évident que l’affaire ne se limite pas à son cas. C’est seulement en apprenant ce qui s’est réellement passé lors de cette désastreuse expédition en Nouvelle-Angleterre que Holmes et Watson pourront mettre au jour l’effroyable vérité…<br /><br />Interprétation humaine"
+    }
+  ]
+}

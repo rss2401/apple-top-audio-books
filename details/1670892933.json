@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 483471105,
+      "collectionId": 1670892933,
+      "artistName": "Michel Bussi",
+      "collectionName": "Trois vies par semaine",
+      "collectionCensoredName": "Trois vies par semaine",
+      "artistViewUrl": "https://books.apple.com/fr/author/michel-bussi/id483471105?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/trois-vies-par-semaine/id1670892933?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/83/44/7a/83447ab3-280b-6424-947b-680da22235d4/9791036626388.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/83/44/7a/83447ab3-280b-6424-947b-680da22235d4/9791036626388.jpg/100x100bb.jpg",
+      "collectionPrice": 20.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "2023 © Michel Bussi et Les Presses de la Cité, 2023.℗ Lizzie, un département d'Univers Poche, Paris, 2023",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2023-03-02T08:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/ea/18/b5/ea18b541-efcb-d49b-7f48-61eb321dadf5/mzaf_3482363720624364840.std.aac.p.m4a",
+      "description": "Une intrigue vertigineuse pour un grand suspense de Michel Bussi. Méfiez-vous des fils invisibles... Un corps est retrouvé dans la vallée de la Meuse, au coeur des Ardennes. Accident, suicide, meurtre ?La révélation de l'identité de la victime plonge la capitaine Katel Marelle dans la sidération. Renaud Duval menait-il... trois vies par semaine ? Trois femmes attendent son retour. Chacune revendique d'être son unique amour. Ensemble, elles vont tenter de percer l'énigme d'une impossible triple vie...Mais comme dans un théâtre d'illusions, des ombres rôdent, prêtes à se venger. Qui sait la vérité ? Qui manipule ? Qui tire les ficelles ?"
+    }
+  ]
+}
