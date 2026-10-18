@@ -1,0 +1,2663 @@
+{
+  "feed": {
+    "title": "Top Audiobooks",
+    "id": "https://rss.marketingtools.apple.com/api/v2/gb/audio-books/top/100/audio-books.json",
+    "author": {
+      "name": "Apple",
+      "url": "https://www.apple.com/"
+    },
+    "links": [
+      {
+        "self": "https://rss.marketingtools.apple.com/api/v2/gb/audio-books/top/100/audio-books.json"
+      }
+    ],
+    "copyright": "Copyright © 2026 Apple Inc. All rights reserved.",
+    "country": "gb",
+    "icon": "https://www.apple.com/favicon.ico",
+    "updated": "Sun, 18 Oct 2026 12:12:49 +0000",
+    "results": [
+      {
+        "artistName": "Charlotte McConaghy",
+        "id": "1889835381",
+        "name": "Wild Dark Shore",
+        "releaseDate": "2025-07-24",
+        "kind": "audio-books",
+        "artistId": "622404438",
+        "artistUrl": "https://books.apple.com/gb/author/charlotte-mcconaghy/id622404438",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/2d/9d/b32d9dc7-bade-8662-ebfe-ca176b16a160/9781837265947.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000040",
+            "name": "Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000040"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/wild-dark-shore/id1889835381"
+      },
+      {
+        "artistName": "Jon Ronson",
+        "id": "1848301311",
+        "name": "The Castle",
+        "releaseDate": "2026-08-20",
+        "kind": "audio-books",
+        "artistId": "295238900",
+        "artistUrl": "https://books.apple.com/gb/author/jon-ronson/id295238900",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/12/b8/de/12b8dec1-f207-440b-8807-39f853d528b3/9781405982085.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000052",
+            "name": "Non-Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000052"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000046",
+            "name": "Comedy",
+            "url": "https://itunes.apple.com/gb/genre/id50000046"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/the-castle/id1848301311"
+      },
+      {
+        "artistName": "Jeffrey Archer",
+        "id": "1870498834",
+        "name": "Adam and Eve",
+        "releaseDate": "2026-10-06",
+        "kind": "audio-books",
+        "artistId": "2765327",
+        "artistUrl": "https://books.apple.com/gb/author/jeffrey-archer/id2765327",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/12/db/1c/12db1c95-41f1-323f-3ec0-47e7b7590904/9780008640347.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000040",
+            "name": "Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000040"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000069",
+            "name": "Romance",
+            "url": "https://itunes.apple.com/gb/genre/id50000069"
+          },
+          {
+            "genreId": "50000051",
+            "name": "Crime & Thrillers",
+            "url": "https://itunes.apple.com/gb/genre/id50000051"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/adam-and-eve/id1870498834"
+      },
+      {
+        "artistName": "Ian Rankin",
+        "id": "1880682204",
+        "name": "The Heights",
+        "releaseDate": "2026-10-08",
+        "kind": "audio-books",
+        "artistId": "28398628",
+        "artistUrl": "https://books.apple.com/gb/author/ian-rankin/id28398628",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/25/e3/ae25e378-62cc-a914-9796-6d2880efd584/9781398726840.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000051",
+            "name": "Crime & Thrillers",
+            "url": "https://itunes.apple.com/gb/genre/id50000051"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000040",
+            "name": "Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000040"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/the-heights/id1880682204"
+      },
+      {
+        "artistName": "Mick Herron",
+        "id": "1826980683",
+        "name": "Slow Horses",
+        "releaseDate": "2025-07-16",
+        "kind": "audio-books",
+        "artistId": "40770274",
+        "artistUrl": "https://books.apple.com/gb/author/mick-herron/id40770274",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/31/2d/65312d05-645f-a80a-8c86-03fcecc7a689/9781399817042.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000051",
+            "name": "Crime & Thrillers",
+            "url": "https://itunes.apple.com/gb/genre/id50000051"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/slow-horses/id1826980683"
+      },
+      {
+        "artistName": "Andrea Mara",
+        "id": "1642792850",
+        "name": "No One Saw a Thing",
+        "releaseDate": "2023-05-11",
+        "kind": "audio-books",
+        "artistId": "1379916879",
+        "artistUrl": "https://books.apple.com/gb/author/andrea-mara/id1379916879",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/a2/f6/fc/a2f6fc64-94cc-fc10-7d32-1243b6c5879d/9781529907407.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000051",
+            "name": "Crime & Thrillers",
+            "url": "https://itunes.apple.com/gb/genre/id50000051"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000040",
+            "name": "Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000040"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/no-one-saw-a-thing/id1642792850"
+      },
+      {
+        "artistName": "Lucy Foley",
+        "id": "1801333483",
+        "name": "Murder at the Grand Alpine Hotel",
+        "releaseDate": "2026-09-22",
+        "kind": "audio-books",
+        "artistId": "395407489",
+        "artistUrl": "https://books.apple.com/gb/author/lucy-foley/id395407489",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/e7/01/5fe70177-50ca-bdd6-6b18-556248ca7c04/9780008694852.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000051",
+            "name": "Crime & Thrillers",
+            "url": "https://itunes.apple.com/gb/genre/id50000051"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/murder-at-the-grand-alpine-hotel/id1801333483"
+      },
+      {
+        "artistName": "Xand van Tulleken",
+        "id": "1872642197",
+        "name": "Make Me Well",
+        "releaseDate": "2026-09-10",
+        "kind": "audio-books",
+        "artistId": "641174480",
+        "artistUrl": "https://books.apple.com/gb/author/xand-van-tulleken/id641174480",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/89/c8/c889c83b-cf4d-fc67-0f4d-c2c41efd5805/9781804957776.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000056",
+            "name": "Self-Development",
+            "url": "https://itunes.apple.com/gb/genre/id50000056"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000043",
+            "name": "Business & Personal Finance",
+            "url": "https://itunes.apple.com/gb/genre/id50000043"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/make-me-well/id1872642197"
+      },
+      {
+        "artistName": "David McCloskey",
+        "id": "1846581927",
+        "name": "London Station",
+        "releaseDate": "2026-09-29",
+        "kind": "audio-books",
+        "artistId": "437014596",
+        "artistUrl": "https://books.apple.com/gb/author/david-mccloskey/id437014596",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/05/42/24/0542244f-3eea-8b15-f0ee-f6c761619824/9781800755796.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000040",
+            "name": "Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000040"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/london-station/id1846581927"
+      },
+      {
+        "artistName": "Sylvester Stallone",
+        "id": "1801259751",
+        "name": "The Steps",
+        "releaseDate": "2026-09-29",
+        "kind": "audio-books",
+        "artistId": "1239210724",
+        "artistUrl": "https://books.apple.com/gb/author/sylvester-stallone/id1239210724",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/00/3f/df/003fdf6b-578b-8d8b-2232-be7630deb8ea/9781399629492.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000042",
+            "name": "Biography",
+            "url": "https://itunes.apple.com/gb/genre/id50000042"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000057",
+            "name": "Sports & Outdoors",
+            "url": "https://itunes.apple.com/gb/genre/id50000057"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/the-steps/id1801259751"
+      },
+      {
+        "artistName": "Andy Weir",
+        "id": "1565808256",
+        "name": "Project Hail Mary (Unabridged)",
+        "releaseDate": "2021-05-04",
+        "kind": "audio-books",
+        "artistId": "624083612",
+        "artistUrl": "https://books.apple.com/gb/author/andy-weir/id624083612",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7b/01/65/7b01658e-4ae7-1837-699f-03b91166c929/rm_image.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000055",
+            "name": "Sci-Fi & Fantasy",
+            "url": "https://itunes.apple.com/gb/genre/id50000055"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/project-hail-mary-unabridged/id1565808256"
+      },
+      {
+        "artistName": "Richard Osman",
+        "id": "1880044439",
+        "name": "We Chase Shadows",
+        "releaseDate": "2026-09-10",
+        "kind": "audio-books",
+        "artistId": "563523549",
+        "artistUrl": "https://books.apple.com/gb/author/richard-osman/id563523549",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/8c/81/b78c81ac-61cb-47e3-696a-d65ea7d2733e/9781405977258.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000051",
+            "name": "Crime & Thrillers",
+            "url": "https://itunes.apple.com/gb/genre/id50000051"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000040",
+            "name": "Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000040"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/we-chase-shadows/id1880044439"
+      },
+      {
+        "artistName": "Patrick Radden Keefe",
+        "id": "1825330248",
+        "name": "London Falling",
+        "releaseDate": "2026-04-07",
+        "kind": "audio-books",
+        "artistId": "46650349",
+        "artistUrl": "https://books.apple.com/gb/author/patrick-radden-keefe/id46650349",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/6e/c4/646ec4ef-116c-afe5-bee4-a7bd2539ac48/9781035056309.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000052",
+            "name": "Non-Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000052"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/london-falling/id1825330248"
+      },
+      {
+        "artistName": "J.K. Rowling",
+        "id": "1442189428",
+        "name": "Harry Potter and the Chamber of Secrets",
+        "releaseDate": "2015-11-20",
+        "kind": "audio-books",
+        "artistId": "79595314",
+        "artistUrl": "https://books.apple.com/gb/author/j-k-rowling/id79595314",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/dc/8a/b3/dc8ab34f-0e44-29a7-3288-38acc0678640/9781781102374.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000044",
+            "name": "Kids & Young Adults",
+            "url": "https://itunes.apple.com/gb/genre/id50000044"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000040",
+            "name": "Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000040"
+          },
+          {
+            "genreId": "50000055",
+            "name": "Sci-Fi & Fantasy",
+            "url": "https://itunes.apple.com/gb/genre/id50000055"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/harry-potter-and-the-chamber-of-secrets/id1442189428"
+      },
+      {
+        "artistName": "Bella Mackie",
+        "id": "1889459863",
+        "name": "Claws Out!",
+        "releaseDate": "2026-08-27",
+        "kind": "audio-books",
+        "artistId": "1405489984",
+        "artistUrl": "https://books.apple.com/gb/author/bella-mackie/id1405489984",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/77/ac/97/77ac9729-4a81-d719-5af3-f7dc7928fc71/9780008545611.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000040",
+            "name": "Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000040"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/claws-out/id1889459863"
+      },
+      {
+        "artistName": "J.K. Rowling",
+        "id": "1442185522",
+        "name": "Harry Potter and the Philosopher's Stone",
+        "releaseDate": "2015-11-20",
+        "kind": "audio-books",
+        "artistId": "79595314",
+        "artistUrl": "https://books.apple.com/gb/author/j-k-rowling/id79595314",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/12/29/e5/1229e590-1356-1fa1-9302-4c7f0841345d/9781781102367.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000044",
+            "name": "Kids & Young Adults",
+            "url": "https://itunes.apple.com/gb/genre/id50000044"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/harry-potter-and-the-philosophers-stone/id1442185522"
+      },
+      {
+        "artistName": "Sebastian Faulks",
+        "id": "1884933266",
+        "name": "Farewell to Eden",
+        "releaseDate": "2026-09-17",
+        "kind": "audio-books",
+        "artistId": "273746762",
+        "artistUrl": "https://books.apple.com/gb/author/sebastian-faulks/id273746762",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b8/ad/6c/b8ad6c39-7ffd-e653-1a99-c82b2b7d5686/9781804943359.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000040",
+            "name": "Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000040"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/farewell-to-eden/id1884933266"
+      },
+      {
+        "artistName": "Michael Douglas",
+        "id": "1873924110",
+        "name": "One Helluva Ride",
+        "releaseDate": "2026-10-06",
+        "kind": "audio-books",
+        "artistId": "1074111509",
+        "artistUrl": "https://books.apple.com/gb/author/michael-douglas/id1074111509",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a0/5c/da/a05cdabf-0123-1f99-3d90-78e31fcd38e5/9781035446407.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000042",
+            "name": "Biography",
+            "url": "https://itunes.apple.com/gb/genre/id50000042"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/one-helluva-ride/id1873924110"
+      },
+      {
+        "artistName": "Freida McFadden",
+        "id": "1883752753",
+        "name": "The Witch",
+        "releaseDate": "2026-10-06",
+        "kind": "audio-books",
+        "artistId": "1101564107",
+        "artistUrl": "https://books.apple.com/gb/author/freida-mcfadden/id1101564107",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/21/e2/a3/21e2a31c-2e04-6d99-0af9-180a08fa96a2/9798349169328.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000040",
+            "name": "Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000040"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/the-witch/id1883752753"
+      },
+      {
+        "artistName": "J.K. Rowling",
+        "id": "1444945952",
+        "name": "Harry Potter and the Goblet of Fire",
+        "releaseDate": "2015-11-20",
+        "kind": "audio-books",
+        "artistId": "79595314",
+        "artistUrl": "https://books.apple.com/gb/author/j-k-rowling/id79595314",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/29/97/c7/2997c73d-acc6-176d-24e3-c7ecda33f4e4/9781781102398.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000044",
+            "name": "Kids & Young Adults",
+            "url": "https://itunes.apple.com/gb/genre/id50000044"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000055",
+            "name": "Sci-Fi & Fantasy",
+            "url": "https://itunes.apple.com/gb/genre/id50000055"
+          },
+          {
+            "genreId": "50000040",
+            "name": "Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000040"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/harry-potter-and-the-goblet-of-fire/id1444945952"
+      },
+      {
+        "artistName": "Christian Horner",
+        "id": "6787032917",
+        "name": "Drive",
+        "releaseDate": "2026-10-22",
+        "kind": "audio-books",
+        "artistId": "1700225853",
+        "artistUrl": "https://books.apple.com/gb/author/christian-horner/id1700225853",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/1e/d1/551ed163-8734-88a1-c5c3-77b8ce6c79d3/9781807841058.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000057",
+            "name": "Sports & Outdoors",
+            "url": "https://itunes.apple.com/gb/genre/id50000057"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000042",
+            "name": "Biography",
+            "url": "https://itunes.apple.com/gb/genre/id50000042"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/drive/id6787032917"
+      },
+      {
+        "artistName": "Miranda Hart",
+        "id": "1755543228",
+        "name": "I Haven’t Been Entirely Honest with You",
+        "releaseDate": "2024-10-10",
+        "kind": "audio-books",
+        "artistId": "297025641",
+        "artistUrl": "https://books.apple.com/gb/author/miranda-hart/id297025641",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/94/95/42/94954279-4742-18c3-f4a7-4e6ec3a75a5d/9781405958974.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000042",
+            "name": "Biography",
+            "url": "https://itunes.apple.com/gb/genre/id50000042"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000052",
+            "name": "Non-Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000052"
+          },
+          {
+            "genreId": "50000056",
+            "name": "Self-Development",
+            "url": "https://itunes.apple.com/gb/genre/id50000056"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/i-havent-been-entirely-honest-with-you/id1755543228"
+      },
+      {
+        "artistName": "James Clear",
+        "id": "1440958277",
+        "name": "Atomic Habits",
+        "releaseDate": "2018-10-18",
+        "kind": "audio-books",
+        "artistId": "1374709152",
+        "artistUrl": "https://books.apple.com/gb/author/james-clear/id1374709152",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/43/40/e5/4340e588-e3fc-9596-9595-9b30c2d6e9a5/9781473565425.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000056",
+            "name": "Self-Development",
+            "url": "https://itunes.apple.com/gb/genre/id50000056"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/atomic-habits/id1440958277"
+      },
+      {
+        "artistName": "Bonnie Garmus",
+        "id": "1878847980",
+        "name": "Peck & Peck",
+        "releaseDate": "2026-10-13",
+        "kind": "audio-books",
+        "artistId": "1575309668",
+        "artistUrl": "https://books.apple.com/gb/author/bonnie-garmus/id1575309668",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2e/a9/93/2ea993f2-23d6-f84c-a0d2-c073f705e2b8/9781786588807.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000040",
+            "name": "Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000040"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/peck-peck/id1878847980"
+      },
+      {
+        "artistName": "John Grisham",
+        "id": "1884447722",
+        "name": "The French Illusion",
+        "releaseDate": "2026-09-29",
+        "kind": "audio-books",
+        "artistId": "2023891",
+        "artistUrl": "https://books.apple.com/gb/author/john-grisham/id2023891",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/65/92/02659243-d676-3628-0afe-8de1f798da58/9781399703505.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000040",
+            "name": "Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000040"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000051",
+            "name": "Crime & Thrillers",
+            "url": "https://itunes.apple.com/gb/genre/id50000051"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/the-french-illusion/id1884447722"
+      },
+      {
+        "artistName": "Ben Macintyre",
+        "id": "1746148778",
+        "name": "Operation Mincemeat",
+        "releaseDate": "2024-06-06",
+        "kind": "audio-books",
+        "artistId": "265276934",
+        "artistUrl": "https://books.apple.com/gb/author/ben-macintyre/id265276934",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/2d/02/762d02b9-6e93-f474-3dfa-dcca873c2584/9781526678881.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000052",
+            "name": "Non-Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000052"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/operation-mincemeat/id1746148778"
+      },
+      {
+        "artistName": "Lee Child",
+        "id": "1440059328",
+        "name": "Gone Tomorrow",
+        "releaseDate": "2010-11-04",
+        "kind": "audio-books",
+        "artistId": "17506452",
+        "artistUrl": "https://books.apple.com/gb/author/lee-child/id17506452",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c2/81/ae/c281ae14-f7be-ec55-d9d8-35ef57b79756/9781407055725.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000051",
+            "name": "Crime & Thrillers",
+            "url": "https://itunes.apple.com/gb/genre/id50000051"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000040",
+            "name": "Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000040"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/gone-tomorrow/id1440059328"
+      },
+      {
+        "artistName": "Graeme Souness",
+        "id": "6771343120",
+        "name": "My Rangers",
+        "releaseDate": "2026-10-15",
+        "kind": "audio-books",
+        "artistId": "601317130",
+        "artistUrl": "https://books.apple.com/gb/author/graeme-souness/id601317130",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/75/e4/31/75e43161-cbc7-963d-d707-f6d84641eab4/9781405991841.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000042",
+            "name": "Biography",
+            "url": "https://itunes.apple.com/gb/genre/id50000042"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000057",
+            "name": "Sports & Outdoors",
+            "url": "https://itunes.apple.com/gb/genre/id50000057"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/my-rangers/id6771343120"
+      },
+      {
+        "artistName": "Rebecca Yarros",
+        "id": "6791335335",
+        "name": "Threshing Day (Wing and Claw Collection) (Empyrean)",
+        "releaseDate": "2026-09-29",
+        "kind": "audio-books",
+        "artistId": "802770747",
+        "artistUrl": "https://books.apple.com/gb/author/rebecca-yarros/id802770747",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/39/27/43/39274368-f961-844b-6b62-6fdbc9e624f4/9798898859060.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000055",
+            "name": "Sci-Fi & Fantasy",
+            "url": "https://itunes.apple.com/gb/genre/id50000055"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/threshing-day-wing-and-claw-collection-empyrean/id6791335335"
+      },
+      {
+        "artistName": "Colleen Hoover",
+        "id": "1462767719",
+        "name": "Verity (Unabridged)",
+        "releaseDate": "2019-05-07",
+        "kind": "audio-books",
+        "artistId": "546189032",
+        "artistUrl": "https://books.apple.com/gb/author/colleen-hoover/id546189032",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/32/e3/f3/32e3f395-243b-c45d-2be2-50f409e22d58/rm_image.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000051",
+            "name": "Crime & Thrillers",
+            "url": "https://itunes.apple.com/gb/genre/id50000051"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000069",
+            "name": "Romance",
+            "url": "https://itunes.apple.com/gb/genre/id50000069"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/verity-unabridged/id1462767719"
+      },
+      {
+        "artistName": "Rebecca Yarros",
+        "id": "6792751309",
+        "name": "Threshing Day [Dramatized Adaptation] : The Empyrean (Empyrean)",
+        "releaseDate": "2026-10-13",
+        "kind": "audio-books",
+        "artistId": "802770747",
+        "artistUrl": "https://books.apple.com/gb/author/rebecca-yarros/id802770747",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/52/21/6b5221bf-52e0-b8e2-8edc-bae63a611626/9798896523970.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000055",
+            "name": "Sci-Fi & Fantasy",
+            "url": "https://itunes.apple.com/gb/genre/id50000055"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/threshing-day-dramatized-adaptation-the-empyrean/id6792751309"
+      },
+      {
+        "artistName": "Martina Cole",
+        "id": "1867169889",
+        "name": "The Stretch",
+        "releaseDate": "2026-10-06",
+        "kind": "audio-books",
+        "artistId": "204650487",
+        "artistUrl": "https://books.apple.com/gb/author/martina-cole/id204650487",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/0f/8a/2f0f8aa5-b770-200b-ea49-5aa14a887c4e/9781035440658.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000040",
+            "name": "Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000040"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/the-stretch/id1867169889"
+      },
+      {
+        "artistName": "David Sedaris",
+        "id": "1886099941",
+        "name": "The Land and its People",
+        "releaseDate": "2026-07-02",
+        "kind": "audio-books",
+        "artistId": "2087492",
+        "artistUrl": "https://books.apple.com/gb/author/david-sedaris/id2087492",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/18/ce/9818cecb-f636-58b9-6355-0e52b996308d/9781405549578.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000046",
+            "name": "Comedy",
+            "url": "https://itunes.apple.com/gb/genre/id50000046"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000042",
+            "name": "Biography",
+            "url": "https://itunes.apple.com/gb/genre/id50000042"
+          },
+          {
+            "genreId": "50000040",
+            "name": "Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000040"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/the-land-and-its-people/id1886099941"
+      },
+      {
+        "artistName": "Elizabeth Strout",
+        "id": "1846045899",
+        "name": "The Things We Never Say",
+        "releaseDate": "2026-05-07",
+        "kind": "audio-books",
+        "artistId": "160620087",
+        "artistUrl": "https://books.apple.com/gb/author/elizabeth-strout/id160620087",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/5d/55/365d55fb-2850-69ef-9f8c-e0ad0aada596/9781405990554.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000040",
+            "name": "Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000040"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/the-things-we-never-say/id1846045899"
+      },
+      {
+        "artistName": "Sarah Wynn-Williams",
+        "id": "1800204507",
+        "name": "Careless People",
+        "releaseDate": "2025-03-13",
+        "kind": "audio-books",
+        "artistId": "1800196711",
+        "artistUrl": "https://books.apple.com/gb/author/sarah-wynn-williams/id1800196711",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/16/aa/b916aa4a-9446-aa27-ae25-2e968f077f2f/9781035065950.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000042",
+            "name": "Biography",
+            "url": "https://itunes.apple.com/gb/genre/id50000042"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000052",
+            "name": "Non-Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000052"
+          },
+          {
+            "genreId": "50000046",
+            "name": "Comedy",
+            "url": "https://itunes.apple.com/gb/genre/id50000046"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/careless-people/id1800204507"
+      },
+      {
+        "artistName": "Anthony Scaramucci",
+        "id": "1875198813",
+        "name": "All the Wrong Moves",
+        "releaseDate": "2026-09-17",
+        "kind": "audio-books",
+        "artistId": "373610068",
+        "artistUrl": "https://books.apple.com/gb/author/anthony-scaramucci/id373610068",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c0/09/0d/c0090d3a-07f3-abaa-071a-bc9f52ebd57d/9781529980035.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000052",
+            "name": "Non-Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000052"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000049",
+            "name": "History",
+            "url": "https://itunes.apple.com/gb/genre/id50000049"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/all-the-wrong-moves/id1875198813"
+      },
+      {
+        "artistName": "Ben Macintyre",
+        "id": "1746148943",
+        "name": "Double Cross",
+        "releaseDate": "2024-06-06",
+        "kind": "audio-books",
+        "artistId": "265276934",
+        "artistUrl": "https://books.apple.com/gb/author/ben-macintyre/id265276934",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/41/39/37413990-e180-d45f-0aea-975f5f1cf37a/9781526678904.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000042",
+            "name": "Biography",
+            "url": "https://itunes.apple.com/gb/genre/id50000042"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/double-cross/id1746148943"
+      },
+      {
+        "artistName": "Alice Cooper",
+        "id": "1881641758",
+        "name": "Devil on my Shoulder",
+        "releaseDate": "2026-10-06",
+        "kind": "audio-books",
+        "artistId": "393703",
+        "artistUrl": "https://books.apple.com/gb/author/alice-cooper/id393703",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fa/e1/35/fae135ba-9059-2b6f-c160-b37cd058dd45/9781529971125.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000042",
+            "name": "Biography",
+            "url": "https://itunes.apple.com/gb/genre/id50000042"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000052",
+            "name": "Non-Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000052"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/devil-on-my-shoulder/id1881641758"
+      },
+      {
+        "artistName": "Ben Macintyre",
+        "id": "1745624726",
+        "name": "A Spy Among Friends",
+        "releaseDate": "2024-06-06",
+        "kind": "audio-books",
+        "artistId": "265276934",
+        "artistUrl": "https://books.apple.com/gb/author/ben-macintyre/id265276934",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/07/29/b9072953-737d-b4b9-c483-5ebbdf4b2cda/9781526678874.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000052",
+            "name": "Non-Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000052"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/a-spy-among-friends/id1745624726"
+      },
+      {
+        "artistName": "Bob Mortimer",
+        "id": "1737868125",
+        "name": "The Hotel Avocado (Unabridged)",
+        "releaseDate": "2024-08-29",
+        "kind": "audio-books",
+        "artistId": "1226959214",
+        "artistUrl": "https://books.apple.com/gb/author/bob-mortimer/id1226959214",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/a1/a5/d9a1a5f9-e567-305f-1243-e6a44f744756/9781398529649.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000040",
+            "name": "Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000040"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/the-hotel-avocado-unabridged/id1737868125"
+      },
+      {
+        "artistName": "Virginia Evans",
+        "id": "1762577807",
+        "name": "The Correspondent",
+        "releaseDate": "2025-04-29",
+        "kind": "audio-books",
+        "artistId": "269549820",
+        "artistUrl": "https://books.apple.com/gb/author/virginia-evans/id269549820",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d7/36/44/d73644fe-406d-e243-03ff-56ac8d9c02d8/9781405972796.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000040",
+            "name": "Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000040"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/the-correspondent/id1762577807"
+      },
+      {
+        "artistName": "Graham Norton",
+        "id": "1736936698",
+        "name": "Frankie",
+        "releaseDate": "2024-09-12",
+        "kind": "audio-books",
+        "artistId": "154121520",
+        "artistUrl": "https://books.apple.com/gb/author/graham-norton/id154121520",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e4/75/b3/e475b31d-e27b-d174-4a66-0037b5c93d40/9781529391473.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000040",
+            "name": "Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000040"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/frankie/id1736936698"
+      },
+      {
+        "artistName": "Ari Emanuel",
+        "id": "1894063425",
+        "name": "Roll the Calls",
+        "releaseDate": "2026-09-22",
+        "kind": "audio-books",
+        "artistId": "1872950771",
+        "artistUrl": "https://books.apple.com/gb/author/ari-emanuel/id1872950771",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8e/98/0a/8e980a97-1c1d-22d7-feb7-c13268b254df/9780008849122.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000042",
+            "name": "Biography",
+            "url": "https://itunes.apple.com/gb/genre/id50000042"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000043",
+            "name": "Business & Personal Finance",
+            "url": "https://itunes.apple.com/gb/genre/id50000043"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/roll-the-calls/id1894063425"
+      },
+      {
+        "artistName": "Douglas Adams",
+        "id": "1441227297",
+        "name": "The Hitchhiker's Guide to the Galaxy",
+        "releaseDate": "2008-10-03",
+        "kind": "audio-books",
+        "artistId": "2080713",
+        "artistUrl": "https://books.apple.com/gb/author/douglas-adams/id2080713",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d0/1d/c8/d01dc85d-99e3-3d8e-fcc4-2939d0504f09/9780230742062.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000055",
+            "name": "Sci-Fi & Fantasy",
+            "url": "https://itunes.apple.com/gb/genre/id50000055"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/gb/genre/id34"
+          },
+          {
+            "genreId": "16",
+            "name": "Soundtrack",
+            "url": "https://itunes.apple.com/gb/genre/id16"
+          },
+          {
+            "genreId": "1168",
+            "name": "Original Score",
+            "url": "https://itunes.apple.com/gb/genre/id1168"
+          },
+          {
+            "genreId": "50000061",
+            "name": "Spoken Word",
+            "url": "https://itunes.apple.com/gb/genre/id50000061"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/the-hitchhikers-guide-to-the-galaxy/id1441227297"
+      },
+      {
+        "artistName": "Jay Stratton",
+        "id": "6774303523",
+        "name": "Out of the Shadows",
+        "releaseDate": "2026-10-13",
+        "kind": "audio-books",
+        "artistId": "1734381471",
+        "artistUrl": "https://books.apple.com/gb/author/jay-stratton/id1734381471",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/9c/2a/249c2a59-6b8d-8d01-be97-7c9c37ebf754/9780063384569.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000049",
+            "name": "History",
+            "url": "https://itunes.apple.com/gb/genre/id50000049"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000056",
+            "name": "Self-Development",
+            "url": "https://itunes.apple.com/gb/genre/id50000056"
+          },
+          {
+            "genreId": "50000042",
+            "name": "Biography",
+            "url": "https://itunes.apple.com/gb/genre/id50000042"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/out-of-the-shadows/id6774303523"
+      },
+      {
+        "artistName": "Kathy Burke",
+        "id": "1805506451",
+        "name": "A Mind of My Own (Unabridged)",
+        "releaseDate": "2025-10-23",
+        "kind": "audio-books",
+        "artistId": "1660784963",
+        "artistUrl": "https://books.apple.com/gb/author/kathy-burke/id1660784963",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/85/60/69/85606951-9726-beab-ef8c-3990b6a4cd79/9781398548169.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000042",
+            "name": "Biography",
+            "url": "https://itunes.apple.com/gb/genre/id50000042"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/a-mind-of-my-own-unabridged/id1805506451"
+      },
+      {
+        "artistName": "Jo Nesbø",
+        "id": "1647152152",
+        "name": "Killing Moon",
+        "releaseDate": "2023-05-25",
+        "kind": "audio-books",
+        "artistId": "30689916",
+        "artistUrl": "https://books.apple.com/gb/author/jo-nesb%C3%B8/id30689916",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/0e/4a/a20e4a6f-3534-9d5f-478f-822a856c9ed6/9781529900422.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000051",
+            "name": "Crime & Thrillers",
+            "url": "https://itunes.apple.com/gb/genre/id50000051"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000040",
+            "name": "Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000040"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/killing-moon/id1647152152"
+      },
+      {
+        "artistName": "Rebecca Yarros",
+        "id": "1710468651",
+        "name": "Fourth Wing (1 of 2) [Dramatized Adaptation] : The Empyrean 1 (Empyrean)",
+        "releaseDate": "2023-12-27",
+        "kind": "audio-books",
+        "artistId": "802770747",
+        "artistUrl": "https://books.apple.com/gb/author/rebecca-yarros/id802770747",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/da/de/90/dade9095-c845-289f-5e67-fafc94dcc087/9798890551030.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000069",
+            "name": "Romance",
+            "url": "https://itunes.apple.com/gb/genre/id50000069"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/fourth-wing-1-of-2-dramatized-adaptation-the-empyrean/id1710468651"
+      },
+      {
+        "artistName": "Roald Dahl",
+        "id": "1724966973",
+        "name": "Fantastic Mr Fox",
+        "releaseDate": "2024-02-08",
+        "kind": "audio-books",
+        "artistId": "5367371",
+        "artistUrl": "https://books.apple.com/gb/author/roald-dahl/id5367371",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/15/5b/30/155b3074-e082-0451-fa81-18c7f533d865/9780241624586.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000044",
+            "name": "Kids & Young Adults",
+            "url": "https://itunes.apple.com/gb/genre/id50000044"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/fantastic-mr-fox/id1724966973"
+      },
+      {
+        "artistName": "John Steinbeck",
+        "id": "1540940121",
+        "name": "East of Eden",
+        "releaseDate": "2021-04-15",
+        "kind": "audio-books",
+        "artistId": "299088305",
+        "artistUrl": "https://books.apple.com/gb/author/john-steinbeck/id299088305",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/bb/6f/d2/bb6fd234-a61b-70e4-3103-2045cc1c6a82/9780241509883.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000040",
+            "name": "Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000040"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/east-of-eden/id1540940121"
+      },
+      {
+        "artistName": "Andrea Mara",
+        "id": "1818812819",
+        "name": "Such a Nice Girl",
+        "releaseDate": "2026-05-07",
+        "kind": "audio-books",
+        "artistId": "1379916879",
+        "artistUrl": "https://books.apple.com/gb/author/andrea-mara/id1379916879",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/58/9d/8a589dca-a060-5cb9-c871-6ebf7bbbfec2/9781529955972.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000051",
+            "name": "Crime & Thrillers",
+            "url": "https://itunes.apple.com/gb/genre/id50000051"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/such-a-nice-girl/id1818812819"
+      },
+      {
+        "artistName": "Kathryn Stockett",
+        "id": "1852726018",
+        "name": "The Calamity Club",
+        "releaseDate": "2026-05-05",
+        "kind": "audio-books",
+        "artistId": "304011616",
+        "artistUrl": "https://books.apple.com/gb/author/kathryn-stockett/id304011616",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/49/38/b3493819-51c2-8f81-b59e-add5cf53fd36/9781405985550.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000040",
+            "name": "Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000040"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/the-calamity-club/id1852726018"
+      },
+      {
+        "artistName": "Ed Conway",
+        "id": "1872935782",
+        "name": "Trade World",
+        "releaseDate": "2026-09-03",
+        "kind": "audio-books",
+        "artistId": "711590325",
+        "artistUrl": "https://books.apple.com/gb/author/ed-conway/id711590325",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b5/c1/7c/b5c17ccb-64a7-9d10-ce3a-685476a3d31b/9780753562727.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000043",
+            "name": "Business & Personal Finance",
+            "url": "https://itunes.apple.com/gb/genre/id50000043"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000052",
+            "name": "Non-Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000052"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/trade-world/id1872935782"
+      },
+      {
+        "artistName": "Prof Steve Peters",
+        "id": "1439956510",
+        "name": "The Chimp Paradox",
+        "releaseDate": "2012-01-05",
+        "kind": "audio-books",
+        "artistId": "836673176",
+        "artistUrl": "https://books.apple.com/gb/author/prof-steve-peters/id836673176",
+        "contentAdvisoryRating": "Explict",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/28/42/ae/2842ae43-198a-851f-826f-4443f4304351/9781448122974.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000056",
+            "name": "Self-Development",
+            "url": "https://itunes.apple.com/gb/genre/id50000056"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000052",
+            "name": "Non-Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000052"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/the-chimp-paradox/id1439956510"
+      },
+      {
+        "artistName": "Fiona Leitch",
+        "id": "1863900441",
+        "name": "The Cornish Honeymoon Murder",
+        "releaseDate": "2026-06-26",
+        "kind": "audio-books",
+        "artistId": "1289372536",
+        "artistUrl": "https://books.apple.com/gb/author/fiona-leitch/id1289372536",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/38/79/81/38798159-6cd7-b6d3-b0d1-d0525466d47f/9780008787547.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000051",
+            "name": "Crime & Thrillers",
+            "url": "https://itunes.apple.com/gb/genre/id50000051"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000040",
+            "name": "Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000040"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/the-cornish-honeymoon-murder/id1863900441"
+      },
+      {
+        "artistName": "Charlotte McConaghy",
+        "id": "1595858232",
+        "name": "Once There Were Wolves",
+        "releaseDate": "2022-01-20",
+        "kind": "audio-books",
+        "artistId": "622404438",
+        "artistUrl": "https://books.apple.com/gb/author/charlotte-mcconaghy/id622404438",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e1/98/a6/e198a609-39be-4e45-b2c5-108508070831/9781529193558.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000040",
+            "name": "Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000040"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000051",
+            "name": "Crime & Thrillers",
+            "url": "https://itunes.apple.com/gb/genre/id50000051"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/once-there-were-wolves/id1595858232"
+      },
+      {
+        "artistName": "Yuval Noah Harari",
+        "id": "1441236210",
+        "name": "Sapiens",
+        "releaseDate": "2015-04-30",
+        "kind": "audio-books",
+        "artistId": "680533594",
+        "artistUrl": "https://books.apple.com/gb/author/yuval-noah-harari/id680533594",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e0/17/2b/e0172b53-c59e-e1ef-295c-a9b320739cfd/9781473523784.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000049",
+            "name": "History",
+            "url": "https://itunes.apple.com/gb/genre/id50000049"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000052",
+            "name": "Non-Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000052"
+          },
+          {
+            "genreId": "50000054",
+            "name": "Science & Nature",
+            "url": "https://itunes.apple.com/gb/genre/id50000054"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/sapiens/id1441236210"
+      },
+      {
+        "artistName": "Morgan Housel",
+        "id": "1878646280",
+        "name": "The Psychology of Money",
+        "releaseDate": "2020-09-08",
+        "kind": "audio-books",
+        "artistId": "1518559909",
+        "artistUrl": "https://books.apple.com/gb/author/morgan-housel/id1518559909",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/0c/bb/650cbba8-a753-7c9f-edb5-63700bde50ff/9781804092323.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000043",
+            "name": "Business & Personal Finance",
+            "url": "https://itunes.apple.com/gb/genre/id50000043"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/the-psychology-of-money/id1878646280"
+      },
+      {
+        "artistName": "Lee Child & Andrew Child",
+        "id": "1872642164",
+        "name": "Chain Reaction",
+        "releaseDate": "2026-10-20",
+        "kind": "audio-books",
+        "artistId": "17506452",
+        "artistUrl": "https://books.apple.com/gb/author/lee-child/id17506452",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bd/6e/ac/bd6eac4c-53df-23ab-0f76-27b2072bc116/9781529992076.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000051",
+            "name": "Crime & Thrillers",
+            "url": "https://itunes.apple.com/gb/genre/id50000051"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000040",
+            "name": "Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000040"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/chain-reaction/id1872642164"
+      },
+      {
+        "artistName": "Caitlin Moran",
+        "id": "6768577051",
+        "name": "How to Be Hopeful",
+        "releaseDate": "2026-09-17",
+        "kind": "audio-books",
+        "artistId": "440663185",
+        "artistUrl": "https://books.apple.com/gb/author/caitlin-moran/id440663185",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/89/e2/1e89e237-3b6c-a59d-2fc1-aa75dcc30263/9781529988871.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000042",
+            "name": "Biography",
+            "url": "https://itunes.apple.com/gb/genre/id50000042"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000056",
+            "name": "Self-Development",
+            "url": "https://itunes.apple.com/gb/genre/id50000056"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/how-to-be-hopeful/id6768577051"
+      },
+      {
+        "artistName": "Benjamin Graham",
+        "id": "1441460976",
+        "name": "The Intelligent Investor Rev Ed.",
+        "releaseDate": "2015-07-07",
+        "kind": "audio-books",
+        "artistId": "73563708",
+        "artistUrl": "https://books.apple.com/gb/author/benjamin-graham/id73563708",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/50/a1/04/50a1040d-7388-cc6d-f7eb-6f189122f25a/9780062417619.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000043",
+            "name": "Business & Personal Finance",
+            "url": "https://itunes.apple.com/gb/genre/id50000043"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/the-intelligent-investor-rev-ed/id1441460976"
+      },
+      {
+        "artistName": "Charlie Mackesy",
+        "id": "1538747334",
+        "name": "The Boy, The Mole, The Fox and The Horse",
+        "releaseDate": "2020-11-12",
+        "kind": "audio-books",
+        "artistId": "1399332964",
+        "artistUrl": "https://books.apple.com/gb/author/charlie-mackesy/id1399332964",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2c/a1/b7/2ca1b7f9-de55-5aff-3d27-483f613119f0/9781473589308.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000056",
+            "name": "Self-Development",
+            "url": "https://itunes.apple.com/gb/genre/id50000056"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000052",
+            "name": "Non-Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000052"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/the-boy-the-mole-the-fox-and-the-horse/id1538747334"
+      },
+      {
+        "artistName": "J.K. Rowling",
+        "id": "1442755842",
+        "name": "Harry Potter and the Order of the Phoenix",
+        "releaseDate": "2015-11-20",
+        "kind": "audio-books",
+        "artistId": "79595314",
+        "artistUrl": "https://books.apple.com/gb/author/j-k-rowling/id79595314",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/ba/8c/bdba8c1c-a218-0466-cd2e-58a7f51aa9e6/9781781102404.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000044",
+            "name": "Kids & Young Adults",
+            "url": "https://itunes.apple.com/gb/genre/id50000044"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000040",
+            "name": "Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000040"
+          },
+          {
+            "genreId": "50000055",
+            "name": "Sci-Fi & Fantasy",
+            "url": "https://itunes.apple.com/gb/genre/id50000055"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/harry-potter-and-the-order-of-the-phoenix/id1442755842"
+      },
+      {
+        "artistName": "Ben Macintyre",
+        "id": "1874925792",
+        "name": "Redwood",
+        "releaseDate": "2026-09-10",
+        "kind": "audio-books",
+        "artistId": "265276934",
+        "artistUrl": "https://books.apple.com/gb/author/ben-macintyre/id265276934",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/cd/d5/a4cdd569-d0fc-2f69-0f63-9dac198568df/9781405982146.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000052",
+            "name": "Non-Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000052"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000042",
+            "name": "Biography",
+            "url": "https://itunes.apple.com/gb/genre/id50000042"
+          },
+          {
+            "genreId": "50000049",
+            "name": "History",
+            "url": "https://itunes.apple.com/gb/genre/id50000049"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/redwood/id1874925792"
+      },
+      {
+        "artistName": "Dennis E. Taylor",
+        "id": "1154244137",
+        "name": "We Are Legion (We Are Bob): Bobiverse, Book 1 (Unabridged)",
+        "releaseDate": "2016-09-20",
+        "kind": "audio-books",
+        "artistId": "1154244304",
+        "artistUrl": "https://books.apple.com/gb/author/dennis-e-taylor/id1154244304",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/49/ec/75/49ec75a2-0bef-0644-2877-68e9fd9c5b83/rm_image.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000055",
+            "name": "Sci-Fi & Fantasy",
+            "url": "https://itunes.apple.com/gb/genre/id50000055"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/we-are-legion-we-are-bob-bobiverse-book-1-unabridged/id1154244137"
+      },
+      {
+        "artistName": "Bob Mortimer",
+        "id": "1784796432",
+        "name": "The Long Shoe (Unabridged)",
+        "releaseDate": "2025-10-09",
+        "kind": "audio-books",
+        "artistId": "1226959214",
+        "artistUrl": "https://books.apple.com/gb/author/bob-mortimer/id1226959214",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/4c/67/1a4c670f-115a-243e-2725-3b10fe31062d/9781398548077.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000040",
+            "name": "Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000040"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/the-long-shoe-unabridged/id1784796432"
+      },
+      {
+        "artistName": "Sarah J. Maas",
+        "id": "1532285922",
+        "name": "House of Earth and Blood: The Crescent City, Book 1  (Unabridged)",
+        "releaseDate": "2020-03-03",
+        "kind": "audio-books",
+        "artistId": "535404063",
+        "artistUrl": "https://books.apple.com/gb/author/sarah-j-maas/id535404063",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/66/6d/72/666d7283-08ef-2255-1c47-334394579d5a/rm_image.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000055",
+            "name": "Sci-Fi & Fantasy",
+            "url": "https://itunes.apple.com/gb/genre/id50000055"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/house-of-earth-and-blood-the-crescent-city-book-1-unabridged/id1532285922"
+      },
+      {
+        "artistName": "Marisa Kashino",
+        "id": "1813402226",
+        "name": "Best Offer Wins",
+        "releaseDate": "2025-11-25",
+        "kind": "audio-books",
+        "artistId": "1803745436",
+        "artistUrl": "https://books.apple.com/gb/author/marisa-kashino/id1803745436",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/aa/c6/bcaac639-5cde-7b74-09cb-8278426c888a/9781529974171.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000051",
+            "name": "Crime & Thrillers",
+            "url": "https://itunes.apple.com/gb/genre/id50000051"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000040",
+            "name": "Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000040"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/best-offer-wins/id1813402226"
+      },
+      {
+        "artistName": "Jeffrey Archer",
+        "id": "1442475503",
+        "name": "Kane and Abel",
+        "releaseDate": "2009-10-16",
+        "kind": "audio-books",
+        "artistId": "2765327",
+        "artistUrl": "https://books.apple.com/gb/author/jeffrey-archer/id2765327",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/4a/a1/484aa1fd-eea7-2e6f-def1-8736b5163617/9780230746466.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000051",
+            "name": "Crime & Thrillers",
+            "url": "https://itunes.apple.com/gb/genre/id50000051"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000040",
+            "name": "Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000040"
+          },
+          {
+            "genreId": "50000069",
+            "name": "Romance",
+            "url": "https://itunes.apple.com/gb/genre/id50000069"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/kane-and-abel/id1442475503"
+      },
+      {
+        "artistName": "Brianna Wiest",
+        "id": "1514925269",
+        "name": "The Mountain is You: Transforming Self-Sabotage Into Self-Mastery",
+        "releaseDate": "2020-06-01",
+        "kind": "audio-books",
+        "artistId": "673364844",
+        "artistUrl": "https://books.apple.com/gb/author/brianna-wiest/id673364844",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d7/3f/a4/d73fa42b-3fc2-2500-2d71-d74c1ec04ddb/9781662206610.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000056",
+            "name": "Self-Development",
+            "url": "https://itunes.apple.com/gb/genre/id50000056"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/the-mountain-is-you-transforming-self-sabotage-into/id1514925269"
+      },
+      {
+        "artistName": "Roald Dahl",
+        "id": "1724966734",
+        "name": "Charlie and the Chocolate Factory",
+        "releaseDate": "2024-02-08",
+        "kind": "audio-books",
+        "artistId": "5367371",
+        "artistUrl": "https://books.apple.com/gb/author/roald-dahl/id5367371",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d7/2e/7b/d72e7bd2-cb6f-79a0-65be-a1b6945e467e/9780241541920.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000044",
+            "name": "Kids & Young Adults",
+            "url": "https://itunes.apple.com/gb/genre/id50000044"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/charlie-and-the-chocolate-factory/id1724966734"
+      },
+      {
+        "artistName": "Matt Dinniman",
+        "id": "1586177656",
+        "name": "The Gate of the Feral Gods: Dungeon Crawler Carl, Book 4 (Unabridged)",
+        "releaseDate": "2026-07-30",
+        "kind": "audio-books",
+        "artistId": "713342715",
+        "artistUrl": "https://books.apple.com/gb/author/matt-dinniman/id713342715",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/8b/40/c58b404f-0307-59e5-78d7-ccf37d8db1f9/rm_image.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000051",
+            "name": "Crime & Thrillers",
+            "url": "https://itunes.apple.com/gb/genre/id50000051"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000055",
+            "name": "Sci-Fi & Fantasy",
+            "url": "https://itunes.apple.com/gb/genre/id50000055"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/the-gate-of-the-feral-gods-dungeon-crawler-carl/id1586177656"
+      },
+      {
+        "artistName": "Graham Norton",
+        "id": "1609949490",
+        "name": "Forever Home",
+        "releaseDate": "2022-09-29",
+        "kind": "audio-books",
+        "artistId": "154121520",
+        "artistUrl": "https://books.apple.com/gb/author/graham-norton/id154121520",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9f/1e/1d/9f1e1db8-4cd3-445d-1556-5d6293268ddd/9781529391428.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000040",
+            "name": "Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000040"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000051",
+            "name": "Crime & Thrillers",
+            "url": "https://itunes.apple.com/gb/genre/id50000051"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/forever-home/id1609949490"
+      },
+      {
+        "artistName": "Joseph Nguyen",
+        "id": "1766786823",
+        "name": "Don't Believe Everything You Think (Expanded Edition) (Unabridged)",
+        "releaseDate": "2024-10-29",
+        "kind": "audio-books",
+        "artistId": "1097371001",
+        "artistUrl": "https://books.apple.com/gb/author/joseph-nguyen/id1097371001",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c7/d2/b9/c7d2b993-a1a0-f2d9-d534-d8ac22f22ea8/9781797187266.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000056",
+            "name": "Self-Development",
+            "url": "https://itunes.apple.com/gb/genre/id50000056"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/dont-believe-everything-you-think-expanded-edition/id1766786823"
+      },
+      {
+        "artistName": "Jeremy Clarkson",
+        "id": "1591395918",
+        "name": "Diddly Squat",
+        "releaseDate": "2021-11-11",
+        "kind": "audio-books",
+        "artistId": "337939334",
+        "artistUrl": "https://books.apple.com/gb/author/jeremy-clarkson/id337939334",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/15/a5/d2/15a5d20f-1873-4f14-651f-1ec749cd27a9/9781405952477.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000042",
+            "name": "Biography",
+            "url": "https://itunes.apple.com/gb/genre/id50000042"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000043",
+            "name": "Business & Personal Finance",
+            "url": "https://itunes.apple.com/gb/genre/id50000043"
+          },
+          {
+            "genreId": "50000046",
+            "name": "Comedy",
+            "url": "https://itunes.apple.com/gb/genre/id50000046"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/diddly-squat/id1591395918"
+      },
+      {
+        "artistName": "Jon Ronson",
+        "id": "1441225575",
+        "name": "The Psychopath Test",
+        "releaseDate": "2011-06-03",
+        "kind": "audio-books",
+        "artistId": "295238900",
+        "artistUrl": "https://books.apple.com/gb/author/jon-ronson/id295238900",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/52/5b/92/525b9296-6028-be1d-86c7-f76decd47b3d/9780230758537.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000052",
+            "name": "Non-Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000052"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/the-psychopath-test/id1441225575"
+      },
+      {
+        "artistName": "Charlotte Brontë",
+        "id": "1439977894",
+        "name": "Jane Eyre",
+        "releaseDate": "2018-10-24",
+        "kind": "audio-books",
+        "artistId": "1425344049",
+        "artistUrl": "https://books.apple.com/gb/author/charlotte-bront%C3%AB/id1425344049",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/a0/f9/2e/a0f92e38-34d8-c635-875d-c086435db0e9/9782291041177.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000045",
+            "name": "Classics",
+            "url": "https://itunes.apple.com/gb/genre/id50000045"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/jane-eyre/id1439977894"
+      },
+      {
+        "artistName": "Fin Taylor",
+        "id": "6769702623",
+        "name": "The History of Mankind in Its Entirety (Abridged)",
+        "releaseDate": "2026-09-10",
+        "kind": "audio-books",
+        "artistId": "978729512",
+        "artistUrl": "https://books.apple.com/gb/author/fin-taylor/id978729512",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/5d/8f/505d8fa7-9bfb-03f4-0247-4741e9f4c982/9781529993776.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000046",
+            "name": "Comedy",
+            "url": "https://itunes.apple.com/gb/genre/id50000046"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000049",
+            "name": "History",
+            "url": "https://itunes.apple.com/gb/genre/id50000049"
+          },
+          {
+            "genreId": "50000052",
+            "name": "Non-Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000052"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/the-history-of-mankind-in-its-entirety-abridged/id6769702623"
+      },
+      {
+        "artistName": "Ryan Holiday and Stephen Hanselman",
+        "id": "6805572355",
+        "name": "The Daily Stoic: 10th Anniversary Edition",
+        "releaseDate": "2026-10-06",
+        "kind": "audio-books",
+        "artistId": "6805572361",
+        "artistUrl": "https://books.apple.com/gb/author/ryan-holiday-and-stephen-hanselman/id6805572361",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/85/19/83/85198348-35f6-e987-b959-e9f39e9eebd6/9781806490349.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000052",
+            "name": "Non-Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000052"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000053",
+            "name": "Religion & Spirituality",
+            "url": "https://itunes.apple.com/gb/genre/id50000053"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/the-daily-stoic-10th-anniversary-edition/id6805572355"
+      },
+      {
+        "artistName": "Allen Carr",
+        "id": "1483341851",
+        "name": "The Easy Way to Stop Smoking",
+        "releaseDate": "2014-10-30",
+        "kind": "audio-books",
+        "artistId": "134881193",
+        "artistUrl": "https://books.apple.com/gb/author/allen-carr/id134881193",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/aa/f4/05/aaf40578-7c97-5c1c-d505-8e60a1082ff6/9781784280543_cover.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000056",
+            "name": "Self-Development",
+            "url": "https://itunes.apple.com/gb/genre/id50000056"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/the-easy-way-to-stop-smoking/id1483341851"
+      },
+      {
+        "artistName": "Matt Willis",
+        "id": "6790325806",
+        "name": "Mending",
+        "releaseDate": "2026-10-08",
+        "kind": "audio-books",
+        "artistId": "25197293",
+        "artistUrl": "https://books.apple.com/gb/author/matt-willis/id25197293",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/85/46/21/85462118-9a57-7c39-d938-7c655ce6ec7c/9781529454802.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000056",
+            "name": "Self-Development",
+            "url": "https://itunes.apple.com/gb/genre/id50000056"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/mending/id6790325806"
+      },
+      {
+        "artistName": "Andy McNab",
+        "id": "1440963893",
+        "name": "Bravo Two Zero",
+        "releaseDate": "2014-01-09",
+        "kind": "audio-books",
+        "artistId": "49936064",
+        "artistUrl": "https://books.apple.com/gb/author/andy-mcnab/id49936064",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/d2/c9/95/d2c995e0-275b-c871-15fe-8514c1178e4c/9781473508033.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000042",
+            "name": "Biography",
+            "url": "https://itunes.apple.com/gb/genre/id50000042"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000049",
+            "name": "History",
+            "url": "https://itunes.apple.com/gb/genre/id50000049"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/bravo-two-zero/id1440963893"
+      },
+      {
+        "artistName": "Meera Syal",
+        "id": "6766788665",
+        "name": "Vigilauntie",
+        "releaseDate": "2026-09-03",
+        "kind": "audio-books",
+        "artistId": "129493762",
+        "artistUrl": "https://books.apple.com/gb/author/meera-syal/id129493762",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/c0/c4/53c0c434-cab0-9498-3a7c-ac9006003ced/9781399619486.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000042",
+            "name": "Biography",
+            "url": "https://itunes.apple.com/gb/genre/id50000042"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000052",
+            "name": "Non-Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000052"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/vigilauntie/id6766788665"
+      },
+      {
+        "artistName": "Allen Carr & John Dicey",
+        "id": "1593844665",
+        "name": "Allen Carr's Easy Way to Quit Vaping: Get Free from JUUL, IQOS, Disposables, Tanks or any other Nicotine Product",
+        "releaseDate": "2021-04-30",
+        "kind": "audio-books",
+        "artistId": "134881193",
+        "artistUrl": "https://books.apple.com/gb/author/allen-carr/id134881193",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/be/ed/aabeeda3-c0de-8dba-f4a9-6c3f6597f5df/9781398813458.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000056",
+            "name": "Self-Development",
+            "url": "https://itunes.apple.com/gb/genre/id50000056"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/allen-carrs-easy-way-to-quit-vaping-get-free-from-juul/id1593844665"
+      },
+      {
+        "artistName": "Tracy Whitwell",
+        "id": "1592983508",
+        "name": "The Accidental Medium",
+        "releaseDate": "2022-05-26",
+        "kind": "audio-books",
+        "artistId": "1292749388",
+        "artistUrl": "https://books.apple.com/gb/author/tracy-whitwell/id1292749388",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/dd/78/c6/dd78c6d0-90f4-3435-2100-72caf1725d37/9781529087543.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000051",
+            "name": "Crime & Thrillers",
+            "url": "https://itunes.apple.com/gb/genre/id50000051"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000040",
+            "name": "Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000040"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/the-accidental-medium/id1592983508"
+      },
+      {
+        "artistName": "Matt Dinniman",
+        "id": "1622476872",
+        "name": "The Butcher's Masquerade: Dungeon Crawler Carl, Book 5 (Unabridged)",
+        "releaseDate": "2022-05-26",
+        "kind": "audio-books",
+        "artistId": "713342715",
+        "artistUrl": "https://books.apple.com/gb/author/matt-dinniman/id713342715",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/c5/68/a1c5688a-52a3-7d73-e189-e3827fe27895/rm_image.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000055",
+            "name": "Sci-Fi & Fantasy",
+            "url": "https://itunes.apple.com/gb/genre/id50000055"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/the-butchers-masquerade-dungeon-crawler-carl-book-5/id1622476872"
+      },
+      {
+        "artistName": "Douglas Stuart",
+        "id": "1816898989",
+        "name": "John of John",
+        "releaseDate": "2026-05-21",
+        "kind": "audio-books",
+        "artistId": "362054099",
+        "artistUrl": "https://books.apple.com/gb/author/douglas-stuart/id362054099",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/77/e2/6677e220-1995-7c6f-5c23-101b181a7bba/9781035086993.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000040",
+            "name": "Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000040"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/john-of-john/id1816898989"
+      },
+      {
+        "artistName": "Katie Kirby",
+        "id": "6783273815",
+        "name": "Lottie Brooks’s Twelve Disasters of Christmas",
+        "releaseDate": "2026-10-08",
+        "kind": "audio-books",
+        "artistId": "1106412119",
+        "artistUrl": "https://books.apple.com/gb/author/katie-kirby/id1106412119",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/35/22/bf35220a-0d42-e796-d284-a7b12baa007f/9780241812273.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000044",
+            "name": "Kids & Young Adults",
+            "url": "https://itunes.apple.com/gb/genre/id50000044"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/lottie-brookss-twelve-disasters-of-christmas/id6783273815"
+      },
+      {
+        "artistName": "Sally Hepworth",
+        "id": "1835638410",
+        "name": "Mad Mabel",
+        "releaseDate": "2026-07-09",
+        "kind": "audio-books",
+        "artistId": "781484389",
+        "artistUrl": "https://books.apple.com/gb/author/sally-hepworth/id781484389",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c2/a7/3e/c2a73e92-c28e-2b33-b798-74a210ba3d4b/9781035096206.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000051",
+            "name": "Crime & Thrillers",
+            "url": "https://itunes.apple.com/gb/genre/id50000051"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000040",
+            "name": "Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000040"
+          },
+          {
+            "genreId": "50000052",
+            "name": "Non-Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000052"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/mad-mabel/id1835638410"
+      },
+      {
+        "artistName": "Mel Robbins",
+        "id": "1789374695",
+        "name": "The Let Them Theory: A Life-Changing Tool That Millions of People Can’t Stop Talking About (Unabridged)",
+        "releaseDate": "2024-12-24",
+        "kind": "audio-books",
+        "artistId": "151132127",
+        "artistUrl": "https://books.apple.com/gb/author/mel-robbins/id151132127",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/54/f4/c4/54f4c467-ea70-19b6-ab73-01cf7ed4930a/rm_image.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000052",
+            "name": "Non-Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000052"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000056",
+            "name": "Self-Development",
+            "url": "https://itunes.apple.com/gb/genre/id50000056"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/the-let-them-theory-a-life-changing-tool-that/id1789374695"
+      },
+      {
+        "artistName": "John Williams",
+        "id": "1442047337",
+        "name": "Stoner",
+        "releaseDate": "2016-04-07",
+        "kind": "audio-books",
+        "artistId": "1434087142",
+        "artistUrl": "https://books.apple.com/gb/author/john-williams/id1434087142",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/2d/23/582d23c5-d586-eb2d-5716-b421503561ab/9781473524071.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000040",
+            "name": "Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000040"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/stoner/id1442047337"
+      },
+      {
+        "artistName": "Jacqueline Harpman",
+        "id": "1574331986",
+        "name": "I Who Have Never Known Men",
+        "releaseDate": "2021-07-22",
+        "kind": "audio-books",
+        "artistId": "373128517",
+        "artistUrl": "https://books.apple.com/gb/author/jacqueline-harpman/id373128517",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/9a/e0/1f9ae0e6-50e3-1909-46b6-0d32d25eacd5/9781529191448.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000055",
+            "name": "Sci-Fi & Fantasy",
+            "url": "https://itunes.apple.com/gb/genre/id50000055"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000040",
+            "name": "Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000040"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/i-who-have-never-known-men/id1574331986"
+      },
+      {
+        "artistName": "Viktor E. Frankl",
+        "id": "1736235508",
+        "name": "Man's Search for Meaning",
+        "releaseDate": "2024-04-09",
+        "kind": "audio-books",
+        "artistId": "27059386",
+        "artistUrl": "https://books.apple.com/gb/author/viktor-e-frankl/id27059386",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/0d/9d/e30d9d85-b681-f0e7-4044-240e8a65e5bc/in9e-square.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000042",
+            "name": "Biography",
+            "url": "https://itunes.apple.com/gb/genre/id50000042"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/mans-search-for-meaning/id1736235508"
+      },
+      {
+        "artistName": "Alice Feeney",
+        "id": "1808384469",
+        "name": "My Husband's Wife",
+        "releaseDate": "2026-01-27",
+        "kind": "audio-books",
+        "artistId": "1174365072",
+        "artistUrl": "https://books.apple.com/gb/author/alice-feeney/id1174365072",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/10/b1/1a10b1c3-e81d-c2dd-018c-e78e59610d1b/9781035083053.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000051",
+            "name": "Crime & Thrillers",
+            "url": "https://itunes.apple.com/gb/genre/id50000051"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/my-husbands-wife/id1808384469"
+      },
+      {
+        "artistName": "Kevin Roose",
+        "id": "1871963094",
+        "name": "The AGI Chronicles (Unabridged)",
+        "releaseDate": "2026-10-08",
+        "kind": "audio-books",
+        "artistId": "365482291",
+        "artistUrl": "https://books.apple.com/gb/author/kevin-roose/id365482291",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fe/16/1e/fe161ec3-3797-42f3-bc2a-9b225d8de085/9781398555341.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000052",
+            "name": "Non-Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000052"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/the-agi-chronicles-unabridged/id1871963094"
+      },
+      {
+        "artistName": "Lisa Jewell",
+        "id": "1846558382",
+        "name": "It Could Have Been Her",
+        "releaseDate": "2026-07-02",
+        "kind": "audio-books",
+        "artistId": "262725607",
+        "artistUrl": "https://books.apple.com/gb/author/lisa-jewell/id262725607",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/14/49/7c1449a0-ff36-b046-bdea-7175ee1d1de2/9781804952955.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000051",
+            "name": "Crime & Thrillers",
+            "url": "https://itunes.apple.com/gb/genre/id50000051"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/it-could-have-been-her/id1846558382"
+      },
+      {
+        "artistName": "Tony Robbins",
+        "id": "1872992774",
+        "name": "Awaken The Giant Within, Updated 35th Anniversary Edition (Unabridged)",
+        "releaseDate": "2026-05-26",
+        "kind": "audio-books",
+        "artistId": "2022700",
+        "artistUrl": "https://books.apple.com/gb/author/tony-robbins/id2022700",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c3/61/c7/c361c7df-9d05-8d12-a413-f81d9a710b24/9781398564497.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000056",
+            "name": "Self-Development",
+            "url": "https://itunes.apple.com/gb/genre/id50000056"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/awaken-the-giant-within-updated-35th-anniversary/id1872992774"
+      },
+      {
+        "artistName": "Stephen Fry",
+        "id": "1738221634",
+        "name": "Odyssey",
+        "releaseDate": "2024-09-26",
+        "kind": "audio-books",
+        "artistId": "387975844",
+        "artistUrl": "https://books.apple.com/gb/author/stephen-fry/id387975844",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/af/88/3d/af883d1c-8658-2931-07f1-0147a46e74b7/9781405948395.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000040",
+            "name": "Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000040"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000049",
+            "name": "History",
+            "url": "https://itunes.apple.com/gb/genre/id50000049"
+          },
+          {
+            "genreId": "50000055",
+            "name": "Sci-Fi & Fantasy",
+            "url": "https://itunes.apple.com/gb/genre/id50000055"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/odyssey/id1738221634"
+      },
+      {
+        "artistName": "David Goggins",
+        "id": "1444948734",
+        "name": "Can't Hurt Me: Master Your Mind and Defy the Odds (Unabridged)",
+        "releaseDate": "2018-11-08",
+        "kind": "audio-books",
+        "artistId": "1275360479",
+        "artistUrl": "https://books.apple.com/gb/author/david-goggins/id1275360479",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/77/f6/b0/77f6b075-055a-a372-61cb-f276811181c4/rm_image.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000056",
+            "name": "Self-Development",
+            "url": "https://itunes.apple.com/gb/genre/id50000056"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000052",
+            "name": "Non-Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000052"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/cant-hurt-me-master-your-mind-and-defy-the-odds-unabridged/id1444948734"
+      },
+      {
+        "artistName": "Patrick Radden Keefe",
+        "id": "1441710682",
+        "name": "Say Nothing",
+        "releaseDate": "2018-11-01",
+        "kind": "audio-books",
+        "artistId": "46650349",
+        "artistUrl": "https://books.apple.com/gb/author/patrick-radden-keefe/id46650349",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/12/8f/45/128f458e-737d-e43a-501c-d892d758c35c/9780008159283.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000052",
+            "name": "Non-Fiction",
+            "url": "https://itunes.apple.com/gb/genre/id50000052"
+          },
+          {
+            "genreId": "50000024",
+            "name": "Audiobooks",
+            "url": "https://itunes.apple.com/gb/genre/id50000024"
+          },
+          {
+            "genreId": "50000049",
+            "name": "History",
+            "url": "https://itunes.apple.com/gb/genre/id50000049"
+          },
+          {
+            "genreId": "50000042",
+            "name": "Biography",
+            "url": "https://itunes.apple.com/gb/genre/id50000042"
+          }
+        ],
+        "url": "https://books.apple.com/gb/audiobook/say-nothing/id1441710682"
+      }
+    ]
+  }
+}
