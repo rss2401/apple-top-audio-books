@@ -13,7 +13,7 @@ GitHub Pages site through the relative path `../apple-top-audio-books/`.
 | `rankings/YYYYMM/` | Ranking RSS JSON per month: `<country>_audio-books_<feed>.json` |
 | `details/<id>.json` | iTunes Lookup responses, one result per country |
 | `archives/<id>.json` | Ranking history of each item across months |
-| `logos/` | Artwork: `<id>.png` (newest) and `<id>-<url-hash>.png` (versions) |
+| `logos/` | Artwork: `<id>-<url-hash>.png`, one file per artwork URL |
 | `rankings.json` | Index of all ranking and list files, used by the website |
 
 Snapshot at migration: 876 items, 783 detail files, 1362 artwork files, 876 archives.
