@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 36,
+      "artistName": "Julia Chapman",
+      "id": "1520107576",
+      "name": "Rendez-vous avec le mystère - Les détectives du Yorkshire - Tome 3",
+      "releaseDate": "2020-07-09",
+      "kind": "audio-books",
+      "artistId": "1126784033",
+      "artistUrl": "https://books.apple.com/fr/author/julia-chapman/id1126784033",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/75/7b/f7/757bf779-9415-af2d-d1d5-fbaf9127bef4/9791036607615.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000051",
+          "name": "Policier et suspense",
+          "url": "https://itunes.apple.com/fr/genre/id50000051"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/rendez-vous-avec-le-myst%C3%A8re-les-d%C3%A9tectives-du-yorkshire/id1520107576"
+    }
+  ]
+}

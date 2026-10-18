@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 81,
+      "artistName": "Sina Junker",
+      "id": "1872654877",
+      "name": "Träume im kleinen Strandhaus am Meer",
+      "releaseDate": "2026-01-29",
+      "kind": "audio-books",
+      "artistId": "1679910635",
+      "artistUrl": "https://books.apple.com/de/author/sina-junker/id1679910635",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/7c/54/b17c546d-8a4a-4b61-c4f1-8f793b8b648a/4069829504546.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000069",
+          "name": "Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id50000069"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/tr%C3%A4ume-im-kleinen-strandhaus-am-meer/id1872654877"
+    }
+  ]
+}

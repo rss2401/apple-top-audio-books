@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 66,
+      "artistName": "池井戸 潤",
+      "id": "1450679794",
+      "name": "陸王",
+      "releaseDate": "2019-02-01",
+      "kind": "audio-books",
+      "artistId": "680525830",
+      "artistUrl": "https://books.apple.com/jp/author/%E6%B1%A0%E4%BA%95%E6%88%B8-%E6%BD%A4/id680525830",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/07/07/97/070797af-ccb2-bb74-b65c-d9dc9cd693cb/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "フィクション",
+          "url": "https://itunes.apple.com/jp/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E9%99%B8%E7%8E%8B/id1450679794"
+    }
+  ]
+}

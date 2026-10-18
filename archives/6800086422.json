@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 88,
+      "artistName": "Jenny Völker, Romantasy Hörbücher & Fantasy Hörbücher",
+      "id": "6800086422",
+      "name": "Braut der Phönixkrone ( Kronen-Zauber-Saga 4 )",
+      "releaseDate": "2026-10-16",
+      "kind": "audio-books",
+      "artistId": "1571689725",
+      "artistUrl": "https://books.apple.com/de/author/jenny-v%C3%B6lker/id1571689725",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/8d/ef/578defaa-0058-3fa3-fd9b-01de36e71092/4071498779071.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000055",
+          "name": "Science-Fiction und Fantasy",
+          "url": "https://itunes.apple.com/de/genre/id50000055"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/braut-der-ph%C3%B6nixkrone-kronen-zauber-saga-4/id6800086422"
+    }
+  ]
+}

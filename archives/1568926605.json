@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 30,
+      "artistName": "Charles Pépin",
+      "id": "1568926605",
+      "name": "La rencontre, une philosophie",
+      "releaseDate": "2021-06-10",
+      "kind": "audio-books",
+      "artistId": "493228541",
+      "artistUrl": "https://books.apple.com/fr/author/charles-p%C3%A9pin/id493228541",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ca/3a/e8/ca3ae847-e015-d04c-4fed-4d39dd9b121c/9791036615931.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000052",
+          "name": "Essais et sciences humaines",
+          "url": "https://itunes.apple.com/fr/genre/id50000052"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/la-rencontre-une-philosophie/id1568926605"
+    }
+  ]
+}

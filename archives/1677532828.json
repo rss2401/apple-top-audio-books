@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 95,
+      "artistName": "Charles River Editors",
+      "id": "1677532828",
+      "name": "Captain John Franklin and Sir Ernest Shackleton: The History of Britain’s Most Famous Polar Explorers and Their Expeditions",
+      "releaseDate": "2023-03-13",
+      "kind": "audio-books",
+      "artistId": "421675931",
+      "artistUrl": "https://books.apple.com/jp/author/charles-river-editors/id421675931",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e8/2e/4e/e82e4e82-93b5-b7cd-211b-1c67dc8cd13a/9798368930374.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000042",
+          "name": "伝記／自叙伝",
+          "url": "https://itunes.apple.com/jp/genre/id50000042"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        },
+        {
+          "genreId": "50000049",
+          "name": "歴史",
+          "url": "https://itunes.apple.com/jp/genre/id50000049"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/captain-john-franklin-and-sir-ernest-shackleton/id1677532828"
+    }
+  ]
+}

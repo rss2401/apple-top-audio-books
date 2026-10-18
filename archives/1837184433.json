@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 51,
+      "artistName": "James Clavell",
+      "id": "1837184433",
+      "name": "Shōgun - Tome 2 - Shōgun",
+      "releaseDate": "2024-08-05",
+      "kind": "audio-books",
+      "artistId": "255453362",
+      "artistUrl": "https://books.apple.com/fr/author/james-clavell/id255453362",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/81/0c/e5/810ce5a1-7ea6-408b-bc0e-9c178601e2fc/9782487064331.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/sh%C5%8Dgun-tome-2-sh%C5%8Dgun/id1837184433"
+    }
+  ]
+}

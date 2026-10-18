@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 100,
+      "artistName": "レナ・ダナム",
+      "id": "1840118167",
+      "name": "Famesick",
+      "releaseDate": "2026-04-14",
+      "kind": "audio-books",
+      "artistId": "457758695",
+      "artistUrl": "https://books.apple.com/jp/author/%E3%83%AC%E3%83%8A-%E3%83%80%E3%83%8A%E3%83%A0/id457758695",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/a1/14/e1a114bd-e4f5-b86a-789d-3eeddd83e07e/9780008384241.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000042",
+          "name": "伝記／自叙伝",
+          "url": "https://itunes.apple.com/jp/genre/id50000042"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        },
+        {
+          "genreId": "50000046",
+          "name": "コメディ",
+          "url": "https://itunes.apple.com/jp/genre/id50000046"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/famesick/id1840118167"
+    }
+  ]
+}

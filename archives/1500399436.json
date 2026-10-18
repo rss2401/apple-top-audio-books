@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 46,
+      "artistName": "Nele Neuhaus",
+      "id": "1500399436",
+      "name": "Böser Wolf  (Ein Bodenstein-Kirchhoff-Krimi 6)",
+      "releaseDate": "2012-10-11",
+      "kind": "audio-books",
+      "artistId": "411665117",
+      "artistUrl": "https://books.apple.com/de/author/nele-neuhaus/id411665117",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/39/a5/b939a506-5b05-c49f-4fed-06394b79dc54/9783844906318.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000051",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id50000051"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/b%C3%B6ser-wolf-ein-bodenstein-kirchhoff-krimi-6/id1500399436"
+    }
+  ]
+}

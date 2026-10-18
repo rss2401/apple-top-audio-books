@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 54,
+      "artistName": "Dr. Sue Morter",
+      "id": "1853749058",
+      "name": "The Anatomy of Awakening: The 5 Hidden Codes to Activate Self-Healing, Unlock Your Higher Consciousness, and Live Your Divine Destiny (Unabridged)",
+      "releaseDate": "2026-03-24",
+      "kind": "audio-books",
+      "artistId": "460501771",
+      "artistUrl": "https://books.apple.com/fr/author/dr-sue-morter/id460501771",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ac/b6/f1/acb6f12e-93e5-514d-c610-f29e9a2d0e7f/9781401998622.d.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000052",
+          "name": "Essais et sciences humaines",
+          "url": "https://itunes.apple.com/fr/genre/id50000052"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000056",
+          "name": "Santé et bien-être",
+          "url": "https://itunes.apple.com/fr/genre/id50000056"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/the-anatomy-of-awakening-the-5-hidden-codes-to/id1853749058"
+    }
+  ]
+}

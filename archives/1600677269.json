@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 33,
+      "artistName": "Harlan Coben",
+      "id": "1600677269",
+      "name": "Sans un adieu",
+      "releaseDate": "2021-12-09",
+      "kind": "audio-books",
+      "artistId": "2079141",
+      "artistUrl": "https://books.apple.com/fr/author/harlan-coben/id2079141",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1f/86/b9/1f86b9cd-29d7-ba9c-16fd-e2490b408772/9791036621222.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/sans-un-adieu/id1600677269"
+    }
+  ]
+}

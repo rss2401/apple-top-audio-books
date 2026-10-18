@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 88,
+      "artistName": "Scott Dikkers",
+      "id": "1448038640",
+      "name": "How to Write Funny: Your Serious, Step-By-Step Blueprint for Creating Incredibly, Irresistibly, Successfully Hilarious Writing, Book 1 (Unabridged)",
+      "releaseDate": "2018-12-17",
+      "kind": "audio-books",
+      "artistId": "358483206",
+      "artistUrl": "https://books.apple.com/jp/author/scott-dikkers/id358483206",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/a5/2b/d2/a52bd247-2e3c-4a94-a921-4f192b73bdb3/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000046",
+          "name": "コメディ",
+          "url": "https://itunes.apple.com/jp/genre/id50000046"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        },
+        {
+          "genreId": "50000056",
+          "name": "自己啓発",
+          "url": "https://itunes.apple.com/jp/genre/id50000056"
+        },
+        {
+          "genreId": "50000052",
+          "name": "ノンフィクション",
+          "url": "https://itunes.apple.com/jp/genre/id50000052"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/how-to-write-funny-your-serious-step-by-step-blueprint/id1448038640"
+    }
+  ]
+}

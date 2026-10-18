@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 43,
+      "artistName": "Gérard de Nerval",
+      "id": "1292265855",
+      "name": "Gérard de Nerval - 23 Poèmes",
+      "releaseDate": "2024-10-31",
+      "kind": "audio-books",
+      "artistId": "75623644",
+      "artistUrl": "https://books.apple.com/fr/author/g%C3%A9rard-de-nerval/id75623644",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/e8/7c/78/e87c7832-7f8e-d2eb-6c65-b4b2211e7cd9/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/g%C3%A9rard-de-nerval-23-po%C3%A8mes/id1292265855"
+    }
+  ]
+}

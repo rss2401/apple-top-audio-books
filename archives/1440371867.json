@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 100,
+      "artistName": "Stephenie Meyer",
+      "id": "1440371867",
+      "name": "Twilight 1 - Fascination",
+      "releaseDate": "2009-05-13",
+      "kind": "audio-books",
+      "artistId": "186957897",
+      "artistUrl": "https://books.apple.com/fr/author/stephenie-meyer/id186957897",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/7a/e0/b17ae0a5-dbaf-ea38-eade-a1136a7f84ea/9782356411556.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000044",
+          "name": "Jeunesse",
+          "url": "https://itunes.apple.com/fr/genre/id50000044"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/twilight-1-fascination/id1440371867"
+    }
+  ]
+}

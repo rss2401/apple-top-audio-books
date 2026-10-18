@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 82,
+      "artistName": "Lucinda Riley",
+      "id": "1883994784",
+      "name": "La Soeur disparue  - Les Sept Soeurs, tome 7",
+      "releaseDate": "2026-05-06",
+      "kind": "audio-books",
+      "artistId": "401210503",
+      "artistUrl": "https://books.apple.com/fr/author/lucinda-riley/id401210503",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0b/7d/e5/0b7de55f-8b80-34ac-04fb-b7de142c2741/9791035412142.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000069",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/fr/genre/id50000069"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/la-soeur-disparue-les-sept-soeurs-tome-7/id1883994784"
+    }
+  ]
+}

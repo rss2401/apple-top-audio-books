@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 47,
+      "artistName": "植松努",
+      "id": "1799093929",
+      "name": "「どうせ無理」と思っている君へ 本当の自信の増やしかた",
+      "releaseDate": "2022-04-28",
+      "kind": "audio-books",
+      "artistId": "672599310",
+      "artistUrl": "https://books.apple.com/jp/author/%E6%A4%8D%E6%9D%BE%E5%8A%AA/id672599310",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/38/80/b0/3880b07a-ae4f-a129-20b1-122d94de417f/square_artwork.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000043",
+          "name": "ビジネス",
+          "url": "https://itunes.apple.com/jp/genre/id50000043"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E3%81%A9%E3%81%86%E3%81%9B%E7%84%A1%E7%90%86-%E3%81%A8%E6%80%9D%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E5%90%9B%E3%81%B8-%E6%9C%AC%E5%BD%93%E3%81%AE%E8%87%AA%E4%BF%A1%E3%81%AE%E5%A2%97%E3%82%84%E3%81%97%E3%81%8B%E3%81%9F/id1799093929"
+    }
+  ]
+}

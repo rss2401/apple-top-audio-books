@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 22,
+      "artistName": "Moritz Matthies",
+      "id": "6812460990",
+      "name": "Die Schweiz ist nicht genug",
+      "releaseDate": "2026-10-08",
+      "kind": "audio-books",
+      "artistId": "486385279",
+      "artistUrl": "https://books.apple.com/de/author/moritz-matthies/id486385279",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/d4/2c/ccd42c6a-cda3-d434-119b-5ab738fb2a00/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000051",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id50000051"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/die-schweiz-ist-nicht-genug/id6812460990"
+    }
+  ]
+}

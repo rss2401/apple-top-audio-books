@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 87,
+      "artistName": "Petra Hülsmann",
+      "id": "1503391435",
+      "name": "Un petit grain de sable",
+      "releaseDate": "2026-09-10",
+      "kind": "audio-books",
+      "artistId": "874297391",
+      "artistUrl": "https://books.apple.com/fr/author/petra-h%C3%BClsmann/id874297391",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/39/c9/bf/39c9bf3a-c0b7-16b7-f15e-4000ee3f4bc9/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000069",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/fr/genre/id50000069"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/un-petit-grain-de-sable/id1503391435"
+    }
+  ]
+}

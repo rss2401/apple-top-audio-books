@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 56,
+      "artistName": "Boitempo",
+      "id": "1623662104",
+      "name": "Manifesto comunista",
+      "releaseDate": "2015-10-26",
+      "kind": "audio-books",
+      "artistId": "1613204253",
+      "artistUrl": "https://books.apple.com/fr/author/boitempo/id1613204253",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5f/85/fe/5f85fe34-bc80-80ab-41d4-74e929ee1515/9786557171554.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000052",
+          "name": "Essais et sciences humaines",
+          "url": "https://itunes.apple.com/fr/genre/id50000052"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/manifesto-comunista/id1623662104"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 53,
+      "artistName": "太宰治",
+      "id": "260211506",
+      "name": "眉山",
+      "releaseDate": "2007-07-17",
+      "kind": "audio-books",
+      "artistId": "173331980",
+      "artistUrl": "https://books.apple.com/jp/author/%E5%A4%AA%E5%AE%B0%E6%B2%BB/id173331980",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/69/3b/c1/693bc17a-01b0-1f53-6fee-cae52984bd82/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "フィクション",
+          "url": "https://itunes.apple.com/jp/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E7%9C%89%E5%B1%B1/id260211506"
+    }
+  ]
+}

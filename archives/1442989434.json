@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 79,
+      "artistName": "Liza Mundy",
+      "id": "1442989434",
+      "name": "Code Girls",
+      "releaseDate": "2017-10-10",
+      "kind": "audio-books",
+      "artistId": "358501447",
+      "artistUrl": "https://books.apple.com/us/author/liza-mundy/id358501447",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/66/f1/1666f191-fe18-24f9-5ca3-29b038836389/9781478922711.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000049",
+          "name": "History",
+          "url": "https://itunes.apple.com/us/genre/id50000049"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Audiobooks",
+          "url": "https://itunes.apple.com/us/genre/id50000024"
+        },
+        {
+          "genreId": "50000052",
+          "name": "Nonfiction",
+          "url": "https://itunes.apple.com/us/genre/id50000052"
+        }
+      ],
+      "url": "https://books.apple.com/us/audiobook/code-girls/id1442989434"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 39,
+      "artistName": "Timothy Zahn",
+      "id": "1750672857",
+      "name": "Star Wars - La croisade noire du jedi fou - La bataille des Jedi - Tome 2",
+      "releaseDate": "2024-07-18",
+      "kind": "audio-books",
+      "artistId": "215359113",
+      "artistUrl": "https://books.apple.com/fr/author/timothy-zahn/id215359113",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6c/f7/ef/6cf7ef07-5beb-1853-11f4-7b8149db3484/9791036632891.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000055",
+          "name": "SF et fantasy",
+          "url": "https://itunes.apple.com/fr/genre/id50000055"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/star-wars-la-croisade-noire-du-jedi-fou-la-bataille/id1750672857"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 40,
+      "artistName": "Tracy Wolff",
+      "id": "1726589625",
+      "name": "Assoiffés - Tome 7 : Envoûtés",
+      "releaseDate": "2024-02-15",
+      "kind": "audio-books",
+      "artistId": "357992761",
+      "artistUrl": "https://books.apple.com/fr/author/tracy-wolff/id357992761",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5d/62/77/5d627784-10de-e75d-695c-3571c186ad28/9791036632549.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000044",
+          "name": "Jeunesse",
+          "url": "https://itunes.apple.com/fr/genre/id50000044"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/assoiff%C3%A9s-tome-7-envo%C3%BBt%C3%A9s/id1726589625"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 79,
+      "artistName": "桂文我",
+      "id": "1800190052",
+      "name": "桂文我 上方落語全集 第十巻",
+      "releaseDate": "2025-03-13",
+      "kind": "audio-books",
+      "artistId": "1225514673",
+      "artistUrl": "https://books.apple.com/jp/author/%E6%A1%82%E6%96%87%E6%88%91/id1225514673",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ea/c4/17/eac41735-b474-3184-3214-b671152c11d1/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000046",
+          "name": "コメディ",
+          "url": "https://itunes.apple.com/jp/genre/id50000046"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E6%A1%82%E6%96%87%E6%88%91-%E4%B8%8A%E6%96%B9%E8%90%BD%E8%AA%9E%E5%85%A8%E9%9B%86-%E7%AC%AC%E5%8D%81%E5%B7%BB/id1800190052"
+    }
+  ]
+}

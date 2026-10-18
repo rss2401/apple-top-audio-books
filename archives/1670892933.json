@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 28,
+      "artistName": "Michel Bussi",
+      "id": "1670892933",
+      "name": "Trois vies par semaine",
+      "releaseDate": "2023-03-02",
+      "kind": "audio-books",
+      "artistId": "483471105",
+      "artistUrl": "https://books.apple.com/fr/author/michel-bussi/id483471105",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/83/44/7a/83447ab3-280b-6424-947b-680da22235d4/9791036626388.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/trois-vies-par-semaine/id1670892933"
+    }
+  ]
+}

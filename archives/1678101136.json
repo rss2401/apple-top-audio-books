@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 95,
+      "artistName": "Cornelia Härtl",
+      "id": "1678101136",
+      "name": "Tod auf Föhr - Ein Nordseekrimi-Reihe, Band 1",
+      "releaseDate": "2023-02-01",
+      "kind": "audio-books",
+      "artistId": "836483835",
+      "artistUrl": "https://books.apple.com/de/author/cornelia-h%C3%A4rtl/id836483835",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1c/98/1a/1c981ad0-3a32-70f4-a8dc-d9ea98597552/9783987780691_3000.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000051",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id50000051"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/tod-auf-f%C3%B6hr-ein-nordseekrimi-reihe-band-1/id1678101136"
+    }
+  ]
+}

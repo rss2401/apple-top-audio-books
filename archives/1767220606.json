@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 63,
+      "artistName": "Dag Heward-Mills",
+      "id": "1767220606",
+      "name": "Ceux Qui Sont Des Fils Dangereux",
+      "releaseDate": "2021-03-07",
+      "kind": "audio-books",
+      "artistId": "445190216",
+      "artistUrl": "https://books.apple.com/fr/author/dag-heward-mills/id445190216",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/d2/f5/35d2f560-8454-40c6-a170-f5690faed017/9798882215728.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000053",
+          "name": "Religion et spiritualité",
+          "url": "https://itunes.apple.com/fr/genre/id50000053"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/ceux-qui-sont-des-fils-dangereux/id1767220606"
+    }
+  ]
+}

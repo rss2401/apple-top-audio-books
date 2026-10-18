@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 51,
+      "artistName": "Stephanie Garber",
+      "id": "1719724346",
+      "name": "Once Upon a Broken Heart - Once Upon a Broken Heart, Band 1 (Ungekürzt)",
+      "releaseDate": "2023-11-15",
+      "kind": "audio-books",
+      "artistId": "1069433659",
+      "artistUrl": "https://books.apple.com/de/author/stephanie-garber/id1069433659",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ef/f2/22/eff222a1-f8a3-83e0-18b8-4ed4955bc79d/9783985711383_3000.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000055",
+          "name": "Science-Fiction und Fantasy",
+          "url": "https://itunes.apple.com/de/genre/id50000055"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        },
+        {
+          "genreId": "50000069",
+          "name": "Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id50000069"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/once-upon-a-broken-heart-once-upon-a-broken/id1719724346"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 83,
+      "artistName": "Marc-Uwe Kling & Trubel bei Tiffany",
+      "id": "1509482576",
+      "name": "Der Tag, an dem die Oma das Internet kaputt gemacht hat",
+      "releaseDate": "2020-04-30",
+      "kind": "audio-books",
+      "artistId": "333109092",
+      "artistUrl": "https://books.apple.com/de/author/marc-uwe-kling/id333109092",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/de/ae/ff/deaeff42-d7ac-ca05-56a7-8b2b3226495b/9783844925746.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000044",
+          "name": "Kinder und Jugend",
+          "url": "https://itunes.apple.com/de/genre/id50000044"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/der-tag-an-dem-die-oma-das-internet-kaputt-gemacht-hat/id1509482576"
+    }
+  ]
+}

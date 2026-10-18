@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 61,
+      "artistName": "村上春樹",
+      "id": "1534287375",
+      "name": "Norwegian Wood",
+      "releaseDate": "2020-10-29",
+      "kind": "audio-books",
+      "artistId": "31469590",
+      "artistUrl": "https://books.apple.com/jp/author/%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9/id31469590",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9d/bb/13/9dbb13fe-a7a4-3282-48c7-ef3b225183a2/9781473582569.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "フィクション",
+          "url": "https://itunes.apple.com/jp/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        },
+        {
+          "genreId": "50000069",
+          "name": "ロマンス",
+          "url": "https://itunes.apple.com/jp/genre/id50000069"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/norwegian-wood/id1534287375"
+    }
+  ]
+}

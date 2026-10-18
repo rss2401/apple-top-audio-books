@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 69,
+      "artistName": "Kerstin Gier",
+      "id": "1807273697",
+      "name": "Saphirblau - Liebe geht durch alle Zeiten. Die Edelstein-Trilogie - Liebe geht durch alle Zeiten, Band 2 (Ungekürzte Lesung)",
+      "releaseDate": "2025-07-10",
+      "kind": "audio-books",
+      "artistId": "267061663",
+      "artistUrl": "https://books.apple.com/de/author/kerstin-gier/id267061663",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6e/ae/85/6eae85bf-68f1-585c-5d5b-234d00d8b65e/9783732476152_3000.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Belletristik",
+          "url": "https://itunes.apple.com/de/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/saphirblau-liebe-geht-durch-alle-zeiten-die-edelstein/id1807273697"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 54,
+      "artistName": "Evan Gershkovich",
+      "id": "6813048475",
+      "name": "Dieses verfluchte wunderschöne Land: 491 Tage in russischer Haft: Meine Geschichte",
+      "releaseDate": "2026-09-30",
+      "kind": "audio-books",
+      "artistId": "1880903978",
+      "artistUrl": "https://books.apple.com/de/author/evan-gershkovich/id1880903978",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/ca/e1/58cae11a-f2c6-13f4-5d8e-2ffbef9702f3/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000042",
+          "name": "Biografien und Memoiren",
+          "url": "https://itunes.apple.com/de/genre/id50000042"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/dieses-verfluchte-wundersch%C3%B6ne-land-491-tage-in-russischer/id6813048475"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 88,
+      "artistName": "Ascending Vibrations",
+      "id": "1822289539",
+      "name": "La Guérison Somatique des Traumatismes: Le Cours Intensif Fait Maison pour Découvrir la Véritable Conscience Corporelle grâce à des Secrets Somatiques ... des Techniques Exclusives (French Edition) (Unabridged)",
+      "releaseDate": "2025-06-24",
+      "kind": "audio-books",
+      "artistId": "1615614414",
+      "artistUrl": "https://books.apple.com/fr/author/ascending-vibrations/id1615614414",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/ec/74/02ec746d-8672-ee0d-de76-b9cdadb718a7/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000056",
+          "name": "Santé et bien-être",
+          "url": "https://itunes.apple.com/fr/genre/id50000056"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000052",
+          "name": "Essais et sciences humaines",
+          "url": "https://itunes.apple.com/fr/genre/id50000052"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/la-gu%C3%A9rison-somatique-des-traumatismes-le-cours-intensif/id1822289539"
+    }
+  ]
+}

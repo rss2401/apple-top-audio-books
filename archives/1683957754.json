@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 75,
+      "artistName": "一穂 ミチ",
+      "id": "1683957754",
+      "name": "光のとこにいてね",
+      "releaseDate": "2023-05-12",
+      "kind": "audio-books",
+      "artistId": "1581566927",
+      "artistUrl": "https://books.apple.com/jp/author/%E4%B8%80%E7%A9%82-%E3%83%9F%E3%83%81/id1581566927",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/2e/aa/e12eaafa-1329-6675-7aba-67b1d8875b14/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "フィクション",
+          "url": "https://itunes.apple.com/jp/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E5%85%89%E3%81%AE%E3%81%A8%E3%81%93%E3%81%AB%E3%81%84%E3%81%A6%E3%81%AD/id1683957754"
+    }
+  ]
+}

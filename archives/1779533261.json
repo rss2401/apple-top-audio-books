@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 48,
+      "artistName": "Christian Godefroy",
+      "id": "1779533261",
+      "name": "Les secrets de l'attraction",
+      "releaseDate": "2024-11-12",
+      "kind": "audio-books",
+      "artistId": "1100846977",
+      "artistUrl": "https://books.apple.com/fr/author/christian-godefroy/id1100846977",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/81/37/50/81375045-06f2-b0bc-165c-a400f10c2c17/9782373180114.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000056",
+          "name": "Santé et bien-être",
+          "url": "https://itunes.apple.com/fr/genre/id50000056"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/les-secrets-de-lattraction/id1779533261"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 49,
+      "artistName": "爆笑問題",
+      "id": "1823898006",
+      "name": "2024年度版 漫才 爆笑問題のツーショット",
+      "releaseDate": "2025-07-15",
+      "kind": "audio-books",
+      "artistId": "587754614",
+      "artistUrl": "https://books.apple.com/jp/author/%E7%88%86%E7%AC%91%E5%95%8F%E9%A1%8C/id587754614",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6d/a4/0c/6da40c01-b21b-82e7-58fc-7cc2fda2954d/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000046",
+          "name": "コメディ",
+          "url": "https://itunes.apple.com/jp/genre/id50000046"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/2024%E5%B9%B4%E5%BA%A6%E7%89%88-%E6%BC%AB%E6%89%8D-%E7%88%86%E7%AC%91%E5%95%8F%E9%A1%8C%E3%81%AE%E3%83%84%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/id1823898006"
+    }
+  ]
+}

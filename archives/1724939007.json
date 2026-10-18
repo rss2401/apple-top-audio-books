@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 41,
+      "artistName": "Tracy Wolff",
+      "id": "1724939007",
+      "name": "Assoiffés - Tome 6 : Libérés",
+      "releaseDate": "2024-01-25",
+      "kind": "audio-books",
+      "artistId": "357992761",
+      "artistUrl": "https://books.apple.com/fr/author/tracy-wolff/id357992761",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/50/8b/67/508b67ab-f1e0-f593-3f5d-63c90b95145e/9791036632495.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000044",
+          "name": "Jeunesse",
+          "url": "https://itunes.apple.com/fr/genre/id50000044"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/assoiff%C3%A9s-tome-6-lib%C3%A9r%C3%A9s/id1724939007"
+    }
+  ]
+}

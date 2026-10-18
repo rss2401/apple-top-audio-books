@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 97,
+      "artistName": "Kenneth Grahame",
+      "id": "427355111",
+      "name": "Der Wind in den Weiden",
+      "releaseDate": "2007-01-01",
+      "kind": "audio-books",
+      "artistId": "3712522",
+      "artistUrl": "https://books.apple.com/de/author/kenneth-grahame/id3712522",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music/99/84/3d/mzi.ypifacda.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000044",
+          "name": "Kinder und Jugend",
+          "url": "https://itunes.apple.com/de/genre/id50000044"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/der-wind-in-den-weiden/id427355111"
+    }
+  ]
+}

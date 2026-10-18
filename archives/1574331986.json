@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 92,
+      "artistName": "Jacqueline Harpman",
+      "id": "1574331986",
+      "name": "I Who Have Never Known Men",
+      "releaseDate": "2021-07-22",
+      "kind": "audio-books",
+      "artistId": "373128517",
+      "artistUrl": "https://books.apple.com/gb/author/jacqueline-harpman/id373128517",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/9a/e0/1f9ae0e6-50e3-1909-46b6-0d32d25eacd5/9781529191448.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000055",
+          "name": "Sci-Fi & Fantasy",
+          "url": "https://itunes.apple.com/gb/genre/id50000055"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Audiobooks",
+          "url": "https://itunes.apple.com/gb/genre/id50000024"
+        },
+        {
+          "genreId": "50000040",
+          "name": "Fiction",
+          "url": "https://itunes.apple.com/gb/genre/id50000040"
+        }
+      ],
+      "url": "https://books.apple.com/gb/audiobook/i-who-have-never-known-men/id1574331986"
+    }
+  ]
+}

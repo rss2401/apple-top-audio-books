@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 72,
+      "artistName": "青木 仁志",
+      "id": "1597683821",
+      "name": "一生折れない自信のつくり方",
+      "releaseDate": "2021-12-03",
+      "kind": "audio-books",
+      "artistId": "1254353551",
+      "artistUrl": "https://books.apple.com/jp/author/%E9%9D%92%E6%9C%A8-%E4%BB%81%E5%BF%97/id1254353551",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/42/5a/27/425a270f-820d-9df8-a407-37a93fd3574f/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000056",
+          "name": "自己啓発",
+          "url": "https://itunes.apple.com/jp/genre/id50000056"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        },
+        {
+          "genreId": "50000052",
+          "name": "ノンフィクション",
+          "url": "https://itunes.apple.com/jp/genre/id50000052"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E4%B8%80%E7%94%9F%E6%8A%98%E3%82%8C%E3%81%AA%E3%81%84%E8%87%AA%E4%BF%A1%E3%81%AE%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9/id1597683821"
+    }
+  ]
+}

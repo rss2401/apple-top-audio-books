@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 47,
+      "artistName": "Eric Jorgenson",
+      "id": "1854763169",
+      "name": "The Book of Elon (Unabridged)",
+      "releaseDate": "2026-03-24",
+      "kind": "audio-books",
+      "artistId": "320478827",
+      "artistUrl": "https://books.apple.com/fr/author/eric-jorgenson/id320478827",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/b2/f7/b0b2f74d-c2b6-168b-ed83-b4f7b3685ba4/9781668158043.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000043",
+          "name": "Affaires",
+          "url": "https://itunes.apple.com/fr/genre/id50000043"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/the-book-of-elon-unabridged/id1854763169"
+    }
+  ]
+}

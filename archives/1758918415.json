@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 45,
+      "artistName": "Tracy Wolff",
+      "id": "1758918415",
+      "name": "Assoiffés - Tome 9 : Adorés",
+      "releaseDate": "2024-08-14",
+      "kind": "audio-books",
+      "artistId": "357992761",
+      "artistUrl": "https://books.apple.com/fr/author/tracy-wolff/id357992761",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cd/52/44/cd5244e2-d92c-90ec-fb8b-03bea5bbe833/9791036633065.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000044",
+          "name": "Jeunesse",
+          "url": "https://itunes.apple.com/fr/genre/id50000044"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/assoiff%C3%A9s-tome-9-ador%C3%A9s/id1758918415"
+    }
+  ]
+}

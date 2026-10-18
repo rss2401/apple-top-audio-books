@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 92,
+      "artistName": "OSHO",
+      "id": "1817811273",
+      "name": "Times of Crisis Are Times for Individual Revolution",
+      "releaseDate": "2015-11-23",
+      "kind": "audio-books",
+      "artistId": "1139783040",
+      "artistUrl": "https://books.apple.com/jp/author/osho/id1139783040",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/e3/36/e2e33658-5ac3-16ed-d36b-f4e0df116824/9780880504850.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000053",
+          "name": "宗教／スピリチュアル",
+          "url": "https://itunes.apple.com/jp/genre/id50000053"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/times-of-crisis-are-times-for-individual-revolution/id1817811273"
+    }
+  ]
+}

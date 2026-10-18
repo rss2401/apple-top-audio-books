@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 78,
+      "artistName": "Matt Haig",
+      "id": "1853589812",
+      "name": "Die Mitternachtsreise (Ungekürzte Lesung)",
+      "releaseDate": "2026-05-01",
+      "kind": "audio-books",
+      "artistId": "213196586",
+      "artistUrl": "https://books.apple.com/de/author/matt-haig/id213196586",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/14/f4/d7/14f4d776-5d6a-d19e-ebcb-785723b0a3ae/9783732422296_3000.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Belletristik",
+          "url": "https://itunes.apple.com/de/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/die-mitternachtsreise-ungek%C3%BCrzte-lesung/id1853589812"
+    }
+  ]
+}

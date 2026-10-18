@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 82,
+      "artistName": "Die Gereon-Rath-Romane, David Nathan & Volker Kutscher",
+      "id": "1500531749",
+      "name": "Marlow (Die Gereon-Rath-Romane 7)",
+      "releaseDate": "2018-10-30",
+      "kind": "audio-books",
+      "artistId": "1636921522",
+      "artistUrl": "https://books.apple.com/de/author/die-gereon-rath-romane/id1636921522",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/a8/08/7aa8084e-7455-548e-34de-aa497e17764d/9783844918601.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000051",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id50000051"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/marlow-die-gereon-rath-romane-7/id1500531749"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
     {
       "month": "202607",
@@ -7,6 +7,34 @@
       "mediaType": "audio-books",
       "feed": "top-audio-books",
       "rank": 13,
+      "artistName": "Dale Carnegie",
+      "id": "1425603286",
+      "name": "Wie man Freunde gewinnt - Die Kunst, beliebt und einflussreich zu werden (Ungekürzte Lesung)",
+      "releaseDate": "2016-06-17",
+      "kind": "audio-books",
+      "artistId": "23547707",
+      "artistUrl": "https://books.apple.com/de/author/dale-carnegie/id23547707",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/03/26/13/03261368-5065-cb5b-8222-8ff641a5f9da/9783732490103_3000.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000056",
+          "name": "Ratgeber",
+          "url": "https://itunes.apple.com/de/genre/id50000056"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/wie-man-freunde-gewinnt-die-kunst-beliebt-und-einflussreich/id1425603286"
+    },
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 55,
       "artistName": "Dale Carnegie",
       "id": "1425603286",
       "name": "Wie man Freunde gewinnt - Die Kunst, beliebt und einflussreich zu werden (Ungekürzte Lesung)",

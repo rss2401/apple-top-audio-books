@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 85,
+      "artistName": "Peter King",
+      "id": "6801256489",
+      "name": "The Game",
+      "releaseDate": "2026-10-13",
+      "kind": "audio-books",
+      "artistId": "209064",
+      "artistUrl": "https://books.apple.com/us/author/peter-king/id209064",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/71/64/3c/71643c80-3174-93d6-46a5-13b659ac5d03/9798898856601.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000057",
+          "name": "Sports & Outdoors",
+          "url": "https://itunes.apple.com/us/genre/id50000057"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Audiobooks",
+          "url": "https://itunes.apple.com/us/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/us/audiobook/the-game/id6801256489"
+    }
+  ]
+}
