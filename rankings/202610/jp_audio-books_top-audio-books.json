@@ -14,7 +14,7 @@
     "copyright": "Copyright © 2026 Apple Inc. All rights reserved.",
     "country": "jp",
     "icon": "https://www.apple.com/favicon.ico",
-    "updated": "Sun, 18 Oct 2026 12:12:18 +0000",
+    "updated": "Mon, 19 Oct 2026 13:31:18 +0000",
     "results": [
       {
         "artistName": "永松茂久",
@@ -43,6 +43,889 @@
           }
         ],
         "url": "https://books.apple.com/jp/audiobook/%E4%BA%BA%E3%81%AF%E8%A9%B1%E3%81%97%E6%96%B9%E3%81%8C9%E5%89%B2/id1695634825"
+      },
+      {
+        "artistName": "古川武士",
+        "id": "1440641104",
+        "name": "30日で人生を変える 「続ける」習慣",
+        "releaseDate": "2011-12-27",
+        "kind": "audio-books",
+        "artistId": "734215921",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%8F%A4%E5%B7%9D%E6%AD%A6%E5%A3%AB/id734215921",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/56/65/0d/56650dc8-ca42-9f20-ae7c-1b1f1fb455b2/square_artwork.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000043",
+            "name": "ビジネス",
+            "url": "https://itunes.apple.com/jp/genre/id50000043"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          },
+          {
+            "genreId": "50000056",
+            "name": "自己啓発",
+            "url": "https://itunes.apple.com/jp/genre/id50000056"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/30%E6%97%A5%E3%81%A7%E4%BA%BA%E7%94%9F%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B-%E7%B6%9A%E3%81%91%E3%82%8B-%E7%BF%92%E6%85%A3/id1440641104"
+      },
+      {
+        "artistName": "情報センター出版局:編",
+        "id": "1567532612",
+        "name": "とにかく使えるフランス語ー日常会話からマニアック表現まで",
+        "releaseDate": "2021-05-20",
+        "kind": "audio-books",
+        "artistId": "272007710",
+        "artistUrl": "https://books.apple.com/jp/author/%E6%83%85%E5%A0%B1%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%87%BA%E7%89%88%E5%B1%80-%E7%B7%A8/id272007710",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3a/8f/55/3a8f55d2-1384-b9aa-f7e1-b2cb62b4e6d7/rm_image.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000050",
+            "name": "言語",
+            "url": "https://itunes.apple.com/jp/genre/id50000050"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          },
+          {
+            "genreId": "50000052",
+            "name": "ノンフィクション",
+            "url": "https://itunes.apple.com/jp/genre/id50000052"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/%E3%81%A8%E3%81%AB%E3%81%8B%E3%81%8F%E4%BD%BF%E3%81%88%E3%82%8B%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%9E%E3%83%BC%E6%97%A5%E5%B8%B8%E4%BC%9A%E8%A9%B1%E3%81%8B%E3%82%89%E3%83%9E%E3%83%8B%E3%82%A2%E3%83%83%E3%82%AF%E8%A1%A8%E7%8F%BE%E3%81%BE%E3%81%A7/id1567532612"
+      },
+      {
+        "artistName": "鈴木陽一",
+        "id": "1641050567",
+        "name": "DUO3.0/CD基礎用",
+        "releaseDate": "2000-03-15",
+        "kind": "audio-books",
+        "artistId": "1444987291",
+        "artistUrl": "https://books.apple.com/jp/author/%E9%88%B4%E6%9C%A8%E9%99%BD%E4%B8%80/id1444987291",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b7/c8/12/b7c81243-3434-afa6-1a5a-c65499dbc3c0/square_artwork.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000050",
+            "name": "言語",
+            "url": "https://itunes.apple.com/jp/genre/id50000050"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/duo3-0-cd%E5%9F%BA%E7%A4%8E%E7%94%A8/id1641050567"
+      },
+      {
+        "artistName": "Gakken",
+        "id": "287792266",
+        "name": "「iPodで耳から覚える ずばり伝わる日常英会話」",
+        "releaseDate": "2008-08-20",
+        "kind": "audio-books",
+        "artistId": "1210629060",
+        "artistUrl": "https://books.apple.com/jp/author/gakken/id1210629060",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music/9c/50/f0/mzi.vrhujxyv.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000050",
+            "name": "言語",
+            "url": "https://itunes.apple.com/jp/genre/id50000050"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/ipod%E3%81%A7%E8%80%B3%E3%81%8B%E3%82%89%E8%A6%9A%E3%81%88%E3%82%8B-%E3%81%9A%E3%81%B0%E3%82%8A%E4%BC%9D%E3%82%8F%E3%82%8B%E6%97%A5%E5%B8%B8%E8%8B%B1%E4%BC%9A%E8%A9%B1/id287792266"
+      },
+      {
+        "artistName": "ユヴァル・ノア・ハラリ",
+        "id": "1494867685",
+        "name": "サピエンス全史(上)文明の構造と人類の幸福",
+        "releaseDate": "2017-12-22",
+        "kind": "audio-books",
+        "artistId": "1145190843",
+        "artistUrl": "https://books.apple.com/jp/author/%E3%83%A6%E3%83%B4%E3%82%A1%E3%83%AB-%E3%83%8E%E3%82%A2-%E3%83%8F%E3%83%A9%E3%83%AA/id1145190843",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/fb/a5/01/fba5015c-21b1-7289-71a0-34e3a46f1f40/dj.ecxcvhyz.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000052",
+            "name": "ノンフィクション",
+            "url": "https://itunes.apple.com/jp/genre/id50000052"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/%E3%82%B5%E3%83%94%E3%82%A8%E3%83%B3%E3%82%B9%E5%85%A8%E5%8F%B2-%E4%B8%8A-%E6%96%87%E6%98%8E%E3%81%AE%E6%A7%8B%E9%80%A0%E3%81%A8%E4%BA%BA%E9%A1%9E%E3%81%AE%E5%B9%B8%E7%A6%8F/id1494867685"
+      },
+      {
+        "artistName": "J・K・ローリング",
+        "id": "1444945952",
+        "name": "Harry Potter and the Goblet of Fire",
+        "releaseDate": "2015-11-20",
+        "kind": "audio-books",
+        "artistId": "79595314",
+        "artistUrl": "https://books.apple.com/jp/author/j-k-%E3%83%AD%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0/id79595314",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/29/97/c7/2997c73d-acc6-176d-24e3-c7ecda33f4e4/9781781102398.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000044",
+            "name": "キッズ／ヤングアダルト",
+            "url": "https://itunes.apple.com/jp/genre/id50000044"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          },
+          {
+            "genreId": "50000055",
+            "name": "SF／ファンタジー",
+            "url": "https://itunes.apple.com/jp/genre/id50000055"
+          },
+          {
+            "genreId": "50000040",
+            "name": "フィクション",
+            "url": "https://itunes.apple.com/jp/genre/id50000040"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/harry-potter-and-the-goblet-of-fire/id1444945952"
+      },
+      {
+        "artistName": "香月 美夜",
+        "id": "1551123253",
+        "name": "[9巻] 本好きの下剋上～司書になるためには手段を選んでいられません～第三部「領主の養女2」: TO Books.",
+        "releaseDate": "2021-02-12",
+        "kind": "audio-books",
+        "artistId": "1460203384",
+        "artistUrl": "https://books.apple.com/jp/author/%E9%A6%99%E6%9C%88-%E7%BE%8E%E5%A4%9C/id1460203384",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/45/c4/dc45c40b-0c68-fa3d-9075-8666341d2cf5/rm_image.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000093",
+            "name": "ライトノベル",
+            "url": "https://itunes.apple.com/jp/genre/id50000093"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/9%E5%B7%BB-%E6%9C%AC%E5%A5%BD%E3%81%8D%E3%81%AE%E4%B8%8B%E5%89%8B%E4%B8%8A-%E5%8F%B8%E6%9B%B8%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E3%81%AF%E6%89%8B%E6%AE%B5%E3%82%92%E9%81%B8%E3%82%93%E3%81%A7%E3%81%84%E3%82%89%E3%82%8C%E3%81%BE%E3%81%9B%E3%82%93-%E7%AC%AC%E4%B8%89%E9%83%A8-%E9%A0%98%E4%B8%BB%E3%81%AE%E9%A4%8A%E5%A5%B32-to-books/id1551123253"
+      },
+      {
+        "artistName": "永松茂久",
+        "id": "1674258177",
+        "name": "リーダーは話し方が9割",
+        "releaseDate": "2023-03-01",
+        "kind": "audio-books",
+        "artistId": "1207156882",
+        "artistUrl": "https://books.apple.com/jp/author/%E6%B0%B8%E6%9D%BE%E8%8C%82%E4%B9%85/id1207156882",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e7/4e/33/e74e33ca-4c19-ac17-73d5-6200c211e8a1/rm_image.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000043",
+            "name": "ビジネス",
+            "url": "https://itunes.apple.com/jp/genre/id50000043"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%81%AF%E8%A9%B1%E3%81%97%E6%96%B9%E3%81%8C9%E5%89%B2/id1674258177"
+      },
+      {
+        "artistName": "相沢沙呼",
+        "id": "1748265317",
+        "name": "invert II 覗き窓の死角",
+        "releaseDate": "2023-11-15",
+        "kind": "audio-books",
+        "artistId": "878902494",
+        "artistUrl": "https://books.apple.com/jp/author/%E7%9B%B8%E6%B2%A2%E6%B2%99%E5%91%BC/id878902494",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/21/67/eb21672a-68eb-e4eb-5616-1eb27ac06a6d/square_artwork.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000040",
+            "name": "フィクション",
+            "url": "https://itunes.apple.com/jp/genre/id50000040"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/invert-ii-%E8%A6%97%E3%81%8D%E7%AA%93%E3%81%AE%E6%AD%BB%E8%A7%92/id1748265317"
+      },
+      {
+        "artistName": "冲方 丁",
+        "id": "1056057110",
+        "name": "新装版 冲方丁のライトノベルの書き方講座",
+        "releaseDate": "2015-04-28",
+        "kind": "audio-books",
+        "artistId": "1149252689",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%86%B2%E6%96%B9-%E4%B8%81/id1149252689",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8e/d3/1e/8ed31eb9-2cb3-58f7-7166-cd558763beb5/rm_image.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000093",
+            "name": "ライトノベル",
+            "url": "https://itunes.apple.com/jp/genre/id50000093"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/%E6%96%B0%E8%A3%85%E7%89%88-%E5%86%B2%E6%96%B9%E4%B8%81%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%88%E3%83%8E%E3%83%99%E3%83%AB%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9%E8%AC%9B%E5%BA%A7/id1056057110"
+      },
+      {
+        "artistName": "誉田哲也",
+        "id": "1654466057",
+        "name": "シンメトリー",
+        "releaseDate": "2021-12-06",
+        "kind": "audio-books",
+        "artistId": "586172244",
+        "artistUrl": "https://books.apple.com/jp/author/%E8%AA%89%E7%94%B0%E5%93%B2%E4%B9%9F/id586172244",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/82/b3/d0/82b3d04f-bb66-f3e4-2a50-e21bb9c05e2b/square_artwork.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000040",
+            "name": "フィクション",
+            "url": "https://itunes.apple.com/jp/genre/id50000040"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/%E3%82%B7%E3%83%B3%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BC/id1654466057"
+      },
+      {
+        "artistName": "安藤 俊介",
+        "id": "1619021586",
+        "name": "[図解]アンガーマネジメント超入門 「怒り」が消える心のトレーニング",
+        "releaseDate": "2022-04-20",
+        "kind": "audio-books",
+        "artistId": "629278300",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%AE%89%E8%97%A4-%E4%BF%8A%E4%BB%8B/id629278300",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/75/bb/8375bbd2-14fa-8257-d724-02f86fa9ab2b/rm_image.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000056",
+            "name": "自己啓発",
+            "url": "https://itunes.apple.com/jp/genre/id50000056"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          },
+          {
+            "genreId": "50000052",
+            "name": "ノンフィクション",
+            "url": "https://itunes.apple.com/jp/genre/id50000052"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/%E5%9B%B3%E8%A7%A3-%E3%82%A2%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E8%B6%85%E5%85%A5%E9%96%80-%E6%80%92%E3%82%8A-%E3%81%8C%E6%B6%88%E3%81%88%E3%82%8B%E5%BF%83%E3%81%AE%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0/id1619021586"
+      },
+      {
+        "artistName": "Lois Lowry",
+        "id": "1416859385",
+        "name": "The Giver (Unabridged)",
+        "releaseDate": "2000-07-05",
+        "kind": "audio-books",
+        "artistId": "3604482",
+        "artistUrl": "https://books.apple.com/jp/author/lois-lowry/id3604482",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/73/8c/7a/738c7abe-de15-1531-4591-14d693debc3e/9780553751376.d.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000044",
+            "name": "キッズ／ヤングアダルト",
+            "url": "https://itunes.apple.com/jp/genre/id50000044"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/the-giver-unabridged/id1416859385"
+      },
+      {
+        "artistName": "イスラーフィール",
+        "id": "6776971400",
+        "name": "[CD]羽林、乱世を翔る ドラマCD ～異伝 淡海乃海～",
+        "releaseDate": "2026-06-25",
+        "kind": "audio-books",
+        "artistId": "1276454265",
+        "artistUrl": "https://books.apple.com/jp/author/%E3%82%A4%E3%82%B9%E3%83%A9%E3%83%BC%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/id1276454265",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/30/d1/a230d12f-b333-ee95-a0bc-c44cf7b98eab/rm_image.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000093",
+            "name": "ライトノベル",
+            "url": "https://itunes.apple.com/jp/genre/id50000093"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/cd-%E7%BE%BD%E6%9E%97-%E4%B9%B1%E4%B8%96%E3%82%92%E7%BF%94%E3%82%8B-%E3%83%89%E3%83%A9%E3%83%9Ecd-%E7%95%B0%E4%BC%9D-%E6%B7%A1%E6%B5%B7%E4%B9%83%E6%B5%B7/id6776971400"
+      },
+      {
+        "artistName": "Olly Richards",
+        "id": "1543173871",
+        "name": "101 Conversations in Simple French: Short Natural Dialogues to Boost Your Confidence & Improve Your Spoken French",
+        "releaseDate": "2019-11-01",
+        "kind": "audio-books",
+        "artistId": "1107727996",
+        "artistUrl": "https://books.apple.com/jp/author/olly-richards/id1107727996",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7f/0f/a6/7f0fa60c-9ed0-20a0-ffb2-de80593fb51e/9781664949676.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000050",
+            "name": "言語",
+            "url": "https://itunes.apple.com/jp/genre/id50000050"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/101-conversations-in-simple-french-short-natural-dialogues/id1543173871"
+      },
+      {
+        "artistName": "山口 瞳",
+        "id": "1084848029",
+        "name": "行きつけの店",
+        "releaseDate": "2015-08-24",
+        "kind": "audio-books",
+        "artistId": "587333133",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%B1%B1%E5%8F%A3-%E7%9E%B3/id587333133",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/6d/d4/49/6dd4496a-33ba-4b4a-7ded-994b8c964083/rm_image.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000042",
+            "name": "伝記／自叙伝",
+            "url": "https://itunes.apple.com/jp/genre/id50000042"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/%E8%A1%8C%E3%81%8D%E3%81%A4%E3%81%91%E3%81%AE%E5%BA%97/id1084848029"
+      },
+      {
+        "artistName": "井上 裕之",
+        "id": "1577524373",
+        "name": "本物の気づかい",
+        "releaseDate": "2021-07-30",
+        "kind": "audio-books",
+        "artistId": "1155410989",
+        "artistUrl": "https://books.apple.com/jp/author/%E4%BA%95%E4%B8%8A-%E8%A3%95%E4%B9%8B/id1155410989",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/a5/c2/eba5c2cd-fde8-242d-4d09-deea364ad1c2/rm_image.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000043",
+            "name": "ビジネス",
+            "url": "https://itunes.apple.com/jp/genre/id50000043"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/%E6%9C%AC%E7%89%A9%E3%81%AE%E6%B0%97%E3%81%A5%E3%81%8B%E3%81%84/id1577524373"
+      },
+      {
+        "artistName": "山口瞳",
+        "id": "1670402301",
+        "name": "居酒屋兆治(P+D BOOKS)",
+        "releaseDate": "2023-02-10",
+        "kind": "audio-books",
+        "artistId": "588917335",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%B1%B1%E5%8F%A3%E7%9E%B3/id588917335",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d5/8a/38/d58a384a-1b65-e43e-c755-5ce5288806ab/square_artwork.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000040",
+            "name": "フィクション",
+            "url": "https://itunes.apple.com/jp/genre/id50000040"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/%E5%B1%85%E9%85%92%E5%B1%8B%E5%85%86%E6%B2%BB-p-d-books/id1670402301"
+      },
+      {
+        "artistName": "Lois Lowry",
+        "id": "1423831940",
+        "name": "Gathering Blue (Unabridged)",
+        "releaseDate": "2008-07-01",
+        "kind": "audio-books",
+        "artistId": "3604482",
+        "artistUrl": "https://books.apple.com/jp/author/lois-lowry/id3604482",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/dc/7a/c4/dc7ac4b4-9735-c030-6bf9-525de378d01f/9780739379806.d.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000044",
+            "name": "キッズ／ヤングアダルト",
+            "url": "https://itunes.apple.com/jp/genre/id50000044"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/gathering-blue-unabridged/id1423831940"
+      },
+      {
+        "artistName": "古流 望",
+        "id": "6802819532",
+        "name": "おかしな転生9 戦いはフルーツに合わせて",
+        "releaseDate": "2026-09-25",
+        "kind": "audio-books",
+        "artistId": "1468326216",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%8F%A4%E6%B5%81-%E6%9C%9B/id1468326216",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f9/4b/58/f94b5870-bee8-290f-e512-8ad84c5c6ebb/rm_image.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000093",
+            "name": "ライトノベル",
+            "url": "https://itunes.apple.com/jp/genre/id50000093"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/%E3%81%8A%E3%81%8B%E3%81%97%E3%81%AA%E8%BB%A2%E7%94%9F9-%E6%88%A6%E3%81%84%E3%81%AF%E3%83%95%E3%83%AB%E3%83%BC%E3%83%84%E3%81%AB%E5%90%88%E3%82%8F%E3%81%9B%E3%81%A6/id6802819532"
+      },
+      {
+        "artistName": "Sir Alex Ferguson & Sir Michael Moritz",
+        "id": "1883636302",
+        "name": "Games of My Life",
+        "releaseDate": "2026-10-08",
+        "kind": "audio-books",
+        "artistId": "453447763",
+        "artistUrl": "https://books.apple.com/jp/author/sir-alex-ferguson/id453447763",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fd/d0/13/fdd0138d-a2d2-c9d6-ce76-c77ddfbc265c/9781037402463.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000042",
+            "name": "伝記／自叙伝",
+            "url": "https://itunes.apple.com/jp/genre/id50000042"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          },
+          {
+            "genreId": "50000057",
+            "name": "スポーツ",
+            "url": "https://itunes.apple.com/jp/genre/id50000057"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/games-of-my-life/id1883636302"
+      },
+      {
+        "artistName": "山口瞳",
+        "id": "1676041994",
+        "name": "血族(P+D BOOKS)",
+        "releaseDate": "2023-03-10",
+        "kind": "audio-books",
+        "artistId": "588917335",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%B1%B1%E5%8F%A3%E7%9E%B3/id588917335",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/37/8b/7c/378b7c1c-b003-f4e1-cadc-77f230f33628/square_artwork.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000040",
+            "name": "フィクション",
+            "url": "https://itunes.apple.com/jp/genre/id50000040"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/%E8%A1%80%E6%97%8F-p-d-books/id1676041994"
+      },
+      {
+        "artistName": "山口瞳",
+        "id": "1676037207",
+        "name": "家族(P+D BOOKS)",
+        "releaseDate": "2023-03-10",
+        "kind": "audio-books",
+        "artistId": "588917335",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%B1%B1%E5%8F%A3%E7%9E%B3/id588917335",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a5/94/47/a594479d-f024-7a42-8cd5-6b024f891135/square_artwork.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000040",
+            "name": "フィクション",
+            "url": "https://itunes.apple.com/jp/genre/id50000040"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/%E5%AE%B6%E6%97%8F-p-d-books/id1676037207"
+      },
+      {
+        "artistName": "リュート",
+        "id": "6819355783",
+        "name": "[17巻] 目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい 17: (KADOKAWA)",
+        "releaseDate": "2026-10-16",
+        "kind": "audio-books",
+        "artistId": "308449557",
+        "artistUrl": "https://books.apple.com/jp/author/%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%88/id308449557",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/c8/9a/24c89a45-cb9f-0bc4-8920-1bd870295362/rm_image.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000055",
+            "name": "SF／ファンタジー",
+            "url": "https://itunes.apple.com/jp/genre/id50000055"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/17%E5%B7%BB-%E7%9B%AE%E8%A6%9A%E3%82%81%E3%81%9F%E3%82%89%E6%9C%80%E5%BC%B7%E8%A3%85%E5%82%99%E3%81%A8%E5%AE%87%E5%AE%99%E8%88%B9%E6%8C%81%E3%81%A1%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%A7-%E4%B8%80%E6%88%B8%E5%BB%BA%E3%81%A6%E7%9B%AE%E6%8C%87%E3%81%97%E3%81%A6%E5%82%AD%E5%85%B5%E3%81%A8%E3%81%97%E3%81%A6%E8%87%AA%E7%94%B1%E3%81%AB%E7%94%9F%E3%81%8D%E3%81%9F%E3%81%84-17-kadokawa/id6819355783"
+      },
+      {
+        "artistName": "小池 雅美",
+        "id": "6804951897",
+        "name": "気分の9割は血糖値",
+        "releaseDate": "2026-09-25",
+        "kind": "audio-books",
+        "artistId": "6804951906",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%B0%8F%E6%B1%A0-%E9%9B%85%E7%BE%8E/id6804951906",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/7a/77/e97a77f0-d226-8a23-c0ae-d1cb7667f541/rm_image.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000056",
+            "name": "自己啓発",
+            "url": "https://itunes.apple.com/jp/genre/id50000056"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/%E6%B0%97%E5%88%86%E3%81%AE9%E5%89%B2%E3%81%AF%E8%A1%80%E7%B3%96%E5%80%A4/id6804951897"
+      },
+      {
+        "artistName": "OSHO",
+        "id": "1821430892",
+        "name": "A Gnostic Is One Who Knows",
+        "releaseDate": "2022-11-17",
+        "kind": "audio-books",
+        "artistId": "1139783040",
+        "artistUrl": "https://books.apple.com/jp/author/osho/id1139783040",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/da/56/73/da56734b-ef7a-7098-5487-cf92f1ec7863/9780880504973.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000053",
+            "name": "宗教／スピリチュアル",
+            "url": "https://itunes.apple.com/jp/genre/id50000053"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/a-gnostic-is-one-who-knows/id1821430892"
+      },
+      {
+        "artistName": "OSHO",
+        "id": "1810682126",
+        "name": "The Secret of Secrets",
+        "releaseDate": "2025-04-25",
+        "kind": "audio-books",
+        "artistId": "1139783040",
+        "artistUrl": "https://books.apple.com/jp/author/osho/id1139783040",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/52/2a/a1/522aa185-61cf-c8c0-ef48-7aed11c91eff/9780880501408.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000053",
+            "name": "宗教／スピリチュアル",
+            "url": "https://itunes.apple.com/jp/genre/id50000053"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/the-secret-of-secrets/id1810682126"
+      },
+      {
+        "artistName": "Daniel J. Levitin",
+        "id": "1751007433",
+        "name": "I Heard There Was a Secret Chord : Music as Medicine",
+        "releaseDate": "2024-08-27",
+        "kind": "audio-books",
+        "artistId": "261633832",
+        "artistUrl": "https://books.apple.com/jp/author/daniel-j-levitin/id261633832",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/23/bd/2423bd87-ced4-2e47-cde0-8d7aed4b7e85/9798892747257.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000052",
+            "name": "ノンフィクション",
+            "url": "https://itunes.apple.com/jp/genre/id50000052"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/i-heard-there-was-a-secret-chord-music-as-medicine/id1751007433"
+      },
+      {
+        "artistName": "Henrik Mulford",
+        "id": "1646104253",
+        "name": "Bundle the Bodybuilding Bible for Men 1 & 2: Guidebook to Building Men’s Muscles in a Short Time. Body Confidence, Mass Nutrition, Exercises Tips that Truly Make an Impact to Bodybuilding Results (Unabridged)",
+        "releaseDate": "2025-09-02",
+        "kind": "audio-books",
+        "artistId": "1544748140",
+        "artistUrl": "https://books.apple.com/jp/author/henrik-mulford/id1544748140",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/99/7f/cb/997fcb9b-01cc-ffcc-f9da-33dfb8c3c45e/rm_image.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000056",
+            "name": "自己啓発",
+            "url": "https://itunes.apple.com/jp/genre/id50000056"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          },
+          {
+            "genreId": "50000057",
+            "name": "スポーツ",
+            "url": "https://itunes.apple.com/jp/genre/id50000057"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/bundle-the-bodybuilding-bible-for-men-1-2-guidebook/id1646104253"
+      },
+      {
+        "artistName": "Theodore Dreiser",
+        "id": "1618179037",
+        "name": "An American Tragedy (Unabridged)",
+        "releaseDate": "2022-04-05",
+        "kind": "audio-books",
+        "artistId": "214595555",
+        "artistUrl": "https://books.apple.com/jp/author/theodore-dreiser/id214595555",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a2/d8/a2/a2d8a2fe-ae51-1906-554d-8582495fc217/9781669370598.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000045",
+            "name": "名作",
+            "url": "https://itunes.apple.com/jp/genre/id50000045"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/an-american-tragedy-unabridged/id1618179037"
+      },
+      {
+        "artistName": "Janet Mills & Don Miguel Ruiz",
+        "id": "1387011424",
+        "name": "Oraciones: Una comunión con nuestro Creador [Prayers: A Communion with Our Creator]: Inspiración y meditaciones guiadas para vivir con amor y felicidad [Inspiration and Guided Meditations to Live with Love and Happiness] (Unabridged)",
+        "releaseDate": "2025-08-14",
+        "kind": "audio-books",
+        "artistId": "364295079",
+        "artistUrl": "https://books.apple.com/jp/author/janet-mills/id364295079",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/be/c6/2a/bec62a5d-1082-dcf0-3c1c-71893dac1012/rm_image.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000056",
+            "name": "自己啓発",
+            "url": "https://itunes.apple.com/jp/genre/id50000056"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          },
+          {
+            "genreId": "50000053",
+            "name": "宗教／スピリチュアル",
+            "url": "https://itunes.apple.com/jp/genre/id50000053"
+          },
+          {
+            "genreId": "50000052",
+            "name": "ノンフィクション",
+            "url": "https://itunes.apple.com/jp/genre/id50000052"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/oraciones-una-comuni%C3%B3n-con-nuestro-creador-prayers/id1387011424"
+      },
+      {
+        "artistName": "朝井 リョウ",
+        "id": "1891017559",
+        "name": "イン・ザ・メガチャーチ",
+        "releaseDate": "2026-04-09",
+        "kind": "audio-books",
+        "artistId": "888954629",
+        "artistUrl": "https://books.apple.com/jp/author/%E6%9C%9D%E4%BA%95-%E3%83%AA%E3%83%A7%E3%82%A6/id888954629",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/e9/2a/55e92a38-5961-7959-32a1-0c1951b7e031/rm_image.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000040",
+            "name": "フィクション",
+            "url": "https://itunes.apple.com/jp/genre/id50000040"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/%E3%82%A4%E3%83%B3-%E3%82%B6-%E3%83%A1%E3%82%AC%E3%83%81%E3%83%A3%E3%83%BC%E3%83%81/id1891017559"
+      },
+      {
+        "artistName": "J・K・ローリング",
+        "id": "1442233034",
+        "name": "Harry Potter and the Half-Blood Prince",
+        "releaseDate": "2015-11-20",
+        "kind": "audio-books",
+        "artistId": "79595314",
+        "artistUrl": "https://books.apple.com/jp/author/j-k-%E3%83%AD%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0/id79595314",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fd/37/0f/fd370fb7-7f68-3437-ec54-e2a090fb115e/9781781102411.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000044",
+            "name": "キッズ／ヤングアダルト",
+            "url": "https://itunes.apple.com/jp/genre/id50000044"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          },
+          {
+            "genreId": "50000055",
+            "name": "SF／ファンタジー",
+            "url": "https://itunes.apple.com/jp/genre/id50000055"
+          },
+          {
+            "genreId": "50000040",
+            "name": "フィクション",
+            "url": "https://itunes.apple.com/jp/genre/id50000040"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/harry-potter-and-the-half-blood-prince/id1442233034"
+      },
+      {
+        "artistName": "森井啓二",
+        "id": "1798360374",
+        "name": "神の国日本の美しい神社 神々と共に歩む最高の人生",
+        "releaseDate": "2024-03-21",
+        "kind": "audio-books",
+        "artistId": "1503319412",
+        "artistUrl": "https://books.apple.com/jp/author/%E6%A3%AE%E4%BA%95%E5%95%93%E4%BA%8C/id1503319412",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/3e/88/653e8867-aa1b-595a-0aa2-095717b44229/square_artwork.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000053",
+            "name": "宗教／スピリチュアル",
+            "url": "https://itunes.apple.com/jp/genre/id50000053"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/%E7%A5%9E%E3%81%AE%E5%9B%BD%E6%97%A5%E6%9C%AC%E3%81%AE%E7%BE%8E%E3%81%97%E3%81%84%E7%A5%9E%E7%A4%BE-%E7%A5%9E%E3%80%85%E3%81%A8%E5%85%B1%E3%81%AB%E6%AD%A9%E3%82%80%E6%9C%80%E9%AB%98%E3%81%AE%E4%BA%BA%E7%94%9F/id1798360374"
+      },
+      {
+        "artistName": "坂口安吾",
+        "id": "1081252653",
+        "name": "織田信長",
+        "releaseDate": "2015-06-15",
+        "kind": "audio-books",
+        "artistId": "185301069",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%9D%82%E5%8F%A3%E5%AE%89%E5%90%BE/id185301069",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/10/c4/65/10c46532-1a2f-4210-0d45-9004544ed669/rm_image.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000040",
+            "name": "フィクション",
+            "url": "https://itunes.apple.com/jp/genre/id50000040"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/%E7%B9%94%E7%94%B0%E4%BF%A1%E9%95%B7/id1081252653"
+      },
+      {
+        "artistName": "J・K・ローリング",
+        "id": "1442185522",
+        "name": "Harry Potter and the Philosopher's Stone",
+        "releaseDate": "2015-11-20",
+        "kind": "audio-books",
+        "artistId": "79595314",
+        "artistUrl": "https://books.apple.com/jp/author/j-k-%E3%83%AD%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0/id79595314",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/12/29/e5/1229e590-1356-1fa1-9302-4c7f0841345d/9781781102367.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000044",
+            "name": "キッズ／ヤングアダルト",
+            "url": "https://itunes.apple.com/jp/genre/id50000044"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/harry-potter-and-the-philosophers-stone/id1442185522"
       },
       {
         "artistName": "J・K・ローリング",
@@ -77,6 +960,29 @@
           }
         ],
         "url": "https://books.apple.com/jp/audiobook/harry-potter-and-the-prisoner-of-azkaban/id1442094440"
+      },
+      {
+        "artistName": "司馬 遼太郎",
+        "id": "1050913560",
+        "name": "城の怪",
+        "releaseDate": "2015-10-29",
+        "kind": "audio-books",
+        "artistId": "1054192112",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%8F%B8%E9%A6%AC-%E9%81%BC%E5%A4%AA%E9%83%8E/id1054192112",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/65/3f/31/653f3136-ec3b-a682-ea7c-61a4364f20c0/rm_image.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000040",
+            "name": "フィクション",
+            "url": "https://itunes.apple.com/jp/genre/id50000040"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/%E5%9F%8E%E3%81%AE%E6%80%AA/id1050913560"
       },
       {
         "artistName": "J・K・ローリング",
@@ -171,6 +1077,29 @@
         "url": "https://books.apple.com/jp/audiobook/duo%E3%82%BB%E3%83%AC%E3%82%AF%E3%83%88cd/id1641048173"
       },
       {
+        "artistName": "宮島未奈",
+        "id": "6770385238",
+        "name": "成瀬は信じた道をいく",
+        "releaseDate": "2024-06-28",
+        "kind": "audio-books",
+        "artistId": "1669671291",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%AE%AE%E5%B3%B6%E6%9C%AA%E5%A5%88/id1669671291",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/aa/a5/b1aaa50b-661f-1a82-cf07-9ffabf8420f3/square_artwork.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000040",
+            "name": "フィクション",
+            "url": "https://itunes.apple.com/jp/genre/id50000040"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/%E6%88%90%E7%80%AC%E3%81%AF%E4%BF%A1%E3%81%98%E3%81%9F%E9%81%93%E3%82%92%E3%81%84%E3%81%8F/id6770385238"
+      },
+      {
         "artistName": "久坂部羊",
         "id": "1806230507",
         "name": "人はどう老いるのか",
@@ -194,42 +1123,47 @@
         "url": "https://books.apple.com/jp/audiobook/%E4%BA%BA%E3%81%AF%E3%81%A9%E3%81%86%E8%80%81%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B/id1806230507"
       },
       {
-        "artistName": "朝井 リョウ",
-        "id": "1891017559",
-        "name": "イン・ザ・メガチャーチ",
-        "releaseDate": "2026-04-09",
+        "artistName": "フランツ・カフカ",
+        "id": "565954438",
+        "name": "フランツ・カフカ「変身」",
+        "releaseDate": "2012-09-28",
         "kind": "audio-books",
-        "artistId": "888954629",
-        "artistUrl": "https://books.apple.com/jp/author/%E6%9C%9D%E4%BA%95-%E3%83%AA%E3%83%A7%E3%82%A6/id888954629",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/e9/2a/55e92a38-5961-7959-32a1-0c1951b7e031/rm_image.jpg/100x100bb.png",
+        "artistId": "17268605",
+        "artistUrl": "https://books.apple.com/jp/author/%E3%83%95%E3%83%A9%E3%83%B3%E3%83%84-%E3%82%AB%E3%83%95%E3%82%AB/id17268605",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/af/3e/3c/af3e3c99-b50a-379b-8238-ea7ffe2da964/rm_image.jpg/100x100bb.png",
         "genres": [
+          {
+            "genreId": "50000045",
+            "name": "名作",
+            "url": "https://itunes.apple.com/jp/genre/id50000045"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          },
           {
             "genreId": "50000040",
             "name": "フィクション",
             "url": "https://itunes.apple.com/jp/genre/id50000040"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
           }
         ],
-        "url": "https://books.apple.com/jp/audiobook/%E3%82%A4%E3%83%B3-%E3%82%B6-%E3%83%A1%E3%82%AC%E3%83%81%E3%83%A3%E3%83%BC%E3%83%81/id1891017559"
+        "url": "https://books.apple.com/jp/audiobook/%E3%83%95%E3%83%A9%E3%83%B3%E3%83%84-%E3%82%AB%E3%83%95%E3%82%AB-%E5%A4%89%E8%BA%AB/id565954438"
       },
       {
-        "artistName": "アンジェラ・ダックワース & 神崎 朗子",
-        "id": "1484293825",
-        "name": "やり抜く力 GRIT(グリット)――人生のあらゆる成功を決める「究極の能力」を身につける",
-        "releaseDate": "2019-09-06",
+        "artistName": "三宅香帆",
+        "id": "1769404484",
+        "name": "「好き」を言語化する技術 推しの素晴らしさを語りたいのに「やばい!」しかでてこない",
+        "releaseDate": "2024-07-31",
         "kind": "audio-books",
-        "artistId": "1151845912",
-        "artistUrl": "https://books.apple.com/jp/author/%E3%82%A2%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%A9-%E3%83%80%E3%83%83%E3%82%AF%E3%83%AF%E3%83%BC%E3%82%B9/id1151845912",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/d9/92/ae/d992aed1-0b15-cfdc-987c-f9c559893596/rm_image.jpg/100x100bb.png",
+        "artistId": "1337616955",
+        "artistUrl": "https://books.apple.com/jp/author/%E4%B8%89%E5%AE%85%E9%A6%99%E5%B8%86/id1337616955",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/5c/6a/8a5c6a9f-31e1-c430-e911-d925d0a1e2f5/square_artwork.jpg/100x100bb.png",
         "genres": [
           {
-            "genreId": "50000056",
-            "name": "自己啓発",
-            "url": "https://itunes.apple.com/jp/genre/id50000056"
+            "genreId": "50000052",
+            "name": "ノンフィクション",
+            "url": "https://itunes.apple.com/jp/genre/id50000052"
           },
           {
             "genreId": "50000024",
@@ -237,7 +1171,35 @@
             "url": "https://itunes.apple.com/jp/genre/id50000024"
           }
         ],
-        "url": "https://books.apple.com/jp/audiobook/%E3%82%84%E3%82%8A%E6%8A%9C%E3%81%8F%E5%8A%9B-grit-%E3%82%B0%E3%83%AA%E3%83%83%E3%83%88-%E4%BA%BA%E7%94%9F%E3%81%AE%E3%81%82%E3%82%89%E3%82%86%E3%82%8B%E6%88%90%E5%8A%9F%E3%82%92%E6%B1%BA%E3%82%81%E3%82%8B-%E7%A9%B6%E6%A5%B5%E3%81%AE%E8%83%BD%E5%8A%9B-%E3%82%92%E8%BA%AB%E3%81%AB%E3%81%A4%E3%81%91%E3%82%8B/id1484293825"
+        "url": "https://books.apple.com/jp/audiobook/%E5%A5%BD%E3%81%8D-%E3%82%92%E8%A8%80%E8%AA%9E%E5%8C%96%E3%81%99%E3%82%8B%E6%8A%80%E8%A1%93-%E6%8E%A8%E3%81%97%E3%81%AE%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%95%E3%82%92%E8%AA%9E%E3%82%8A%E3%81%9F%E3%81%84%E3%81%AE%E3%81%AB-%E3%82%84%E3%81%B0%E3%81%84-%E3%81%97%E3%81%8B%E3%81%A7%E3%81%A6%E3%81%93%E3%81%AA%E3%81%84/id1769404484"
+      },
+      {
+        "artistName": "桐原書店編",
+        "id": "322426273",
+        "name": "桐原書店 きくeigo(英語) 『 オー・ヘンリー短編集』",
+        "releaseDate": "2009-07-03",
+        "kind": "audio-books",
+        "artistId": "322426278",
+        "artistUrl": "https://books.apple.com/jp/author/%E6%A1%90%E5%8E%9F%E6%9B%B8%E5%BA%97%E7%B7%A8/id322426278",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/db/c1/8f/dbc18fae-81d3-2c04-1033-ffc5c8e53004/rm_image.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000052",
+            "name": "ノンフィクション",
+            "url": "https://itunes.apple.com/jp/genre/id50000052"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          },
+          {
+            "genreId": "50000050",
+            "name": "言語",
+            "url": "https://itunes.apple.com/jp/genre/id50000050"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/%E6%A1%90%E5%8E%9F%E6%9B%B8%E5%BA%97-%E3%81%8D%E3%81%8Feigo-%E8%8B%B1%E8%AA%9E-%E3%82%AA%E3%83%BC-%E3%83%98%E3%83%B3%E3%83%AA%E3%83%BC%E7%9F%AD%E7%B7%A8%E9%9B%86/id322426273"
       },
       {
         "artistName": "アルク",
@@ -268,6 +1230,29 @@
         "url": "https://books.apple.com/jp/audiobook/%E7%A9%B6%E6%A5%B5%E3%81%AE%E8%8B%B1%E5%8D%98%E8%AA%9Evol-1-%E3%82%A2%E3%83%AB%E3%82%AF/id402718477"
       },
       {
+        "artistName": "アンジェラ・ダックワース & 神崎 朗子",
+        "id": "1484293825",
+        "name": "やり抜く力 GRIT(グリット)――人生のあらゆる成功を決める「究極の能力」を身につける",
+        "releaseDate": "2019-09-06",
+        "kind": "audio-books",
+        "artistId": "1151845912",
+        "artistUrl": "https://books.apple.com/jp/author/%E3%82%A2%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%A9-%E3%83%80%E3%83%83%E3%82%AF%E3%83%AF%E3%83%BC%E3%82%B9/id1151845912",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/d9/92/ae/d992aed1-0b15-cfdc-987c-f9c559893596/rm_image.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000056",
+            "name": "自己啓発",
+            "url": "https://itunes.apple.com/jp/genre/id50000056"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/%E3%82%84%E3%82%8A%E6%8A%9C%E3%81%8F%E5%8A%9B-grit-%E3%82%B0%E3%83%AA%E3%83%83%E3%83%88-%E4%BA%BA%E7%94%9F%E3%81%AE%E3%81%82%E3%82%89%E3%82%86%E3%82%8B%E6%88%90%E5%8A%9F%E3%82%92%E6%B1%BA%E3%82%81%E3%82%8B-%E7%A9%B6%E6%A5%B5%E3%81%AE%E8%83%BD%E5%8A%9B-%E3%82%92%E8%BA%AB%E3%81%AB%E3%81%A4%E3%81%91%E3%82%8B/id1484293825"
+      },
+      {
         "artistName": "稲盛和夫",
         "id": "1433912045",
         "name": "生き方―人間として一番大切なこと",
@@ -296,19 +1281,19 @@
         "url": "https://books.apple.com/jp/audiobook/%E7%94%9F%E3%81%8D%E6%96%B9-%E4%BA%BA%E9%96%93%E3%81%A8%E3%81%97%E3%81%A6%E4%B8%80%E7%95%AA%E5%A4%A7%E5%88%87%E3%81%AA%E3%81%93%E3%81%A8/id1433912045"
       },
       {
-        "artistName": "理不尽な孫の手",
-        "id": "1777414886",
-        "name": "[18巻] 無職転生 ～異世界行ったら本気だす～ 18: (KADOKAWA)",
-        "releaseDate": "2024-11-08",
+        "artistName": "竹村亞希子",
+        "id": "278729464",
+        "name": "江守徹の朗読で楽しむ「易経入門」Part2 水火既済・火水未済--創業と守成",
+        "releaseDate": "2008-04-09",
         "kind": "audio-books",
-        "artistId": "816853305",
-        "artistUrl": "https://books.apple.com/jp/author/%E7%90%86%E4%B8%8D%E5%B0%BD%E3%81%AA%E5%AD%AB%E3%81%AE%E6%89%8B/id816853305",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/89/14/a1891420-9807-e614-00f8-c2b9896341b7/rm_image.jpg/100x100bb.png",
+        "artistId": "270831532",
+        "artistUrl": "https://books.apple.com/jp/author/%E7%AB%B9%E6%9D%91%E4%BA%9E%E5%B8%8C%E5%AD%90/id270831532",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music/e7/1c/b2/mzi.pdrywhrn.jpg/100x100bb.png",
         "genres": [
           {
-            "genreId": "50000093",
-            "name": "ライトノベル",
-            "url": "https://itunes.apple.com/jp/genre/id50000093"
+            "genreId": "50000045",
+            "name": "名作",
+            "url": "https://itunes.apple.com/jp/genre/id50000045"
           },
           {
             "genreId": "50000024",
@@ -316,7 +1301,63 @@
             "url": "https://itunes.apple.com/jp/genre/id50000024"
           }
         ],
-        "url": "https://books.apple.com/jp/audiobook/18%E5%B7%BB-%E7%84%A1%E8%81%B7%E8%BB%A2%E7%94%9F-%E7%95%B0%E4%B8%96%E7%95%8C%E8%A1%8C%E3%81%A3%E3%81%9F%E3%82%89%E6%9C%AC%E6%B0%97%E3%81%A0%E3%81%99-18-kadokawa/id1777414886"
+        "url": "https://books.apple.com/jp/audiobook/%E6%B1%9F%E5%AE%88%E5%BE%B9%E3%81%AE%E6%9C%97%E8%AA%AD%E3%81%A7%E6%A5%BD%E3%81%97%E3%82%80-%E6%98%93%E7%B5%8C%E5%85%A5%E9%96%80-part2-%E6%B0%B4%E7%81%AB%E6%97%A2%E6%B8%88-%E7%81%AB%E6%B0%B4%E6%9C%AA%E6%B8%88-%E5%89%B5%E6%A5%AD%E3%81%A8%E5%AE%88%E6%88%90/id278729464"
+      },
+      {
+        "artistName": "竹村亞希子",
+        "id": "302191146",
+        "name": "江守徹の朗読で楽しむ「易経入門」Part3 習坎(坎為水)・沢水困--窮すれば通ず",
+        "releaseDate": "2009-01-14",
+        "kind": "audio-books",
+        "artistId": "270831532",
+        "artistUrl": "https://books.apple.com/jp/author/%E7%AB%B9%E6%9D%91%E4%BA%9E%E5%B8%8C%E5%AD%90/id270831532",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/8b/7e/d8/8b7ed856-96fd-99b3-afdb-4832ea942b11/rm_image.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000045",
+            "name": "名作",
+            "url": "https://itunes.apple.com/jp/genre/id50000045"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          },
+          {
+            "genreId": "50000040",
+            "name": "フィクション",
+            "url": "https://itunes.apple.com/jp/genre/id50000040"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/%E6%B1%9F%E5%AE%88%E5%BE%B9%E3%81%AE%E6%9C%97%E8%AA%AD%E3%81%A7%E6%A5%BD%E3%81%97%E3%82%80-%E6%98%93%E7%B5%8C%E5%85%A5%E9%96%80-part3-%E7%BF%92%E5%9D%8E-%E5%9D%8E%E7%82%BA%E6%B0%B4-%E6%B2%A2%E6%B0%B4%E5%9B%B0-%E7%AA%AE%E3%81%99%E3%82%8C%E3%81%B0%E9%80%9A%E3%81%9A/id302191146"
+      },
+      {
+        "artistName": "宮沢賢治",
+        "id": "1438128465",
+        "name": "注文の多い料理店",
+        "releaseDate": "2016-10-06",
+        "kind": "audio-books",
+        "artistId": "106372375",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%AE%AE%E6%B2%A2%E8%B3%A2%E6%B2%BB/id106372375",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/fb/1d/30/fb1d30a0-20cf-11eb-ed3b-76347f5c9431/artwork.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000045",
+            "name": "名作",
+            "url": "https://itunes.apple.com/jp/genre/id50000045"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          },
+          {
+            "genreId": "50000044",
+            "name": "キッズ／ヤングアダルト",
+            "url": "https://itunes.apple.com/jp/genre/id50000044"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/%E6%B3%A8%E6%96%87%E3%81%AE%E5%A4%9A%E3%81%84%E6%96%99%E7%90%86%E5%BA%97/id1438128465"
       },
       {
         "artistName": "丸山裕子",
@@ -342,6 +1383,57 @@
         "url": "https://books.apple.com/jp/audiobook/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%98%94%E3%81%B0%E3%81%AA%E3%81%97/id1434270756"
       },
       {
+        "artistName": "竹村亞希子",
+        "id": "352451416",
+        "name": "江守徹の朗読で楽しむ「易経入門」Part4 風地観・火風鼎--兆しを観る",
+        "releaseDate": "2010-02-03",
+        "kind": "audio-books",
+        "artistId": "270831532",
+        "artistUrl": "https://books.apple.com/jp/author/%E7%AB%B9%E6%9D%91%E4%BA%9E%E5%B8%8C%E5%AD%90/id270831532",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/5d/12/e3/5d12e358-b538-f969-3219-52fc548cbd1a/rm_image.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000045",
+            "name": "名作",
+            "url": "https://itunes.apple.com/jp/genre/id50000045"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          },
+          {
+            "genreId": "50000040",
+            "name": "フィクション",
+            "url": "https://itunes.apple.com/jp/genre/id50000040"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/%E6%B1%9F%E5%AE%88%E5%BE%B9%E3%81%AE%E6%9C%97%E8%AA%AD%E3%81%A7%E6%A5%BD%E3%81%97%E3%82%80-%E6%98%93%E7%B5%8C%E5%85%A5%E9%96%80-part4-%E9%A2%A8%E5%9C%B0%E8%A6%B3-%E7%81%AB%E9%A2%A8%E9%BC%8E-%E5%85%86%E3%81%97%E3%82%92%E8%A6%B3%E3%82%8B/id352451416"
+      },
+      {
+        "artistName": "伏瀬",
+        "id": "1480916075",
+        "name": "[3巻] 転生したらスライムだった件 3",
+        "releaseDate": "2019-09-27",
+        "kind": "audio-books",
+        "artistId": "902244637",
+        "artistUrl": "https://books.apple.com/jp/author/%E4%BC%8F%E7%80%AC/id902244637",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/7b/ce/157bce75-6066-398d-ca94-808fc5917ae3/rm_image.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000093",
+            "name": "ライトノベル",
+            "url": "https://itunes.apple.com/jp/genre/id50000093"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/3%E5%B7%BB-%E8%BB%A2%E7%94%9F%E3%81%97%E3%81%9F%E3%82%89%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%A0%E3%81%A0%E3%81%A3%E3%81%9F%E4%BB%B6-3/id1480916075"
+      },
+      {
         "artistName": "伏瀬",
         "id": "1708155843",
         "name": "[14巻] 転生したらスライムだった件14",
@@ -365,19 +1457,19 @@
         "url": "https://books.apple.com/jp/audiobook/14%E5%B7%BB-%E8%BB%A2%E7%94%9F%E3%81%97%E3%81%9F%E3%82%89%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%A0%E3%81%A0%E3%81%A3%E3%81%9F%E4%BB%B614/id1708155843"
       },
       {
-        "artistName": "J・K・ローリング",
-        "id": "1442233034",
-        "name": "Harry Potter and the Half-Blood Prince",
-        "releaseDate": "2015-11-20",
+        "artistName": "稲盛和夫 & 西村不二人",
+        "id": "1416449520",
+        "name": "考え方~人生・仕事の結果が変わる",
+        "releaseDate": "2017-10-24",
         "kind": "audio-books",
-        "artistId": "79595314",
-        "artistUrl": "https://books.apple.com/jp/author/j-k-%E3%83%AD%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0/id79595314",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/fd/37/0f/fd370fb7-7f68-3437-ec54-e2a090fb115e/9781781102411.jpg/100x100bb.png",
+        "artistId": "362519312",
+        "artistUrl": "https://books.apple.com/jp/author/%E7%A8%B2%E7%9B%9B%E5%92%8C%E5%A4%AB/id362519312",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e3/30/58/e330589e-b600-cb9f-d608-bb8866de4699/dj.gzrfjcua.jpg/100x100bb.png",
         "genres": [
           {
-            "genreId": "50000044",
-            "name": "キッズ／ヤングアダルト",
-            "url": "https://itunes.apple.com/jp/genre/id50000044"
+            "genreId": "50000043",
+            "name": "ビジネス",
+            "url": "https://itunes.apple.com/jp/genre/id50000043"
           },
           {
             "genreId": "50000024",
@@ -385,17 +1477,132 @@
             "url": "https://itunes.apple.com/jp/genre/id50000024"
           },
           {
-            "genreId": "50000055",
-            "name": "SF／ファンタジー",
-            "url": "https://itunes.apple.com/jp/genre/id50000055"
+            "genreId": "50000056",
+            "name": "自己啓発",
+            "url": "https://itunes.apple.com/jp/genre/id50000056"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/%E8%80%83%E3%81%88%E6%96%B9-%E4%BA%BA%E7%94%9F-%E4%BB%95%E4%BA%8B%E3%81%AE%E7%B5%90%E6%9E%9C%E3%81%8C%E5%A4%89%E3%82%8F%E3%82%8B/id1416449520"
+      },
+      {
+        "artistName": "苫米地英人",
+        "id": "1763544730",
+        "name": "苫米地英人コレクション3 「頭のゴミ」を捨てれば、脳は一瞬で目覚める!",
+        "releaseDate": "2020-01-25",
+        "kind": "audio-books",
+        "artistId": "297456480",
+        "artistUrl": "https://books.apple.com/jp/author/%E8%8B%AB%E7%B1%B3%E5%9C%B0%E8%8B%B1%E4%BA%BA/id297456480",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/b8/ad/bfb8ad21-9bca-746a-919c-448b61af61eb/square_artwork.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000043",
+            "name": "ビジネス",
+            "url": "https://itunes.apple.com/jp/genre/id50000043"
           },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          },
+          {
+            "genreId": "50000056",
+            "name": "自己啓発",
+            "url": "https://itunes.apple.com/jp/genre/id50000056"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/%E8%8B%AB%E7%B1%B3%E5%9C%B0%E8%8B%B1%E4%BA%BA%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B33-%E9%A0%AD%E3%81%AE%E3%82%B4%E3%83%9F-%E3%82%92%E6%8D%A8%E3%81%A6%E3%82%8C%E3%81%B0-%E8%84%B3%E3%81%AF%E4%B8%80%E7%9E%AC%E3%81%A7%E7%9B%AE%E8%A6%9A%E3%82%81%E3%82%8B/id1763544730"
+      },
+      {
+        "artistName": "理不尽な孫の手",
+        "id": "1777414886",
+        "name": "[18巻] 無職転生 ～異世界行ったら本気だす～ 18: (KADOKAWA)",
+        "releaseDate": "2024-11-08",
+        "kind": "audio-books",
+        "artistId": "816853305",
+        "artistUrl": "https://books.apple.com/jp/author/%E7%90%86%E4%B8%8D%E5%B0%BD%E3%81%AA%E5%AD%AB%E3%81%AE%E6%89%8B/id816853305",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/89/14/a1891420-9807-e614-00f8-c2b9896341b7/rm_image.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000093",
+            "name": "ライトノベル",
+            "url": "https://itunes.apple.com/jp/genre/id50000093"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/18%E5%B7%BB-%E7%84%A1%E8%81%B7%E8%BB%A2%E7%94%9F-%E7%95%B0%E4%B8%96%E7%95%8C%E8%A1%8C%E3%81%A3%E3%81%9F%E3%82%89%E6%9C%AC%E6%B0%97%E3%81%A0%E3%81%99-18-kadokawa/id1777414886"
+      },
+      {
+        "artistName": "石持浅海",
+        "id": "1416310902",
+        "name": "扉は閉ざされたまま",
+        "releaseDate": "2017-07-05",
+        "kind": "audio-books",
+        "artistId": "593297936",
+        "artistUrl": "https://books.apple.com/jp/author/%E7%9F%B3%E6%8C%81%E6%B5%85%E6%B5%B7/id593297936",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/52/f5/81/52f581e6-2358-1b77-582e-036b7f06f23d/artwork.jpg/100x100bb.png",
+        "genres": [
           {
             "genreId": "50000040",
             "name": "フィクション",
             "url": "https://itunes.apple.com/jp/genre/id50000040"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
           }
         ],
-        "url": "https://books.apple.com/jp/audiobook/harry-potter-and-the-half-blood-prince/id1442233034"
+        "url": "https://books.apple.com/jp/audiobook/%E6%89%89%E3%81%AF%E9%96%89%E3%81%96%E3%81%95%E3%82%8C%E3%81%9F%E3%81%BE%E3%81%BE/id1416310902"
+      },
+      {
+        "artistName": "入栖",
+        "id": "6787039594",
+        "name": "[11巻] マジカル★エクスプローラー エロゲの友人キャラに転生したけど、ゲーム知識使って自由に生きる11: (KADOKAWA)",
+        "releaseDate": "2026-07-10",
+        "kind": "audio-books",
+        "artistId": "1485186945",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%85%A5%E6%A0%96/id1485186945",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/47/a6/8247a69d-5ce7-d675-ab10-1baaadfa8a03/rm_image.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000093",
+            "name": "ライトノベル",
+            "url": "https://itunes.apple.com/jp/genre/id50000093"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/11%E5%B7%BB-%E3%83%9E%E3%82%B8%E3%82%AB%E3%83%AB-%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC-%E3%82%A8%E3%83%AD%E3%82%B2%E3%81%AE%E5%8F%8B%E4%BA%BA%E3%82%AD%E3%83%A3%E3%83%A9%E3%81%AB%E8%BB%A2%E7%94%9F%E3%81%97%E3%81%9F%E3%81%91%E3%81%A9-%E3%82%B2%E3%83%BC%E3%83%A0%E7%9F%A5%E8%AD%98%E4%BD%BF%E3%81%A3%E3%81%A6%E8%87%AA%E7%94%B1%E3%81%AB%E7%94%9F%E3%81%8D%E3%82%8B11/id6787039594"
+      },
+      {
+        "artistName": "香月 美夜",
+        "id": "1536092355",
+        "name": "[8巻] 本好きの下剋上～司書になるためには手段を選んでいられません～第三部「領主の養女1」: TO Books.",
+        "releaseDate": "2020-10-23",
+        "kind": "audio-books",
+        "artistId": "1460203384",
+        "artistUrl": "https://books.apple.com/jp/author/%E9%A6%99%E6%9C%88-%E7%BE%8E%E5%A4%9C/id1460203384",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/31/77/b93177ad-ffc8-faa1-9e17-72ee9d024a68/rm_image.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000093",
+            "name": "ライトノベル",
+            "url": "https://itunes.apple.com/jp/genre/id50000093"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/8%E5%B7%BB-%E6%9C%AC%E5%A5%BD%E3%81%8D%E3%81%AE%E4%B8%8B%E5%89%8B%E4%B8%8A-%E5%8F%B8%E6%9B%B8%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E3%81%AF%E6%89%8B%E6%AE%B5%E3%82%92%E9%81%B8%E3%82%93%E3%81%A7%E3%81%84%E3%82%89%E3%82%8C%E3%81%BE%E3%81%9B%E3%82%93-%E7%AC%AC%E4%B8%89%E9%83%A8-%E9%A0%98%E4%B8%BB%E3%81%AE%E9%A4%8A%E5%A5%B31-to-books/id1536092355"
       },
       {
         "artistName": "ニール・ドナルド・ウォルシュ",
@@ -426,6 +1633,62 @@
         "url": "https://books.apple.com/jp/audiobook/%E6%96%B0%E8%A3%85%E7%89%88-%E7%A5%9E%E3%81%A8%E3%81%AE%E5%AF%BE%E8%A9%B11/id1535430292"
       },
       {
+        "artistName": "黒川伊保子",
+        "id": "1515220833",
+        "name": "妻のトリセツ",
+        "releaseDate": "2020-02-14",
+        "kind": "audio-books",
+        "artistId": "584791088",
+        "artistUrl": "https://books.apple.com/jp/author/%E9%BB%92%E5%B7%9D%E4%BC%8A%E4%BF%9D%E5%AD%90/id584791088",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/30/ae/84/30ae84fb-bc04-ccd0-2af9-65b3069473de/square_artwork.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000052",
+            "name": "ノンフィクション",
+            "url": "https://itunes.apple.com/jp/genre/id50000052"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          },
+          {
+            "genreId": "50000043",
+            "name": "ビジネス",
+            "url": "https://itunes.apple.com/jp/genre/id50000043"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/%E5%A6%BB%E3%81%AE%E3%83%88%E3%83%AA%E3%82%BB%E3%83%84/id1515220833"
+      },
+      {
+        "artistName": "馬場康夫",
+        "id": "1489679800",
+        "name": "新装版「エンタメ」の夜明け ディズニーランドが日本に来た日",
+        "releaseDate": "2015-08-21",
+        "kind": "audio-books",
+        "artistId": "1450138898",
+        "artistUrl": "https://books.apple.com/jp/author/%E9%A6%AC%E5%A0%B4%E5%BA%B7%E5%A4%AB/id1450138898",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/a8/03/f0/a803f0e8-48b3-51f6-04bd-de8f843bfd40/square_artwork.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000052",
+            "name": "ノンフィクション",
+            "url": "https://itunes.apple.com/jp/genre/id50000052"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          },
+          {
+            "genreId": "50000040",
+            "name": "フィクション",
+            "url": "https://itunes.apple.com/jp/genre/id50000040"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/%E6%96%B0%E8%A3%85%E7%89%88-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%A1-%E3%81%AE%E5%A4%9C%E6%98%8E%E3%81%91-%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E3%81%8C%E6%97%A5%E6%9C%AC%E3%81%AB%E6%9D%A5%E3%81%9F%E6%97%A5/id1489679800"
+      },
+      {
         "artistName": "青木 仁志",
         "id": "1329586707",
         "name": "40代からの成功哲学",
@@ -449,6 +1712,67 @@
         "url": "https://books.apple.com/jp/audiobook/40%E4%BB%A3%E3%81%8B%E3%82%89%E3%81%AE%E6%88%90%E5%8A%9F%E5%93%B2%E5%AD%A6/id1329586707"
       },
       {
+        "artistName": "稲盛和夫",
+        "id": "1553519050",
+        "name": "リーダーとしてのあり方",
+        "releaseDate": "2021-02-10",
+        "kind": "audio-books",
+        "artistId": "1155406071",
+        "artistUrl": "https://books.apple.com/jp/author/%E7%A8%B2%E7%9B%9B%E5%92%8C%E5%A4%AB/id1155406071",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/54/16/96541699-6a44-6f7e-0a08-85b5c9a60d09/lg_image.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000056",
+            "name": "自己啓発",
+            "url": "https://itunes.apple.com/jp/genre/id50000056"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          },
+          {
+            "genreId": "50000052",
+            "name": "ノンフィクション",
+            "url": "https://itunes.apple.com/jp/genre/id50000052"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AE%E3%81%82%E3%82%8A%E6%96%B9/id1553519050"
+      },
+      {
+        "artistName": "Oliver Burkeman",
+        "id": "1575899033",
+        "name": "Four Thousand Weeks",
+        "releaseDate": "2021-08-26",
+        "kind": "audio-books",
+        "artistId": "408872471",
+        "artistUrl": "https://books.apple.com/jp/author/oliver-burkeman/id408872471",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bc/1c/4b/bc1c4b93-0afc-ed34-5370-786fd5d139a9/9781473564954.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000056",
+            "name": "自己啓発",
+            "url": "https://itunes.apple.com/jp/genre/id50000056"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          },
+          {
+            "genreId": "50000054",
+            "name": "科学",
+            "url": "https://itunes.apple.com/jp/genre/id50000054"
+          },
+          {
+            "genreId": "50000052",
+            "name": "ノンフィクション",
+            "url": "https://itunes.apple.com/jp/genre/id50000052"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/four-thousand-weeks/id1575899033"
+      },
+      {
         "artistName": "ウォルター・アイザックソン (著) & 井口 耕二 (翻訳)",
         "id": "1733260208",
         "name": "イーロン・マスク 上",
@@ -470,6 +1794,29 @@
           }
         ],
         "url": "https://books.apple.com/jp/audiobook/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3-%E3%83%9E%E3%82%B9%E3%82%AF-%E4%B8%8A/id1733260208"
+      },
+      {
+        "artistName": "理不尽な孫の手",
+        "id": "1790221101",
+        "name": "[20巻] 無職転生 ～異世界行ったら本気だす～ 20: (KADOKAWA)",
+        "releaseDate": "2025-01-17",
+        "kind": "audio-books",
+        "artistId": "816853305",
+        "artistUrl": "https://books.apple.com/jp/author/%E7%90%86%E4%B8%8D%E5%B0%BD%E3%81%AA%E5%AD%AB%E3%81%AE%E6%89%8B/id816853305",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/fb/69/1ffb69cd-4868-d4cb-3a12-55021d9afcc2/rm_image.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000093",
+            "name": "ライトノベル",
+            "url": "https://itunes.apple.com/jp/genre/id50000093"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/20%E5%B7%BB-%E7%84%A1%E8%81%B7%E8%BB%A2%E7%94%9F-%E7%95%B0%E4%B8%96%E7%95%8C%E8%A1%8C%E3%81%A3%E3%81%9F%E3%82%89%E6%9C%AC%E6%B0%97%E3%81%A0%E3%81%99-20-kadokawa/id1790221101"
       },
       {
         "artistName": "上野和夫",
@@ -523,6 +1870,29 @@
         "url": "https://books.apple.com/jp/audiobook/butter/id1700751148"
       },
       {
+        "artistName": "E. B. White",
+        "id": "1459551091",
+        "name": "Charlotte's Web (Unabridged)",
+        "releaseDate": "2000-07-04",
+        "kind": "audio-books",
+        "artistId": "565289050",
+        "artistUrl": "https://books.apple.com/jp/author/e-b-white/id565289050",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e2/64/1c/e2641cf9-7874-1984-c7a7-0b49909b4359/9780553754490.d.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000044",
+            "name": "キッズ／ヤングアダルト",
+            "url": "https://itunes.apple.com/jp/genre/id50000044"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/charlottes-web-unabridged/id1459551091"
+      },
+      {
         "artistName": "D・カーネギー & 香山 晶",
         "id": "1837894327",
         "name": "道は開ける 新装版",
@@ -549,6 +1919,80 @@
           }
         ],
         "url": "https://books.apple.com/jp/audiobook/%E9%81%93%E3%81%AF%E9%96%8B%E3%81%91%E3%82%8B-%E6%96%B0%E8%A3%85%E7%89%88/id1837894327"
+      },
+      {
+        "artistName": "宮部 みゆき",
+        "id": "1773770975",
+        "name": "新装版 天狗風 霊験お初捕物控",
+        "releaseDate": "2024-10-25",
+        "kind": "audio-books",
+        "artistId": "1155404344",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%AE%AE%E9%83%A8-%E3%81%BF%E3%82%86%E3%81%8D/id1155404344",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a5/5a/72/a55a7219-486f-dbce-6bdd-0253042cf595/rm_image.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000040",
+            "name": "フィクション",
+            "url": "https://itunes.apple.com/jp/genre/id50000040"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/%E6%96%B0%E8%A3%85%E7%89%88-%E5%A4%A9%E7%8B%97%E9%A2%A8-%E9%9C%8A%E9%A8%93%E3%81%8A%E5%88%9D%E6%8D%95%E7%89%A9%E6%8E%A7/id1773770975"
+      },
+      {
+        "artistName": "アラン・S・ミラー, サトシ・カナザワ & 伊藤和子",
+        "id": "1604726897",
+        "name": "進化心理学から考えるホモサピエンス 一万年変化しない価値観",
+        "releaseDate": "2022-01-19",
+        "kind": "audio-books",
+        "artistId": "1510504537",
+        "artistUrl": "https://books.apple.com/jp/author/%E3%82%A2%E3%83%A9%E3%83%B3-s-%E3%83%9F%E3%83%A9%E3%83%BC/id1510504537",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/4b/65/38/4b6538dd-1d54-dbad-b71e-f61e90c166f4/rm_image.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000056",
+            "name": "自己啓発",
+            "url": "https://itunes.apple.com/jp/genre/id50000056"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          },
+          {
+            "genreId": "50000052",
+            "name": "ノンフィクション",
+            "url": "https://itunes.apple.com/jp/genre/id50000052"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/%E9%80%B2%E5%8C%96%E5%BF%83%E7%90%86%E5%AD%A6%E3%81%8B%E3%82%89%E8%80%83%E3%81%88%E3%82%8B%E3%83%9B%E3%83%A2%E3%82%B5%E3%83%94%E3%82%A8%E3%83%B3%E3%82%B9-%E4%B8%80%E4%B8%87%E5%B9%B4%E5%A4%89%E5%8C%96%E3%81%97%E3%81%AA%E3%81%84%E4%BE%A1%E5%80%A4%E8%A6%B3/id1604726897"
+      },
+      {
+        "artistName": "倉山満",
+        "id": "1629347864",
+        "name": "嘘だらけの日英近現代史",
+        "releaseDate": "2022-02-09",
+        "kind": "audio-books",
+        "artistId": "684173882",
+        "artistUrl": "https://books.apple.com/jp/author/%E5%80%89%E5%B1%B1%E6%BA%80/id684173882",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/2b/87/b2/2b87b21f-2b21-d2f7-f85e-f81e64af0d5c/square_artwork.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000052",
+            "name": "ノンフィクション",
+            "url": "https://itunes.apple.com/jp/genre/id50000052"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/%E5%98%98%E3%81%A0%E3%82%89%E3%81%91%E3%81%AE%E6%97%A5%E8%8B%B1%E8%BF%91%E7%8F%BE%E4%BB%A3%E5%8F%B2/id1629347864"
       },
       {
         "artistName": "トモ・セイン & デイビッド・セイン",
@@ -607,29 +2051,6 @@
         "url": "https://books.apple.com/jp/audiobook/reimagining-capitalism/id1509425074"
       },
       {
-        "artistName": "森井啓二",
-        "id": "1798360374",
-        "name": "神の国日本の美しい神社 神々と共に歩む最高の人生",
-        "releaseDate": "2024-03-21",
-        "kind": "audio-books",
-        "artistId": "1503319412",
-        "artistUrl": "https://books.apple.com/jp/author/%E6%A3%AE%E4%BA%95%E5%95%93%E4%BA%8C/id1503319412",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/3e/88/653e8867-aa1b-595a-0aa2-095717b44229/square_artwork.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000053",
-            "name": "宗教／スピリチュアル",
-            "url": "https://itunes.apple.com/jp/genre/id50000053"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/%E7%A5%9E%E3%81%AE%E5%9B%BD%E6%97%A5%E6%9C%AC%E3%81%AE%E7%BE%8E%E3%81%97%E3%81%84%E7%A5%9E%E7%A4%BE-%E7%A5%9E%E3%80%85%E3%81%A8%E5%85%B1%E3%81%AB%E6%AD%A9%E3%82%80%E6%9C%80%E9%AB%98%E3%81%AE%E4%BA%BA%E7%94%9F/id1798360374"
-      },
-      {
         "artistName": "Bill Burnett & Dave Evans",
         "id": "1417630800",
         "name": "Designing Your Life: How to Build a Well-Lived, Joyful Life (Unabridged)",
@@ -658,6 +2079,108 @@
         "url": "https://books.apple.com/jp/audiobook/designing-your-life-how-to-build-a-well-lived/id1417630800"
       },
       {
+        "artistName": "田畑 誠(まこちん)",
+        "id": "1803122393",
+        "name": "宇宙一わかりやすい「量子力学」大全_目に見えない世界を味方にして人生を好転させる56の法則: (KADOKAWA)",
+        "releaseDate": "2025-04-18",
+        "kind": "audio-books",
+        "artistId": "1803122394",
+        "artistUrl": "https://books.apple.com/jp/author/%E7%94%B0%E7%95%91-%E8%AA%A0-%E3%81%BE%E3%81%93%E3%81%A1%E3%82%93/id1803122394",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9e/59/af/9e59af4a-ed97-4448-2077-90bbab9a03c8/rm_image.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000056",
+            "name": "自己啓発",
+            "url": "https://itunes.apple.com/jp/genre/id50000056"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          },
+          {
+            "genreId": "50000052",
+            "name": "ノンフィクション",
+            "url": "https://itunes.apple.com/jp/genre/id50000052"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/%E5%AE%87%E5%AE%99%E4%B8%80%E3%82%8F%E3%81%8B%E3%82%8A%E3%82%84%E3%81%99%E3%81%84-%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6-%E5%A4%A7%E5%85%A8-%E7%9B%AE%E3%81%AB%E8%A6%8B%E3%81%88%E3%81%AA%E3%81%84%E4%B8%96%E7%95%8C%E3%82%92%E5%91%B3%E6%96%B9%E3%81%AB%E3%81%97%E3%81%A6%E4%BA%BA%E7%94%9F%E3%82%92%E5%A5%BD%E8%BB%A2%E3%81%95%E3%81%9B%E3%82%8B56%E3%81%AE%E6%B3%95%E5%89%87-kadokawa/id1803122393"
+      },
+      {
+        "artistName": "藤井青銅",
+        "id": "1794681708",
+        "name": "トークの教室: 「面白いトーク」はどのように生まれるのか",
+        "releaseDate": "2025-02-04",
+        "kind": "audio-books",
+        "artistId": "603426722",
+        "artistUrl": "https://books.apple.com/jp/author/%E8%97%A4%E4%BA%95%E9%9D%92%E9%8A%85/id603426722",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/8c/7a/ab8c7ad7-3d20-ff96-c6ae-5e069d05b402/square_artwork.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000043",
+            "name": "ビジネス",
+            "url": "https://itunes.apple.com/jp/genre/id50000043"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/%E3%83%88%E3%83%BC%E3%82%AF%E3%81%AE%E6%95%99%E5%AE%A4-%E9%9D%A2%E7%99%BD%E3%81%84%E3%83%88%E3%83%BC%E3%82%AF-%E3%81%AF%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E7%94%9F%E3%81%BE%E3%82%8C%E3%82%8B%E3%81%AE%E3%81%8B/id1794681708"
+      },
+      {
+        "artistName": "Hajime Kamoshida & Keji Mizoguchi",
+        "id": "1606758104",
+        "name": "Rascal Does Not Dream of Bunny Girl Senpai",
+        "releaseDate": "2022-06-14",
+        "kind": "audio-books",
+        "artistId": "1498409497",
+        "artistUrl": "https://books.apple.com/jp/author/hajime-kamoshida/id1498409497",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/75/48/e9/7548e92e-201c-cf38-1833-da341bb234c7/9781975344092.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000040",
+            "name": "フィクション",
+            "url": "https://itunes.apple.com/jp/genre/id50000040"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          },
+          {
+            "genreId": "50000055",
+            "name": "SF／ファンタジー",
+            "url": "https://itunes.apple.com/jp/genre/id50000055"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/rascal-does-not-dream-of-bunny-girl-senpai/id1606758104"
+      },
+      {
+        "artistName": "石原壮一郎",
+        "id": "1416364325",
+        "name": "大人養成講座第2編「大人のプライベート」・第2章「日常生活でのルール」",
+        "releaseDate": "2007-04-03",
+        "kind": "audio-books",
+        "artistId": "583700754",
+        "artistUrl": "https://books.apple.com/jp/author/%E7%9F%B3%E5%8E%9F%E5%A3%AE%E4%B8%80%E9%83%8E/id583700754",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/11/23/5c/11235cda-fd08-a3a1-2164-c53824159ebd/artwork.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000043",
+            "name": "ビジネス",
+            "url": "https://itunes.apple.com/jp/genre/id50000043"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/%E5%A4%A7%E4%BA%BA%E9%A4%8A%E6%88%90%E8%AC%9B%E5%BA%A7%E7%AC%AC2%E7%B7%A8-%E5%A4%A7%E4%BA%BA%E3%81%AE%E3%83%97%E3%83%A9%E3%82%A4%E3%83%99%E3%83%BC%E3%83%88-%E7%AC%AC2%E7%AB%A0-%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%E3%81%A7%E3%81%AE%E3%83%AB%E3%83%BC%E3%83%AB/id1416364325"
+      },
+      {
         "artistName": "Shunryu Suzuki",
         "id": "1813204046",
         "name": "Zen Mind, Beginner's Mind",
@@ -681,6 +2204,57 @@
         "url": "https://books.apple.com/jp/audiobook/zen-mind-beginners-mind/id1813204046"
       },
       {
+        "artistName": "David M. Rubenstein",
+        "id": "1608862249",
+        "name": "How to Invest (Unabridged)",
+        "releaseDate": "2022-09-13",
+        "kind": "audio-books",
+        "artistId": "451092245",
+        "artistUrl": "https://books.apple.com/jp/author/david-m-rubenstein/id451092245",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/1c/70/20/1c7020c0-5041-0e29-c21c-60cafdf42b0e/9781797145174.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000043",
+            "name": "ビジネス",
+            "url": "https://itunes.apple.com/jp/genre/id50000043"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/how-to-invest-unabridged/id1608862249"
+      },
+      {
+        "artistName": "Renée Ahdieh, Meg Cabot, Pierce Brown, Nnedi Okorafor & Sabaa Tahir",
+        "id": "1487489834",
+        "name": "From a Certain Point of View (Star Wars) (Unabridged)",
+        "releaseDate": "2017-10-03",
+        "kind": "audio-books",
+        "artistId": "490022954",
+        "artistUrl": "https://books.apple.com/jp/author/ren%C3%A9e-ahdieh/id490022954",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/25/44/6f/25446f13-9033-2bf2-3231-e35dec0e84ca/9780451486226.d.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000055",
+            "name": "SF／ファンタジー",
+            "url": "https://itunes.apple.com/jp/genre/id50000055"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          },
+          {
+            "genreId": "50000040",
+            "name": "フィクション",
+            "url": "https://itunes.apple.com/jp/genre/id50000040"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/from-a-certain-point-of-view-star-wars-unabridged/id1487489834"
+      },
+      {
         "artistName": "Alexandre Dumas",
         "id": "1438460746",
         "name": "The Three Musketeers",
@@ -702,6 +2276,75 @@
           }
         ],
         "url": "https://books.apple.com/jp/audiobook/the-three-musketeers/id1438460746"
+      },
+      {
+        "artistName": "矢島雅弘, 望月鷹裕, 間宮康弘 & 他",
+        "id": "1416363462",
+        "name": "大人養成講座第1編「大人のビジネス」・第3章「社内におけるマナー」",
+        "releaseDate": "2007-02-20",
+        "kind": "audio-books",
+        "artistId": "943809608",
+        "artistUrl": "https://books.apple.com/jp/author/%E7%9F%A2%E5%B3%B6%E9%9B%85%E5%BC%98/id943809608",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/b8/74/81/b87481e7-c583-0ef8-c85e-f34a4e2def74/artwork.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000043",
+            "name": "ビジネス",
+            "url": "https://itunes.apple.com/jp/genre/id50000043"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/%E5%A4%A7%E4%BA%BA%E9%A4%8A%E6%88%90%E8%AC%9B%E5%BA%A7%E7%AC%AC1%E7%B7%A8-%E5%A4%A7%E4%BA%BA%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9-%E7%AC%AC3%E7%AB%A0-%E7%A4%BE%E5%86%85%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%9E%E3%83%8A%E3%83%BC/id1416363462"
+      },
+      {
+        "artistName": "Sylvie Lainé",
+        "id": "1793067894",
+        "name": "Short STORIES in easy FRENCH: Vol 747 pour Paris",
+        "releaseDate": "2025-01-28",
+        "kind": "audio-books",
+        "artistId": "580555555",
+        "artistUrl": "https://books.apple.com/jp/author/sylvie-lain%C3%A9/id580555555",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/e5/2c/24e52c7f-9fe9-7c54-b98b-929b11e76bd7/9782370610881.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000040",
+            "name": "フィクション",
+            "url": "https://itunes.apple.com/jp/genre/id50000040"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/short-stories-in-easy-french-vol-747-pour-paris/id1793067894"
+      },
+      {
+        "artistName": "五木 寛之",
+        "id": "1698211829",
+        "name": "シン・養生論: (幻冬舎新書)",
+        "releaseDate": "2023-07-21",
+        "kind": "audio-books",
+        "artistId": "1198470856",
+        "artistUrl": "https://books.apple.com/jp/author/%E4%BA%94%E6%9C%A8-%E5%AF%9B%E4%B9%8B/id1198470856",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/70/e6/8470e6bf-053f-a4fd-6417-b93174c1e9ea/rm_image.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "50000052",
+            "name": "ノンフィクション",
+            "url": "https://itunes.apple.com/jp/genre/id50000052"
+          },
+          {
+            "genreId": "50000024",
+            "name": "オーディオブック",
+            "url": "https://itunes.apple.com/jp/genre/id50000024"
+          }
+        ],
+        "url": "https://books.apple.com/jp/audiobook/%E3%82%B7%E3%83%B3-%E9%A4%8A%E7%94%9F%E8%AB%96-%E5%B9%BB%E5%86%AC%E8%88%8E%E6%96%B0%E6%9B%B8/id1698211829"
       },
       {
         "artistName": "GABRIELLE BLAIR",
@@ -806,14 +2449,14 @@
         "url": "https://books.apple.com/jp/audiobook/decision-points-abridged/id1416933430"
       },
       {
-        "artistName": "河村 真木子",
-        "id": "1889772629",
-        "name": "自由にあきらめずに生きる 外資系金融ママがわが子へ伝えたい 人生とお金の本質",
-        "releaseDate": "2026-04-06",
+        "artistName": "石原壮一郎",
+        "id": "1416363999",
+        "name": "大人養成講座第2編「大人のプライベート」・第1章「酒場・カラオケにおけるマナー」",
+        "releaseDate": "2007-04-03",
         "kind": "audio-books",
-        "artistId": "1698211436",
-        "artistUrl": "https://books.apple.com/jp/author/%E6%B2%B3%E6%9D%91-%E7%9C%9F%E6%9C%A8%E5%AD%90/id1698211436",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/67/9f/d4679f2a-f5b8-14bb-cf8c-0f6f3d7c477a/rm_image.jpg/100x100bb.png",
+        "artistId": "583700754",
+        "artistUrl": "https://books.apple.com/jp/author/%E7%9F%B3%E5%8E%9F%E5%A3%AE%E4%B8%80%E9%83%8E/id583700754",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/79/ee/11/79ee11d9-600f-59ce-16a3-38d5c19f110c/artwork.png/100x100bb.png",
         "genres": [
           {
             "genreId": "50000043",
@@ -826,221 +2469,17 @@
             "url": "https://itunes.apple.com/jp/genre/id50000024"
           }
         ],
-        "url": "https://books.apple.com/jp/audiobook/%E8%87%AA%E7%94%B1%E3%81%AB%E3%81%82%E3%81%8D%E3%82%89%E3%82%81%E3%81%9A%E3%81%AB%E7%94%9F%E3%81%8D%E3%82%8B-%E5%A4%96%E8%B3%87%E7%B3%BB%E9%87%91%E8%9E%8D%E3%83%9E%E3%83%9E%E3%81%8C%E3%82%8F%E3%81%8C%E5%AD%90%E3%81%B8%E4%BC%9D%E3%81%88%E3%81%9F%E3%81%84-%E4%BA%BA%E7%94%9F%E3%81%A8%E3%81%8A%E9%87%91%E3%81%AE%E6%9C%AC%E8%B3%AA/id1889772629"
+        "url": "https://books.apple.com/jp/audiobook/%E5%A4%A7%E4%BA%BA%E9%A4%8A%E6%88%90%E8%AC%9B%E5%BA%A7%E7%AC%AC2%E7%B7%A8-%E5%A4%A7%E4%BA%BA%E3%81%AE%E3%83%97%E3%83%A9%E3%82%A4%E3%83%99%E3%83%BC%E3%83%88-%E7%AC%AC1%E7%AB%A0-%E9%85%92%E5%A0%B4-%E3%82%AB%E3%83%A9%E3%82%AA%E3%82%B1%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%9E%E3%83%8A%E3%83%BC/id1416363999"
       },
       {
-        "artistName": "魔猫 よあ",
-        "id": "6823509089",
-        "name": "センパイを殺したいので女装する",
-        "releaseDate": "2026-10-16",
+        "artistName": "矢島雅弘, 望月鷹裕, 間宮康弘 & 他",
+        "id": "1416363566",
+        "name": "大人養成講座第1編「大人のビジネス」・第4章「アフター5、休日のおつきあい」",
+        "releaseDate": "2007-02-20",
         "kind": "audio-books",
-        "artistId": "6823509090",
-        "artistUrl": "https://books.apple.com/jp/author/%E9%AD%94%E7%8C%AB-%E3%82%88%E3%81%82/id6823509090",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/16/81/151681cb-9423-3a7f-1ad4-a857c60aa1fa/rm_image.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000040",
-            "name": "フィクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000040"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/%E3%82%BB%E3%83%B3%E3%83%91%E3%82%A4%E3%82%92%E6%AE%BA%E3%81%97%E3%81%9F%E3%81%84%E3%81%AE%E3%81%A7%E5%A5%B3%E8%A3%85%E3%81%99%E3%82%8B/id6823509089"
-      },
-      {
-        "artistName": "小野不由美",
-        "id": "6823491744",
-        "name": "図南の翼 (となんのつばさ) 十二国記 6",
-        "releaseDate": "2026-10-07",
-        "kind": "audio-books",
-        "artistId": "583757741",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%B0%8F%E9%87%8E%E4%B8%8D%E7%94%B1%E7%BE%8E/id583757741",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/f9/3b/abf93bf1-9c8b-e41e-28c2-4cc016dd2117/square_artwork.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000040",
-            "name": "フィクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000040"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/%E5%9B%B3%E5%8D%97%E3%81%AE%E7%BF%BC-%E3%81%A8%E3%81%AA%E3%82%93%E3%81%AE%E3%81%A4%E3%81%B0%E3%81%95-%E5%8D%81%E4%BA%8C%E5%9B%BD%E8%A8%98-6/id6823491744"
-      },
-      {
-        "artistName": "Nora Ephron",
-        "id": "6796635609",
-        "name": "Wallflower at the Orgy",
-        "releaseDate": "2026-09-10",
-        "kind": "audio-books",
-        "artistId": "899764228",
-        "artistUrl": "https://books.apple.com/jp/author/nora-ephron/id899764228",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/67/29/34/6729345a-ca0a-7c55-f61e-6db5385dd58a/9781807845667.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000040",
-            "name": "フィクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000040"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          },
-          {
-            "genreId": "50000042",
-            "name": "伝記／自叙伝",
-            "url": "https://itunes.apple.com/jp/genre/id50000042"
-          },
-          {
-            "genreId": "50000046",
-            "name": "コメディ",
-            "url": "https://itunes.apple.com/jp/genre/id50000046"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/wallflower-at-the-orgy/id6796635609"
-      },
-      {
-        "artistName": "M.F.K. Fisher",
-        "id": "1896257691",
-        "name": "The Gastronomical Me",
-        "releaseDate": "2026-10-27",
-        "kind": "audio-books",
-        "artistId": "420924184",
-        "artistUrl": "https://books.apple.com/jp/author/m-f-k-fisher/id420924184",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3b/c4/3e/3bc43e8b-0e00-cfff-c4dc-8625b913debe/9781250484246.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000042",
-            "name": "伝記／自叙伝",
-            "url": "https://itunes.apple.com/jp/genre/id50000042"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          },
-          {
-            "genreId": "50000052",
-            "name": "ノンフィクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000052"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/the-gastronomical-me/id1896257691"
-      },
-      {
-        "artistName": "Jenson Button",
-        "id": "1887832211",
-        "name": "Jenson Button: Life to the Limit",
-        "releaseDate": "2017-10-19",
-        "kind": "audio-books",
-        "artistId": "640547786",
-        "artistUrl": "https://books.apple.com/jp/author/jenson-button/id640547786",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/83/9a/ce839ac2-3deb-0ee8-06a7-5ed0435543eb/9781911600367.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000042",
-            "name": "伝記／自叙伝",
-            "url": "https://itunes.apple.com/jp/genre/id50000042"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/jenson-button-life-to-the-limit/id1887832211"
-      },
-      {
-        "artistName": "M.F.K. Fisher",
-        "id": "1879521590",
-        "name": "How to Cook a Wolf",
-        "releaseDate": "2026-10-27",
-        "kind": "audio-books",
-        "artistId": "420924184",
-        "artistUrl": "https://books.apple.com/jp/author/m-f-k-fisher/id420924184",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/06/27/96062723-d046-5b7a-5d54-9729e0bb9386/9781250476357.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000052",
-            "name": "ノンフィクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000052"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          },
-          {
-            "genreId": "50000042",
-            "name": "伝記／自叙伝",
-            "url": "https://itunes.apple.com/jp/genre/id50000042"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/how-to-cook-a-wolf/id1879521590"
-      },
-      {
-        "artistName": "Hika HARADA",
-        "id": "1811561864",
-        "name": "La Bibliothèque des auteurs disparus",
-        "releaseDate": "2025-08-07",
-        "kind": "audio-books",
-        "artistId": "1502593759",
-        "artistUrl": "https://books.apple.com/jp/author/hika-harada/id1502593759",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/49/2c/99492ca7-5a92-5a08-1bda-84722d6c67c9/9781004209583.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000055",
-            "name": "SF／ファンタジー",
-            "url": "https://itunes.apple.com/jp/genre/id50000055"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/la-biblioth%C3%A8que-des-auteurs-disparus/id1811561864"
-      },
-      {
-        "artistName": "三谷匠衡 & 久保田裕也",
-        "id": "1657112446",
-        "name": "下から目線のハリウッド ～映画業界の舞台ウラ全部話します～ #69 映画制作会社の「倒産」のリアル!",
-        "releaseDate": "2022-11-30",
-        "kind": "audio-books",
-        "artistId": "1449714208",
-        "artistUrl": "https://books.apple.com/jp/author/%E4%B8%89%E8%B0%B7%E5%8C%A0%E8%A1%A1/id1449714208",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1f/1a/0f/1f1a0fd0-902c-12c6-8996-c69a0269d3e6/square_artwork.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000040",
-            "name": "フィクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000040"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/%E4%B8%8B%E3%81%8B%E3%82%89%E7%9B%AE%E7%B7%9A%E3%81%AE%E3%83%8F%E3%83%AA%E3%82%A6%E3%83%83%E3%83%89-%E6%98%A0%E7%94%BB%E6%A5%AD%E7%95%8C%E3%81%AE%E8%88%9E%E5%8F%B0%E3%82%A6%E3%83%A9%E5%85%A8%E9%83%A8%E8%A9%B1%E3%81%97%E3%81%BE%E3%81%99-69-%E6%98%A0%E7%94%BB%E5%88%B6%E4%BD%9C%E4%BC%9A%E7%A4%BE%E3%81%AE-%E5%80%92%E7%94%A3-%E3%81%AE%E3%83%AA%E3%82%A2%E3%83%AB/id1657112446"
-      },
-      {
-        "artistName": "五百田達成",
-        "id": "1596691625",
-        "name": "超雑談力 人づきあいがラクになる 誰とでも信頼関係が築ける",
-        "releaseDate": "2021-05-28",
-        "kind": "audio-books",
-        "artistId": "592688081",
-        "artistUrl": "https://books.apple.com/jp/author/%E4%BA%94%E7%99%BE%E7%94%B0%E9%81%94%E6%88%90/id592688081",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/33/a3/3b/33a33bc8-30eb-962b-63e3-71d4d775732d/square_artwork.jpg/100x100bb.png",
+        "artistId": "943809608",
+        "artistUrl": "https://books.apple.com/jp/author/%E7%9F%A2%E5%B3%B6%E9%9B%85%E5%BC%98/id943809608",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/32/a1/4e/32a14edd-094d-06c3-ae2b-cc25d84df87c/artwork.png/100x100bb.png",
         "genres": [
           {
             "genreId": "50000043",
@@ -1053,229 +2492,17 @@
             "url": "https://itunes.apple.com/jp/genre/id50000024"
           }
         ],
-        "url": "https://books.apple.com/jp/audiobook/%E8%B6%85%E9%9B%91%E8%AB%87%E5%8A%9B-%E4%BA%BA%E3%81%A5%E3%81%8D%E3%81%82%E3%81%84%E3%81%8C%E3%83%A9%E3%82%AF%E3%81%AB%E3%81%AA%E3%82%8B-%E8%AA%B0%E3%81%A8%E3%81%A7%E3%82%82%E4%BF%A1%E9%A0%BC%E9%96%A2%E4%BF%82%E3%81%8C%E7%AF%89%E3%81%91%E3%82%8B/id1596691625"
+        "url": "https://books.apple.com/jp/audiobook/%E5%A4%A7%E4%BA%BA%E9%A4%8A%E6%88%90%E8%AC%9B%E5%BA%A7%E7%AC%AC1%E7%B7%A8-%E5%A4%A7%E4%BA%BA%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9-%E7%AC%AC4%E7%AB%A0-%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC5-%E4%BC%91%E6%97%A5%E3%81%AE%E3%81%8A%E3%81%A4%E3%81%8D%E3%81%82%E3%81%84/id1416363566"
       },
       {
-        "artistName": "森絵都",
-        "id": "6808472488",
-        "name": "カラフル",
-        "releaseDate": "2026-08-28",
+        "artistName": "Elizabeth Vandiver & The Great Courses",
+        "id": "1043774526",
+        "name": "The Odyssey of Homer",
+        "releaseDate": "2013-07-08",
         "kind": "audio-books",
-        "artistId": "507688753",
-        "artistUrl": "https://books.apple.com/jp/author/%E6%A3%AE%E7%B5%B5%E9%83%BD/id507688753",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/62/77/cd6277d3-e247-47af-3f58-d2cb330a72bc/square_artwork.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000040",
-            "name": "フィクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000040"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB/id6808472488"
-      },
-      {
-        "artistName": "宮島未奈",
-        "id": "6770385527",
-        "name": "成瀬は天下を取りにいく",
-        "releaseDate": "2024-04-25",
-        "kind": "audio-books",
-        "artistId": "1669671291",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%AE%AE%E5%B3%B6%E6%9C%AA%E5%A5%88/id1669671291",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/94/f7/2a/94f72a07-0a08-64d6-d649-346cea58f3ee/square_artwork.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000040",
-            "name": "フィクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000040"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/%E6%88%90%E7%80%AC%E3%81%AF%E5%A4%A9%E4%B8%8B%E3%82%92%E5%8F%96%E3%82%8A%E3%81%AB%E3%81%84%E3%81%8F/id6770385527"
-      },
-      {
-        "artistName": "水野学",
-        "id": "1509177403",
-        "name": "センスは知識からはじまる",
-        "releaseDate": "2017-09-20",
-        "kind": "audio-books",
-        "artistId": "896099522",
-        "artistUrl": "https://books.apple.com/jp/author/%E6%B0%B4%E9%87%8E%E5%AD%A6/id896099522",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/99/0a/ed/990aed1f-b480-669b-79e6-7630fde9245a/square_artwork.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000056",
-            "name": "自己啓発",
-            "url": "https://itunes.apple.com/jp/genre/id50000056"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/%E3%82%BB%E3%83%B3%E3%82%B9%E3%81%AF%E7%9F%A5%E8%AD%98%E3%81%8B%E3%82%89%E3%81%AF%E3%81%98%E3%81%BE%E3%82%8B/id1509177403"
-      },
-      {
-        "artistName": "草薙 龍瞬",
-        "id": "1503412358",
-        "name": "【草薙龍瞬朗読】反応しない練習 特別版～自分の心を失わないために～: (KADOKAWA)",
-        "releaseDate": "2020-03-13",
-        "kind": "audio-books",
-        "artistId": "1056570376",
-        "artistUrl": "https://books.apple.com/jp/author/%E8%8D%89%E8%96%99-%E9%BE%8D%E7%9E%AC/id1056570376",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/84/6d/56846de0-9c67-b697-54ec-23e176bd4c98/rm_image.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000052",
-            "name": "ノンフィクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000052"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          },
-          {
-            "genreId": "50000056",
-            "name": "自己啓発",
-            "url": "https://itunes.apple.com/jp/genre/id50000056"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/%E8%8D%89%E8%96%99%E9%BE%8D%E7%9E%AC%E6%9C%97%E8%AA%AD-%E5%8F%8D%E5%BF%9C%E3%81%97%E3%81%AA%E3%81%84%E7%B7%B4%E7%BF%92-%E7%89%B9%E5%88%A5%E7%89%88-%E8%87%AA%E5%88%86%E3%81%AE%E5%BF%83%E3%82%92%E5%A4%B1%E3%82%8F%E3%81%AA%E3%81%84%E3%81%9F%E3%82%81%E3%81%AB-kadokawa/id1503412358"
-      },
-      {
-        "artistName": "司馬 遼太郎",
-        "id": "1895981370",
-        "name": "坂の上の雲(一): 文藝春秋",
-        "releaseDate": "2026-05-01",
-        "kind": "audio-books",
-        "artistId": "1054192112",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%8F%B8%E9%A6%AC-%E9%81%BC%E5%A4%AA%E9%83%8E/id1054192112",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/e1/bd/bbe1bdc6-d481-54c0-3440-97a84662949e/rm_image.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000040",
-            "name": "フィクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000040"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/%E5%9D%82%E3%81%AE%E4%B8%8A%E3%81%AE%E9%9B%B2-%E4%B8%80-%E6%96%87%E8%97%9D%E6%98%A5%E7%A7%8B/id1895981370"
-      },
-      {
-        "artistName": "植松努",
-        "id": "1799093929",
-        "name": "「どうせ無理」と思っている君へ 本当の自信の増やしかた",
-        "releaseDate": "2022-04-28",
-        "kind": "audio-books",
-        "artistId": "672599310",
-        "artistUrl": "https://books.apple.com/jp/author/%E6%A4%8D%E6%9D%BE%E5%8A%AA/id672599310",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/38/80/b0/3880b07a-ae4f-a129-20b1-122d94de417f/square_artwork.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000043",
-            "name": "ビジネス",
-            "url": "https://itunes.apple.com/jp/genre/id50000043"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/%E3%81%A9%E3%81%86%E3%81%9B%E7%84%A1%E7%90%86-%E3%81%A8%E6%80%9D%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E5%90%9B%E3%81%B8-%E6%9C%AC%E5%BD%93%E3%81%AE%E8%87%AA%E4%BF%A1%E3%81%AE%E5%A2%97%E3%82%84%E3%81%97%E3%81%8B%E3%81%9F/id1799093929"
-      },
-      {
-        "artistName": "鈴木陽一",
-        "id": "1641048047",
-        "name": "DUO3.0/CD復習用",
-        "releaseDate": "2000-03-15",
-        "kind": "audio-books",
-        "artistId": "1444987291",
-        "artistUrl": "https://books.apple.com/jp/author/%E9%88%B4%E6%9C%A8%E9%99%BD%E4%B8%80/id1444987291",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f7/17/88/f717884b-42ea-3dd1-1eb1-aa6aea40669b/square_artwork.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000050",
-            "name": "言語",
-            "url": "https://itunes.apple.com/jp/genre/id50000050"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/duo3-0-cd%E5%BE%A9%E7%BF%92%E7%94%A8/id1641048047"
-      },
-      {
-        "artistName": "爆笑問題",
-        "id": "1823898006",
-        "name": "2024年度版 漫才 爆笑問題のツーショット",
-        "releaseDate": "2025-07-15",
-        "kind": "audio-books",
-        "artistId": "587754614",
-        "artistUrl": "https://books.apple.com/jp/author/%E7%88%86%E7%AC%91%E5%95%8F%E9%A1%8C/id587754614",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6d/a4/0c/6da40c01-b21b-82e7-58fc-7cc2fda2954d/rm_image.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000046",
-            "name": "コメディ",
-            "url": "https://itunes.apple.com/jp/genre/id50000046"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/2024%E5%B9%B4%E5%BA%A6%E7%89%88-%E6%BC%AB%E6%89%8D-%E7%88%86%E7%AC%91%E5%95%8F%E9%A1%8C%E3%81%AE%E3%83%84%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/id1823898006"
-      },
-      {
-        "artistName": "伏瀬",
-        "id": "1847678623",
-        "name": "[19巻] 転生したらスライムだった件19",
-        "releaseDate": "2025-10-24",
-        "kind": "audio-books",
-        "artistId": "902244637",
-        "artistUrl": "https://books.apple.com/jp/author/%E4%BC%8F%E7%80%AC/id902244637",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b2/61/dc/b261dcb4-74d7-43ae-3024-94a6af11a329/rm_image.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000093",
-            "name": "ライトノベル",
-            "url": "https://itunes.apple.com/jp/genre/id50000093"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/19%E5%B7%BB-%E8%BB%A2%E7%94%9F%E3%81%97%E3%81%9F%E3%82%89%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%A0%E3%81%A0%E3%81%A3%E3%81%9F%E4%BB%B619/id1847678623"
-      },
-      {
-        "artistName": "与謝野晶子 & 紫式部",
-        "id": "499344111",
-        "name": "源氏物語 第一帖 桐壺",
-        "releaseDate": "2012-02-03",
-        "kind": "audio-books",
-        "artistId": "207913713",
-        "artistUrl": "https://books.apple.com/jp/author/%E4%B8%8E%E8%AC%9D%E9%87%8E%E6%99%B6%E5%AD%90/id207913713",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/f4/39/ba/f439ba93-8841-b4c0-c49f-36cb1f88a9e9/rm_image.jpg/100x100bb.png",
+        "artistId": "783562726",
+        "artistUrl": "https://books.apple.com/jp/author/elizabeth-vandiver/id783562726",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/f7/d3/72/f7d37257-f5c0-800e-ae1f-984ff8dab3dd/rm_image.jpg/100x100bb.png",
         "genres": [
           {
             "genreId": "50000045",
@@ -1286,1226 +2513,9 @@
             "genreId": "50000024",
             "name": "オーディオブック",
             "url": "https://itunes.apple.com/jp/genre/id50000024"
-          },
-          {
-            "genreId": "50000040",
-            "name": "フィクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000040"
           }
         ],
-        "url": "https://books.apple.com/jp/audiobook/%E6%BA%90%E6%B0%8F%E7%89%A9%E8%AA%9E-%E7%AC%AC%E4%B8%80%E5%B8%96-%E6%A1%90%E5%A3%BA/id499344111"
-      },
-      {
-        "artistName": "伏瀬",
-        "id": "1470922556",
-        "name": "[1巻]  転生したらスライムだった件 1",
-        "releaseDate": "2019-05-24",
-        "kind": "audio-books",
-        "artistId": "902244637",
-        "artistUrl": "https://books.apple.com/jp/author/%E4%BC%8F%E7%80%AC/id902244637",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/56/7e/22567ec7-9205-867f-be9e-1f5ded2f858c/rm_image.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000093",
-            "name": "ライトノベル",
-            "url": "https://itunes.apple.com/jp/genre/id50000093"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/1%E5%B7%BB-%E8%BB%A2%E7%94%9F%E3%81%97%E3%81%9F%E3%82%89%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%A0%E3%81%A0%E3%81%A3%E3%81%9F%E4%BB%B6-1/id1470922556"
-      },
-      {
-        "artistName": "太宰治",
-        "id": "260211506",
-        "name": "眉山",
-        "releaseDate": "2007-07-17",
-        "kind": "audio-books",
-        "artistId": "173331980",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%A4%AA%E5%AE%B0%E6%B2%BB/id173331980",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/69/3b/c1/693bc17a-01b0-1f53-6fee-cae52984bd82/rm_image.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000040",
-            "name": "フィクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000040"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/%E7%9C%89%E5%B1%B1/id260211506"
-      },
-      {
-        "artistName": "伏瀬",
-        "id": "1544241840",
-        "name": "[7巻] 転生したらスライムだった件7",
-        "releaseDate": "2020-12-25",
-        "kind": "audio-books",
-        "artistId": "902244637",
-        "artistUrl": "https://books.apple.com/jp/author/%E4%BC%8F%E7%80%AC/id902244637",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/70/a3/e7/70a3e738-685e-ed5a-86cc-c458ded356a2/rm_image.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000093",
-            "name": "ライトノベル",
-            "url": "https://itunes.apple.com/jp/genre/id50000093"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/7%E5%B7%BB-%E8%BB%A2%E7%94%9F%E3%81%97%E3%81%9F%E3%82%89%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%A0%E3%81%A0%E3%81%A3%E3%81%9F%E4%BB%B67/id1544241840"
-      },
-      {
-        "artistName": "伏瀬",
-        "id": "1492691666",
-        "name": "[2巻] 転生したらスライムだった件 2",
-        "releaseDate": "2019-07-26",
-        "kind": "audio-books",
-        "artistId": "902244637",
-        "artistUrl": "https://books.apple.com/jp/author/%E4%BC%8F%E7%80%AC/id902244637",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9e/ec/1e/9eec1ec0-5f5b-bd11-fac5-b837992346e3/rm_image.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000093",
-            "name": "ライトノベル",
-            "url": "https://itunes.apple.com/jp/genre/id50000093"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/2%E5%B7%BB-%E8%BB%A2%E7%94%9F%E3%81%97%E3%81%9F%E3%82%89%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%A0%E3%81%A0%E3%81%A3%E3%81%9F%E4%BB%B6-2/id1492691666"
-      },
-      {
-        "artistName": "入栖",
-        "id": "1894995771",
-        "name": "[9巻] マジカル★エクスプローラー エロゲの友人キャラに転生したけど、ゲーム知識使って自由に生きる9: (KADOKAWA)",
-        "releaseDate": "2026-05-01",
-        "kind": "audio-books",
-        "artistId": "1485186945",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%85%A5%E6%A0%96/id1485186945",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a6/00/14/a600146e-a0f8-3d69-4832-086030bf627d/rm_image.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000093",
-            "name": "ライトノベル",
-            "url": "https://itunes.apple.com/jp/genre/id50000093"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/9%E5%B7%BB-%E3%83%9E%E3%82%B8%E3%82%AB%E3%83%AB-%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC-%E3%82%A8%E3%83%AD%E3%82%B2%E3%81%AE%E5%8F%8B%E4%BA%BA%E3%82%AD%E3%83%A3%E3%83%A9%E3%81%AB%E8%BB%A2%E7%94%9F%E3%81%97%E3%81%9F%E3%81%91%E3%81%A9-%E3%82%B2%E3%83%BC%E3%83%A0%E7%9F%A5%E8%AD%98%E4%BD%BF%E3%81%A3%E3%81%A6%E8%87%AA%E7%94%B1%E3%81%AB%E7%94%9F%E3%81%8D%E3%82%8B9-kadokawa/id1894995771"
-      },
-      {
-        "artistName": "香月 美夜",
-        "id": "1488759594",
-        "name": "[4巻] 本好きの下剋上～司書になるためには手段を選んでいられません～第二部「神殿の巫女見習い1」: TO Books.",
-        "releaseDate": "2019-11-29",
-        "kind": "audio-books",
-        "artistId": "1460203384",
-        "artistUrl": "https://books.apple.com/jp/author/%E9%A6%99%E6%9C%88-%E7%BE%8E%E5%A4%9C/id1460203384",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/44/a8/8a/44a88a14-675b-6a53-e19e-1f69218ddcb8/rm_image.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000093",
-            "name": "ライトノベル",
-            "url": "https://itunes.apple.com/jp/genre/id50000093"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/4%E5%B7%BB-%E6%9C%AC%E5%A5%BD%E3%81%8D%E3%81%AE%E4%B8%8B%E5%89%8B%E4%B8%8A-%E5%8F%B8%E6%9B%B8%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E3%81%AF%E6%89%8B%E6%AE%B5%E3%82%92%E9%81%B8%E3%82%93%E3%81%A7%E3%81%84%E3%82%89%E3%82%8C%E3%81%BE%E3%81%9B%E3%82%93-%E7%AC%AC%E4%BA%8C%E9%83%A8-%E7%A5%9E%E6%AE%BF%E3%81%AE%E5%B7%AB%E5%A5%B3%E8%A6%8B%E7%BF%92%E3%81%841-to-books/id1488759594"
-      },
-      {
-        "artistName": "メンタリストDaiGo",
-        "id": "1518898729",
-        "name": "超習慣術",
-        "releaseDate": "2020-06-23",
-        "kind": "audio-books",
-        "artistId": "687267527",
-        "artistUrl": "https://books.apple.com/jp/author/%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AA%E3%82%B9%E3%83%88daigo/id687267527",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/f1/dc/80/f1dc80a9-449c-df1c-9f79-83704325a6a6/rm_image.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000056",
-            "name": "自己啓発",
-            "url": "https://itunes.apple.com/jp/genre/id50000056"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          },
-          {
-            "genreId": "50000052",
-            "name": "ノンフィクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000052"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/%E8%B6%85%E7%BF%92%E6%85%A3%E8%A1%93/id1518898729"
-      },
-      {
-        "artistName": "光田秀",
-        "id": "1498438606",
-        "name": "眠れる予言者エドガー・ケイシー",
-        "releaseDate": "2009-04-11",
-        "kind": "audio-books",
-        "artistId": "1498438607",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%85%89%E7%94%B0%E7%A7%80/id1498438607",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/d6/f7/4c/d6f74cdc-b6f4-879e-12e5-1faebab06984/square_artwork.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000056",
-            "name": "自己啓発",
-            "url": "https://itunes.apple.com/jp/genre/id50000056"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          },
-          {
-            "genreId": "50000053",
-            "name": "宗教／スピリチュアル",
-            "url": "https://itunes.apple.com/jp/genre/id50000053"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/%E7%9C%A0%E3%82%8C%E3%82%8B%E4%BA%88%E8%A8%80%E8%80%85%E3%82%A8%E3%83%89%E3%82%AC%E3%83%BC-%E3%82%B1%E3%82%A4%E3%82%B7%E3%83%BC/id1498438606"
-      },
-      {
-        "artistName": "齋藤孝(監修)",
-        "id": "1592045369",
-        "name": "1日1ページ、読むだけで身につく日本の教養365",
-        "releaseDate": "2021-08-17",
-        "kind": "audio-books",
-        "artistId": "1720553290",
-        "artistUrl": "https://books.apple.com/jp/author/%E9%BD%8B%E8%97%A4%E5%AD%9D-%E7%9B%A3%E4%BF%AE/id1720553290",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/29/85/a4/2985a418-73fc-d635-1557-05460251338f/square_artwork.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000052",
-            "name": "ノンフィクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000052"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/1%E6%97%A51%E3%83%9A%E3%83%BC%E3%82%B8-%E8%AA%AD%E3%82%80%E3%81%A0%E3%81%91%E3%81%A7%E8%BA%AB%E3%81%AB%E3%81%A4%E3%81%8F%E6%97%A5%E6%9C%AC%E3%81%AE%E6%95%99%E9%A4%8A365/id1592045369"
-      },
-      {
-        "artistName": "村上春樹",
-        "id": "1534287375",
-        "name": "Norwegian Wood",
-        "releaseDate": "2020-10-29",
-        "kind": "audio-books",
-        "artistId": "31469590",
-        "artistUrl": "https://books.apple.com/jp/author/%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9/id31469590",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9d/bb/13/9dbb13fe-a7a4-3282-48c7-ef3b225183a2/9781473582569.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000040",
-            "name": "フィクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000040"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          },
-          {
-            "genreId": "50000069",
-            "name": "ロマンス",
-            "url": "https://itunes.apple.com/jp/genre/id50000069"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/norwegian-wood/id1534287375"
-      },
-      {
-        "artistName": "橋本 拓也",
-        "id": "1796227817",
-        "name": "部下をもったらいちばん最初に読む本",
-        "releaseDate": "2025-02-21",
-        "kind": "audio-books",
-        "artistId": "1796227818",
-        "artistUrl": "https://books.apple.com/jp/author/%E6%A9%8B%E6%9C%AC-%E6%8B%93%E4%B9%9F/id1796227818",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/e4/26/e2e4269d-4fb0-65f8-4673-25ef68a14a19/rm_image.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000043",
-            "name": "ビジネス",
-            "url": "https://itunes.apple.com/jp/genre/id50000043"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/%E9%83%A8%E4%B8%8B%E3%82%92%E3%82%82%E3%81%A3%E3%81%9F%E3%82%89%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93%E6%9C%80%E5%88%9D%E3%81%AB%E8%AA%AD%E3%82%80%E6%9C%AC/id1796227817"
-      },
-      {
-        "artistName": "Eckhart Tolle",
-        "id": "1411815179",
-        "name": "The Power of Now",
-        "releaseDate": "2000-01-01",
-        "kind": "audio-books",
-        "artistId": "2063449",
-        "artistUrl": "https://books.apple.com/jp/author/eckhart-tolle/id2063449",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/bb/1d/1dbb1d61-bf7e-a41b-170a-856ba6679aec/9781577313755.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000056",
-            "name": "自己啓発",
-            "url": "https://itunes.apple.com/jp/genre/id50000056"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/the-power-of-now/id1411815179"
-      },
-      {
-        "artistName": "瀧本哲史",
-        "id": "1454782382",
-        "name": "君に友だちはいらない",
-        "releaseDate": "2015-05-08",
-        "kind": "audio-books",
-        "artistId": "915771287",
-        "artistUrl": "https://books.apple.com/jp/author/%E7%80%A7%E6%9C%AC%E5%93%B2%E5%8F%B2/id915771287",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/bd/bb/a7/bdbba78e-5f7f-d034-3eb6-36eac66f8ad6/dj.lqtftveg.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000043",
-            "name": "ビジネス",
-            "url": "https://itunes.apple.com/jp/genre/id50000043"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/%E5%90%9B%E3%81%AB%E5%8F%8B%E3%81%A0%E3%81%A1%E3%81%AF%E3%81%84%E3%82%89%E3%81%AA%E3%81%84/id1454782382"
-      },
-      {
-        "artistName": "雨森たきび",
-        "id": "1772591969",
-        "name": "負けヒロインが多すぎる! 3 (ガガガ文庫)",
-        "releaseDate": "2022-04-19",
-        "kind": "audio-books",
-        "artistId": "1575509561",
-        "artistUrl": "https://books.apple.com/jp/author/%E9%9B%A8%E6%A3%AE%E3%81%9F%E3%81%8D%E3%81%B3/id1575509561",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/3f/96/533f967e-b159-ccb3-b737-1c8e7a2ec0e1/square_artwork.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000040",
-            "name": "フィクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000040"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/%E8%B2%A0%E3%81%91%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%8C%E5%A4%9A%E3%81%99%E3%81%8E%E3%82%8B-3-%E3%82%AC%E3%82%AC%E3%82%AC%E6%96%87%E5%BA%AB/id1772591969"
-      },
-      {
-        "artistName": "池井戸 潤",
-        "id": "1450679794",
-        "name": "陸王",
-        "releaseDate": "2019-02-01",
-        "kind": "audio-books",
-        "artistId": "680525830",
-        "artistUrl": "https://books.apple.com/jp/author/%E6%B1%A0%E4%BA%95%E6%88%B8-%E6%BD%A4/id680525830",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/07/07/97/070797af-ccb2-bb74-b65c-d9dc9cd693cb/rm_image.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000040",
-            "name": "フィクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000040"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/%E9%99%B8%E7%8E%8B/id1450679794"
-      },
-      {
-        "artistName": "今村翔吾",
-        "id": "1694280637",
-        "name": "イクサガミ 天",
-        "releaseDate": "2023-05-31",
-        "kind": "audio-books",
-        "artistId": "442355727",
-        "artistUrl": "https://books.apple.com/jp/author/%E4%BB%8A%E6%9D%91%E7%BF%94%E5%90%BE/id442355727",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7e/f9/45/7ef94513-2356-bbbe-9dd5-fae8eea1cb17/square_artwork.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000040",
-            "name": "フィクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000040"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/%E3%82%A4%E3%82%AF%E3%82%B5%E3%82%AC%E3%83%9F-%E5%A4%A9/id1694280637"
-      },
-      {
-        "artistName": "依空まつり",
-        "id": "1726883462",
-        "name": "[1巻] サイレント・ウィッチ 沈黙の魔女の隠しごと: (KADOKAWA)",
-        "releaseDate": "2024-02-02",
-        "kind": "audio-books",
-        "artistId": "1726883463",
-        "artistUrl": "https://books.apple.com/jp/author/%E4%BE%9D%E7%A9%BA%E3%81%BE%E3%81%A4%E3%82%8A/id1726883463",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/96/1c/d5/961cd5d4-f100-e9d6-b98d-47a1d72d0221/rm_image.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000093",
-            "name": "ライトノベル",
-            "url": "https://itunes.apple.com/jp/genre/id50000093"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/1%E5%B7%BB-%E3%82%B5%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%88-%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81-%E6%B2%88%E9%BB%99%E3%81%AE%E9%AD%94%E5%A5%B3%E3%81%AE%E9%9A%A0%E3%81%97%E3%81%94%E3%81%A8-kadokawa/id1726883462"
-      },
-      {
-        "artistName": "植田一三 & 上田敏子",
-        "id": "1434284802",
-        "name": "英語で説明する日本の文化",
-        "releaseDate": "2009-06-01",
-        "kind": "audio-books",
-        "artistId": "960677258",
-        "artistUrl": "https://books.apple.com/jp/author/%E6%A4%8D%E7%94%B0%E4%B8%80%E4%B8%89/id960677258",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/9f/24/46/9f24461d-fd35-fecb-a0dc-9527f345bf8a/dj.voholfyh.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000050",
-            "name": "言語",
-            "url": "https://itunes.apple.com/jp/genre/id50000050"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/%E8%8B%B1%E8%AA%9E%E3%81%A7%E8%AA%AC%E6%98%8E%E3%81%99%E3%82%8B%E6%97%A5%E6%9C%AC%E3%81%AE%E6%96%87%E5%8C%96/id1434284802"
-      },
-      {
-        "artistName": "J・K・ローリング",
-        "id": "1741783205",
-        "name": "ハリー・ポッターと謎のプリンス",
-        "releaseDate": "2018-06-21",
-        "kind": "audio-books",
-        "artistId": "79595314",
-        "artistUrl": "https://books.apple.com/jp/author/j-k-%E3%83%AD%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0/id79595314",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/36/ed/f2/36edf2eb-b789-84a6-0af3-bb909e1ee5de/9781781108550.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000044",
-            "name": "キッズ／ヤングアダルト",
-            "url": "https://itunes.apple.com/jp/genre/id50000044"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/%E3%83%8F%E3%83%AA%E3%83%BC-%E3%83%9D%E3%83%83%E3%82%BF%E3%83%BC%E3%81%A8%E8%AC%8E%E3%81%AE%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9/id1741783205"
-      },
-      {
-        "artistName": "坂口安吾",
-        "id": "1081252653",
-        "name": "織田信長",
-        "releaseDate": "2015-06-15",
-        "kind": "audio-books",
-        "artistId": "185301069",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%9D%82%E5%8F%A3%E5%AE%89%E5%90%BE/id185301069",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/10/c4/65/10c46532-1a2f-4210-0d45-9004544ed669/rm_image.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000040",
-            "name": "フィクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000040"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/%E7%B9%94%E7%94%B0%E4%BF%A1%E9%95%B7/id1081252653"
-      },
-      {
-        "artistName": "青木 仁志",
-        "id": "1597683821",
-        "name": "一生折れない自信のつくり方",
-        "releaseDate": "2021-12-03",
-        "kind": "audio-books",
-        "artistId": "1254353551",
-        "artistUrl": "https://books.apple.com/jp/author/%E9%9D%92%E6%9C%A8-%E4%BB%81%E5%BF%97/id1254353551",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/42/5a/27/425a270f-820d-9df8-a407-37a93fd3574f/rm_image.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000056",
-            "name": "自己啓発",
-            "url": "https://itunes.apple.com/jp/genre/id50000056"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          },
-          {
-            "genreId": "50000052",
-            "name": "ノンフィクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000052"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/%E4%B8%80%E7%94%9F%E6%8A%98%E3%82%8C%E3%81%AA%E3%81%84%E8%87%AA%E4%BF%A1%E3%81%AE%E3%81%A4%E3%81%8F%E3%82%8A%E6%96%B9/id1597683821"
-      },
-      {
-        "artistName": "楠木 建",
-        "id": "1517476681",
-        "name": "ストーリーとしての競争戦略: 優れた戦略の条件",
-        "releaseDate": "2020-06-05",
-        "kind": "audio-books",
-        "artistId": "1438899802",
-        "artistUrl": "https://books.apple.com/jp/author/%E6%A5%A0%E6%9C%A8-%E5%BB%BA/id1438899802",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f3/01/52/f30152b8-89ee-0183-bdd3-0fbeedc5002d/rm_image.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000043",
-            "name": "ビジネス",
-            "url": "https://itunes.apple.com/jp/genre/id50000043"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AE%E7%AB%B6%E4%BA%89%E6%88%A6%E7%95%A5-%E5%84%AA%E3%82%8C%E3%81%9F%E6%88%A6%E7%95%A5%E3%81%AE%E6%9D%A1%E4%BB%B6/id1517476681"
-      },
-      {
-        "artistName": "大前研一",
-        "id": "1440721231",
-        "name": "サラリーマン・リカバリー―会社から自分の人生を取り戻せ",
-        "releaseDate": "2017-06-13",
-        "kind": "audio-books",
-        "artistId": "582663856",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%A4%A7%E5%89%8D%E7%A0%94%E4%B8%80/id582663856",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/54/33/e8/5433e8bb-8995-fd9b-e191-c44ef4dbb9f3/dj.vzcaohbu.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000056",
-            "name": "自己啓発",
-            "url": "https://itunes.apple.com/jp/genre/id50000056"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/%E3%82%B5%E3%83%A9%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%B3-%E3%83%AA%E3%82%AB%E3%83%90%E3%83%AA%E3%83%BC-%E4%BC%9A%E7%A4%BE%E3%81%8B%E3%82%89%E8%87%AA%E5%88%86%E3%81%AE%E4%BA%BA%E7%94%9F%E3%82%92%E5%8F%96%E3%82%8A%E6%88%BB%E3%81%9B/id1440721231"
-      },
-      {
-        "artistName": "一穂 ミチ",
-        "id": "1683957754",
-        "name": "光のとこにいてね",
-        "releaseDate": "2023-05-12",
-        "kind": "audio-books",
-        "artistId": "1581566927",
-        "artistUrl": "https://books.apple.com/jp/author/%E4%B8%80%E7%A9%82-%E3%83%9F%E3%83%81/id1581566927",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/2e/aa/e12eaafa-1329-6675-7aba-67b1d8875b14/rm_image.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000040",
-            "name": "フィクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000040"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/%E5%85%89%E3%81%AE%E3%81%A8%E3%81%93%E3%81%AB%E3%81%84%E3%81%A6%E3%81%AD/id1683957754"
-      },
-      {
-        "artistName": "Jeffrey Archer",
-        "id": "1442475503",
-        "name": "Kane and Abel",
-        "releaseDate": "2009-10-16",
-        "kind": "audio-books",
-        "artistId": "2765327",
-        "artistUrl": "https://books.apple.com/jp/author/jeffrey-archer/id2765327",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/4a/a1/484aa1fd-eea7-2e6f-def1-8736b5163617/9780230746466.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000051",
-            "name": "ミステリー",
-            "url": "https://itunes.apple.com/jp/genre/id50000051"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          },
-          {
-            "genreId": "50000040",
-            "name": "フィクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000040"
-          },
-          {
-            "genreId": "50000069",
-            "name": "ロマンス",
-            "url": "https://itunes.apple.com/jp/genre/id50000069"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/kane-and-abel/id1442475503"
-      },
-      {
-        "artistName": "齋藤茂樹",
-        "id": "1877009670",
-        "name": "半導体のすべて ── 石ころが世界を支配するまで",
-        "releaseDate": "2026-02-12",
-        "kind": "audio-books",
-        "artistId": "1030654132",
-        "artistUrl": "https://books.apple.com/jp/author/%E9%BD%8B%E8%97%A4%E8%8C%82%E6%A8%B9/id1030654132",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/d9/e3/44d9e3b0-8665-90bd-65b9-f61df0a01dde/square_artwork.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000052",
-            "name": "ノンフィクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000052"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6-%E7%9F%B3%E3%81%93%E3%82%8D%E3%81%8C%E4%B8%96%E7%95%8C%E3%82%92%E6%94%AF%E9%85%8D%E3%81%99%E3%82%8B%E3%81%BE%E3%81%A7/id1877009670"
-      },
-      {
-        "artistName": "ジョンJ.レイティ(著), エリック・ヘイガーマン(著) & 野中 香方子(訳)",
-        "id": "1862765927",
-        "name": "脳を鍛えるには運動しかない! 最新科学でわかった脳細胞の増やし方",
-        "releaseDate": "2026-01-16",
-        "kind": "audio-books",
-        "artistId": "1862765928",
-        "artistUrl": "https://books.apple.com/jp/author/%E3%82%B8%E3%83%A7%E3%83%B3j-%E3%83%AC%E3%82%A4%E3%83%86%E3%82%A3-%E8%91%97/id1862765928",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a4/ef/2b/a4ef2ba3-5e17-ce85-46f1-b6aa5384818e/rm_image.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000054",
-            "name": "科学",
-            "url": "https://itunes.apple.com/jp/genre/id50000054"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          },
-          {
-            "genreId": "50000056",
-            "name": "自己啓発",
-            "url": "https://itunes.apple.com/jp/genre/id50000056"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/%E8%84%B3%E3%82%92%E9%8D%9B%E3%81%88%E3%82%8B%E3%81%AB%E3%81%AF%E9%81%8B%E5%8B%95%E3%81%97%E3%81%8B%E3%81%AA%E3%81%84-%E6%9C%80%E6%96%B0%E7%A7%91%E5%AD%A6%E3%81%A7%E3%82%8F%E3%81%8B%E3%81%A3%E3%81%9F%E8%84%B3%E7%B4%B0%E8%83%9E%E3%81%AE%E5%A2%97%E3%82%84%E3%81%97%E6%96%B9/id1862765927"
-      },
-      {
-        "artistName": "桂文我",
-        "id": "1800190052",
-        "name": "桂文我 上方落語全集 第十巻",
-        "releaseDate": "2025-03-13",
-        "kind": "audio-books",
-        "artistId": "1225514673",
-        "artistUrl": "https://books.apple.com/jp/author/%E6%A1%82%E6%96%87%E6%88%91/id1225514673",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ea/c4/17/eac41735-b474-3184-3214-b671152c11d1/rm_image.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000046",
-            "name": "コメディ",
-            "url": "https://itunes.apple.com/jp/genre/id50000046"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/%E6%A1%82%E6%96%87%E6%88%91-%E4%B8%8A%E6%96%B9%E8%90%BD%E8%AA%9E%E5%85%A8%E9%9B%86-%E7%AC%AC%E5%8D%81%E5%B7%BB/id1800190052"
-      },
-      {
-        "artistName": "乾石 智子",
-        "id": "1203162190",
-        "name": "夜の写本師",
-        "releaseDate": "2017-02-08",
-        "kind": "audio-books",
-        "artistId": "1203162222",
-        "artistUrl": "https://books.apple.com/jp/author/%E4%B9%BE%E7%9F%B3-%E6%99%BA%E5%AD%90/id1203162222",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/2c/1f/e6/2c1fe6e3-95d8-f500-d26d-5d2075becdce/rm_image.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000040",
-            "name": "フィクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000040"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          },
-          {
-            "genreId": "50000055",
-            "name": "SF／ファンタジー",
-            "url": "https://itunes.apple.com/jp/genre/id50000055"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/%E5%A4%9C%E3%81%AE%E5%86%99%E6%9C%AC%E5%B8%AB/id1203162190"
-      },
-      {
-        "artistName": "柚木 麻子",
-        "id": "1648178771",
-        "name": "ついでにジェントルメン",
-        "releaseDate": "2022-10-08",
-        "kind": "audio-books",
-        "artistId": "1152282530",
-        "artistUrl": "https://books.apple.com/jp/author/%E6%9F%9A%E6%9C%A8-%E9%BA%BB%E5%AD%90/id1152282530",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/80/08/c0/8008c063-f7e6-9e9d-1618-5c1f4763229b/rm_image.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000040",
-            "name": "フィクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000040"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/%E3%81%A4%E3%81%84%E3%81%A7%E3%81%AB%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%83%AB%E3%83%A1%E3%83%B3/id1648178771"
-      },
-      {
-        "artistName": "小学館",
-        "id": "1581370583",
-        "name": "2 プラチナコール～ホスト科男子に恋をする～ 第1弾:綾瀬隼人&小宮山だいき 【出演声優:木村良平&KENN】",
-        "releaseDate": "2021-08-24",
-        "kind": "audio-books",
-        "artistId": "978592480",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%B0%8F%E5%AD%A6%E9%A4%A8/id978592480",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/02/33/f6/0233f6e2-b1cc-5e5d-9ae1-2131b40bb4e3/square_artwork.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000055",
-            "name": "SF／ファンタジー",
-            "url": "https://itunes.apple.com/jp/genre/id50000055"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/2-%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%E3%82%B3%E3%83%BC%E3%83%AB-%E3%83%9B%E3%82%B9%E3%83%88%E7%A7%91%E7%94%B7%E5%AD%90%E3%81%AB%E6%81%8B%E3%82%92%E3%81%99%E3%82%8B-%E7%AC%AC1%E5%BC%BE-%E7%B6%BE%E7%80%AC%E9%9A%BC%E4%BA%BA-%E5%B0%8F%E5%AE%AE%E5%B1%B1%E3%81%A0%E3%81%84%E3%81%8D-%E5%87%BA%E6%BC%94%E5%A3%B0%E5%84%AA-%E6%9C%A8%E6%9D%91%E8%89%AF%E5%B9%B3-kenn/id1581370583"
-      },
-      {
-        "artistName": "Sarah J. Maas",
-        "id": "1882772025",
-        "name": "A Court of Forgotten Melody (Court of Thorns and Roses)",
-        "releaseDate": "2027-01-12",
-        "kind": "audio-books",
-        "artistId": "535404063",
-        "artistUrl": "https://books.apple.com/jp/author/sarah-j-maas/id535404063",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/73/11/19/73111957-5818-8f81-fb21-3a36761b1230/9781980036142.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000069",
-            "name": "ロマンス",
-            "url": "https://itunes.apple.com/jp/genre/id50000069"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/a-court-of-forgotten-melody-court-of-thorns-and-roses/id1882772025"
-      },
-      {
-        "artistName": "古流 望",
-        "id": "1881934935",
-        "name": "おかしな転生8 幸せを呼ぶスイーツ",
-        "releaseDate": "2026-04-27",
-        "kind": "audio-books",
-        "artistId": "1468326216",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%8F%A4%E6%B5%81-%E6%9C%9B/id1468326216",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/c8/ec/b1c8ec76-03b7-93ee-5052-fadebbc061ba/rm_image.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000093",
-            "name": "ライトノベル",
-            "url": "https://itunes.apple.com/jp/genre/id50000093"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/%E3%81%8A%E3%81%8B%E3%81%97%E3%81%AA%E8%BB%A2%E7%94%9F8-%E5%B9%B8%E3%81%9B%E3%82%92%E5%91%BC%E3%81%B6%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%84/id1881934935"
-      },
-      {
-        "artistName": "デイル・ドーテン & 野津 智子(翻訳)",
-        "id": "1868975166",
-        "name": "仕事は楽しいかね?[新版]",
-        "releaseDate": "2026-01-16",
-        "kind": "audio-books",
-        "artistId": "1376758968",
-        "artistUrl": "https://books.apple.com/jp/author/%E3%83%87%E3%82%A4%E3%83%AB-%E3%83%89%E3%83%BC%E3%83%86%E3%83%B3/id1376758968",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/76/d2/e076d284-aef0-114c-9f0d-8381e2622874/rm_image.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000043",
-            "name": "ビジネス",
-            "url": "https://itunes.apple.com/jp/genre/id50000043"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/%E4%BB%95%E4%BA%8B%E3%81%AF%E6%A5%BD%E3%81%97%E3%81%84%E3%81%8B%E3%81%AD-%E6%96%B0%E7%89%88/id1868975166"
-      },
-      {
-        "artistName": "Eva Dou",
-        "id": "1751639925",
-        "name": "House of Huawei: The Secret History of China's Most Powerful Company (Unabridged)",
-        "releaseDate": "2025-01-14",
-        "kind": "audio-books",
-        "artistId": "1692913576",
-        "artistUrl": "https://books.apple.com/jp/author/eva-dou/id1692913576",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/fd/2b/7afd2b62-288d-cc2d-1b92-9a73b7bced8c/9780593867853.d.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000043",
-            "name": "ビジネス",
-            "url": "https://itunes.apple.com/jp/genre/id50000043"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          },
-          {
-            "genreId": "50000052",
-            "name": "ノンフィクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000052"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/house-of-huawei-the-secret-history-of-chinas/id1751639925"
-      },
-      {
-        "artistName": "ジョージ・レナード & 中田 康憲 (翻訳)",
-        "id": "1728172751",
-        "name": "達人のサイエンス — 真の自己成長のために",
-        "releaseDate": "2024-02-02",
-        "kind": "audio-books",
-        "artistId": "1712643027",
-        "artistUrl": "https://books.apple.com/jp/author/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8-%E3%83%AC%E3%83%8A%E3%83%BC%E3%83%89/id1712643027",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3d/95/87/3d95873f-4258-7070-3944-e8099ff98000/rm_image.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000051",
-            "name": "ミステリー",
-            "url": "https://itunes.apple.com/jp/genre/id50000051"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          },
-          {
-            "genreId": "50000052",
-            "name": "ノンフィクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000052"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/%E9%81%94%E4%BA%BA%E3%81%AE%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9-%E7%9C%9F%E3%81%AE%E8%87%AA%E5%B7%B1%E6%88%90%E9%95%B7%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB/id1728172751"
-      },
-      {
-        "artistName": "Scott Dikkers",
-        "id": "1448038640",
-        "name": "How to Write Funny: Your Serious, Step-By-Step Blueprint for Creating Incredibly, Irresistibly, Successfully Hilarious Writing, Book 1 (Unabridged)",
-        "releaseDate": "2018-12-17",
-        "kind": "audio-books",
-        "artistId": "358483206",
-        "artistUrl": "https://books.apple.com/jp/author/scott-dikkers/id358483206",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/a5/2b/d2/a52bd247-2e3c-4a94-a921-4f192b73bdb3/rm_image.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000046",
-            "name": "コメディ",
-            "url": "https://itunes.apple.com/jp/genre/id50000046"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          },
-          {
-            "genreId": "50000056",
-            "name": "自己啓発",
-            "url": "https://itunes.apple.com/jp/genre/id50000056"
-          },
-          {
-            "genreId": "50000052",
-            "name": "ノンフィクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000052"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/how-to-write-funny-your-serious-step-by-step-blueprint/id1448038640"
-      },
-      {
-        "artistName": "宇野 千代",
-        "id": "6822195975",
-        "name": "生きて行く私: (KADOKAWA)",
-        "releaseDate": "2026-10-16",
-        "kind": "audio-books",
-        "artistId": "1815908633",
-        "artistUrl": "https://books.apple.com/jp/author/%E5%AE%87%E9%87%8E-%E5%8D%83%E4%BB%A3/id1815908633",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c9/92/02/c99202ad-53cc-002f-9d1d-3d79948f7595/rm_image.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000042",
-            "name": "伝記／自叙伝",
-            "url": "https://itunes.apple.com/jp/genre/id50000042"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/%E7%94%9F%E3%81%8D%E3%81%A6%E8%A1%8C%E3%81%8F%E7%A7%81-kadokawa/id6822195975"
-      },
-      {
-        "artistName": "Carmen Mola",
-        "id": "6809385154",
-        "name": "Los Huérfanos",
-        "releaseDate": "2026-09-09",
-        "kind": "audio-books",
-        "artistId": "1355182256",
-        "artistUrl": "https://books.apple.com/jp/author/carmen-mola/id1355182256",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/b4/0a/3db40a69-0ca6-a1e0-6e71-60af71eeaabc/9788408327721.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000051",
-            "name": "ミステリー",
-            "url": "https://itunes.apple.com/jp/genre/id50000051"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/los-hu%C3%A9rfanos/id6809385154"
-      },
-      {
-        "artistName": "伏尾 美紀",
-        "id": "1878100345",
-        "name": "百年の時効: (幻冬舎)",
-        "releaseDate": "2026-02-27",
-        "kind": "audio-books",
-        "artistId": "1878100526",
-        "artistUrl": "https://books.apple.com/jp/author/%E4%BC%8F%E5%B0%BE-%E7%BE%8E%E7%B4%80/id1878100526",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/9c/13/629c1362-42a9-3705-5a84-a4e6afa32c8b/rm_image.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000051",
-            "name": "ミステリー",
-            "url": "https://itunes.apple.com/jp/genre/id50000051"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/%E7%99%BE%E5%B9%B4%E3%81%AE%E6%99%82%E5%8A%B9-%E5%B9%BB%E5%86%AC%E8%88%8E/id1878100345"
-      },
-      {
-        "artistName": "OSHO",
-        "id": "1817811273",
-        "name": "Times of Crisis Are Times for Individual Revolution",
-        "releaseDate": "2015-11-23",
-        "kind": "audio-books",
-        "artistId": "1139783040",
-        "artistUrl": "https://books.apple.com/jp/author/osho/id1139783040",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/e3/36/e2e33658-5ac3-16ed-d36b-f4e0df116824/9780880504850.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000053",
-            "name": "宗教／スピリチュアル",
-            "url": "https://itunes.apple.com/jp/genre/id50000053"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/times-of-crisis-are-times-for-individual-revolution/id1817811273"
-      },
-      {
-        "artistName": "Paul Kingsnorth",
-        "id": "1791244985",
-        "name": "Against the Machine: On the Unmaking of Humanity (Unabridged)",
-        "releaseDate": "2025-09-23",
-        "kind": "audio-books",
-        "artistId": "457715795",
-        "artistUrl": "https://books.apple.com/jp/author/paul-kingsnorth/id457715795",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/89/a9/8989a966-9c7b-7f0b-fd38-b8480da727c4/9798217163724.d.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000052",
-            "name": "ノンフィクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000052"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/against-the-machine-on-the-unmaking-of-humanity-unabridged/id1791244985"
-      },
-      {
-        "artistName": "Robert Philip",
-        "id": "1683117710",
-        "name": "A Little History of Music",
-        "releaseDate": "2023-05-23",
-        "kind": "audio-books",
-        "artistId": "434274411",
-        "artistUrl": "https://books.apple.com/jp/author/robert-philip/id434274411",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3e/f8/05/3ef80511-ca54-efef-d1f2-4af01f0b77d6/9780300272727.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000052",
-            "name": "ノンフィクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000052"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          },
-          {
-            "genreId": "50000049",
-            "name": "歴史",
-            "url": "https://itunes.apple.com/jp/genre/id50000049"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/a-little-history-of-music/id1683117710"
-      },
-      {
-        "artistName": "Charles River Editors",
-        "id": "1677532828",
-        "name": "Captain John Franklin and Sir Ernest Shackleton: The History of Britain’s Most Famous Polar Explorers and Their Expeditions",
-        "releaseDate": "2023-03-13",
-        "kind": "audio-books",
-        "artistId": "421675931",
-        "artistUrl": "https://books.apple.com/jp/author/charles-river-editors/id421675931",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e8/2e/4e/e82e4e82-93b5-b7cd-211b-1c67dc8cd13a/9798368930374.png/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000042",
-            "name": "伝記／自叙伝",
-            "url": "https://itunes.apple.com/jp/genre/id50000042"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          },
-          {
-            "genreId": "50000049",
-            "name": "歴史",
-            "url": "https://itunes.apple.com/jp/genre/id50000049"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/captain-john-franklin-and-sir-ernest-shackleton/id1677532828"
-      },
-      {
-        "artistName": "J. M. Gardner",
-        "id": "1490470061",
-        "name": "Japanese - Indonesian. a complete method: I listen, I repeat, I speak",
-        "releaseDate": "2025-06-17",
-        "kind": "audio-books",
-        "artistId": "1106460507",
-        "artistUrl": "https://books.apple.com/jp/author/j-m-gardner/id1106460507",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/e9/c8/10/e9c81052-af09-1048-1d3b-87047025cf7f/rm_image.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000052",
-            "name": "ノンフィクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000052"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          },
-          {
-            "genreId": "50000050",
-            "name": "言語",
-            "url": "https://itunes.apple.com/jp/genre/id50000050"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/japanese-indonesian-a-complete-method-i-listen-i/id1490470061"
-      },
-      {
-        "artistName": "池波正太郎",
-        "id": "1129798125",
-        "name": "狐火(鬼平犯科帳より): 鬼平犯科帳より",
-        "releaseDate": "2016-07-20",
-        "kind": "audio-books",
-        "artistId": "1084827141",
-        "artistUrl": "https://books.apple.com/jp/author/%E6%B1%A0%E6%B3%A2%E6%AD%A3%E5%A4%AA%E9%83%8E/id1084827141",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ca/f7/cd/caf7cdc0-5235-88f3-2395-995859236b12/rm_image.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000040",
-            "name": "フィクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000040"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/%E7%8B%90%E7%81%AB-%E9%AC%BC%E5%B9%B3%E7%8A%AF%E7%A7%91%E5%B8%B3%E3%82%88%E3%82%8A-%E9%AC%BC%E5%B9%B3%E7%8A%AF%E7%A7%91%E5%B8%B3%E3%82%88%E3%82%8A/id1129798125"
-      },
-      {
-        "artistName": "カール=ヨハン・エリーン",
-        "id": "1433921045",
-        "name": "「おやすみ、ロジャー 朗読CDダウンロード版」男性ナレーター編:中村悠一さん",
-        "releaseDate": "2016-10-21",
-        "kind": "audio-books",
-        "artistId": "1062525784",
-        "artistUrl": "https://books.apple.com/jp/author/%E3%82%AB%E3%83%BC%E3%83%AB-%E3%83%A8%E3%83%8F%E3%83%B3-%E3%82%A8%E3%83%AA%E3%83%BC%E3%83%B3/id1062525784",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/bb/e5/34/bbe53452-6ebd-acbc-20ec-439a2b1b9371/dj.jofrvtoa.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000040",
-            "name": "フィクション",
-            "url": "https://itunes.apple.com/jp/genre/id50000040"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          },
-          {
-            "genreId": "50000044",
-            "name": "キッズ／ヤングアダルト",
-            "url": "https://itunes.apple.com/jp/genre/id50000044"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/%E3%81%8A%E3%82%84%E3%81%99%E3%81%BF-%E3%83%AD%E3%82%B8%E3%83%A3%E3%83%BC-%E6%9C%97%E8%AA%ADcd%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E7%89%88-%E7%94%B7%E6%80%A7%E3%83%8A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E7%B7%A8-%E4%B8%AD%E6%9D%91%E6%82%A0%E4%B8%80%E3%81%95%E3%82%93/id1433921045"
-      },
-      {
-        "artistName": "J・K・ローリング",
-        "id": "1442185522",
-        "name": "Harry Potter and the Philosopher's Stone",
-        "releaseDate": "2015-11-20",
-        "kind": "audio-books",
-        "artistId": "79595314",
-        "artistUrl": "https://books.apple.com/jp/author/j-k-%E3%83%AD%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0/id79595314",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/12/29/e5/1229e590-1356-1fa1-9302-4c7f0841345d/9781781102367.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000044",
-            "name": "キッズ／ヤングアダルト",
-            "url": "https://itunes.apple.com/jp/genre/id50000044"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/harry-potter-and-the-philosophers-stone/id1442185522"
-      },
-      {
-        "artistName": "レナ・ダナム",
-        "id": "1840118167",
-        "name": "Famesick",
-        "releaseDate": "2026-04-14",
-        "kind": "audio-books",
-        "artistId": "457758695",
-        "artistUrl": "https://books.apple.com/jp/author/%E3%83%AC%E3%83%8A-%E3%83%80%E3%83%8A%E3%83%A0/id457758695",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e1/a1/14/e1a114bd-e4f5-b86a-789d-3eeddd83e07e/9780008384241.jpg/100x100bb.png",
-        "genres": [
-          {
-            "genreId": "50000042",
-            "name": "伝記／自叙伝",
-            "url": "https://itunes.apple.com/jp/genre/id50000042"
-          },
-          {
-            "genreId": "50000024",
-            "name": "オーディオブック",
-            "url": "https://itunes.apple.com/jp/genre/id50000024"
-          },
-          {
-            "genreId": "50000046",
-            "name": "コメディ",
-            "url": "https://itunes.apple.com/jp/genre/id50000046"
-          }
-        ],
-        "url": "https://books.apple.com/jp/audiobook/famesick/id1840118167"
+        "url": "https://books.apple.com/jp/audiobook/the-odyssey-of-homer/id1043774526"
       }
     ]
   }
