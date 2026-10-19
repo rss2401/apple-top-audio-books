@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 661624806,
+      "collectionId": 1576492985,
+      "artistName": "Claire Marin",
+      "collectionName": "Rupture(s): Naissances ou deuils, séparation ou nouvel amour, besoins d'ailleurs : comment les ruptures nous transforment ?",
+      "collectionCensoredName": "Rupture(s): Naissances ou deuils, séparation ou nouvel amour, besoins d'ailleurs : comment les ruptures nous transforment ?",
+      "artistViewUrl": "https://books.apple.com/fr/author/claire-marin/id661624806?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/rupture-s-naissances-ou-deuils-s%C3%A9paration-ou-nouvel/id1576492985?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/17/1d/a2171de6-9a81-542e-23b4-97ae602924d7/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/17/1d/a2171de6-9a81-542e-23b4-97ae602924d7/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2021 Audible Studios",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2021-07-22T07:00:00Z",
+      "primaryGenreName": "Policier et suspense",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/5c/ac/92/5cac92ad-ccb0-6573-5bf7-d55d5a5e6eee/mzaf_3293688098614901251.std.aac.p.m4a",
+      "description": "Qu'elles soient joyeuses ou tragiques, visibles ou non, les ruptures rythment notre existence, nous transforment, nous remettent profondément en question. Comment conjuguer ces \"bifurcations\" de nos vies que sont les ruptures avec l'idée de notre identité, une et constante ? Nous révèlent-elles la multiplicité de nos identités possibles, ou le fait que nous nous affirmions progressivement, au fur et à mesure de ces \"accidents\" de la vie ? Nous épurent-elles ou nous démolissent-elles ?<br /><br />Pour la philosophe Claire Marin, la définition de notre être est tout autant dans nos sorties de route que dans nos lignes droites, dans les accrocs au contrat que dans le contrat lui-même. Naissances ou deuils, séparation ou nouvel amour, besoins d'ailleurs : nos oscillations, nos vacillements fragilisent nos représentations, ébranlent nos certitudes, certes. Mais ils soulignent aussi fondamentalement la place de l'imprévisible, et questionnent notre capacité à supporter l'incertitude, à composer avec la catastrophe et, en les surmontant, à parfois démarrer une nouvelle vie."
+    }
+  ]
+}

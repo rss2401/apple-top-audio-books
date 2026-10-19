@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1436722407,
+      "collectionId": 1819724709,
+      "artistName": "Amélie Nothomb",
+      "collectionName": "Tant mieux",
+      "collectionCensoredName": "Tant mieux",
+      "artistViewUrl": "https://books.apple.com/fr/author/am%C3%A9lie-nothomb/id1436722407?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/tant-mieux/id1819724709?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f3/88/e6/f388e641-667b-d18f-1150-d1bd15f6f320/9791035419875.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f3/88/e6/f388e641-667b-d18f-1150-d1bd15f6f320/9791035419875.jpg/100x100bb.jpg",
+      "collectionPrice": 16.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2025-08-20T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6e/64/b6/6e64b6d0-e1f2-1e08-9da3-a1d6a9901c67/mzaf_10148837859266722416.std.aac.p.m4a",
+      "description": "« Tant mieux : la version joyeuse du sang-froid »<br />&#xa0; <br />Pour la première fois, après son père dans Premier sang (2021) et Psychopompe (2023), Amélie Nothomb évoque sa mère, et le lien singulier qui les unissait.<br /><br />Interprétation humaine"
+    }
+  ]
+}

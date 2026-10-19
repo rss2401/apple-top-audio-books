@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 369448699,
+      "collectionId": 1706341040,
+      "artistName": "Colette",
+      "collectionName": "Claudine à paris",
+      "collectionCensoredName": "Claudine à paris",
+      "artistViewUrl": "https://books.apple.com/fr/author/colette/id369448699?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/claudine-%C3%A0-paris/id1706341040?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/27/65/23/2765239c-bac8-bb06-0e42-6bed46453035/9791025602225.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/27/65/23/2765239c-bac8-bb06-0e42-6bed46453035/9791025602225.jpg/100x100bb.jpg",
+      "collectionPrice": 16.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "1998-01-01T08:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/58/d1/1e/58d11eef-dbf8-c562-55e1-cacae86ba351/mzaf_17526442264510049018.std.aac.p.m4a",
+      "description": "Claudine et son père ont quitté leur village de Montigny pour s'installer à Paris, où la jeune fille va découvrir la vie parisienne avec le soutien de son cousin Marcel, son ami, son confident et son complice. Elle finit par s'habituer à la vie dans cette ville qu'elle trouvait dure au début, et commence à sortir et à mener une vie mondaine. Elle ne tarde pas de tomber amoureuse de Renaud, chroniqueur de la vie mondaine, un grand séducteur aux tempes grisonnantes. Malgré l'hostilité de Marcel dont c'est... le père, elle finit par épouser Renaud."
+    }
+  ]
+}

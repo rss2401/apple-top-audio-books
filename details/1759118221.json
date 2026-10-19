@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 497374822,
+      "collectionId": 1759118221,
+      "artistName": "Christel Petitcollin",
+      "collectionName": "Je pense trop",
+      "collectionCensoredName": "Je pense trop",
+      "artistViewUrl": "https://books.apple.com/fr/author/christel-petitcollin/id497374822?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/je-pense-trop/id1759118221?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/04/c0/50/04c05085-5c60-5ea4-1d5d-66529a3f87e2/9782374344799.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/04/c0/50/04c05085-5c60-5ea4-1d5d-66529a3f87e2/9782374344799.jpg/100x100bb.jpg",
+      "collectionPrice": 21.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2024 Hardigan",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2024-08-02T07:00:00Z",
+      "primaryGenreName": "Santé et bien-être",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b4/a7/19/b4a7190b-7630-28ca-7938-aeddd2ddfd51/mzaf_3996531430484693484.std.aac.p.m4a",
+      "description": "Comment canaliser ce mental envahissant ? Qui pourrait penser qu'être intelligent puisse faire souffrir et rendre malheureux ? Pourtant, je reçois souvent en consultation des gens qui se plaignent de trop penser. Ils disent que leur mental ne leur laisse aucun répit, même la nuit. Ils en ont marre de ces doutes, de ces questions, de cette conscience aiguë des choses, de leurs sens trop développés auxquels n'échappe aucun détail. Ils voudraient débrancher leur esprit, mais ils souffrent surtout de se sentir différents, incompris et blessés par le monde d'aujourd'hui. Ils concluent souvent par : « Je ne suis pas de cette planète !&#xa0;». Ce livre propose des cours de mécanique et de pilotage de ces cerveaux surefficients.\nCe livre audio est interprété par une voix humaine, dans le respect des engagements d'Hardigan."
+    }
+  ]
+}

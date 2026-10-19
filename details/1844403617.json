@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 373716122,
+      "collectionId": 1844403617,
+      "artistName": "Aristote, Epicure & Platon",
+      "collectionName": "1800 Citations de philosophes",
+      "collectionCensoredName": "1800 Citations de philosophes",
+      "artistViewUrl": "https://books.apple.com/fr/author/aristote/id373716122?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/1800-citations-de-philosophes/id1844403617?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/45/32/ab45328f-86e8-5b67-9fdf-3f5f73520918/9782821180482.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/45/32/ab45328f-86e8-5b67-9fdf-3f5f73520918/9782821180482.jpg/100x100bb.jpg",
+      "collectionPrice": 1.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2025 Compagnie du Savoir",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2025-06-16T07:00:00Z",
+      "primaryGenreName": "Essais et sciences humaines",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/57/9d/57579de2-f805-71f9-90a9-1fa27f196f77/mzaf_491530700472320778.std.aac.p.m4a",
+      "description": "Les citations philosophiques capturent en un instant la profondeur de la pensée humaine, invitant à réfléchir et à élargir notre vision du monde !\r\nDécouvrez les citations des plus grands penseurs : Aristote, Epicure, Platon, Thales de Millet, Socrate, Protagoras, Anaximandre, Epictète, Héraclite, Marc Aurèle, Descartes, Michel de Montaigne, Pacal, Alexis de Tocqueville, Voltaire, Charles de Montesquieu, Jean-Jacques Rousseau, Emmanuel Kant, Hannah Arendt, Leibniz, Hegel, Nietzsche, Schopenhauer, David Hume, John Locke, Francis Bacon, Thomas Hobbes, Thomas More, Confucius, Erasme, Lao Tseu, Spinoza, Soren Kierkegaard, Nicolas Machiavel, Thomas d'Aquin, Henry-David Thoreau..."
+    }
+  ]
+}

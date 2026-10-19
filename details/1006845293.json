@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 2065004,
+      "collectionId": 1006845293,
+      "artistName": "Michael Crichton",
+      "collectionName": "Congo (Unabridged)",
+      "collectionCensoredName": "Congo (Unabridged)",
+      "artistViewUrl": "https://books.apple.com/fr/author/michael-crichton/id2065004?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/congo-unabridged/id1006845293?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7e/6d/ad/7e6dad85-f0c7-f0b7-19cf-1de2f71feaa6/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7e/6d/ad/7e6dad85-f0c7-f0b7-19cf-1de2f71feaa6/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 17.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2015 Brilliance Audio",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2015-10-06T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8d/ec/69/8dec6930-e5ad-3f24-8bc6-eebe59b6447c/mzaf_12816286239964132822.std.aac.p.m4a",
+      "description": "Deep in the African rain forest, near the legendary ruins of the Lost City of Zinj, an expedition of eight American geologists are mysteriously and brutally killed in a matter of minutes. <br /><br />Ten thousand miles away, Karen Ross, the Congo Project Supervisor, watches a gruesome video transmission of the aftermath: a camp destroyed, tents crushed and torn, equipment scattered in the mud alongside dead bodies - all motionless except for one moving image - a grainy, dark, man-shaped blur. <br /><br />In San Francisco, primatologist Peter Elliot works with Amy, a gorilla with an extraordinary vocabulary of 620 \"signs,\" the most ever learned by a primate, and she likes to finger paint. But recently her behavior has been erratic and her drawings match, with stunning accuracy, the brittle pages of a Portuguese print dating back to 1642…a drawing of an ancient lost city. A new expedition - along with Amy - is sent into the Congo, where they enter a secret world, and the only way out may be through a horrifying death..... <br /><br /><i>Congo</i> was adapted to the screen and directed by Frank Marshall."
+    }
+  ]
+}

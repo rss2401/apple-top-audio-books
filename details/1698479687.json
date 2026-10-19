@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 2154799,
+      "collectionId": 1698479687,
+      "artistName": "Harvard Business Review",
+      "collectionName": "Gérer les personnalités difficiles",
+      "collectionCensoredName": "Gérer les personnalités difficiles",
+      "artistViewUrl": "https://books.apple.com/fr/author/harvard-business-review/id2154799?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/g%C3%A9rer-les-personnalit%C3%A9s-difficiles/id1698479687?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/23/ff/d7/23ffd7ff-72f5-fcb9-9e0f-26de15a64bbf/9791036630217.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/23/ff/d7/23ffd7ff-72f5-fcb9-9e0f-26de15a64bbf/9791036630217.jpg/100x100bb.jpg",
+      "collectionPrice": 13.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "2023 © 2018 Harvard Business School Publishing Corporation..© 2022 Éditions Prisma / Prisma Media pour la traduction française..℗ Lizzie, un département d'Univers Poche, Paris, 2023..",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2023-08-24T07:00:00Z",
+      "primaryGenreName": "Essais et sciences humaines",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/d8/7a/66/d87a6672-db47-9805-61ef-dc7fef5cb69f/mzaf_6430894934480527904.std.aac.p.m4a",
+      "description": "Apprenez à gérer les personnalités toxiques au travail. Des experts en stratégie d'entreprise livrent leurs conseils pour apprendre à gérer les personnalités toxiques au travail, quel que soit leur profil : paranoïaque, anxieux, narcissique, hystérique, etc. S'appuyant sur des cas concerts, ils montrent comment trouver la bonne attitude et les bonnes paroles afin de désamorcer les tensions et de rétablir des relations apaisées."
+    }
+  ]
+}

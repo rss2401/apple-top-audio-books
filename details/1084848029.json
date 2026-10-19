@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 587333133,
+      "collectionId": 1084848029,
+      "artistName": "山口 瞳",
+      "collectionName": "行きつけの店",
+      "collectionCensoredName": "行きつけの店",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E5%B1%B1%E5%8F%A3-%E7%9E%B3/id587333133?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/%E8%A1%8C%E3%81%8D%E3%81%A4%E3%81%91%E3%81%AE%E5%BA%97/id1084848029?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/6d/d4/49/6dd4496a-33ba-4b4a-7ded-994b8c964083/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/6d/d4/49/6dd4496a-33ba-4b4a-7ded-994b8c964083/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 1273,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2015 ことのは出版",
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2015-08-24T07:00:00Z",
+      "primaryGenreName": "伝記／自叙伝",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/72/b7/f9/72b7f9a8-7faf-dbda-9c86-bcfa7cdb5750/mzaf_8906027957576454746.std.aac.p.m4a",
+      "description": "小樽、金沢、由布院、倉敷、銀座、浅草……全国各地の「行きつけの店」。味は当然。決め手となるのは主人の人柄、従業員の働きぶり、客の質。つまるところそこで過ごす時間が上質かどうかーー上質な大人になるための指南書。\n目次\n1表題\n2銀座 鉢巻岡田の鮟鱇鍋\n3祗園 サンボアのマテニー\n4浅草 並木の藪の鴨なんばん\n5由布院 亀の井別荘のボイルドビーフ\n6銀座 クール、古川さんのハイボール\n7国立 ロージナ茶房の日替りコーヒー\n8柳橋 亀清樓の鮎の煮びたし\n9九段下 寿司政のシンコ\n10横浜 ホテル・ニューグランドのローストビーフ\n11金沢 つる幸の鰯の摘入れ\n12築地 ふく源のふぐさし、ふぐちり、ふぐ雑炊\n13お茶の水 山の上ホテルの天ぷらとステーキ\n14金沢片町 倫敦屋のジントニック\n15長崎 とら寿しの鰺の握り\n16函館 冨茂登の烏賊の糸造り\n17小樽 海陽亭の湯豆腐\n18横浜住吉町 八十八の鰻丼\n19祗園 山ふくの雑ぜ御飯\n20松江 皆美館の鯛めし\n21倉敷 千里十里庵の焼き蟹\n22下北沢 小笹寿しの焙った穴子\n23天橋立 文珠荘別館の蟹会席\n24国立 谷保の文蔵のモツ焼キ\n25時の移ろい(あとがき)"
+    }
+  ]
+}

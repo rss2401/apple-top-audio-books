@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 423337296,
+      "collectionId": 1530827234,
+      "artistName": "David Foenkinos",
+      "collectionName": "La famille Martin",
+      "collectionCensoredName": "La famille Martin",
+      "artistViewUrl": "https://books.apple.com/fr/author/david-foenkinos/id423337296?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/la-famille-martin/id1530827234?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/11/f4/28/11f42891-d0f0-111c-1e3b-4d6f370a1397/9782072916267.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/11/f4/28/11f42891-d0f0-111c-1e3b-4d6f370a1397/9782072916267.jpg/100x100bb.jpg",
+      "collectionPrice": 15.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2020 Editions Gallimard",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2020-10-01T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/e8/bc/96/e8bc966d-0c33-05ca-7b69-e763fcac81f8/mzaf_13405558802265094224.std.aac.p.m4a",
+      "description": "\"J’avais du mal à écrire ; je tournais en rond. Mes personnages me procuraient un vertige d’ennui. J’ai pensé que n’importe quel récit réel aurait plus d’intérêt. Je pouvais descendre dans la rue, arrêter la première personne venue, lui demander de m’offrir quelques éléments biographiques, et j’étais à peu près certain que cela me motiverait davantage qu’une nouvelle invention. C’est ainsi que les choses ont commencé. Je me suis vraiment dit : tu descends dans la rue, tu abordes la première personne que tu vois, et elle sera le sujet de ton livre.\""
+    }
+  ]
+}

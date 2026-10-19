@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 476284510,
+      "collectionId": 1203753689,
+      "artistName": "Eric Giacometti & Jacques Ravenne",
+      "collectionName": "Lux tenebrae: Antoine Marcas 7",
+      "collectionCensoredName": "Lux tenebrae: Antoine Marcas 7",
+      "artistViewUrl": "https://books.apple.com/fr/author/eric-giacometti/id476284510?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/lux-tenebrae-antoine-marcas-7/id1203753689?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/4c/e9/1f4ce904-dc28-9cb6-67ed-997d037d2f8e/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/4c/e9/1f4ce904-dc28-9cb6-67ed-997d037d2f8e/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 6.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 2,
+      "copyright": "© 2017 Audible Studios",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2017-02-09T08:00:00Z",
+      "primaryGenreName": "Policier et suspense",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/5a/c8/65/5ac865dd-abc7-687e-e239-3b63ed6ab5de/mzaf_8132834445285489609.std.aac.p.m4a",
+      "description": "Été 2010. Le commissaire franc-maçon Antoine Marcas est plongé dans un profond coma, après une blessure par balle. À son réveil, il ne se souvient de rien, hormis des cauchemars, de ce tunnel sans fin. Une Expérience de Mort Imminente... Lancé sur la piste de son agresseur, traqué par des fanatiques religieux, le frère Marcas remonte aux origines des rites d'initiation égyptiens. Pour comprendre, il va devoir à nouveau franchir les portes de la mort... \n<br /><br />&gt;&gt; Ce livre audio en version intégrale vous est proposé en exclusivité par Audible et est uniquement disponible en téléchargement."
+    }
+  ]
+}

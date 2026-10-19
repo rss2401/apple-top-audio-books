@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 440628955,
+      "collectionId": 1809957558,
+      "artistName": "John Truby",
+      "collectionName": "L'Anatomie des histoires : comment devenir le maître des genres",
+      "collectionCensoredName": "L'Anatomie des histoires : comment devenir le maître des genres",
+      "artistViewUrl": "https://books.apple.com/fr/author/john-truby/id440628955?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/lanatomie-des-histoires-comment-devenir-le-ma%C3%AEtre-des/id1809957558?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/42/6d/c8426d15-6bb7-04da-f416-24791f83a3c8/9791035419417.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/42/6d/c8426d15-6bb7-04da-f416-24791f83a3c8/9791035419417.jpg/100x100bb.jpg",
+      "collectionPrice": 23.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 2,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2025-05-28T07:00:00Z",
+      "primaryGenreName": "Essais et sciences humaines",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/93/9a/af/939aafff-278c-2c0e-9aaa-23a1cc3a32ee/mzaf_8486697760162056722.std.aac.p.m4a",
+      "description": "Écrire une histoire inoubliable, ça s’apprend.<br /><br />Après L’Anatomie du scénario, John Truby passe quatorze genres narratifs majeurs au crible - Horreur, Comédie, Fantasy, Policier… - et délivre les meilleures techniques pour devenir un maître du récit.<br /><br />Le guide indispensable qui fera de vous un auteur accompli."
+    }
+  ]
+}

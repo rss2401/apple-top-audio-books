@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1139783040,
+      "collectionId": 1821430892,
+      "artistName": "OSHO",
+      "collectionName": "A Gnostic Is One Who Knows",
+      "collectionCensoredName": "A Gnostic Is One Who Knows",
+      "artistViewUrl": "https://books.apple.com/jp/author/osho/id1139783040?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/a-gnostic-is-one-who-knows/id1821430892?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/da/56/73/da56734b-ef7a-7098-5487-cf92f1ec7863/9780880504973.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/da/56/73/da56734b-ef7a-7098-5487-cf92f1ec7863/9780880504973.jpg/100x100bb.jpg",
+      "collectionPrice": 713,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 1984 Osho International Foundation",
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2022-11-17T08:00:00Z",
+      "primaryGenreName": "宗教／スピリチュアル",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b7/b8/9f/b7b89ffd-938e-e42c-5248-3d1c6faf1fc3/mzaf_9332731984544105420.std.aac.p.m4a",
+      "description": "'OSHO SINGLE': This is a short audio talk by Osho, selected from one of the many series of Osho Talks to listeners from around the world.\nHumanity is divided in three types of persons: Believers, atheists and agnostics. For Osho, this last type, the agnostic is far above the first two and it is something intrinsic to the true seeker. Nevertheless, there is a fourth type of person, one that does not fit in any of these categories: The Gnostic, the one who knows. Listening to his direct and simple style, we rediscover the courage to doubt while we move into the unknown.\n\"To remain in doubt needs tremendous courage. Not to escape from doubt is one of the fundamental qualities of a seeker, and belief is an escape. It covers up your doubt, and it gives you a sense of relief, a false confidence that you know, although deep down you still know that you know not.\"\n© &amp; ℗ 1984 OSHO International Foundation"
+    }
+  ]
+}

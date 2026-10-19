@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 160059329,
+      "collectionId": 1535045371,
+      "amgArtistId": 331963,
+      "artistName": "Marguerite Duras",
+      "collectionName": "La Musica Deuxième",
+      "collectionCensoredName": "La Musica Deuxième",
+      "artistViewUrl": "https://books.apple.com/fr/author/marguerite-duras/id160059329?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/la-musica-deuxi%C3%A8me/id1535045371?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8e/9e/54/8e9e5451-7653-cb98-c4d6-9e85cea23c0b/3328140024432.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8e/9e/54/8e9e5451-7653-cb98-c4d6-9e85cea23c0b/3328140024432.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2008 Éditions des femmes",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2020-10-12T07:00:00Z",
+      "primaryGenreName": "Classiques",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/b0/3d/ba/b03dba7d-9d2e-6f48-2659-c7fca0102515/mzaf_9308628927318721996.std.aac.p.m4a",
+      "description": "« Ce sont des gens qui divorcent, qui ont habité Évreux au début de leur mariage, qui s’y retrouvent le jour où leur divorce est prononcé. Tous les deux dans cet hôtel de France pendant une nuit d’été, sans un baiser, je les ferais parler des heures et des heures. Pour rien d’autre que pour parler. Dans la première partie de la nuit, leur ton est celui de la comédie, de la dispute. Dans la deuxième partie de la nuit, non, ils sont revenus à cet état intégral de l’amour désespéré, voix brisées du deuxième acte, défaites par la fatigue, ils sont toujours dans cette jeunesse du premier amour, effrayés. » M. D. \n\n« Une autre fois je t’ai vue.\nC’était dans la maison.\nDans ta chambre.\nLa nuit.\nTu étais nue.\nFardée et nue.\nTu te regardais dans une glace. Très près.\nTu pleurais. » M.D.\n\n(La Musica Deuxième, Gallimard, 1985)"
+    }
+  ]
+}

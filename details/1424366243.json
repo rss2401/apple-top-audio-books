@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 435796308,
+      "collectionId": 1424366243,
+      "artistName": "Timur Vermes",
+      "collectionName": "Er ist wieder da (Gekürzt)",
+      "collectionCensoredName": "Er ist wieder da (Gekürzt)",
+      "artistViewUrl": "https://books.apple.com/de/author/timur-vermes/id435796308?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/er-ist-wieder-da-gek%C3%BCrzt/id1424366243?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/31/35/02/313502f6-e25e-3007-c297-65a5fedf2c10/4251234326305_3000.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/31/35/02/313502f6-e25e-3007-c297-65a5fedf2c10/4251234326305_3000.jpg/100x100bb.jpg",
+      "collectionPrice": 6.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2012 by Lübbe Audio, Bastei Lübbe GmbH & Co.KG, Köln",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2012-09-21T07:00:00Z",
+      "primaryGenreName": "Comedy",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/f8/09/62/f80962d2-7984-bcb4-e14a-aab6f9d4ee7b/mzaf_8576926423447021070.std.aac.p.m4a",
+      "description": "Ein literarisches Kabinettstück erster Güte Frühjahr 2011. Adolf Hitler erwacht auf einem leeren Grundstück in Berlin-Mitte. Ohne Krieg, ohne Partei, ohne Eva, im tiefsten Frieden, unter Tausenden von Ausländern. 66 Jahre nach seinem vermeintlichen Ende strandet er in der Gegenwart und startet gegen jegliche Wahrscheinlichkeit eine neue Karriere - im Fernsehen. Dieser Hitler ist keine Witzfigur und gerade deshalb erschreckend real. Und das Land, auf das er trifft, ist es auch: zynisch, hemmungslos erfolgsgeil und auch trotz Jahrzehnten deutscher Demokratie vollkommen chancenlos gegenüber dem Demagogen und der Sucht nach Quoten, Klicks und \"Gefällt mir\"-Buttons. Eine Persiflage? Eine Satire? Polit-Comedy?"
+    }
+  ]
+}

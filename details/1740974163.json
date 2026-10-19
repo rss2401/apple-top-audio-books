@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 19503616,
+      "collectionId": 1740974163,
+      "amgArtistId": 294913,
+      "artistName": "Hape Kerkeling",
+      "collectionName": "Gebt mir etwas Zeit",
+      "collectionCensoredName": "Gebt mir etwas Zeit",
+      "artistViewUrl": "https://music.apple.com/de/artist/hape-kerkeling/19503616?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/gebt-mir-etwas-zeit/id1740974163?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/7f/54/637f54e6-6341-a11c-3140-7e489d868098/9783844939828.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/7f/54/637f54e6-6341-a11c-3140-7e489d868098/9783844939828.jpg/100x100bb.jpg",
+      "collectionPrice": 16.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2024 Hörbuch Hamburg HHV GmbH",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2024-09-25T07:00:00Z",
+      "primaryGenreName": "Biografien und Memoiren",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3e/13/62/3e1362c3-d627-f290-a09d-596ac2ff1754/mzaf_3094691685046035287.std.aac.p.m4a",
+      "description": "Bewegend, ehrlich und urkomisch: die Fortsetzung von Hapes Lebensgeschichte\nHape Kerkeling in Bestform: In seinem neuen Hörbuch setzt er nicht nur entscheidende Etappen seines Lebens fort, sondern taucht tief in die bewegte Geschichte seiner Vorfahren ein. Berührend und mit unvergleichlichem Sinn für Komik erzählt er von seiner Kindheit in den Siebzigern und den Glanzzeiten der TV-Unterhaltung, von Liebe, Vorsehung und dem Goldenen Zeitalter der Niederlande. Er führt in die Anfänge seiner Fernsehkarriere und bis in die Frühzeit der Kerckrings, ins blühende Amsterdam des 17. Jahrhunderts. Verwebt dabei lustvoll Erinnerungen mit Recherchen, eigenes Erleben mit Historie und Ahnenforschung. Und kommt schließlich auch hinter ein unglaubliches Geheimnis, das seine geliebte Großmutter Bertha zeit ihres Lebens umgab."
+    }
+  ]
+}

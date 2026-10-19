@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 588917335,
+      "collectionId": 1676041994,
+      "artistName": "山口瞳",
+      "collectionName": "血族(P+D BOOKS)",
+      "collectionCensoredName": "血族(P+D BOOKS)",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E5%B1%B1%E5%8F%A3%E7%9E%B3/id588917335?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/%E8%A1%80%E6%97%8F-p-d-books/id1676041994?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/37/8b/7c/378b7c1c-b003-f4e1-cadc-77f230f33628/square_artwork.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/37/8b/7c/378b7c1c-b003-f4e1-cadc-77f230f33628/square_artwork.jpg/100x100bb.jpg",
+      "collectionPrice": 1222,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2023-03-10T08:00:00Z",
+      "primaryGenreName": "フィクション",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/b6/83/01/b68301d9-e5ba-1af2-5c60-cac4ac9d3e02/mzaf_10368178405430031344.std.aac.p.m4a",
+      "description": "美しく奔放だった母。私の出生にまつわる何かについて母が隠し続けた秘密に、躊躇しながらも探さずにはいられない筆者。その結果みたものは……。亡き母への愛と鎮魂をみごとに描破した菊池寛賞受賞作。\n\n(C)Hitomi Yamaguchi 2016 (P)小学館"
+    }
+  ]
+}

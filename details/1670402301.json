@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 588917335,
+      "collectionId": 1670402301,
+      "artistName": "山口瞳",
+      "collectionName": "居酒屋兆治(P+D BOOKS)",
+      "collectionCensoredName": "居酒屋兆治(P+D BOOKS)",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E5%B1%B1%E5%8F%A3%E7%9E%B3/id588917335?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/%E5%B1%85%E9%85%92%E5%B1%8B%E5%85%86%E6%B2%BB-p-d-books/id1670402301?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d5/8a/38/d58a384a-1b65-e43e-c755-5ce5288806ab/square_artwork.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d5/8a/38/d58a384a-1b65-e43e-c755-5ce5288806ab/square_artwork.jpg/100x100bb.jpg",
+      "collectionPrice": 1222,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2023-02-10T08:00:00Z",
+      "primaryGenreName": "フィクション",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/7c/1d/11/7c1d11ca-43ca-845d-f743-9adaa0b19a65/mzaf_5362619459009215344.std.aac.p.m4a",
+      "description": "国立でモツ焼き屋「兆治」を営む藤野英治。輝くような青春を送り、挫折と再生を経て現在に至っている。かつての恋人、さよの転落を耳にするが、妻との生活の中で何もできない自分と、振り払えない想いに挟まれていく\n\n(C)Hitomi Yamaguchi 2015 (P)小学館"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 2129151,
+      "collectionId": 1672979484,
+      "artistName": "C. S. Lewis",
+      "collectionName": "Le Monde de Narnia (Tome 3) - Le Cheval et son écuyer",
+      "collectionCensoredName": "Le Monde de Narnia (Tome 3) - Le Cheval et son écuyer",
+      "artistViewUrl": "https://books.apple.com/fr/author/c-s-lewis/id2129151?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/le-monde-de-narnia-tome-3-le-cheval-et-son-%C3%A9cuyer/id1672979484?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/46/31/de/4631deec-52e5-3117-a0c9-bfdc5d57ad72/9782075168137.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/46/31/de/4631deec-52e5-3117-a0c9-bfdc5d57ad72/9782075168137.jpg/100x100bb.jpg",
+      "collectionPrice": 15.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2022-02-20T08:00:00Z",
+      "primaryGenreName": "Jeunesse",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/5d/92/d2/5d92d25f-7504-7d72-9572-931bcbfd28bd/mzaf_5891407733299674994.std.aac.p.m4a",
+      "description": "Shasta, maltraité par le pêcheur qui l'a recueilli et élevé, quitte le pays de Calormen en compagnie de Bree, un cheval doué de parole. Ils n'ont qu'un espoir : rejoindre le merveilleux royaume de Narnia... En chemin, ils rencontrent une jeune fille de noble naissance, Aravis, qui fuit un mariage forcé. D'aventure en aventure, les deux héros perceront-ils le mystère qui entoure la naissance de Shasta ?"
+    }
+  ]
+}

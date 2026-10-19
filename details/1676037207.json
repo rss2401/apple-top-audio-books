@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 588917335,
+      "collectionId": 1676037207,
+      "artistName": "山口瞳",
+      "collectionName": "家族(P+D BOOKS)",
+      "collectionCensoredName": "家族(P+D BOOKS)",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E5%B1%B1%E5%8F%A3%E7%9E%B3/id588917335?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/%E5%AE%B6%E6%97%8F-p-d-books/id1676037207?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a5/94/47/a594479d-f024-7a42-8cd5-6b024f891135/square_artwork.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a5/94/47/a594479d-f024-7a42-8cd5-6b024f891135/square_artwork.jpg/100x100bb.jpg",
+      "collectionPrice": 1222,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2023-03-10T08:00:00Z",
+      "primaryGenreName": "フィクション",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/7d/d2/23/7dd22345-d8d8-49d3-3957-de8affa2413e/mzaf_5199629788020062553.std.aac.p.m4a",
+      "description": "小学生時代の同級生と競馬場での再会をきっかけに甦る川崎での幼児体験の記憶――。その記憶の彼方にいるおぼろげな父の像。私小説的な手法で父の実像を追い求め、人間の真実の姿を映し出した長編。\n\n(C)Hitomi Yamaguchi 2016 (P)小学館"
+    }
+  ]
+}

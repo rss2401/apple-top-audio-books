@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1352592724,
+      "collectionId": 1598174842,
+      "artistName": "Джон Стрелеки",
+      "collectionName": "Кафе на краю земли. Как перестать плыть по течению и вспомнить, зачем ты живешь",
+      "collectionCensoredName": "Кафе на краю земли. Как перестать плыть по течению и вспомнить, зачем ты живешь",
+      "artistViewUrl": "https://books.apple.com/fr/author/%D0%B4%D0%B6%D0%BE%D0%BD-%D1%81%D1%82%D1%80%D0%B5%D0%BB%D0%B5%D0%BA%D0%B8/id1352592724?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/%D0%BA%D0%B0%D1%84%D0%B5-%D0%BD%D0%B0-%D0%BA%D1%80%D0%B0%D1%8E-%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8-%D0%BA%D0%B0%D0%BA-%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D1%82%D0%B0%D1%82%D1%8C-%D0%BF%D0%BB%D1%8B%D1%82%D1%8C-%D0%BF%D0%BE-%D1%82%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8E-%D0%B8/id1598174842?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e3/07/07/e307073c-e6da-faa0-bd2b-2cf3f2eba2ba/9785041462147.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e3/07/07/e307073c-e6da-faa0-bd2b-2cf3f2eba2ba/9785041462147.jpg/100x100bb.jpg",
+      "collectionPrice": 3.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2018 ООО \"Издательство \"Эксмо\"",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2021-07-12T07:00:00Z",
+      "primaryGenreName": "Santé et bien-être",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/25/90/d0/2590d0d0-ed69-e5b5-1cac-1975a2d4e868/mzaf_3308561898789737366.std.aac.p.m4a",
+      "description": "Эта книга превратила бизнес-консультанта Джона П. Стрелеки в знаменитого писателя и вдохновляющего коуча. Она издана миллионными тиражами и переведена на 30 языков.\r\nКаждый из нас время от времени задает себе вопросы: \"кто я?\", \"куда я иду?\", \"счастлив ли я?\". Но найти ответы и следовать своему собственному пути не так-то просто. Главный герой этой книги Джон едва ли пытался осмыслить свою жизнь до того момента, как случайно оказался в загадочном кафе \"Почему\". Одна ночь в этом месте на краю земли заставила его задуматься о себе и осознать, что в жизни для него действительно важно и ценно. Удивительная и вдохновляющая история о том, как избавиться от мимолетной суеты современного мира, отбросить страхи и сомнения и открыться для счастливых перемен."
+    }
+  ]
+}

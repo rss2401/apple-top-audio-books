@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 902392658,
+      "collectionId": 1477975836,
+      "artistName": "Louise Bay",
+      "collectionName": "Manhattan für immer - New York Affair 3 (Ungekürzt)",
+      "collectionCensoredName": "Manhattan für immer - New York Affair 3 (Ungekürzt)",
+      "artistViewUrl": "https://books.apple.com/de/author/louise-bay/id902392658?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/manhattan-f%C3%BCr-immer-new-york-affair-3-ungek%C3%BCrzt/id1477975836?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/2b/85/f7/2b85f787-6a14-aa75-ed40-abb71b33b966/9783966350303_3000.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/2b/85/f7/2b85f787-6a14-aa75-ed40-abb71b33b966/9783966350303_3000.jpg/100x100bb.jpg",
+      "collectionPrice": 1.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2019 LYX.audio",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2019-09-16T07:00:00Z",
+      "primaryGenreName": "Belletristik",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/4f/56/d0/4f56d042-5534-ff19-02be-4ca79d6756d6/mzaf_5800223325546307514.std.aac.p.m4a",
+      "description": "Sie hatte klare Regeln. Doch Regeln sind dazu da, gebrochen zu werden. Ethan und Anna sind vielleicht durch mehrere tausend Meilen voneinander getrennt, aber ihre Regeln haben sie hinter sich gelassen. Doch es ist nicht nur die Entfernung, die ihrer gemeinsamen Zukunft im Weg stehen. Können sie die Vergangenheit wirklich hinter sich lassen und zusammen glücklich werden?\nLetzter Teil der NEW YORK AFFAIRS"
+    }
+  ]
+}
