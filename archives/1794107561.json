@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 65,
+      "artistName": "Olivia Hayle",
+      "id": "1794107561",
+      "name": "Look But Don't Touch (Ungekürzt)",
+      "releaseDate": "2025-02-28",
+      "kind": "audio-books",
+      "artistId": "1560595071",
+      "artistUrl": "https://books.apple.com/de/author/olivia-hayle/id1560595071",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/40/02/96/40029618-743e-5696-8a11-b4fad26badc4/9783757018528_3000.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000069",
+          "name": "Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id50000069"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/look-but-dont-touch-ungek%C3%BCrzt/id1794107561"
+    }
+  ]
+}

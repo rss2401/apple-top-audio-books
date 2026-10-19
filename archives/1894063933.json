@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 77,
+      "artistName": "Andrea Wulf",
+      "id": "1894063933",
+      "name": "Der Reisende",
+      "releaseDate": "2026-10-05",
+      "kind": "audio-books",
+      "artistId": "420677824",
+      "artistUrl": "https://books.apple.com/de/author/andrea-wulf/id420677824",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4f/4e/bc/4f4ebc0e-263f-971c-3b90-390a98cee7c2/9783844557886.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000042",
+          "name": "Biografien und Memoiren",
+          "url": "https://itunes.apple.com/de/genre/id50000042"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/der-reisende/id1894063933"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 10,
+      "artistName": "相沢沙呼",
+      "id": "1748265317",
+      "name": "invert II 覗き窓の死角",
+      "releaseDate": "2023-11-15",
+      "kind": "audio-books",
+      "artistId": "878902494",
+      "artistUrl": "https://books.apple.com/jp/author/%E7%9B%B8%E6%B2%A2%E6%B2%99%E5%91%BC/id878902494",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/21/67/eb21672a-68eb-e4eb-5616-1eb27ac06a6d/square_artwork.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "フィクション",
+          "url": "https://itunes.apple.com/jp/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/invert-ii-%E8%A6%97%E3%81%8D%E7%AA%93%E3%81%AE%E6%AD%BB%E8%A7%92/id1748265317"
+    }
+  ]
+}

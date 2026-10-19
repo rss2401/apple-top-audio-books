@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 13,
+      "artistName": "安藤 俊介",
+      "id": "1619021586",
+      "name": "[図解]アンガーマネジメント超入門 「怒り」が消える心のトレーニング",
+      "releaseDate": "2022-04-20",
+      "kind": "audio-books",
+      "artistId": "629278300",
+      "artistUrl": "https://books.apple.com/jp/author/%E5%AE%89%E8%97%A4-%E4%BF%8A%E4%BB%8B/id629278300",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/75/bb/8375bbd2-14fa-8257-d724-02f86fa9ab2b/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000056",
+          "name": "自己啓発",
+          "url": "https://itunes.apple.com/jp/genre/id50000056"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        },
+        {
+          "genreId": "50000052",
+          "name": "ノンフィクション",
+          "url": "https://itunes.apple.com/jp/genre/id50000052"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E5%9B%B3%E8%A7%A3-%E3%82%A2%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E8%B6%85%E5%85%A5%E9%96%80-%E6%80%92%E3%82%8A-%E3%81%8C%E6%B6%88%E3%81%88%E3%82%8B%E5%BF%83%E3%81%AE%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0/id1619021586"
+    }
+  ]
+}

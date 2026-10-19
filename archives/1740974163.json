@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 100,
+      "artistName": "Hape Kerkeling",
+      "id": "1740974163",
+      "name": "Gebt mir etwas Zeit",
+      "releaseDate": "2024-09-25",
+      "kind": "audio-books",
+      "artistId": "19503616",
+      "artistUrl": "https://books.apple.com/de/author/hape-kerkeling/id19503616",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/7f/54/637f54e6-6341-a11c-3140-7e489d868098/9783844939828.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000042",
+          "name": "Biografien und Memoiren",
+          "url": "https://itunes.apple.com/de/genre/id50000042"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/gebt-mir-etwas-zeit/id1740974163"
+    }
+  ]
+}

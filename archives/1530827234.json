@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 39,
+      "artistName": "David Foenkinos",
+      "id": "1530827234",
+      "name": "La famille Martin",
+      "releaseDate": "2020-10-01",
+      "kind": "audio-books",
+      "artistId": "423337296",
+      "artistUrl": "https://books.apple.com/fr/author/david-foenkinos/id423337296",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/11/f4/28/11f42891-d0f0-111c-1e3b-4d6f370a1397/9782072916267.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/la-famille-martin/id1530827234"
+    }
+  ]
+}

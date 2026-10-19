@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 21,
+      "artistName": "古流 望",
+      "id": "6802819532",
+      "name": "おかしな転生9 戦いはフルーツに合わせて",
+      "releaseDate": "2026-09-25",
+      "kind": "audio-books",
+      "artistId": "1468326216",
+      "artistUrl": "https://books.apple.com/jp/author/%E5%8F%A4%E6%B5%81-%E6%9C%9B/id1468326216",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f9/4b/58/f94b5870-bee8-290f-e512-8ad84c5c6ebb/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000093",
+          "name": "ライトノベル",
+          "url": "https://itunes.apple.com/jp/genre/id50000093"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E3%81%8A%E3%81%8B%E3%81%97%E3%81%AA%E8%BB%A2%E7%94%9F9-%E6%88%A6%E3%81%84%E3%81%AF%E3%83%95%E3%83%AB%E3%83%BC%E3%83%84%E3%81%AB%E5%90%88%E3%82%8F%E3%81%9B%E3%81%A6/id6802819532"
+    }
+  ]
+}

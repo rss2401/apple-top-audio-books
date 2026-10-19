@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 75,
+      "artistName": "Trevor Noah",
+      "id": "1439914467",
+      "name": "Born A Crime",
+      "releaseDate": "2016-11-17",
+      "kind": "audio-books",
+      "artistId": "1095393712",
+      "artistUrl": "https://books.apple.com/de/author/trevor-noah/id1095393712",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/0b/dc/69/0bdc6956-69ed-31b6-5427-b0b168062bb3/9781473648142.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000042",
+          "name": "Biografien und Memoiren",
+          "url": "https://itunes.apple.com/de/genre/id50000042"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/born-a-crime/id1439914467"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 28,
+      "artistName": "C. S. Lewis",
+      "id": "1672979484",
+      "name": "Le Monde de Narnia (Tome 3) - Le Cheval et son écuyer",
+      "releaseDate": "2022-02-20",
+      "kind": "audio-books",
+      "artistId": "2129151",
+      "artistUrl": "https://books.apple.com/fr/author/c-s-lewis/id2129151",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/46/31/de/4631deec-52e5-3117-a0c9-bfdc5d57ad72/9782075168137.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000044",
+          "name": "Jeunesse",
+          "url": "https://itunes.apple.com/fr/genre/id50000044"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/le-monde-de-narnia-tome-3-le-cheval-et-son-%C3%A9cuyer/id1672979484"
+    }
+  ]
+}

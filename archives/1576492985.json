@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 38,
+      "artistName": "Claire Marin",
+      "id": "1576492985",
+      "name": "Rupture(s): Naissances ou deuils, séparation ou nouvel amour, besoins d'ailleurs : comment les ruptures nous transforment ?",
+      "releaseDate": "2021-07-22",
+      "kind": "audio-books",
+      "artistId": "661624806",
+      "artistUrl": "https://books.apple.com/fr/author/claire-marin/id661624806",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/17/1d/a2171de6-9a81-542e-23b4-97ae602924d7/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000051",
+          "name": "Policier et suspense",
+          "url": "https://itunes.apple.com/fr/genre/id50000051"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000052",
+          "name": "Essais et sciences humaines",
+          "url": "https://itunes.apple.com/fr/genre/id50000052"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/rupture-s-naissances-ou-deuils-s%C3%A9paration-ou-nouvel/id1576492985"
+    }
+  ]
+}

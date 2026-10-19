@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 37,
+      "artistName": "Amélie Nothomb",
+      "id": "1819724709",
+      "name": "Tant mieux",
+      "releaseDate": "2025-08-20",
+      "kind": "audio-books",
+      "artistId": "1436722407",
+      "artistUrl": "https://books.apple.com/fr/author/am%C3%A9lie-nothomb/id1436722407",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f3/88/e6/f388e641-667b-d18f-1150-d1bd15f6f320/9791035419875.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/tant-mieux/id1819724709"
+    }
+  ]
+}

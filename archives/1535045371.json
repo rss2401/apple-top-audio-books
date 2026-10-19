@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 32,
+      "artistName": "Marguerite Duras",
+      "id": "1535045371",
+      "name": "La Musica Deuxième",
+      "releaseDate": "2020-10-12",
+      "kind": "audio-books",
+      "artistId": "160059329",
+      "artistUrl": "https://books.apple.com/fr/author/marguerite-duras/id160059329",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8e/9e/54/8e9e5451-7653-cb98-c4d6-9e85cea23c0b/3328140024432.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000045",
+          "name": "Classiques",
+          "url": "https://itunes.apple.com/fr/genre/id50000045"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/la-musica-deuxi%C3%A8me/id1535045371"
+    }
+  ]
+}

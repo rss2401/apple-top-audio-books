@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 45,
+      "artistName": "Charles Duhigg",
+      "id": "1690315207",
+      "name": "Supercommunicators",
+      "releaseDate": "2024-02-22",
+      "kind": "audio-books",
+      "artistId": "494604133",
+      "artistUrl": "https://books.apple.com/fr/author/charles-duhigg/id494604133",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/d9/08/a1d9084d-ab75-2ac1-aa22-9192709c8c23/9781529190007.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000056",
+          "name": "Santé et bien-être",
+          "url": "https://itunes.apple.com/fr/genre/id50000056"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000052",
+          "name": "Essais et sciences humaines",
+          "url": "https://itunes.apple.com/fr/genre/id50000052"
+        },
+        {
+          "genreId": "50000043",
+          "name": "Affaires",
+          "url": "https://itunes.apple.com/fr/genre/id50000043"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/supercommunicators/id1690315207"
+    }
+  ]
+}

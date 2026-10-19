@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 46,
+      "artistName": "John Truby",
+      "id": "1809957558",
+      "name": "L'Anatomie des histoires : comment devenir le maître des genres",
+      "releaseDate": "2025-05-28",
+      "kind": "audio-books",
+      "artistId": "440628955",
+      "artistUrl": "https://books.apple.com/fr/author/john-truby/id440628955",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c8/42/6d/c8426d15-6bb7-04da-f416-24791f83a3c8/9791035419417.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000052",
+          "name": "Essais et sciences humaines",
+          "url": "https://itunes.apple.com/fr/genre/id50000052"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/lanatomie-des-histoires-comment-devenir-le-ma%C3%AEtre-des/id1809957558"
+    }
+  ]
+}

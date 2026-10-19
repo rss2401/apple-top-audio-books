@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 28,
+      "artistName": "OSHO",
+      "id": "1810682126",
+      "name": "The Secret of Secrets",
+      "releaseDate": "2025-04-25",
+      "kind": "audio-books",
+      "artistId": "1139783040",
+      "artistUrl": "https://books.apple.com/jp/author/osho/id1139783040",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/52/2a/a1/522aa185-61cf-c8c0-ef48-7aed11c91eff/9780880501408.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000053",
+          "name": "宗教／スピリチュアル",
+          "url": "https://itunes.apple.com/jp/genre/id50000053"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/the-secret-of-secrets/id1810682126"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 94,
+      "artistName": "Devashish Sardana",
+      "id": "1659781691",
+      "name": "The Girl In The Glass Case :Keep your girls safe. Boys safer.: Keep your girls safe. Boys safer. (Unabridged)",
+      "releaseDate": "2022-12-13",
+      "kind": "audio-books",
+      "artistId": "1659781692",
+      "artistUrl": "https://books.apple.com/us/author/devashish-sardana/id1659781692",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/18/19/a6/1819a69b-38f5-51c7-2847-b20138627e81/9789354927157.d.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000051",
+          "name": "Mysteries & Thrillers",
+          "url": "https://itunes.apple.com/us/genre/id50000051"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Audiobooks",
+          "url": "https://itunes.apple.com/us/genre/id50000024"
+        },
+        {
+          "genreId": "50000040",
+          "name": "Fiction",
+          "url": "https://itunes.apple.com/us/genre/id50000040"
+        }
+      ],
+      "url": "https://books.apple.com/us/audiobook/the-girl-in-the-glass-case-keep-your-girls-safe/id1659781691"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "resultCount": 6,
+  "resultCount": 5,
   "results": [
     {
       "month": "202604",
@@ -115,38 +115,10 @@
     },
     {
       "month": "202610",
-      "country": "fr",
-      "mediaType": "audio-books",
-      "feed": "top-audio-books",
-      "rank": 52,
-      "artistName": "Pierce Brown",
-      "id": "1639989728",
-      "name": "Red Rising (Red Rising)",
-      "releaseDate": "2014-02-04",
-      "kind": "audio-books",
-      "artistId": "650564637",
-      "artistUrl": "https://books.apple.com/fr/author/pierce-brown/id650564637",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/73/02/1e/73021e84-d2f4-d824-ca2d-9b3a60e8f7b4/9781470380281.jpg/100x100bb.png",
-      "genres": [
-        {
-          "genreId": "50000055",
-          "name": "SF et fantasy",
-          "url": "https://itunes.apple.com/fr/genre/id50000055"
-        },
-        {
-          "genreId": "50000024",
-          "name": "Livres audio",
-          "url": "https://itunes.apple.com/fr/genre/id50000024"
-        }
-      ],
-      "url": "https://books.apple.com/fr/audiobook/red-rising-red-rising/id1639989728"
-    },
-    {
-      "month": "202610",
       "country": "us",
       "mediaType": "audio-books",
       "feed": "top-audio-books",
-      "rank": 23,
+      "rank": 22,
       "artistName": "Pierce Brown",
       "id": "1639989728",
       "name": "Red Rising (Red Rising)",

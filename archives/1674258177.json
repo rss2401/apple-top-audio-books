@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 9,
+      "artistName": "永松茂久",
+      "id": "1674258177",
+      "name": "リーダーは話し方が9割",
+      "releaseDate": "2023-03-01",
+      "kind": "audio-books",
+      "artistId": "1207156882",
+      "artistUrl": "https://books.apple.com/jp/author/%E6%B0%B8%E6%9D%BE%E8%8C%82%E4%B9%85/id1207156882",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e7/4e/33/e74e33ca-4c19-ac17-73d5-6200c211e8a1/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000043",
+          "name": "ビジネス",
+          "url": "https://itunes.apple.com/jp/genre/id50000043"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%81%AF%E8%A9%B1%E3%81%97%E6%96%B9%E3%81%8C9%E5%89%B2/id1674258177"
+    }
+  ]
+}

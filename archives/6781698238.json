@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 48,
+      "artistName": "David R. Hawkins",
+      "id": "6781698238",
+      "name": "Lâcher prise",
+      "releaseDate": "2026-05-01",
+      "kind": "audio-books",
+      "artistId": "415089677",
+      "artistUrl": "https://books.apple.com/fr/author/david-r-hawkins/id415089677",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/1b/3e/911b3eda-2f1f-bbc7-ac35-d1ea2de3e064/9798894893440.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000043",
+          "name": "Affaires",
+          "url": "https://itunes.apple.com/fr/genre/id50000043"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/l%C3%A2cher-prise/id6781698238"
+    }
+  ]
+}

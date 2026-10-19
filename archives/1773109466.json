@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 94,
+      "artistName": "Michael A. Singer",
+      "id": "1773109466",
+      "name": "Die Seele will frei sein",
+      "releaseDate": "2024-10-31",
+      "kind": "audio-books",
+      "artistId": "377564642",
+      "artistUrl": "https://books.apple.com/de/author/michael-a-singer/id377564642",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/3e/24/b33e24e0-3b0e-54f7-757c-4fb208fe98b8/9783844940534.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000053",
+          "name": "Religion und Spiritualität",
+          "url": "https://itunes.apple.com/de/genre/id50000053"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/die-seele-will-frei-sein/id1773109466"
+    }
+  ]
+}

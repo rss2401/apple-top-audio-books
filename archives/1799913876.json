@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 71,
+      "artistName": "Kerstin Gier",
+      "id": "1799913876",
+      "name": "Rubinrot - Liebe geht durch alle Zeiten. Die Edelstein-Trilogie - Liebe geht durch alle Zeiten, Band 1 (Ungekürzte Lesung)",
+      "releaseDate": "2025-06-16",
+      "kind": "audio-books",
+      "artistId": "267061663",
+      "artistUrl": "https://books.apple.com/de/author/kerstin-gier/id267061663",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/70/78/8f/70788f31-a582-3816-1386-a3b57a5c2ba0/9783732476145_3000.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000044",
+          "name": "Kinder und Jugend",
+          "url": "https://itunes.apple.com/de/genre/id50000044"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/rubinrot-liebe-geht-durch-alle-zeiten-die-edelstein/id1799913876"
+    }
+  ]
+}

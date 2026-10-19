@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 14,
+      "artistName": "Aristote, Epicure & Platon",
+      "id": "1844403617",
+      "name": "1800 Citations de philosophes",
+      "releaseDate": "2025-06-16",
+      "kind": "audio-books",
+      "artistId": "373716122",
+      "artistUrl": "https://books.apple.com/fr/author/aristote/id373716122",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/45/32/ab45328f-86e8-5b67-9fdf-3f5f73520918/9782821180482.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000052",
+          "name": "Essais et sciences humaines",
+          "url": "https://itunes.apple.com/fr/genre/id50000052"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/1800-citations-de-philosophes/id1844403617"
+    }
+  ]
+}

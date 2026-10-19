@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 29,
+      "artistName": "Daniel J. Levitin",
+      "id": "1751007433",
+      "name": "I Heard There Was a Secret Chord : Music as Medicine",
+      "releaseDate": "2024-08-27",
+      "kind": "audio-books",
+      "artistId": "261633832",
+      "artistUrl": "https://books.apple.com/jp/author/daniel-j-levitin/id261633832",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/23/bd/2423bd87-ced4-2e47-cde0-8d7aed4b7e85/9798892747257.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000052",
+          "name": "ノンフィクション",
+          "url": "https://itunes.apple.com/jp/genre/id50000052"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/i-heard-there-was-a-secret-chord-music-as-medicine/id1751007433"
+    }
+  ]
+}

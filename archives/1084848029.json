@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 17,
+      "artistName": "山口 瞳",
+      "id": "1084848029",
+      "name": "行きつけの店",
+      "releaseDate": "2015-08-24",
+      "kind": "audio-books",
+      "artistId": "587333133",
+      "artistUrl": "https://books.apple.com/jp/author/%E5%B1%B1%E5%8F%A3-%E7%9E%B3/id587333133",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music69/v4/6d/d4/49/6dd4496a-33ba-4b4a-7ded-994b8c964083/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000042",
+          "name": "伝記／自叙伝",
+          "url": "https://itunes.apple.com/jp/genre/id50000042"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E8%A1%8C%E3%81%8D%E3%81%A4%E3%81%91%E3%81%AE%E5%BA%97/id1084848029"
+    }
+  ]
+}

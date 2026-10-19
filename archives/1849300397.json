@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 91,
+      "artistName": "Autumn Woods",
+      "id": "1849300397",
+      "name": "Daybreak: Sorrowsong University Book 2 (Unabridged)",
+      "releaseDate": "2026-07-28",
+      "kind": "audio-books",
+      "artistId": "425564643",
+      "artistUrl": "https://books.apple.com/us/author/autumn-woods/id425564643",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/b9/c6/29b9c626-5112-b4cb-14bc-672732feecfe/9798217344741.d.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000069",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/us/genre/id50000069"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Audiobooks",
+          "url": "https://itunes.apple.com/us/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/us/audiobook/daybreak-sorrowsong-university-book-2-unabridged/id1849300397"
+    }
+  ]
+}

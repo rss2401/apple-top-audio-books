@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 53,
+      "artistName": "Brogan Thomas",
+      "id": "6767650564",
+      "name": "La morsure de la métamorphe: Un roman de fantasy urbaine (Chroniques de la Morsure t. 1) (Unabridged)",
+      "releaseDate": "2026-09-24",
+      "kind": "audio-books",
+      "artistId": "1547268026",
+      "artistUrl": "https://books.apple.com/fr/author/brogan-thomas/id1547268026",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/15/1b/02151bc8-32ef-8c96-c574-a7434a385bb1/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000055",
+          "name": "SF et fantasy",
+          "url": "https://itunes.apple.com/fr/genre/id50000055"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/la-morsure-de-la-m%C3%A9tamorphe-un-roman-de/id6767650564"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 24,
+      "artistName": "山口瞳",
+      "id": "1676037207",
+      "name": "家族(P+D BOOKS)",
+      "releaseDate": "2023-03-10",
+      "kind": "audio-books",
+      "artistId": "588917335",
+      "artistUrl": "https://books.apple.com/jp/author/%E5%B1%B1%E5%8F%A3%E7%9E%B3/id588917335",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a5/94/47/a594479d-f024-7a42-8cd5-6b024f891135/square_artwork.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "フィクション",
+          "url": "https://itunes.apple.com/jp/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E5%AE%B6%E6%97%8F-p-d-books/id1676037207"
+    }
+  ]
+}

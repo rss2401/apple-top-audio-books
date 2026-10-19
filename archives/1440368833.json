@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 25,
+      "artistName": "Pauline Réage",
+      "id": "1440368833",
+      "name": "Histoire d'O",
+      "releaseDate": "2013-06-12",
+      "kind": "audio-books",
+      "artistId": "450470515",
+      "artistUrl": "https://books.apple.com/fr/author/pauline-r%C3%A9age/id450470515",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/0a/c8/08/0ac808a2-c480-e91b-1ffe-76c57e12a647/9782356415509.jpg/100x138bb.png",
+      "genres": [
+        {
+          "genreId": "50000092",
+          "name": "Érotisme",
+          "url": "https://itunes.apple.com/fr/genre/id50000092"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/histoire-do/id1440368833"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 30,
+      "artistName": "Henrik Mulford",
+      "id": "1646104253",
+      "name": "Bundle the Bodybuilding Bible for Men 1 & 2: Guidebook to Building Men’s Muscles in a Short Time. Body Confidence, Mass Nutrition, Exercises Tips that Truly Make an Impact to Bodybuilding Results (Unabridged)",
+      "releaseDate": "2025-09-02",
+      "kind": "audio-books",
+      "artistId": "1544748140",
+      "artistUrl": "https://books.apple.com/jp/author/henrik-mulford/id1544748140",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/99/7f/cb/997fcb9b-01cc-ffcc-f9da-33dfb8c3c45e/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000056",
+          "name": "自己啓発",
+          "url": "https://itunes.apple.com/jp/genre/id50000056"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        },
+        {
+          "genreId": "50000057",
+          "name": "スポーツ",
+          "url": "https://itunes.apple.com/jp/genre/id50000057"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/bundle-the-bodybuilding-bible-for-men-1-2-guidebook/id1646104253"
+    }
+  ]
+}

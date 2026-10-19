@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 50,
+      "artistName": "Colette",
+      "id": "1706341040",
+      "name": "Claudine à paris",
+      "releaseDate": "1998-01-01",
+      "kind": "audio-books",
+      "artistId": "369448699",
+      "artistUrl": "https://books.apple.com/fr/author/colette/id369448699",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/27/65/23/2765239c-bac8-bb06-0e42-6bed46453035/9791025602225.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/claudine-%C3%A0-paris/id1706341040"
+    }
+  ]
+}
