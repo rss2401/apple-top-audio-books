@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 45,
+      "artistName": "Andreas Eschbach",
+      "id": "1480524983",
+      "name": "NSA - Nationales Sicherheits-Amt (Ungekürzt)",
+      "releaseDate": "2019-10-04",
+      "kind": "audio-books",
+      "artistId": "269520320",
+      "artistUrl": "https://books.apple.com/de/author/andreas-eschbach/id269520320",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ac/ec/3b/acec3bab-ef34-8fb1-9895-87ded1b7c77f/9783838789163_3000.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Belletristik",
+          "url": "https://itunes.apple.com/de/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/nsa-nationales-sicherheits-amt-ungek%C3%BCrzt/id1480524983"
+    }
+  ]
+}

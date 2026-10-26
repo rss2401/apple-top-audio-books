@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 51,
+      "artistName": "Wayne W. Dyer",
+      "id": "1441489851",
+      "name": "YOUR ERRONEOUS ZONES (Abridged)",
+      "releaseDate": "2005-07-05",
+      "kind": "audio-books",
+      "artistId": "5643795",
+      "artistUrl": "https://books.apple.com/fr/author/wayne-w-dyer/id5643795",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/1b/f7/2c/1bf72ccb-879b-002f-eb28-b611956bd376/9780060845780.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000056",
+          "name": "Santé et bien-être",
+          "url": "https://itunes.apple.com/fr/genre/id50000056"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/your-erroneous-zones-abridged/id1441489851"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 98,
+      "artistName": "Brynne Weaver",
+      "id": "1710036409",
+      "name": "Butcher & Blackbird: The Ruinous Love Trilogy, Book 1 (Unabridged)",
+      "releaseDate": "2023-10-10",
+      "kind": "audio-books",
+      "artistId": "1710036412",
+      "artistUrl": "https://books.apple.com/us/author/brynne-weaver/id1710036412",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/89/55/4b/89554b96-c5e8-bffe-4d8c-718ef3c4bdfb/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000051",
+          "name": "Mysteries & Thrillers",
+          "url": "https://itunes.apple.com/us/genre/id50000051"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Audiobooks",
+          "url": "https://itunes.apple.com/us/genre/id50000024"
+        },
+        {
+          "genreId": "50000069",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/us/genre/id50000069"
+        }
+      ],
+      "url": "https://books.apple.com/us/audiobook/butcher-blackbird-the-ruinous-love-trilogy-book-1/id1710036409"
+    }
+  ]
+}

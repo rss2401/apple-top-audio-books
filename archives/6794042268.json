@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 23,
+      "artistName": "VoiceBerries, Daphne Bühner & Bianca Mov",
+      "id": "6794042268",
+      "name": "Die For Us",
+      "releaseDate": "2026-10-24",
+      "kind": "audio-books",
+      "artistId": "1804397426",
+      "artistUrl": "https://books.apple.com/de/author/voiceberries/id1804397426",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/a4/6d/dba46dc0-356b-d7ec-b820-4a7a2b68e7ce/4071498019610.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000069",
+          "name": "Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id50000069"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/die-for-us/id6794042268"
+    }
+  ]
+}

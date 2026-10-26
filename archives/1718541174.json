@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 59,
+      "artistName": "Eva-Maria Bast",
+      "id": "1718541174",
+      "name": "Die Queen: Elizabeth II. - Als Monarchin führte sie ihr Volk in eine neue Zeit und brachte Beständigkeit im Wandel - Romanbiografie",
+      "releaseDate": "2023-12-15",
+      "kind": "audio-books",
+      "artistId": "574455344",
+      "artistUrl": "https://books.apple.com/de/author/eva-maria-bast/id574455344",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f1/aa/14/f1aa14a3-a22f-a708-f708-26d350b6de01/9783757012458_3000.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000042",
+          "name": "Biografien und Memoiren",
+          "url": "https://itunes.apple.com/de/genre/id50000042"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/die-queen-elizabeth-ii-als-monarchin-f%C3%BChrte-sie-ihr/id1718541174"
+    }
+  ]
+}

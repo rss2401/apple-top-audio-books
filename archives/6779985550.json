@@ -1,6 +1,39 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 56,
+      "artistName": "Collin Gosselin",
+      "id": "6779985550",
+      "name": "In the Shadow of Eight",
+      "releaseDate": "2026-10-13",
+      "kind": "audio-books",
+      "artistId": "6779985551",
+      "artistUrl": "https://books.apple.com/gb/author/collin-gosselin/id6779985551",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/d8/cb/41d8cb25-6719-7c0f-4b45-fe83359fc574/9781668659663.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000042",
+          "name": "Biography",
+          "url": "https://itunes.apple.com/gb/genre/id50000042"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Audiobooks",
+          "url": "https://itunes.apple.com/gb/genre/id50000024"
+        },
+        {
+          "genreId": "50000056",
+          "name": "Self-Development",
+          "url": "https://itunes.apple.com/gb/genre/id50000056"
+        }
+      ],
+      "url": "https://books.apple.com/gb/audiobook/in-the-shadow-of-eight/id6779985550"
+    },
     {
       "month": "202610",
       "country": "us",
@@ -14,7 +47,7 @@
       "kind": "audio-books",
       "artistId": "6779985551",
       "artistUrl": "https://books.apple.com/us/author/collin-gosselin/id6779985551",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/40/74/914074e0-56b7-a719-a9a2-e1aed0b8e303/9781668659663.jpg/100x100bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/d8/cb/41d8cb25-6719-7c0f-4b45-fe83359fc574/9781668659663.jpg/100x100bb.png",
       "genres": [
         {
           "genreId": "50000042",

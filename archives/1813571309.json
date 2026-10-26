@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 52,
+      "artistName": "Gareth Rubin",
+      "id": "1813571309",
+      "name": "L'énigme de Turnglass",
+      "releaseDate": "2025-06-05",
+      "kind": "audio-books",
+      "artistId": "488365748",
+      "artistUrl": "https://books.apple.com/fr/author/gareth-rubin/id488365748",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/88/42/ea88427d-f8b2-b8d4-dc19-cfaaddc0f7a0/9791036643491.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/l%C3%A9nigme-de-turnglass/id1813571309"
+    }
+  ]
+}

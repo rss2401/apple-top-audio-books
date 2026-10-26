@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 25,
+      "artistName": "Claude Gauvard",
+      "id": "1544174178",
+      "name": "Histoire de France (Volume 2) - Le Moyen Âge. La France des Capétiens",
+      "releaseDate": "2012-08-13",
+      "kind": "audio-books",
+      "artistId": "606789120",
+      "artistUrl": "https://books.apple.com/fr/author/claude-gauvard/id606789120",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ec/4f/92/ec4f9253-4326-e85f-875b-9e751ea15c13/3561302855011.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000052",
+          "name": "Essais et sciences humaines",
+          "url": "https://itunes.apple.com/fr/genre/id50000052"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000049",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id50000049"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/histoire-de-france-volume-2-le-moyen-%C3%A2ge-la-france/id1544174178"
+    }
+  ]
+}

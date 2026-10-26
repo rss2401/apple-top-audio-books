@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 53,
+      "artistName": "Victor Hugo",
+      "id": "1544098912",
+      "name": "Victor Hugo et les poètes contemporains",
+      "releaseDate": "2020-11-02",
+      "kind": "audio-books",
+      "artistId": "1446655626",
+      "artistUrl": "https://books.apple.com/fr/author/victor-hugo/id1446655626",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4d/87/7e/4d877e55-bbf0-a700-15ce-868927cac077/3561302880310.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/victor-hugo-et-les-po%C3%A8tes-contemporains/id1544098912"
+    }
+  ]
+}

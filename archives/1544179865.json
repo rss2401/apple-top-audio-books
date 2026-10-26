@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 39,
+      "artistName": "Jean-François Sirinelli",
+      "id": "1544179865",
+      "name": "Histoire de France (Volume 7) - La France du XXe siècle. D'une guerre à l'autre, de 1914 à 1958",
+      "releaseDate": "2014-04-02",
+      "kind": "audio-books",
+      "artistId": "390648108",
+      "artistUrl": "https://books.apple.com/fr/author/jean-fran%C3%A7ois-sirinelli/id390648108",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5d/ec/d3/5decd35e-597d-8a9c-8543-6381200b82c8/3561302855066.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000052",
+          "name": "Essais et sciences humaines",
+          "url": "https://itunes.apple.com/fr/genre/id50000052"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/histoire-de-france-volume-7-la-france-du-xxe-si%C3%A8cle/id1544179865"
+    }
+  ]
+}

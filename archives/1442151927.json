@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 95,
+      "artistName": "Cara Hunter",
+      "id": "1442151927",
+      "name": "In The Dark",
+      "releaseDate": "2018-07-12",
+      "kind": "audio-books",
+      "artistId": "1247263565",
+      "artistUrl": "https://books.apple.com/gb/author/cara-hunter/id1247263565",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/07/57/62/075762ef-407f-d192-546d-b9b264052db2/9780241984154.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000051",
+          "name": "Crime & Thrillers",
+          "url": "https://itunes.apple.com/gb/genre/id50000051"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Audiobooks",
+          "url": "https://itunes.apple.com/gb/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/gb/audiobook/in-the-dark/id1442151927"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 84,
+      "artistName": "Dennis E. Taylor",
+      "id": "1225758010",
+      "name": "For We Are Many: Bobiverse, Book 2 (Unabridged)",
+      "releaseDate": "2017-04-18",
+      "kind": "audio-books",
+      "artistId": "1154244304",
+      "artistUrl": "https://books.apple.com/gb/author/dennis-e-taylor/id1154244304",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/39/82/e3/3982e359-6c53-e265-2745-0f2124a478e2/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000055",
+          "name": "Sci-Fi & Fantasy",
+          "url": "https://itunes.apple.com/gb/genre/id50000055"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Audiobooks",
+          "url": "https://itunes.apple.com/gb/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/gb/audiobook/for-we-are-many-bobiverse-book-2-unabridged/id1225758010"
+    }
+  ]
+}

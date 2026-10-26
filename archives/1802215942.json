@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 43,
+      "artistName": "Suzanne Collins & Die Tribute von Panem",
+      "id": "1802215942",
+      "name": "Die Tribute von Panem. Gesamtausgabe (Band 1-3)",
+      "releaseDate": "2025-03-18",
+      "kind": "audio-books",
+      "artistId": "110188933",
+      "artistUrl": "https://books.apple.com/de/author/suzanne-collins/id110188933",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/b5/34/25b5345a-e518-9066-33a3-b1b5f0839e0b/9783837396119.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000044",
+          "name": "Kinder und Jugend",
+          "url": "https://itunes.apple.com/de/genre/id50000044"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/die-tribute-von-panem-gesamtausgabe-band-1-3/id1802215942"
+    }
+  ]
+}

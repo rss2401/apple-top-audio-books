@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 44,
+      "artistName": "Frédéric Pommier",
+      "id": "6773755128",
+      "name": "Derrière les arbres",
+      "releaseDate": "2026-06-28",
+      "kind": "audio-books",
+      "artistId": "501689137",
+      "artistUrl": "https://books.apple.com/fr/author/fr%C3%A9d%C3%A9ric-pommier/id501689137",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ac/d4/a3/acd4a35e-0a90-4fbe-34e9-a12b625b3b42/9782073172501.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000042",
+          "name": "Biographies et mémoires",
+          "url": "https://itunes.apple.com/fr/genre/id50000042"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/derri%C3%A8re-les-arbres/id6773755128"
+    }
+  ]
+}

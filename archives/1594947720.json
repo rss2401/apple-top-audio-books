@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 93,
+      "artistName": "J. R. R. Tolkien",
+      "id": "1594947720",
+      "name": "Beren und Lúthien",
+      "releaseDate": "2022-06-27",
+      "kind": "audio-books",
+      "artistId": "2078613",
+      "artistUrl": "https://books.apple.com/de/author/j-r-r-tolkien/id2078613",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/53/f8/7e/53f87e8f-89d8-002b-fcde-e6563ef2879e/9783844545661.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000055",
+          "name": "Science-Fiction und Fantasy",
+          "url": "https://itunes.apple.com/de/genre/id50000055"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/beren-und-l%C3%BAthien/id1594947720"
+    }
+  ]
+}

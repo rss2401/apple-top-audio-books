@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 38,
+      "artistName": "Paulina Garcia",
+      "id": "1684975192",
+      "name": "Luna l'aventurière à la rescousse du royaume des fourmis [Adventurer Luna to the Rescue of the Ant Kingdom]: Une fabuleuse histoire pour enfant d’aventure, de courage et d’amitié avec les animaux (Unabridged)",
+      "releaseDate": "2024-05-17",
+      "kind": "audio-books",
+      "artistId": "755691921",
+      "artistUrl": "https://books.apple.com/fr/author/paulina-garcia/id755691921",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d4/e4/ae/d4e4ae66-2b73-d9eb-b0bf-5dbc1cc27144/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000044",
+          "name": "Jeunesse",
+          "url": "https://itunes.apple.com/fr/genre/id50000044"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/luna-laventuri%C3%A8re-%C3%A0-la-rescousse-du-royaume-des-fourmis/id1684975192"
+    }
+  ]
+}

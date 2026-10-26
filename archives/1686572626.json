@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 79,
+      "artistName": "Nele Neuhaus",
+      "id": "1686572626",
+      "name": "Monster (Ein Bodenstein-Kirchhoff-Krimi 11)",
+      "releaseDate": "2023-11-16",
+      "kind": "audio-books",
+      "artistId": "411665117",
+      "artistUrl": "https://books.apple.com/de/author/nele-neuhaus/id411665117",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/77/da/a0/77daa00c-e3f7-4acb-7e35-1ce58400974f/9783844935141.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000051",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id50000051"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/monster-ein-bodenstein-kirchhoff-krimi-11/id1686572626"
+    }
+  ]
+}

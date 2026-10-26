@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 54,
+      "artistName": "Marc-Uwe Kling",
+      "id": "1589234142",
+      "name": "Das NEINhorn und die SchLANGEWEILE",
+      "releaseDate": "2021-11-29",
+      "kind": "audio-books",
+      "artistId": "333109092",
+      "artistUrl": "https://books.apple.com/de/author/marc-uwe-kling/id333109092",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b9/be/dc/b9bedcbb-d3f7-6b46-1f08-d7a426e75a44/9783844926750.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000044",
+          "name": "Kinder und Jugend",
+          "url": "https://itunes.apple.com/de/genre/id50000044"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/das-neinhorn-und-die-schlangeweile/id1589234142"
+    }
+  ]
+}

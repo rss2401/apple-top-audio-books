@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 56,
+      "artistName": "Lynn Painter",
+      "id": "1790620070",
+      "name": "Nothing like the movies",
+      "releaseDate": "2025-02-26",
+      "kind": "audio-books",
+      "artistId": "1536432053",
+      "artistUrl": "https://books.apple.com/fr/author/lynn-painter/id1536432053",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/39/cf/b339cfd2-403b-3c24-6c96-73b04a666811/9791035417789.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000069",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/fr/genre/id50000069"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/nothing-like-the-movies/id1790620070"
+    }
+  ]
+}

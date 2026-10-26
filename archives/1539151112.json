@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 94,
+      "artistName": "Paulo Coelho",
+      "id": "1539151112",
+      "name": "Der Alchimist",
+      "releaseDate": "1996-01-01",
+      "kind": "audio-books",
+      "artistId": "2024311",
+      "artistUrl": "https://books.apple.com/de/author/paulo-coelho/id2024311",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ab/a2/f3/aba2f3aa-30cb-af95-3ad9-49e795d58e60/9783257690699.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Belletristik",
+          "url": "https://itunes.apple.com/de/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/der-alchimist/id1539151112"
+    }
+  ]
+}

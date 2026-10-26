@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 49,
+      "artistName": "Marc Raabe",
+      "id": "1775132202",
+      "name": "Die Nacht (Art Mayer-Serie 3)",
+      "releaseDate": "2025-03-27",
+      "kind": "audio-books",
+      "artistId": "495141452",
+      "artistUrl": "https://books.apple.com/de/author/marc-raabe/id495141452",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/29/35/bf293578-e378-1914-af8f-69090aadfd37/9783844941159.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000051",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id50000051"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/die-nacht-art-mayer-serie-3/id1775132202"
+    }
+  ]
+}

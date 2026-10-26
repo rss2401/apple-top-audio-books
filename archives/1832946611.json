@@ -1,12 +1,45 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 45,
+      "artistName": "Caro Claire Burke",
+      "id": "1832946611",
+      "name": "Yesteryear",
+      "releaseDate": "2026-04-07",
+      "kind": "audio-books",
+      "artistId": "1825267393",
+      "artistUrl": "https://books.apple.com/fr/author/caro-claire-burke/id1825267393",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/46/38/8d/46388d10-5c15-2d5a-9df4-b895ec5b746b/9780008742799.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000051",
+          "name": "Policier et suspense",
+          "url": "https://itunes.apple.com/fr/genre/id50000051"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/yesteryear/id1832946611"
+    },
     {
       "month": "202610",
       "country": "gb",
       "mediaType": "audio-books",
       "feed": "top-audio-books",
-      "rank": 54,
+      "rank": 36,
       "artistName": "Caro Claire Burke",
       "id": "1832946611",
       "name": "Yesteryear",

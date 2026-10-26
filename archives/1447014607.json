@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 71,
+      "artistName": "Pierce Brown",
+      "id": "1447014607",
+      "name": "Asche zu Asche - Red Rising 4 (Ungekürzt)",
+      "releaseDate": "2018-11-30",
+      "kind": "audio-books",
+      "artistId": "650564637",
+      "artistUrl": "https://books.apple.com/de/author/pierce-brown/id650564637",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/87/16/c0/8716c026-18a8-9ca7-4546-52edc3a39674/9783961540419_3000.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000055",
+          "name": "Science-Fiction und Fantasy",
+          "url": "https://itunes.apple.com/de/genre/id50000055"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/asche-zu-asche-red-rising-4-ungek%C3%BCrzt/id1447014607"
+    }
+  ]
+}

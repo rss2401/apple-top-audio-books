@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 26,
+      "artistName": "Bettina Seidl",
+      "id": "1886083852",
+      "name": "Im Jahr der Waldblüte",
+      "releaseDate": "2026-04-10",
+      "kind": "audio-books",
+      "artistId": "1506975325",
+      "artistUrl": "https://books.apple.com/de/author/bettina-seidl/id1506975325",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/f2/94/0af2941f-b8bc-2f98-5b45-95ecc69d6b05/9783757020989_3000.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Belletristik",
+          "url": "https://itunes.apple.com/de/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/im-jahr-der-waldbl%C3%BCte/id1886083852"
+    }
+  ]
+}

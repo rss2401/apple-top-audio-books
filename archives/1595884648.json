@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 30,
+      "artistName": "Ken Follett",
+      "id": "1595884648",
+      "name": "Pour rien au monde",
+      "releaseDate": "2021-11-24",
+      "kind": "audio-books",
+      "artistId": "41828779",
+      "artistUrl": "https://books.apple.com/fr/author/ken-follett/id41828779",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5e/ab/1d/5eab1d5d-0b5e-a4db-b456-7cf3ca0aaf6c/9791035406820.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000055",
+          "name": "SF et fantasy",
+          "url": "https://itunes.apple.com/fr/genre/id50000055"
+        },
+        {
+          "genreId": "50000051",
+          "name": "Policier et suspense",
+          "url": "https://itunes.apple.com/fr/genre/id50000051"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/pour-rien-au-monde/id1595884648"
+    }
+  ]
+}

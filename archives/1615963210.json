@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 59,
+      "artistName": "David E. Clarke, PhD, William G Clarke M A & Arlene Pellicane",
+      "id": "1615963210",
+      "name": "Enough Is Enough: A Step-by-Step Plan to Leave an Abusive Relationship with God's Help",
+      "releaseDate": "2022-02-16",
+      "kind": "audio-books",
+      "artistId": "1468972809",
+      "artistUrl": "https://books.apple.com/fr/author/david-e-clarke-phd/id1468972809",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fb/f6/3d/fbf63df0-e8db-5a70-22ad-17d027f1ac83/9780802424662_cover.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000053",
+          "name": "Religion et spiritualité",
+          "url": "https://itunes.apple.com/fr/genre/id50000053"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000056",
+          "name": "Santé et bien-être",
+          "url": "https://itunes.apple.com/fr/genre/id50000056"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/enough-is-enough-a-step-by-step-plan-to-leave/id1615963210"
+    }
+  ]
+}

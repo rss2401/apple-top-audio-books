@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 54,
+      "artistName": "Emmanuelle Massonaud & Mélanie Combes",
+      "id": "1631170823",
+      "name": "Timoté et sa tétine",
+      "releaseDate": "2022-07-07",
+      "kind": "audio-books",
+      "artistId": "910734352",
+      "artistUrl": "https://books.apple.com/fr/author/emmanuelle-massonaud/id910734352",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b2/0e/b5/b20eb593-fbf8-10a0-d3b3-57a1f7424048/9791036622816.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000044",
+          "name": "Jeunesse",
+          "url": "https://itunes.apple.com/fr/genre/id50000044"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/timot%C3%A9-et-sa-t%C3%A9tine/id1631170823"
+    }
+  ]
+}

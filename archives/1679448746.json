@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 36,
+      "artistName": "Amélie Nothomb & Laureline Amanieux",
+      "id": "1679448746",
+      "name": "Japon, les fleurs d'un monde flottant avec Amélie Nothomb (Unabridged)",
+      "releaseDate": "2023-04-05",
+      "kind": "audio-books",
+      "artistId": "286592601",
+      "artistUrl": "https://books.apple.com/fr/author/am%C3%A9lie-nothomb/id286592601",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f1/ad/62/f1ad62b5-0361-ce22-23be-5142c6fd1bf8/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000049",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id50000049"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000053",
+          "name": "Religion et spiritualité",
+          "url": "https://itunes.apple.com/fr/genre/id50000053"
+        },
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/japon-les-fleurs-dun-monde-flottant-avec-am%C3%A9lie-nothomb/id1679448746"
+    }
+  ]
+}
