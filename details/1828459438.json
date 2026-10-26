@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1434663843,
+      "collectionId": 1828459438,
+      "artistName": "Miguel de Cervantes & Livres audio en français",
+      "collectionName": "Don Quichotte - Livre Audio",
+      "collectionCensoredName": "Don Quichotte - Livre Audio",
+      "artistViewUrl": "https://books.apple.com/fr/author/miguel-de-cervantes/id1434663843?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/don-quichotte-livre-audio/id1828459438?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/75/0c/79/750c7905-9c6d-4315-e843-b1cfc1c3d19c/4069828695597.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/75/0c/79/750c7905-9c6d-4315-e843-b1cfc1c3d19c/4069828695597.jpg/100x100bb.jpg",
+      "collectionPrice": 3.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 2,
+      "copyright": "© 2025 Golden Age Audio",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2025-07-30T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fc/81/94/fc819461-0e38-4459-6371-143f2f363598/mzaf_7179647175002161999.std.aac.p.m4a",
+      "description": "Chevalier autoproclamé, Don Quichotte parcourt l'Espagne en quête d'aventures, accompagné de son fidèle écuyer Sancho Panza. Guidé par ses idéaux et ses illusions, il affronte des moulins à vent, croyant combattre des géants.\r\n\r\nRoman à la fois comique, profond et poétique, Don Quichotte est une réflexion sur la folie, le rêve et la réalité. Un classique universel sur la force de l'imaginaire et la noblesse du cœur."
+    }
+  ]
+}

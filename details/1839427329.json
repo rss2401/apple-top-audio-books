@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 299089412,
+      "collectionId": 1839427329,
+      "artistName": "Laurent Gaudé",
+      "collectionName": "La  mort du roi Tsongor",
+      "collectionCensoredName": "La  mort du roi Tsongor",
+      "artistViewUrl": "https://books.apple.com/fr/author/laurent-gaud%C3%A9/id299089412?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/la-mort-du-roi-tsongor/id1839427329?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/a5/4e/caa54efc-7a80-c6ac-8e6b-bf6cbe620772/9791025600863.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ca/a5/4e/caa54efc-7a80-c6ac-8e6b-bf6cbe620772/9791025600863.jpg/100x100bb.jpg",
+      "collectionPrice": 16.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2013-09-20T07:00:00Z",
+      "primaryGenreName": "SF et fantasy",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cc/0e/dd/cc0eddb8-32da-2942-97f3-f47552f256c9/mzaf_13639964953529228440.std.aac.p.m4a",
+      "description": "Dans une Antiquité imaginaire, le vieux Tsongor, roi de Massaba, souverain d'un empire immense, s'apprête à marier sa fille. Mais au jour des fiançailles, un second prétendant surgit. La guerre éclate : c'est Troie assiégée, c'est Thèbes livrée à la haine. Le monarque s'éteint ; son plus jeune fils s'en va parcourir le continent pour édifier sept tombeaux à l'image de ce que fut le vénéré ? et aussi le haïssable ? roi Tsongor."
+    }
+  ]
+}

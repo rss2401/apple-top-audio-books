@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 606789120,
+      "collectionId": 1544174178,
+      "amgArtistId": 3311920,
+      "artistName": "Claude Gauvard",
+      "collectionName": "Histoire de France (Volume 2) - Le Moyen Âge. La France des Capétiens",
+      "collectionCensoredName": "Histoire de France (Volume 2) - Le Moyen Âge. La France des Capétiens",
+      "artistViewUrl": "https://books.apple.com/fr/author/claude-gauvard/id606789120?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/histoire-de-france-volume-2-le-moyen-%C3%A2ge-la-france/id1544174178?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ec/4f/92/ec4f9253-4326-e85f-875b-9e751ea15c13/3561302855011.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ec/4f/92/ec4f9253-4326-e85f-875b-9e751ea15c13/3561302855011.jpg/100x100bb.jpg",
+      "collectionPrice": 20.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2012 Frémeaux & Associés",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2012-08-13T07:00:00Z",
+      "primaryGenreName": "Essais et sciences humaines",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/fc/45/eb/fc45eb87-fae2-ab24-6f51-4aec87f609cc/mzaf_9019670475263802079.std.aac.p.m4a",
+      "description": "\"Pour la première fois, l’éditeur des savoirs, les Presses Universitaires de France, et la maison de disques culturels de référence Frémeaux &amp; Associés, s’associent pour proposer des cours particuliers sur l’histoire de France, racontée, expliquée et analysée par les plus grands universitaires. \nEn près de cinq heures, cet enregistrement retrace l’histoire de France sous les rois capétiens, lors des XIIe et XIIIe siècles, incarnée par Claude Gauvard, spécialiste d’histoire médiévale.\" \nClaude COLOMBINI FREMEAUX"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 277613624,
+      "collectionId": 1544527842,
+      "artistName": "Jean-Jacques Rousseau",
+      "collectionName": "Le Contrat Social",
+      "collectionCensoredName": "Le Contrat Social",
+      "artistViewUrl": "https://books.apple.com/fr/author/jean-jacques-rousseau/id277613624?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/le-contrat-social/id1544527842?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e9/b2/73/e9b273b8-3b40-de76-c451-078e1f39818a/3561302880907.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e9/b2/73/e9b273b8-3b40-de76-c451-078e1f39818a/3561302880907.jpg/100x100bb.jpg",
+      "collectionPrice": 20.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2008 Frémeaux & Associés",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2008-07-27T07:00:00Z",
+      "primaryGenreName": "Essais et sciences humaines",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/49/8e/04/498e0462-d48d-a115-2756-48a17ddad781/mzaf_9721409523817818985.std.aac.p.m4a",
+      "description": "« Le Contrat social de Rousseau, publié en avril 1762, étonne par l’évidence des principes politiques qui le constituent. Il invente l’idée de la démocratie absolue en prenant le peuple moins comme objet que comme sujet de son discours. Son traité politique ne concerne plus seulement les gouvernants, les princes ou les conseils, mais les gouvernés. Ce déplacement du haut vers le bas de la hiérarchie civile fait du Contrat social le lieu théorique de rassemblement de l’humanité citoyenne. “Trouver une forme d’association qui défende et protège de toute la force commune la personne et les biens de chaque associé, et par laquelle chacun, s’unissant à tous, n’obéisse pourtant qu’à lui-même, et reste aussi libre qu’auparavant”. Le Contrat social apporte la solution au problème du gouvernement de l’homme, celle de l’auto-gouvernement – obéissance à sa seule personne, aux lois qu’il se prescrit. Sa liberté naturelle se change en liberté morale. Denis Podalydès, fervent lecteur du Contrat social, nous fait partager l’émotion liée à l’intelligence de ce texte précurseur, et grâce à son talent de comédien, nous aide à découvrir et comprendre un texte fondateur de notre société moderne. » Alexandre Wong &amp; Claude Colombini-Frémeaux"
+    }
+  ]
+}

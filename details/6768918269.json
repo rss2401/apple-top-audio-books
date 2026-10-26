@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1182951408,
+      "collectionId": 6768918269,
+      "artistName": "Alexander Oetker",
+      "collectionName": "Léon und die Frau im blauen Kleid",
+      "collectionCensoredName": "Léon und die Frau im blauen Kleid",
+      "artistViewUrl": "https://books.apple.com/de/author/alexander-oetker/id1182951408?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/l%C3%A9on-und-die-frau-im-blauen-kleid/id6768918269?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/97/31/66973181-b0d1-2740-0d60-a65ef42c080a/9783732487165.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/97/31/66973181-b0d1-2740-0d60-a65ef42c080a/9783732487165.jpg/100x100bb.jpg",
+      "collectionPrice": 17.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2026 Argon Verlag AVE GmbH",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2026-05-06T07:00:00Z",
+      "primaryGenreName": "Krimis und Thriller",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/60/ba/c5/60bac58d-5d55-e248-1891-3d89fa0a36b1/mzaf_17778846103016009027.std.aac.p.m4a",
+      "description": "High Society, tiefe Abgründe – Rausch und Tod an der Côte d'Azur\nNizza, im Sommer – ausgerechnet hier, wo die Reichen und Schönen unter Palmen flanieren, prunkvolle Yachten ausfahren und den Apéro an der Promenade genießen, spült das Meer die Leiche einer jungen Frau in einem blauen Kleid an den Strand. Nachts gab es keinen Schiffsverkehr – was hat sich also auf dem Wasser zugetragen? Die Ermittlungen führen Commissaire Léon de Cavallier und seine zupackende Kollegin Nadia Bentaleb ins Innere der High Society, wo Geld und Macht eine unheilige Verbindung eingehen mit Sex, Drogen und Korruption.\nBestsellerautor Alexander Oetker schickt ein neues Ermittlerduo, das gegensätzlicher nicht sein könnte, vor der mondänen, sonnengefluteten Kulisse der Côte d'Azur auf die Spur eines eiskalten Verbrechens.\nBand 1 der neuen Krimi-Reihe de Cavallier und Bentaleb ermitteln."
+    }
+  ]
+}

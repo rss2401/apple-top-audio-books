@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 122956561,
+      "collectionId": 1822306434,
+      "artistName": "Simon Beckett",
+      "collectionName": "Knochenkälte",
+      "collectionCensoredName": "Knochenkälte",
+      "artistViewUrl": "https://books.apple.com/de/author/simon-beckett/id122956561?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/knochenk%C3%A4lte/id1822306434?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/12/5c/b0125c2b-f52a-6b0f-f244-2a9574dc06da/9783732420605.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b0/12/5c/b0125c2b-f52a-6b0f-f244-2a9574dc06da/9783732420605.jpg/100x100bb.jpg",
+      "collectionPrice": 20.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2025 Argon Verlag AVE GmbH",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2025-11-05T08:00:00Z",
+      "primaryGenreName": "Krimis und Thriller",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/18/b4/59/18b4593a-df76-645c-6c7d-e9385df17632/mzaf_12743873668285093223.std.aac.p.m4a",
+      "description": "Endlich: Der siebte Teil der Bestsellerreihe um Dr. David Hunter\n»Die Toten machten mir keine Angst. Es waren die Lebenden, die mir Albträume bereiteten.«\nUndurchdringlicher Nebel umgibt das heruntergekommene Hotel, im alten Gemäuer sitzt klamme Kälte. Inmitten eines Wintersturms ist Dr. David Hunter im »Forest Hotel« gestrandet. Es wird von einem Ehepaar geführt, das sich alles andere als freundlich gibt, doch der forensische Anthropologe hat keine andere Wahl, als hier die Nacht zu verbringen. Er ist der einzige Gast. Am nächsten Morgen macht Hunter im nahegelegenen Wald eine grausige Entdeckung. Beim Versuch, die Polizei zu alarmieren, stellt er fest, dass der Sturm das Dorf von der Außenwelt abgeschnitten hat …\nEin unheimliches Hotel und ein Wald voller Knochen: Dr. David Hunters siebter Fall."
+    }
+  ]
+}

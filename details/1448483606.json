@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 264187068,
+      "collectionId": 1448483606,
+      "artistName": "J.B. Priestley",
+      "collectionName": "An Inspector Calls (Classic Radio Theatre)",
+      "collectionCensoredName": "An Inspector Calls (Classic Radio Theatre)",
+      "artistViewUrl": "https://books.apple.com/gb/author/j-b-priestley/id264187068?uo=4",
+      "collectionViewUrl": "https://books.apple.com/gb/audiobook/an-inspector-calls-classic-radio-theatre/id1448483606?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8b/8a/10/8b8a10d7-618b-c5ed-9b85-9da4de66c628/9781408485224.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8b/8a/10/8b8a10d7-618b-c5ed-9b85-9da4de66c628/9781408485224.jpg/100x100bb.jpg",
+      "collectionPrice": 7.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "GBR",
+      "currency": "GBP",
+      "releaseDate": "2011-03-01T08:00:00Z",
+      "primaryGenreName": "Non-Fiction",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/3a/56/48/3a5648bc-4b66-fbb1-e182-72a23883cb73/mzaf_2453057372673660745.std.aac.p.m4a",
+      "description": "The Birling family are spending a happy evening celebrating the engagement of Sheila Birling to Gerald Croft - a marriage that will result in the merging of two successful local businesses.  Yet just when everything seems to be going so well, they receive a surprise visit from an Inspector Goole who is investigating the suicide of a young girl.   As the Inspector reveals more about the circumstances that led to the death of Eva Smith, each member of the family comes under the spotlight, and questions of guilt and responsibility are raised...   Toby Jones, David Calder, Frances Barber and Morven Christie are amongst the cast in this BBC Radio 4 production from 2010.   The Classic Radio Theatre range presents notable radio productions of much-loved plays by some of the most renowned playwrights, and starring some of our finest actors."
+    }
+  ]
+}

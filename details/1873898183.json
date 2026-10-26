@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1192807210,
+      "collectionId": 1873898183,
+      "artistName": "Devney Perry",
+      "collectionName": "Garnet Flats",
+      "collectionCensoredName": "Garnet Flats",
+      "artistViewUrl": "https://books.apple.com/de/author/devney-perry/id1192807210?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/garnet-flats/id1873898183?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bd/59/24/bd59245f-98d0-d75d-0030-67c43c714d6b/9788727293196.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bd/59/24/bd59245f-98d0-d75d-0030-67c43c714d6b/9788727293196.jpg/100x100bb.jpg",
+      "collectionPrice": 5.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2026 SAGA Egmont",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2026-04-07T07:00:00Z",
+      "primaryGenreName": "Liebesromane",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5e/ca/4a/5eca4a28-34ec-2986-522e-dd8ad11fbc7b/mzaf_15710684512770589091.std.aac.p.m4a",
+      "description": "Talia Edens größter Fehler war, ihr Herz zu verschenken. Ein Jahr, zwei Monate und elf Tage lang gehörte es Profiboxer Foster Madden. Bis an Tag 438 der Knockout für ihre Liebe kam. Denn das war der Tag, an dem Foster beschloss, ihre beste Freundin zu heiraten. Der Tag, an dem Talia sich schwor, nie wieder an diesen Mann zu denken. Doch jetzt ist Foster zurück – hier, in ihrer Heimatstadt Quincy. Im Gepäck hat er eine ganz Reihe von Entschuldigungen und Versprechen. Und damit nicht genug, nein, er bittet sie auch noch um Hilfe.\nDoch wenn Foster glaubt, dass sie auf diese Nummer hereinfällt, hat er sich geirrt. Er mag ein Meister im strategischen Denken und Bewahren von Geheimnissen sein. Doch Talia hat ihre Lektion gelernt und wird ihm auf keinen Fall beim Training für die Meisterschaft helfen – so viel steht fest. Dumm nur, dass ihr Herz in seiner Gegenwart immer noch ins Stolpern gerät. Und dass Foster mehr als entschlossen ist, diesen Kampf zu gewinnen: den Kampf um ihre Liebe."
+    }
+  ]
+}

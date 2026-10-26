@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 390648108,
+      "collectionId": 1544179865,
+      "artistName": "Jean-François Sirinelli",
+      "collectionName": "Histoire de France (Volume 7) - La France du XXe siècle. D'une guerre à l'autre, de 1914 à 1958",
+      "collectionCensoredName": "Histoire de France (Volume 7) - La France du XXe siècle. D'une guerre à l'autre, de 1914 à 1958",
+      "artistViewUrl": "https://books.apple.com/fr/author/jean-fran%C3%A7ois-sirinelli/id390648108?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/histoire-de-france-volume-7-la-france-du-xxe-si%C3%A8cle/id1544179865?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5d/ec/d3/5decd35e-597d-8a9c-8543-6381200b82c8/3561302855066.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5d/ec/d3/5decd35e-597d-8a9c-8543-6381200b82c8/3561302855066.jpg/100x100bb.jpg",
+      "collectionPrice": 20.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2014 Presses Universitaires de France / Frémeaux & Associés",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2014-04-02T07:00:00Z",
+      "primaryGenreName": "Essais et sciences humaines",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ac/fc/03/acfc0364-519e-8494-f251-85505e5e0bf8/mzaf_14468786032127907153.std.aac.p.m4a",
+      "description": "\"Pour la première fois, l’éditeur des savoirs, les Presses Universitaires de France, et la maison de disques culturels de référence Frémeaux &amp; Associés, s’associent pour proposer des cours particuliers sur l’histoire de France, racontée, expliquée et analysée par les plus grands universitaires. \nEn près de cinq heures, cet enregistrement retrace l’histoire de France au XXe siècle, incarnée par Jean François Sirinelli, spécialiste d’histoire politique et culturelle.\"  Claude COLOMBINI FREMEAUX"
+    }
+  ]
+}

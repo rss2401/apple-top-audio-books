@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 256029579,
+      "collectionId": 1441945069,
+      "artistName": "Alexandre Jardin",
+      "collectionName": "Les Coloriés",
+      "collectionCensoredName": "Les Coloriés",
+      "artistViewUrl": "https://books.apple.com/fr/author/alexandre-jardin/id256029579?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/les-colori%C3%A9s/id1441945069?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/e3/f7/76/e3f7762e-c54d-0bf6-6cd6-8a8165c86bab/9782075003643.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/e3/f7/76/e3f7762e-c54d-0bf6-6cd6-8a8165c86bab/9782075003643.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2004 Éditions Gallimard Jeunesse",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2004-11-05T08:00:00Z",
+      "primaryGenreName": "Jeunesse",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/06/2e/92/062e92e1-03c9-eb36-a10e-10d3a6da8cfb/mzaf_4593254610525178508.std.aac.p.m4a",
+      "description": "Est-il possible de vivre sans adultes ? De dire non à l'univers raisonnable et sérieux des grandes personnes ? Au fond, les parents sont-ils nécessaires ? \nÉcoutez plutôt. \nIl était une fois une île, quelque part dans l'océan Pacifique. Un jour, tous les adultes durent quitter cette île, laissant seuls leurs enfants sous la tutelle d'un maître sadique et pervers. Et quelque temps après, n'en pouvant plus d'être humiliés, filles et garçons se révoltèrent et se débarrassèrent du dernier adulte. Ils déchirèrent leurs habits et se colorièrent le corps. Ils étaient désormais seuls sur l'île et libres. Mais la liberté n'est pas toujours facile à vivre; tout doit être réinventé dans cette société sans adultes… \nValérie Karsenti prête sa voix à cette formidable histoire d'une rébellion pas comme les autres. Tour à tour malicieuse ou indignée quand elle prend la place des enfants, elle devient pompeuse et ampoulée quand elle incarne un adulte imbu de sa supériorité."
+    }
+  ]
+}

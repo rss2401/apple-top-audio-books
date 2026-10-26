@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 910734352,
+      "collectionId": 1631170823,
+      "artistName": "Emmanuelle Massonaud & Mélanie Combes",
+      "collectionName": "Timoté et sa tétine",
+      "collectionCensoredName": "Timoté et sa tétine",
+      "artistViewUrl": "https://books.apple.com/fr/author/emmanuelle-massonaud/id910734352?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/timot%C3%A9-et-sa-t%C3%A9tine/id1631170823?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b2/0e/b5/b20eb593-fbf8-10a0-d3b3-57a1f7424048/9791036622816.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b2/0e/b5/b20eb593-fbf8-10a0-d3b3-57a1f7424048/9791036622816.jpg/100x100bb.jpg",
+      "collectionPrice": 1.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "2022 © 2019 Éditions Gründ, un département d'Édi8 .℗ Lizzie, un département d'Univers Poche, Paris, 2022",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2022-07-07T07:00:00Z",
+      "primaryGenreName": "Jeunesse",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/56/62/c8/5662c820-d2cb-5640-74c1-0519f576d679/mzaf_16201194289615446249.std.aac.p.m4a",
+      "description": "Timoté abandonnera-t-il sa tétine ?\nTimoté est un petit lapin qui, au fil des épisodes, partage sa vie avec ses petits lecteurs. Depuis la naissance de sa petite sœur, Timoté a repris sa tétine… Il l'emporte partout, s'endort avec. Papa et maman vont devoir trouver une solution pour que Timoté s'en sépare définitivement."
+    }
+  ]
+}

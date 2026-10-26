@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 41828779,
+      "collectionId": 1595884648,
+      "artistName": "Ken Follett",
+      "collectionName": "Pour rien au monde",
+      "collectionCensoredName": "Pour rien au monde",
+      "artistViewUrl": "https://books.apple.com/fr/author/ken-follett/id41828779?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/pour-rien-au-monde/id1595884648?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5e/ab/1d/5eab1d5d-0b5e-a4db-b456-7cf3ca0aaf6c/9791035406820.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5e/ab/1d/5eab1d5d-0b5e-a4db-b456-7cf3ca0aaf6c/9791035406820.jpg/100x100bb.jpg",
+      "collectionPrice": 25.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 2,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2021-11-24T08:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/42/7d/2d/427d2d07-2576-ac3a-bbcf-968fb4ba6666/mzaf_8937442962229003878.std.aac.p.m4a",
+      "description": "Une crise internationale va-t-elle entraîner une troisième guerre mondiale ?<br />&#xa0; <br />De nos jours, dans le désert du Sahara, deux agents secrets français et américain pistent des terroristes trafiquants de drogue, risquant leur vie à chaque instant. Une jeune veuve tente de rejoindre l’Europe et se bat contre des passeurs. Elle est aidée par un homme mystérieux qui cache sa véritable identité.<br />En Chine, un membre du gouvernement lutte contre de vieux faucons communistes qui poussent le pays vers un point de non-retour.<br />Aux États-Unis, la première femme élue Présidente doit manœuvrer entre des attaques au Sahel, le commerce illégal d’armes et les bassesses d’un rival politique.<br />&#xa0; <br />Alors que des actions violentes se succèdent un peu partout dans le monde, les grandes puissances se débattent dans des alliances complexes. Une fois les pièces du sinistre puzzle en place, pourront-elles empêcher l’inévitable ?<br />&#xa0; <br />Il ne faudrait Pour rien au monde que ce qu’a imaginé Ken Follett n’arrive…"
+    }
+  ]
+}

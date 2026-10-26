@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 760316377,
+      "collectionId": 1799996977,
+      "artistName": "Giulia Enders",
+      "collectionName": "Organisch",
+      "collectionCensoredName": "Organisch",
+      "artistViewUrl": "https://books.apple.com/de/author/giulia-enders/id760316377?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/organisch/id1799996977?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/0a/74/6c0a7460-7fde-25bf-cb5a-c5ca601dfe3e/9783844943559.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/0a/74/6c0a7460-7fde-25bf-cb5a-c5ca601dfe3e/9783844943559.jpg/100x100bb.jpg",
+      "collectionPrice": 17.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2025 Hörbuch Hamburg HHV GmbH",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2025-08-28T07:00:00Z",
+      "primaryGenreName": "Sachbücher",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/09/dc/d5/09dcd595-ce5b-5039-a6af-2dc780376d16/mzaf_10310851497205571215.std.aac.p.m4a",
+      "description": "Nach dem Millionenbestseller »Darm mit Charme« das neue Hörbuch von Giulia Enders\nIn einer Welt, die immer lauter und komplexer wird, hilft manchmal der Blick nach innen: der Blick auf unseren Körper. Seit Jahrtausenden wird er vor Probleme gestellt und löst sie auf seine eigene Art. Was können wir von ihm lernen?\nIn ihrem Hörbuch unternimmt Giulia Enders abermals etwas ganz Neues. Sie lädt uns ein auf eine Entdeckungsreise durch unseren Körper und sie fragt: Kann der Körper uns neue Perspektiven auf das Leben an sich eröffnen? Die Antworten, die unser Körper liefert, sind faszinierend. Und er verändert so auch unseren Blick auf das Leben an sich.\nAm Anfang steht das Staunen, am Ende ein neuer Blick auf uns selbst: Mit neuesten wissenschaftlichen Erkenntnissen und ihrem unnachahmlichen Talent, komplexe Zusammenhänge plastisch auf den Punkt zu bringen, weckt Giulia Enders in uns eine tiefe Liebe zu dem, was uns so nah und doch so fern ist. ORGANISCH definiert neu, was es wirklich bedeutet, auf den Körper zu hören."
+    }
+  ]
+}

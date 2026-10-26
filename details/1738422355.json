@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1126158048,
+      "collectionId": 1738422355,
+      "artistName": "L.J. Shen",
+      "collectionName": "Bad Cruz",
+      "collectionCensoredName": "Bad Cruz",
+      "artistViewUrl": "https://books.apple.com/fr/author/l-j-shen/id1126158048?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/bad-cruz/id1738422355?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c7/01/90/c7019035-8361-3a0d-cd16-dd36fd89364d/9782280500234.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c7/01/90/c7019035-8361-3a0d-cd16-dd36fd89364d/9782280500234.jpg/100x100bb.jpg",
+      "collectionPrice": 16.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2024 HarperCollins France",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2024-05-02T07:00:00Z",
+      "primaryGenreName": "Romance",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/01/0e/c8/010ec8e2-58fc-85c9-5fba-c65d6414733e/mzaf_5359941142275964582.std.aac.p.m4a",
+      "description": "Il est à la fois son pire cauchemar et son plus grand fantasme…\r\n\r\nJe pourrais dire que le Dr Cruz Castello est mon ennemi juré. Mais cela voudrait dire qu'on se croise parfois, ce qui n'est pas arrivé depuis plus de dix ans. C'est l'enfant chéri de la ville, le sportif devenu médecin. Je suis tombée enceinte à seize ans et je bosse dans un diner. Et lorsque ma sœur et son frère se fiancent, et qu'une croisière est organisée pour réunir les familles, c'est la cata. Surtout que lui et moi sommes coincés dix jours sur un autre bateau…"
+    }
+  ]
+}

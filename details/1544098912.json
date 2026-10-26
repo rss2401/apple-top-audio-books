@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1446655626,
+      "collectionId": 1544098912,
+      "amgArtistId": 32099,
+      "artistName": "Victor Hugo",
+      "collectionName": "Victor Hugo et les poètes contemporains",
+      "collectionCensoredName": "Victor Hugo et les poètes contemporains",
+      "artistViewUrl": "https://books.apple.com/fr/author/victor-hugo/id1446655626?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/victor-hugo-et-les-po%C3%A8tes-contemporains/id1544098912?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4d/87/7e/4d877e55-bbf0-a700-15ce-868927cac077/3561302880310.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4d/87/7e/4d877e55-bbf0-a700-15ce-868927cac077/3561302880310.jpg/100x100bb.jpg",
+      "collectionPrice": 13.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2002 Frémeaux & Associés",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2020-11-02T08:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/c6/6d/37/c66d37e6-8d6c-e325-c10c-f1136891f4bc/mzaf_13978034648574371522.std.aac.p.m4a",
+      "description": "Cet enregistrement reproduit les lectures diffusées sur France Culture dans Poésie sur Parole (une émission d’André Velter – Jean-Baptiste Para – Vanessa Nadjar) au cours d’une semaine spéciale consacrée à Victor Hugo. Chacun des onze poètes contemporains a choisi un texte dans son œuvre, ou a composé un inédit, en résonance avec l’un de ses poèmes préférés de Victor Hugo. Onze comédiens ont prêté leurs voix à ces jeux d’échos, donnant ainsi à entendre les connivences et les différences."
+    }
+  ]
+}

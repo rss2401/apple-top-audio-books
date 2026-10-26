@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 975613026,
+      "collectionId": 1500644050,
+      "artistName": "Constantin Schreiber",
+      "collectionName": "Inside Islam",
+      "collectionCensoredName": "Inside Islam",
+      "artistViewUrl": "https://books.apple.com/de/author/constantin-schreiber/id975613026?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/inside-islam/id1500644050?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/73/4e/b7734e64-1a9a-4885-e640-478c1a9da74c/9783844917031.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b7/73/4e/b7734e64-1a9a-4885-e640-478c1a9da74c/9783844917031.jpg/100x100bb.jpg",
+      "collectionPrice": 16.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2017 Hörbuch Hamburg HHV GmbH, Hamburg",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2017-05-03T07:00:00Z",
+      "primaryGenreName": "Sachbücher",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/5d/42/1c/5d421c6f-62f7-671a-3c7e-4bf9f13a2484/mzaf_8854903372197673389.std.aac.p.m4a",
+      "description": "Millionen Muslime leben unter uns, doch wir wissen fast nichts über sie. Wie viele Muslime gibt es eigentlich in Deutschland und wie und wo gehen sie ihrem Glauben nach? Constantin Schreiber hat sich dafür auf die Suche gemacht und liefert den ersten deutschen Moschee-Report: Wo gibt es überall Moscheen und was predigen Imame beim Freitagsgebet? Wie wird über Deutschland gesprochen, wenn keine Kamera dabei ist und man sich unbeobachtet fühlt? Schreiber recherchiert in einer für viele unverständlichen Realität, die unsere Gesellschaft prägt wie nie zuvor."
+    }
+  ]
+}

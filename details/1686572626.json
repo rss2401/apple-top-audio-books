@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 411665117,
+      "collectionId": 1686572626,
+      "amgArtistId": 3005392,
+      "artistName": "Nele Neuhaus",
+      "collectionName": "Monster (Ein Bodenstein-Kirchhoff-Krimi 11)",
+      "collectionCensoredName": "Monster (Ein Bodenstein-Kirchhoff-Krimi 11)",
+      "artistViewUrl": "https://books.apple.com/de/author/nele-neuhaus/id411665117?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/monster-ein-bodenstein-kirchhoff-krimi-11/id1686572626?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/77/da/a0/77daa00c-e3f7-4acb-7e35-1ce58400974f/9783844935141.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/77/da/a0/77daa00c-e3f7-4acb-7e35-1ce58400974f/9783844935141.jpg/100x100bb.jpg",
+      "collectionPrice": 16.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2023 Hörbuch Hamburg HHV GmbH",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2023-11-16T08:00:00Z",
+      "primaryGenreName": "Krimis und Thriller",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ee/6b/27/ee6b27cf-ada4-2899-ceba-80054e25bdab/mzaf_13122177131438029883.std.aac.p.m4a",
+      "description": "Wer schuldig ist, entkommt nicht&#xa0;\nIm Feld wird die Leiche eines jungen Mädchens gefunden. Die 16-Jährige Larissa wurde erdrosselt. Durch eine DNA-Analyse gerät ein abgelehnter afghanischer Asylbewerber, der erst zu einer Haftstrafe verurteilt, aber nach einer Haftbeschwerde auf freien Fuß gesetzt wurde, ins Visier der Polizei. Er kann untertauchen, bevor Pia und Bodenstein mit dem Mann sprechen können.\nAuf einer Landstraße im Hintertaunus wird nachts ein Mann von einem Auto erfasst und getötet. Sein Körper ist übersät mit Bisswunden, sein Gesicht entstellt. Der Mann hatte bei einem illegalen Autorennen eine schwangere Frau getötet. Wovor ist er geflohen und wer hat ihn so zugerichtet? &#xa0;\nPia und Bodenstein stoßen auf immer mehr rätselhafte Todes- und Vermisstenfälle und auf eine Parallele zum Mordfall Larissa. Ohne es zu ahnen, steuern sie auf eine Katastrophe zu."
+    }
+  ]
+}

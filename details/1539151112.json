@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 2024311,
+      "collectionId": 1539151112,
+      "amgArtistId": 236248,
+      "artistName": "Paulo Coelho",
+      "collectionName": "Der Alchimist",
+      "collectionCensoredName": "Der Alchimist",
+      "artistViewUrl": "https://books.apple.com/de/author/paulo-coelho/id2024311?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/der-alchimist/id1539151112?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ab/a2/f3/aba2f3aa-30cb-af95-3ad9-49e795d58e60/9783257690699.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ab/a2/f3/aba2f3aa-30cb-af95-3ad9-49e795d58e60/9783257690699.jpg/100x100bb.jpg",
+      "collectionPrice": 11.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 1996 Diogenes",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "1996-01-01T08:00:00Z",
+      "primaryGenreName": "Belletristik",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/df/e6/f4/dfe6f4b1-391c-f970-1d66-f85737add535/mzaf_9520785129746560591.std.aac.p.m4a",
+      "description": "Als Santiago, ein andalusischer Hirte, zum zweitenmal von einem Schatz im fernen Ägypten träumt, bricht er auf. Was er findet, kann von keinem Wüstendieb geraubt werden, doch jede Lebensödnis in eine Oase verwandeln. Ein magisches Buch. Ein magischer Erfolg. Weltweit über 8 Millionen verkaufte Exemplare, in über 30 Sprachen übersetzt."
+    }
+  ]
+}

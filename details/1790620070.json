@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1536432053,
+      "collectionId": 1790620070,
+      "artistName": "Lynn Painter",
+      "collectionName": "Nothing like the movies",
+      "collectionCensoredName": "Nothing like the movies",
+      "artistViewUrl": "https://books.apple.com/fr/author/lynn-painter/id1536432053?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/nothing-like-the-movies/id1790620070?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/39/cf/b339cfd2-403b-3c24-6c96-73b04a666811/9791035417789.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/39/cf/b339cfd2-403b-3c24-6c96-73b04a666811/9791035417789.jpg/100x100bb.jpg",
+      "collectionPrice": 21.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2025-02-26T08:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/91/43/13/914313da-8905-ab15-03d7-371a874f1866/mzaf_4139952310942325529.std.aac.p.m4a",
+      "description": "Deux ans après une rupture déchirante, Wes et Liz se retrouvent alors que leur histoire d’amour semblait appartenir au passé : Liz a quitté leur ville natale pour Los Angeles, prête à accomplir ses rêves, tandis que Wes, accablé par un drame familial, a dû renoncer à ses propres ambitions pour soutenir les siens.<br />Aujourd’hui, Wes est prêt à reprendre sa vie en main. De retour sur le campus de l’université, il est déterminé à relancer sa carrière de joueur de baseball et, surtout, à reconquérir Liz en s’inspirant de ses comédies romantiques préférées. Mais Liz, désormais focalisée sur sa future carrière et son avenir, semble avoir tiré un trait sur leur histoire…<br />Pour Wes, leur amour mérite une seconde chance, mais Liz est-elle prête à rouvrir son cœur ?"
+    }
+  ]
+}

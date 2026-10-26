@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 650564637,
+      "collectionId": 1447014607,
+      "artistName": "Pierce Brown",
+      "collectionName": "Asche zu Asche - Red Rising 4 (Ungekürzt)",
+      "collectionCensoredName": "Asche zu Asche - Red Rising 4 (Ungekürzt)",
+      "artistViewUrl": "https://books.apple.com/de/author/pierce-brown/id650564637?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/asche-zu-asche-red-rising-4-ungek%C3%BCrzt/id1447014607?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/87/16/c0/8716c026-18a8-9ca7-4546-52edc3a39674/9783961540419_3000.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/87/16/c0/8716c026-18a8-9ca7-4546-52edc3a39674/9783961540419_3000.jpg/100x100bb.jpg",
+      "collectionPrice": 24.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 2,
+      "copyright": "© 2018 Cross Cult",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2018-11-30T08:00:00Z",
+      "primaryGenreName": "Science-Fiction und Fantasy",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/a9/fb/a0/a9fba0a3-d225-9d71-a5b6-ba3f58cfe0ef/mzaf_7829274736831234833.std.aac.p.m4a",
+      "description": "Vor einem Jahrzehnt war Darrow der Held einer Revolution, von der er glaubte, sie würde die Gesellschaft verändern. Statt Frieden und Freiheit hat sie nur endlosen Krieg gebracht. Jetzt muss er alles, wofür er gekämpft hat, in einer einzigen letzten Mission riskieren.\n            Darrow glaubt nach wie vor, er könne jeden retten. Aber kann er sich auch selbst retten?\n            Red Rising Band 1 bis 3 war die Geschichte vom Ende eines Universums. Asche zu Asche ist die Geschichte von der Erschaffung eines neuen.\n            Der Beginn einer aufregenden neuen Saga von New-York-Times-Bestsellerautor Pierce Brown."
+    }
+  ]
+}

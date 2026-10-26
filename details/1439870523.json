@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 555658221,
+      "collectionId": 1439870523,
+      "artistName": "Robert Galbraith",
+      "collectionName": "The Cuckoo's Calling",
+      "collectionCensoredName": "The Cuckoo's Calling",
+      "artistViewUrl": "https://books.apple.com/gb/author/robert-galbraith/id555658221?uo=4",
+      "collectionViewUrl": "https://books.apple.com/gb/audiobook/the-cuckoos-calling/id1439870523?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/37/06/d9/3706d91d-0887-c401-6f64-79a6898a8fc4/9781405515566.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/37/06/d9/3706d91d-0887-c401-6f64-79a6898a8fc4/9781405515566.jpg/100x100bb.jpg",
+      "collectionPrice": 12.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "GBR",
+      "currency": "GBP",
+      "releaseDate": "2013-04-18T07:00:00Z",
+      "primaryGenreName": "Fiction",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/7a/88/16/7a8816ae-9b8f-5a85-3f84-1caffd497334/mzaf_8101037428173495629.std.aac.p.m4a",
+      "description": "<i>'The Cuckoo's Calling</i><b><i> reminds me why I fell in love with crime fiction</i></b><i> in the first place' </i>VAL MCDERMID<b></b>\n \n-----\n\n<b>Now a major BBC drama: The Strike series</b>\n \nWhen a troubled model falls to her death from a snow-covered Mayfair balcony, it is assumed that she has committed suicide. However, her brother has his doubts, and calls in private investigator Cormoran Strike to look into the case.\n\nStrike is a war veteran - wounded both physically and psychologically - and his life is in disarray. The case gives him a financial lifeline, but it comes at a personal cost: the more he delves into the young model's complex world, the darker things get - and the closer he gets to terrible danger . . .\n\n<b>A gripping, elegant mystery steeped in the atmosphere of London - from the hushed streets of Mayfair to the backstreet pubs of the East End to the bustle of Soho - <i>The Cuckoo's Calling</i> is a remarkable book. Introducing Cormoran Strike, this is the acclaimed first crime novel by J.K. Rowling, writing under the pseudonym Robert Galbraith.</b>\n \n<b><i>***</i></b><b> The latest book in the thrilling Strike series, LETHAL WHITE is out now! ***</b>\n \n-----\n \nPRAISE FOR THE STRIKE SERIES:  \n \n<i>'One of the most <b>unique and compelling</b> detectives I've come across in years</i>' MARK BILLINGHAM\n \n<b><i>'The work of a master storyteller' </i></b>DAILY TELEGRAPH\n \n<b><i>'Unputdownable. . . Irresistible' </i></b>SUNDAY TIMES\n \n<b><i>'Will keep you up all night' </i></b>OBSERVER\n \n<b><i>'A thoroughly enjoyable classic'</i></b> PETER JAMES, SUNDAY EXPRESS"
+    }
+  ]
+}

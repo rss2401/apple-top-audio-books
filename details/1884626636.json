@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 121003253,
+      "collectionId": 1884626636,
+      "amgArtistId": 897295,
+      "artistName": "BLYND",
+      "collectionName": "Le Parrain",
+      "collectionCensoredName": "Le Parrain",
+      "artistViewUrl": "https://music.apple.com/fr/artist/blynd/121003253?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/le-parrain/id1884626636?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/6d/3a/e26d3a60-49cd-7b7c-7ec8-4fefea38b252/9782385810764.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/6d/3a/e26d3a60-49cd-7b7c-7ec8-4fefea38b252/9782385810764.jpg/100x100bb.jpg",
+      "collectionPrice": 15.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2025 BLYND",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2025-03-07T08:00:00Z",
+      "primaryGenreName": "Classiques",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/36/66/62/366662ae-a878-03f7-7dd7-9c5d34cf8442/mzaf_15166745580119474619.std.aac.p.m4a",
+      "description": "Si l'on veut comprendre comment est née et s'est développée la Mafia aux États-Unis, avec la corruption des flics et des hommes politiques, l'infiltration du show-business et la spirale meurtrière des familles en guerre, il faut lire Le Parrain, ce classique qui a profondément marqué la littérature criminelle.\r\nIl faut se plonger dans ce roman, fourmillant de personnages, d'intrigues et d'épisodes, comme dans un feuilleton énorme, il faut se laisser emporter par les inoubliables figures du clan Corleone, confrontées à l'irrésistible ascension d'un nouveau chef de famille. L'épopée du Parrain a su élever le fait divers au rang de mythe. Et a aussi inspiré l'un des plus grands films de l'histoire du cinéma.\r\n\r\nAux yeux de ses voisins, Don Corleone est un patriarche, un respectable père de famille qui a su donner à ses enfants une éducation où les rigoureux principes de la morale sicilienne s'adaptent aux nécessités de la vie américaine. Mais sa vraie famille est plus vaste ; c'est une des \"familles\" de la Mafia dont il est un des chefs les plus aimés, mais aussi les plus respectés, car il est raisonnable et juste. Pour eux, il est le Parrain.\r\nLe Parrain, c'est l'évocation d'un monde souterrain qui sape les fondations de l'Amérique, d'une pègre redoutable que la société voudrait ignorer, mais que de retentissants scandales ne cessent de révéler au grand jour. De New York à Las Vegas, des somptueuses villas de Hollywood au maquis de Sicile, voici le portrait d'une nation gangrenée par ses syndicats du crime, sa guerre des gangs et ses puissances occultes."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1506975325,
+      "collectionId": 1886083852,
+      "artistName": "Bettina Seidl",
+      "collectionName": "Im Jahr der Waldblüte",
+      "collectionCensoredName": "Im Jahr der Waldblüte",
+      "artistViewUrl": "https://books.apple.com/de/author/bettina-seidl/id1506975325?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/im-jahr-der-waldbl%C3%BCte/id1886083852?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/f2/94/0af2941f-b8bc-2f98-5b45-95ecc69d6b05/9783757020989_3000.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/f2/94/0af2941f-b8bc-2f98-5b45-95ecc69d6b05/9783757020989_3000.jpg/100x100bb.jpg",
+      "collectionPrice": 4.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2026 Spotting Image GmbH",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2026-04-10T07:00:00Z",
+      "primaryGenreName": "Belletristik",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/64/e4/23/64e4233c-ede7-c863-b3ca-69a503c919f1/mzaf_17457612142750521032.std.aac.p.m4a",
+      "description": "In den Bergen ist Freiheit\r\n\r\nAlle sieben Jahre blüht der Wald. So auch 1940 bei der Geburt von Babette Koller in einem Bergbauernhof oberhalb von Berchtesgaden. Seitdem ist ihr Leben eng mit dem Rhythmus der Natur verbunden. Immer wenn der Wald blüht, nimmt Babettes Leben eine entscheidende Wende. Von der Mutter gedrängt, heiratet sie mit 21 in eine angesehene Familie, obwohl sie einen anderen liebt. Nur ihrer kleinen Tochter Anna zuliebe fügt sie sich 14 Jahre in eine Ehe, die ihr kaum Freiraum lässt. Ganz anders ihre Schulfreundin Burgi, die früh der Enge ihres Elternhauses entflieht und ihrem Drang nach Freiheit unbeirrt folgt. Beide Frauen zahlen einen hohen Preis, um ein selbstbestimmtes Leben zu führen. Aber sie gehen konsequent ihren Weg.\r\n\r\nZwei ergreifende Frauenschicksale. Ein uraltes Handwerk. Ein Leben im Einklang mit der Natur."
+    }
+  ]
+}

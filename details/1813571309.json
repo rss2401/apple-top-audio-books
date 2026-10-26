@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 488365748,
+      "collectionId": 1813571309,
+      "artistName": "Gareth Rubin",
+      "collectionName": "L'énigme de Turnglass",
+      "collectionCensoredName": "L'énigme de Turnglass",
+      "artistViewUrl": "https://books.apple.com/fr/author/gareth-rubin/id488365748?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/l%C3%A9nigme-de-turnglass/id1813571309?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/88/42/ea88427d-f8b2-b8d4-dc19-cfaaddc0f7a0/9791036643491.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/88/42/ea88427d-f8b2-b8d4-dc19-cfaaddc0f7a0/9791036643491.jpg/100x100bb.jpg",
+      "collectionPrice": 21.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "2025 Titre original : The Turnglass..© Éditions 10/18, Département d'Univers Poche..℗ Lizzie, un département d'Univers Poche, Paris, 2025..",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2025-06-05T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e1/fb/f5/e1fbf5de-7b36-5a69-220b-f0714c94a4a3/mzaf_1030452874218617496.std.aac.p.m4a",
+      "description": "Deux histoires, deux époques, deux lectures, pour une histoire à énigme palpitante. Côté pile : Angleterre, 1881. Simeon Lee, un jeune médecin londonien, se rend sur l'île de Ray, au large de l'Essex, à la demande de son oncle, Oliver Hawes. Ce dernier, gravement malade, est persuadé d'avoir été empoisonné. Peu de temps après son arrivée dans l'unique maison de l'île, Turnglass House, Simeon fait une découverte des plus étranges : dans un coin de la bibliothèque se trouve une immense cage de verre, dans laquelle est enfermée une femme. Il s'agit de Florence, la belle-sœur d'Oliver, déclarée folle après avoir tué son mari. Quel secret cache-t-elle vraiment ? La vérité se trouve peut-être dans le journal intime d'Oliver, dont chacune des faces raconte une histoire très différente... Côté face : Californie, 1939. Oliver Tooke, célèbre écrivain et fils du gouverneur de l'État, est retrouvé mort. La police conclut à un suicide. Mais cette hypothèse ne convint pas son ami Ken Kourian, jeune acteur qui tente de percer à Hollywood. Ken décide d'enquêter et découvre de nombreux éléments troublants dans le passé de son ami : l'enlèvement de son frère lorsqu'ils étaient enfants et l'internement de sa mère, Florence, dans un asile. Mais pour découvrir la vérité, Ken devra déchiffrer les indices cachés dans le dernier ouvrage d'Oliver, un roman tête-bêche intitulé L'énigme de Turnglass et dont le héros est un jeune médecin appelé Simeon Lee...."
+    }
+  ]
+}

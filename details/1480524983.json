@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 269520320,
+      "collectionId": 1480524983,
+      "artistName": "Andreas Eschbach",
+      "collectionName": "NSA - Nationales Sicherheits-Amt (Ungekürzt)",
+      "collectionCensoredName": "NSA - Nationales Sicherheits-Amt (Ungekürzt)",
+      "artistViewUrl": "https://books.apple.com/de/author/andreas-eschbach/id269520320?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/nsa-nationales-sicherheits-amt-ungek%C3%BCrzt/id1480524983?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ac/ec/3b/acec3bab-ef34-8fb1-9895-87ded1b7c77f/9783838789163_3000.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ac/ec/3b/acec3bab-ef34-8fb1-9895-87ded1b7c77f/9783838789163_3000.jpg/100x100bb.jpg",
+      "collectionPrice": 16.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2019 Lübbe Audio",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2019-10-04T07:00:00Z",
+      "primaryGenreName": "Belletristik",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/d9/c7/01/d9c701b4-531c-e4ac-c050-fe00941f8774/mzaf_3308716511055103246.std.aac.p.m4a",
+      "description": "Was wäre, wenn es im Dritten Reich schon Computer gegeben hätte, das Internet, E-Mails, Mobiltelefone und soziale Medien - und deren totale Überwachung?\nWeimar 1942: Die Programmiererin Helene arbeitet im Nationalen Sicherheits-Amt und entwickelt dort Programme, mit deren Hilfe alle Bürger des Reichs überwacht werden. Erst als die Liebe ihres Lebens Fahnenflucht begeht und untertauchen muss, regen sich Zweifel in ihr. Mit ihren Versuchen, ihm zu helfen, gerät sie nicht nur in Konflikt mit dem Regime, sondern wird auch in die Machtspiele ihres Vorgesetzten Lettke verwickelt, der die perfekte Überwachungstechnik des Staates für ganz eigene Zwecke benutzt und dabei zunehmend jede Grenze überschreitet ..."
+    }
+  ]
+}

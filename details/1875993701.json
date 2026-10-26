@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 449781732,
+      "collectionId": 1875993701,
+      "artistName": "Роберт Грин",
+      "collectionName": "Краткое изложение книги «48 законов власти»",
+      "collectionCensoredName": "Краткое изложение книги «48 законов власти»",
+      "artistViewUrl": "https://books.apple.com/fr/author/%D1%80%D0%BE%D0%B1%D0%B5%D1%80%D1%82-%D0%B3%D1%80%D0%B8%D0%BD/id449781732?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%BE%D0%B5-%D0%B8%D0%B7%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8-48-%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2-%D0%B2%D0%BB%D0%B0%D1%81%D1%82%D0%B8/id1875993701?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c6/eb/c2/c6ebc23e-3594-5b0e-f602-7495715b4aea/9785171844080.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c6/eb/c2/c6ebc23e-3594-5b0e-f602-7495715b4aea/9785171844080.jpg/100x100bb.jpg",
+      "collectionPrice": 6.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2026 Издательство АСТ",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2026-02-21T08:00:00Z",
+      "primaryGenreName": "Essais et sciences humaines",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2d/38/08/2d380854-e2ac-acfb-141f-66529c5cd9f2/mzaf_16959440538994474170.std.aac.p.m4a",
+      "description": "Как погрузиться в книгу, не читая ее полностью? Для этого существует саммари — краткое изложение основных идей книги. Оно содержит все ключевые мысли, которые автор хотел донести до читателя, и в то же время сохраняет атмосферу и дух оригинального текста. Мы пересказали книгу понятным языком, оставили все важные и полезные тезисы, чтобы вы могли эффективно использовать свое время и познакомиться с бестселлерами литературы быстро и приятно.\r\nДанный текст представляет собой краткое изложение книги Роберта Грина «48 законов власти».\r\n«48 законов власти» — бестселлер New York Times о психологии управления. Автор раскрывает самые темные секреты людей, обладающих силой, обращаясь к историческим примерам соблюдения и нарушения законов власти. Эта книга — руководство по миру политики, бизнеса и межличностных отношений, призванное научить управлять мыслями и поступками людей, подчиняя их своей воле. 48 законов власти для тех, кто не боится ответственности и решительных действий на пути к успеху."
+    }
+  ]
+}

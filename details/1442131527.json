@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 2027657,
+      "collectionId": 1442131527,
+      "amgArtistId": 30896,
+      "artistName": "John le Carré",
+      "collectionName": "A Legacy of Spies",
+      "collectionCensoredName": "A Legacy of Spies",
+      "artistViewUrl": "https://books.apple.com/gb/author/john-le-carr%C3%A9/id2027657?uo=4",
+      "collectionViewUrl": "https://books.apple.com/gb/audiobook/a-legacy-of-spies/id1442131527?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/5f/0b/5a/5f0b5a5a-b83c-c6d0-8af1-e91fc3447b96/9780241981474.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/5f/0b/5a/5f0b5a5a-b83c-c6d0-8af1-e91fc3447b96/9780241981474.jpg/100x100bb.jpg",
+      "collectionPrice": 7.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "GBR",
+      "currency": "GBP",
+      "releaseDate": "2017-09-07T07:00:00Z",
+      "primaryGenreName": "Crime & Thrillers",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/b3/58/f3/b358f342-95b1-ae9d-1390-83aef548908d/mzaf_5446625622657248595.std.aac.p.m4a",
+      "description": "<b>Penguin presents the audiobook edition of <i>A Legacy of Spies </i>by John le Carré, read by Tom Hollander.</b> <br /><br /><b>Chosen as a Book of the Year in<i> The Times Literary Supplement</i>, the<i> Evening Standard</i>, the <i>Daily Telegraph</i>, the <i>Guardian</i>, <i>The Times<br /></i></b><b><br />'A brilliant novel of deception, love and trust to join his supreme cannon' <i>Evening Standard<br /></i></b><b><br />'Vintage le Carré. Immensely clever, breathtaking. Really, not since <i>The Spy Who Came in from the Cold</i> has le Carré exercised his gift as a storyteller so powerfully and to such thrilling effect' John Banville,<i> Guardian</i></b><br /><br />Peter Guillam, former disciple of George Smiley in the British Secret Service, has long retired to Brittany when a letter arrives, summoning him to London. The reason? Cold War ghosts have come back to haunt him. Intelligence operations that were once the toast of the Service are to be dissected by a generation with no memory of the Berlin Wall.  Somebody must pay for innocent blood spilt in the name of the greater good . . .<br /><br />'<b>Utterly engrossing</b> and perfectly pitched. There is only one le Carré. Eloquent, subtle, sublimely paced'  <i>Daily Mail</i><br /><br />'<b>Splendid</b>, fast-paced, riveting' Andrew Marr,<i> Sunday Times</i><br /><br />'Remarkable. <b>Vintage John le Carré</b>. It gives the reader, at long last, pieces of a jigsaw puzzle that have been missing for 54 years. Like wine, le Carré's writing has got richer with age. <b>Don't wait for the paperback</b>'  <i>The Times</i><br /><br />'Perhaps the most significant novelist of the second half of the 20th century in Britain. He's in the first rank'  Ian McEwan<br /><br />'One of those writers who will be read a century from now'  Robert Harris"
+    }
+  ]
+}
