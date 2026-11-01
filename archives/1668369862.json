@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 43,
+      "artistName": "Wallace D. Wattles",
+      "id": "1668369862",
+      "name": "The Science of Getting Rich",
+      "releaseDate": "2023-01-27",
+      "kind": "audio-books",
+      "artistId": "201440614",
+      "artistUrl": "https://books.apple.com/us/author/wallace-d-wattles/id201440614",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/74/80/52/748052cd-d394-09c6-79d2-2ce6bea27e03/9782384653096.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000045",
+          "name": "Classics",
+          "url": "https://itunes.apple.com/us/genre/id50000045"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Audiobooks",
+          "url": "https://itunes.apple.com/us/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/us/audiobook/the-science-of-getting-rich/id1668369862"
+    }
+  ]
+}

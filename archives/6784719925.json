@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 99,
+      "artistName": "Sophia Bush",
+      "id": "6784719925",
+      "name": "And I Will Tell You Mine (Unabridged)",
+      "releaseDate": "2026-10-27",
+      "kind": "audio-books",
+      "artistId": "289066115",
+      "artistUrl": "https://books.apple.com/fr/author/sophia-bush/id289066115",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/22/79/9a22799e-afc3-2bd7-7fd1-f9e0290754b0/9781398570108.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000042",
+          "name": "Biographies et mémoires",
+          "url": "https://itunes.apple.com/fr/genre/id50000042"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/and-i-will-tell-you-mine-unabridged/id6784719925"
+    }
+  ]
+}

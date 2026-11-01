@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 27,
+      "artistName": "Deepak Chopra",
+      "id": "1766681294",
+      "name": "Les 7 lois spirituelles du succès",
+      "releaseDate": "2024-09-20",
+      "kind": "audio-books",
+      "artistId": "2406592",
+      "artistUrl": "https://books.apple.com/fr/author/deepak-chopra/id2406592",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/c6/c5/51c6c5f8-83a7-3ff6-0092-433efd7c8e40/9782889539543.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000056",
+          "name": "Santé et bien-être",
+          "url": "https://itunes.apple.com/fr/genre/id50000056"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/les-7-lois-spirituelles-du-succ%C3%A8s/id1766681294"
+    }
+  ]
+}

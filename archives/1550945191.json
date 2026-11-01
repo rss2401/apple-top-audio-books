@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 80,
+      "artistName": "Bernd Stelter",
+      "id": "1550945191",
+      "name": "Mieses Spiel um schwarze Muscheln - Camping-Krimi (Ungekürzt)",
+      "releaseDate": "2021-02-26",
+      "kind": "audio-books",
+      "artistId": "14433632",
+      "artistUrl": "https://books.apple.com/de/author/bernd-stelter/id14433632",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e7/7e/0b/e77e0bef-9b84-4fd4-c9da-7a7ca9ce04cd/9783838794648_3000.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000051",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id50000051"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/mieses-spiel-um-schwarze-muscheln-camping-krimi-ungek%C3%BCrzt/id1550945191"
+    }
+  ]
+}

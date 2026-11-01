@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 42,
+      "artistName": "Jack Vance",
+      "id": "1682444417",
+      "name": "La Perle verte",
+      "releaseDate": "2023-06-21",
+      "kind": "audio-books",
+      "artistId": "269438126",
+      "artistUrl": "https://books.apple.com/fr/author/jack-vance/id269438126",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1c/80/6a/1c806a03-4d0f-7b92-9676-dd06c70b2655/9791035410384.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000055",
+          "name": "SF et fantasy",
+          "url": "https://itunes.apple.com/fr/genre/id50000055"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/la-perle-verte/id1682444417"
+    }
+  ]
+}

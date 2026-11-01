@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 24,
+      "artistName": "Ana Huang",
+      "id": "1794529604",
+      "name": "La colère : Kings of Sin - Tome 1 - La nouvelle série d'Ana Huang, l'autrice de la Saga Twisted",
+      "releaseDate": "2025-03-06",
+      "kind": "audio-books",
+      "artistId": "1001710589",
+      "artistUrl": "https://books.apple.com/fr/author/ana-huang/id1001710589",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/da/ed/9adaed7d-64ce-3f95-2cb9-0806ac29f8f1/9791036641107.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000069",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/fr/genre/id50000069"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/la-col%C3%A8re-kings-of-sin-tome-1-la-nouvelle-s%C3%A9rie-dana/id1794529604"
+    }
+  ]
+}

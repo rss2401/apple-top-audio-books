@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 16,
+      "artistName": "Joris-Karl Huysmans",
+      "id": "1498255449",
+      "name": "A rebours",
+      "releaseDate": "2026-07-24",
+      "kind": "audio-books",
+      "artistId": "366108375",
+      "artistUrl": "https://books.apple.com/fr/author/joris-karl-huysmans/id366108375",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/f1/50/30/f15030bf-001c-cb36-2b8a-3c78fabb7ce3/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000045",
+          "name": "Classiques",
+          "url": "https://itunes.apple.com/fr/genre/id50000045"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/a-rebours/id1498255449"
+    }
+  ]
+}

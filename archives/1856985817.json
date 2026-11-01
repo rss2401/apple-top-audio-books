@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 90,
+      "artistName": "Delphine de Vigan",
+      "id": "1856985817",
+      "name": "Je suis Romane Monnier",
+      "releaseDate": "2026-01-15",
+      "kind": "audio-books",
+      "artistId": "373077050",
+      "artistUrl": "https://books.apple.com/fr/author/delphine-de-vigan/id373077050",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/2e/57/8e2e57ed-c27e-29b1-0ea0-986a0894353c/9782073153036.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/je-suis-romane-monnier/id1856985817"
+    }
+  ]
+}

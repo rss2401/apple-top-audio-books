@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 14,
+      "artistName": "Primo Levi",
+      "id": "1440363365",
+      "name": "Si c'est un homme",
+      "releaseDate": "2015-09-09",
+      "kind": "audio-books",
+      "artistId": "254119723",
+      "artistUrl": "https://books.apple.com/fr/author/primo-levi/id254119723",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/4d/0e/75/4d0e75e1-05f0-ad6a-ac11-067b792040fc/9782367620169.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000049",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id50000049"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/si-cest-un-homme/id1440363365"
+    }
+  ]
+}

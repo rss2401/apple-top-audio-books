@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 78,
+      "artistName": "Fédor Dostoïevski & André Markowicz",
+      "id": "1840516988",
+      "name": "Les Nuits blanches",
+      "releaseDate": "2025-09-17",
+      "kind": "audio-books",
+      "artistId": "49949629",
+      "artistUrl": "https://books.apple.com/fr/author/f%C3%A9dor-dosto%C3%AFevski/id49949629",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a7/85/6f/a7856f95-af2e-0226-9b1a-54ae0cf1910f/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000069",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/fr/genre/id50000069"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/les-nuits-blanches/id1840516988"
+    }
+  ]
+}

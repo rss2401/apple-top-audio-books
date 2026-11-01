@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 76,
+      "artistName": "Charlotte Link",
+      "id": "1618346849",
+      "name": "Einsame Nacht",
+      "releaseDate": "2022-09-14",
+      "kind": "audio-books",
+      "artistId": "15407324",
+      "artistUrl": "https://books.apple.com/de/author/charlotte-link/id15407324",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e6/c7/7d/e6c77d3c-4960-e48c-a2b6-02e25b7ed5e1/9783837160765.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Belletristik",
+          "url": "https://itunes.apple.com/de/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/einsame-nacht/id1618346849"
+    }
+  ]
+}

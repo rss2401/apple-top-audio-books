@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 88,
+      "artistName": "Christian Humberg",
+      "id": "1888125388",
+      "name": "Tote kompostiert man nicht - Blut und Blümchen, Folge 7 (Ungekürzt)",
+      "releaseDate": "2026-05-01",
+      "kind": "audio-books",
+      "artistId": "447144591",
+      "artistUrl": "https://books.apple.com/de/author/christian-humberg/id447144591",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/99/dd/2799dd9b-c463-a851-0dc9-c356be6b4dc4/9783754023228_3000.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000051",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id50000051"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/tote-kompostiert-man-nicht-blut-und-bl%C3%BCmchen-folge/id1888125388"
+    }
+  ]
+}

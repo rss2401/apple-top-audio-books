@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 59,
+      "artistName": "Anna Lembke",
+      "id": "1586287823",
+      "name": "Dopamine Nation",
+      "releaseDate": "2021-09-30",
+      "kind": "audio-books",
+      "artistId": "1146267858",
+      "artistUrl": "https://books.apple.com/gb/author/anna-lembke/id1146267858",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/53/76/8c/53768c81-5630-b334-90c3-18c0b1a06f98/9781472294142.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000054",
+          "name": "Science & Nature",
+          "url": "https://itunes.apple.com/gb/genre/id50000054"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Audiobooks",
+          "url": "https://itunes.apple.com/gb/genre/id50000024"
+        },
+        {
+          "genreId": "50000052",
+          "name": "Non-Fiction",
+          "url": "https://itunes.apple.com/gb/genre/id50000052"
+        }
+      ],
+      "url": "https://books.apple.com/gb/audiobook/dopamine-nation/id1586287823"
+    }
+  ]
+}

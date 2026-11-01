@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 79,
+      "artistName": "Fred Vargas",
+      "id": "1440355807",
+      "name": "L'homme aux cercles bleus",
+      "releaseDate": "2014-08-20",
+      "kind": "audio-books",
+      "artistId": "330928799",
+      "artistUrl": "https://books.apple.com/fr/author/fred-vargas/id330928799",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/7b/e8/34/7be8340f-c87a-ade3-d06a-281f1e27ff69/9782356418296.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000051",
+          "name": "Policier et suspense",
+          "url": "https://itunes.apple.com/fr/genre/id50000051"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/lhomme-aux-cercles-bleus/id1440355807"
+    }
+  ]
+}

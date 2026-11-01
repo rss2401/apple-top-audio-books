@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 15,
+      "artistName": "Honoré de Balzac",
+      "id": "1425225202",
+      "name": "La Comédie Humaine: Le Père Goriot",
+      "releaseDate": "2018-08-12",
+      "kind": "audio-books",
+      "artistId": "2809167",
+      "artistUrl": "https://books.apple.com/fr/author/honor%C3%A9-de-balzac/id2809167",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/6d/3d/ec/6d3dec8e-46e3-bb32-c95a-ac524f6aa77b/9782291041511.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000045",
+          "name": "Classiques",
+          "url": "https://itunes.apple.com/fr/genre/id50000045"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/la-com%C3%A9die-humaine-le-p%C3%A8re-goriot/id1425225202"
+    }
+  ]
+}

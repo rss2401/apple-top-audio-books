@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 3,
   "results": [
     {
       "month": "202610",
@@ -7,6 +7,82 @@
       "mediaType": "audio-books",
       "feed": "top-audio-books",
       "rank": 35,
+      "artistName": "Nick Park & Gromit",
+      "id": "6778737505",
+      "name": "Grand: The Autobiography of Gromit",
+      "releaseDate": "2026-10-22",
+      "kind": "audio-books",
+      "artistId": "1538114797",
+      "artistUrl": "https://books.apple.com/gb/author/nick-park/id1538114797",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/e8/66/bfe86617-1dc4-7688-9076-d0f59e09e4e1/9781529993097.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000046",
+          "name": "Comedy",
+          "url": "https://itunes.apple.com/gb/genre/id50000046"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Audiobooks",
+          "url": "https://itunes.apple.com/gb/genre/id50000024"
+        },
+        {
+          "genreId": "50000042",
+          "name": "Biography",
+          "url": "https://itunes.apple.com/gb/genre/id50000042"
+        },
+        {
+          "genreId": "50000052",
+          "name": "Non-Fiction",
+          "url": "https://itunes.apple.com/gb/genre/id50000052"
+        }
+      ],
+      "url": "https://books.apple.com/gb/audiobook/grand-the-autobiography-of-gromit/id6778737505"
+    },
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 50,
+      "artistName": "Nick Park & Gromit",
+      "id": "6778737505",
+      "name": "Grand: The Autobiography of Gromit",
+      "releaseDate": "2026-10-22",
+      "kind": "audio-books",
+      "artistId": "1538114797",
+      "artistUrl": "https://books.apple.com/de/author/nick-park/id1538114797",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/e8/66/bfe86617-1dc4-7688-9076-d0f59e09e4e1/9781529993097.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000046",
+          "name": "Comedy",
+          "url": "https://itunes.apple.com/de/genre/id50000046"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        },
+        {
+          "genreId": "50000042",
+          "name": "Biografien und Memoiren",
+          "url": "https://itunes.apple.com/de/genre/id50000042"
+        },
+        {
+          "genreId": "50000052",
+          "name": "Sachbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000052"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/grand-the-autobiography-of-gromit/id6778737505"
+    },
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 43,
       "artistName": "Nick Park & Gromit",
       "id": "6778737505",
       "name": "Grand: The Autobiography of Gromit",

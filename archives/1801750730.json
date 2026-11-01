@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 96,
+      "artistName": "Sabine LATOUR",
+      "id": "1801750730",
+      "name": "L'urgence de l'éphémère",
+      "releaseDate": "2025-05-30",
+      "kind": "audio-books",
+      "artistId": "1582623423",
+      "artistUrl": "https://books.apple.com/fr/author/sabine-latour/id1582623423",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b5/48/db/b548db11-3b8c-bff0-7852-85013e40d461/9782374345796.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/lurgence-de-l%C3%A9ph%C3%A9m%C3%A8re/id1801750730"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 44,
+      "artistName": "Le Club de Philosophie",
+      "id": "6810279825",
+      "name": "Les Lettres À Lucilius Expliquées (Ce Que Sénèque Écrivait Vraiment À Lucilius Sur Le Temps, L'amitié Et La Mort, Et Comment Le Vivre Dès Demain)",
+      "releaseDate": "2026-09-09",
+      "kind": "audio-books",
+      "artistId": "6810278644",
+      "artistUrl": "https://books.apple.com/fr/author/le-club-de-philosophie/id6810278644",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/16/52/13165243-02ff-fd2a-6ad0-3c76ecd133dc/cover.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000052",
+          "name": "Essais et sciences humaines",
+          "url": "https://itunes.apple.com/fr/genre/id50000052"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/les-lettres-%C3%A0-lucilius-expliqu%C3%A9es-ce-que-s%C3%A9n%C3%A8que-%C3%A9crivait/id6810279825"
+    }
+  ]
+}

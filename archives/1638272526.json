@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 84,
+      "artistName": "Sarah Pearse",
+      "id": "1638272526",
+      "name": "Das Sanatorium",
+      "releaseDate": "2023-02-13",
+      "kind": "audio-books",
+      "artistId": "1505677546",
+      "artistUrl": "https://books.apple.com/de/author/sarah-pearse/id1505677546",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e5/c5/ac/e5c5ac69-d02a-110b-a58b-ad96f55b6202/9783844545104.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Belletristik",
+          "url": "https://itunes.apple.com/de/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/das-sanatorium/id1638272526"
+    }
+  ]
+}

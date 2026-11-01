@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 94,
+      "artistName": "Charles Dickens",
+      "id": "1439476866",
+      "name": "A Christmas Carol (Reissue) (Abridged)",
+      "releaseDate": "2006-10-03",
+      "kind": "audio-books",
+      "artistId": "1416230921",
+      "artistUrl": "https://books.apple.com/us/author/charles-dickens/id1416230921",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/dd/5f/7add5ff0-1dc8-e507-fa4e-b6c95a9d0d4e/9780743563802.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000052",
+          "name": "Nonfiction",
+          "url": "https://itunes.apple.com/us/genre/id50000052"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Audiobooks",
+          "url": "https://itunes.apple.com/us/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/us/audiobook/a-christmas-carol-reissue-abridged/id1439476866"
+    }
+  ]
+}

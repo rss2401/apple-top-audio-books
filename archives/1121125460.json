@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 28,
+      "artistName": "Jean-Philippe Jaworski",
+      "id": "1121125460",
+      "name": "Gagner la guerre",
+      "releaseDate": "2016-06-02",
+      "kind": "audio-books",
+      "artistId": "566573481",
+      "artistUrl": "https://books.apple.com/fr/author/jean-philippe-jaworski/id566573481",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3b/1d/67/3b1d67a7-ef25-4b29-25e2-b8e215b3b88b/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000055",
+          "name": "SF et fantasy",
+          "url": "https://itunes.apple.com/fr/genre/id50000055"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/gagner-la-guerre/id1121125460"
+    }
+  ]
+}

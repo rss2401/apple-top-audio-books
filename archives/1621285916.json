@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 43,
+      "artistName": "Mark Greaney",
+      "id": "1621285916",
+      "name": "The Gray Man",
+      "releaseDate": "2022-05-12",
+      "kind": "audio-books",
+      "artistId": "357923457",
+      "artistUrl": "https://books.apple.com/fr/author/mark-greaney/id357923457",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cf/ce/f7/cfcef7d0-dbd2-9f70-5ec9-549c8849d489/9791036622397.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/the-gray-man/id1621285916"
+    }
+  ]
+}

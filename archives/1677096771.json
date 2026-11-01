@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 39,
+      "artistName": "Eva García Saénz de Urturi",
+      "id": "1677096771",
+      "name": "Le silence de la ville blanche: La ville blanche 1",
+      "releaseDate": "2023-03-23",
+      "kind": "audio-books",
+      "artistId": "1087492698",
+      "artistUrl": "https://books.apple.com/fr/author/eva-garc%C3%ADa-sa%C3%A9nz-de-urturi/id1087492698",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/35/30/52353042-abe5-8c54-a440-d66e7fe7867e/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000051",
+          "name": "Policier et suspense",
+          "url": "https://itunes.apple.com/fr/genre/id50000051"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/le-silence-de-la-ville-blanche-la-ville-blanche-1/id1677096771"
+    }
+  ]
+}

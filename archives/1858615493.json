@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 85,
+      "artistName": "Kévin Finel",
+      "id": "1858615493",
+      "name": "Faire la paix avec ses émotions",
+      "releaseDate": "2025-12-11",
+      "kind": "audio-books",
+      "artistId": "611077215",
+      "artistUrl": "https://books.apple.com/fr/author/k%C3%A9vin-finel/id611077215",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/37/74/0a377476-833e-d48f-f4fa-b18265436b39/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000052",
+          "name": "Essais et sciences humaines",
+          "url": "https://itunes.apple.com/fr/genre/id50000052"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000056",
+          "name": "Santé et bien-être",
+          "url": "https://itunes.apple.com/fr/genre/id50000056"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/faire-la-paix-avec-ses-%C3%A9motions/id1858615493"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 67,
+      "artistName": "Clement Clarke Moore",
+      "id": "1780069829",
+      "name": "La Nuit Avant Noël",
+      "releaseDate": "2024-11-15",
+      "kind": "audio-books",
+      "artistId": "273830578",
+      "artistUrl": "https://books.apple.com/fr/author/clement-clarke-moore/id273830578",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/c3/29/15c329bd-9407-4421-d1f9-a9b8a4a96d1f/9798347918386.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000044",
+          "name": "Jeunesse",
+          "url": "https://itunes.apple.com/fr/genre/id50000044"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/la-nuit-avant-no%C3%ABl/id1780069829"
+    }
+  ]
+}

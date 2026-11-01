@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 10,
+      "artistName": "Erich Maria Remarque",
+      "id": "1578463029",
+      "name": "À l'Ouest, rien de nouveau",
+      "releaseDate": "2021-08-11",
+      "kind": "audio-books",
+      "artistId": "40712696",
+      "artistUrl": "https://books.apple.com/fr/author/erich-maria-remarque/id40712696",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0f/9b/d2/0f9bd2a8-d715-405d-b33c-f01cfbd16063/9791035406103.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/%C3%A0-louest-rien-de-nouveau/id1578463029"
+    }
+  ]
+}

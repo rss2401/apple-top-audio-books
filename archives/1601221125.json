@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 20,
+      "artistName": "Joanne Fluke",
+      "id": "1601221125",
+      "name": "Meurtres et tarte au citron meringuée: Les enquêtes d'Hannah Swensen 4",
+      "releaseDate": "2021-12-27",
+      "kind": "audio-books",
+      "artistId": "187525709",
+      "artistUrl": "https://books.apple.com/fr/author/joanne-fluke/id187525709",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c0/55/c6/c055c61d-734c-cbd1-af17-f3b19e30b3f2/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000051",
+          "name": "Policier et suspense",
+          "url": "https://itunes.apple.com/fr/genre/id50000051"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/meurtres-et-tarte-au-citron-meringu%C3%A9e-les-enqu%C3%AAtes/id1601221125"
+    }
+  ]
+}

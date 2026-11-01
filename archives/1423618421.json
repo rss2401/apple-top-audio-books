@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 26,
+      "artistName": "Ken Follett",
+      "id": "1423618421",
+      "name": "Die Säulen der Erde",
+      "releaseDate": "2014-12-12",
+      "kind": "audio-books",
+      "artistId": "41828779",
+      "artistUrl": "https://books.apple.com/de/author/ken-follett/id41828779",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/c2/9a/b5/c29ab556-caf3-a483-63c0-e4171ad19425/9783838765952_3000.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Belletristik",
+          "url": "https://itunes.apple.com/de/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/die-s%C3%A4ulen-der-erde/id1423618421"
+    }
+  ]
+}

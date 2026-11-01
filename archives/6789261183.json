@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 85,
+      "artistName": "Christian Humberg",
+      "id": "6789261183",
+      "name": "Auf die Plätze, fertig - Mord! - Blut und Blümchen, Folge 9 (Ungekürzt)",
+      "releaseDate": "2026-09-01",
+      "kind": "audio-books",
+      "artistId": "447144591",
+      "artistUrl": "https://books.apple.com/de/author/christian-humberg/id447144591",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f3/a5/18/f3a5182f-1fe8-19a9-aa03-4f99ca6e1bbe/cover.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000051",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id50000051"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/auf-die-pl%C3%A4tze-fertig-mord-blut-und-bl%C3%BCmchen-folge/id6789261183"
+    }
+  ]
+}

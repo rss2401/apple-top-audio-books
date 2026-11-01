@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 41,
+      "artistName": "Colette",
+      "id": "1811322353",
+      "name": "Le Blé en Herbe + Chéri",
+      "releaseDate": "2025-04-24",
+      "kind": "audio-books",
+      "artistId": "1421314878",
+      "artistUrl": "https://books.apple.com/fr/author/colette/id1421314878",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/66/a0/8066a07b-ff85-278d-6c0f-0ce1305759b2/9798318292095.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/le-bl%C3%A9-en-herbe-ch%C3%A9ri/id1811322353"
+    }
+  ]
+}

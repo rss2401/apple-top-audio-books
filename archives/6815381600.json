@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 3,
+      "artistName": "Joanne Fluke",
+      "id": "6815381600",
+      "name": "Meurtres et caramels de Noël: Les enquêtes d'Hannah Swensen, Vol. 17",
+      "releaseDate": "2026-10-01",
+      "kind": "audio-books",
+      "artistId": "187525709",
+      "artistUrl": "https://books.apple.com/fr/author/joanne-fluke/id187525709",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/e0/ab/c4e0ab7d-c426-a330-aa77-0979e8ad877f/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000051",
+          "name": "Policier et suspense",
+          "url": "https://itunes.apple.com/fr/genre/id50000051"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/meurtres-et-caramels-de-no%C3%ABl-les-enqu%C3%AAtes-dhannah/id6815381600"
+    }
+  ]
+}

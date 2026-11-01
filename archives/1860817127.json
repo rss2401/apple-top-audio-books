@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 79,
+      "artistName": "Tanja Elberfeld & Verena Kranz",
+      "id": "1860817127",
+      "name": "Vorpubertät: Was Kinder zwischen 9 und 12 Jahren wirklich brauchen",
+      "releaseDate": "2026-02-08",
+      "kind": "audio-books",
+      "artistId": "1835953922",
+      "artistUrl": "https://books.apple.com/de/author/tanja-elberfeld/id1835953922",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e4/6a/f1/e46af199-e7e4-f099-9a9b-aa69cdfedf83/4069828119697.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000052",
+          "name": "Sachbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000052"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/vorpubert%C3%A4t-was-kinder-zwischen-9-und-12-jahren-wirklich/id1860817127"
+    }
+  ]
+}

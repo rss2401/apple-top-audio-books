@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 54,
+      "artistName": "Franck Thilliez",
+      "id": "1548750154",
+      "name": "AtomKa",
+      "releaseDate": "2021-01-14",
+      "kind": "audio-books",
+      "artistId": "416100063",
+      "artistUrl": "https://books.apple.com/fr/author/franck-thilliez/id416100063",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/54/9d/b5/549db573-658f-f200-7b6f-767975048fe5/9791036612749.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/atomka/id1548750154"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 93,
+      "artistName": "Jen Sincero",
+      "id": "1418220587",
+      "name": "You Are a Badass at Making Money: Master the Mindset of Wealth (Unabridged)",
+      "releaseDate": "2017-04-18",
+      "kind": "audio-books",
+      "artistId": "358501055",
+      "artistUrl": "https://books.apple.com/us/author/jen-sincero/id358501055",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/91/9c/0e/919c0e5c-9e22-43ec-b9ac-dc0b00b2264a/9781524751715.d.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000056",
+          "name": "Self-Development",
+          "url": "https://itunes.apple.com/us/genre/id50000056"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Audiobooks",
+          "url": "https://itunes.apple.com/us/genre/id50000024"
+        },
+        {
+          "genreId": "50000043",
+          "name": "Business & Personal Finance",
+          "url": "https://itunes.apple.com/us/genre/id50000043"
+        }
+      ],
+      "url": "https://books.apple.com/us/audiobook/you-are-a-badass-at-making-money-master-the/id1418220587"
+    }
+  ]
+}

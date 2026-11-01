@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 38,
+      "artistName": "Pierce Brown",
+      "id": "1691344259",
+      "name": "Morning Star - Red Rising, tome 3",
+      "releaseDate": "2023-09-27",
+      "kind": "audio-books",
+      "artistId": "650564637",
+      "artistUrl": "https://books.apple.com/fr/author/pierce-brown/id650564637",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7e/0e/30/7e0e306c-04b4-bb67-d41f-b31bbadc0ef5/9791035412944.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000044",
+          "name": "Jeunesse",
+          "url": "https://itunes.apple.com/fr/genre/id50000044"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/morning-star-red-rising-tome-3/id1691344259"
+    }
+  ]
+}

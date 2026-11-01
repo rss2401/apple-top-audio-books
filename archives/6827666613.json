@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 46,
+      "artistName": "Thierry Courtin",
+      "id": "6827666613",
+      "name": "T'choupi va à l'aquarium",
+      "releaseDate": "2026-10-28",
+      "kind": "audio-books",
+      "artistId": "532572318",
+      "artistUrl": "https://books.apple.com/fr/author/thierry-courtin/id532572318",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/83/a4/e383a41f-f093-7542-a799-713f4f966745/9791036656651.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000044",
+          "name": "Jeunesse",
+          "url": "https://itunes.apple.com/fr/genre/id50000044"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/tchoupi-va-%C3%A0-laquarium/id6827666613"
+    }
+  ]
+}

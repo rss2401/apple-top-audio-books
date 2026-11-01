@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 98,
+      "artistName": "Kyra Groh",
+      "id": "1821826187",
+      "name": "The Pumpkin Spice Latte Disaster (Lower Whilby 1)",
+      "releaseDate": "2025-10-16",
+      "kind": "audio-books",
+      "artistId": "687257079",
+      "artistUrl": "https://books.apple.com/de/author/kyra-groh/id687257079",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/3e/2b/ab3e2b71-62ac-e47b-1f4e-5c2b612e11a0/9783844943252.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000069",
+          "name": "Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id50000069"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/the-pumpkin-spice-latte-disaster-lower-whilby-1/id1821826187"
+    }
+  ]
+}

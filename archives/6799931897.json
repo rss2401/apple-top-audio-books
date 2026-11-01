@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 86,
+      "artistName": "Karl May",
+      "id": "6799931897",
+      "name": "Im Reiche des silbernen Löwen - Karl Mays Gesammelte Werke - Die Schatten des Ahriman I, Band 28 (Ungekürzt)",
+      "releaseDate": "1957-01-01",
+      "kind": "audio-books",
+      "artistId": "77628527",
+      "artistUrl": "https://books.apple.com/de/author/karl-may/id77628527",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/2d/0a/622d0a3f-1fad-6ddd-3e34-83912f605e90/4066004948171_3000.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Belletristik",
+          "url": "https://itunes.apple.com/de/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        },
+        {
+          "genreId": "50000045",
+          "name": "Klassiker",
+          "url": "https://itunes.apple.com/de/genre/id50000045"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/im-reiche-des-silbernen-l%C3%B6wen-karl-mays-gesammelte/id6799931897"
+    }
+  ]
+}

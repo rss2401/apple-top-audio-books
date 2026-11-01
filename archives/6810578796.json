@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 12,
+      "artistName": "Guillaume de Tonquédec",
+      "id": "6810578796",
+      "name": "Ta mère et moi",
+      "releaseDate": "2026-10-21",
+      "kind": "audio-books",
+      "artistId": "420727790",
+      "artistUrl": "https://books.apple.com/fr/author/guillaume-de-tonqu%C3%A9dec/id420727790",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/07/82/07078258-20aa-8f4a-7a20-36aea98c1e29/9791035426927-001-y.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000069",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/fr/genre/id50000069"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/ta-m%C3%A8re-et-moi/id6810578796"
+    }
+  ]
+}

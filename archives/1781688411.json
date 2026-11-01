@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 45,
+      "artistName": "Françoise Bourdin",
+      "id": "1781688411",
+      "name": "Une nouvelle vie",
+      "releaseDate": "2023-11-23",
+      "kind": "audio-books",
+      "artistId": "220050069",
+      "artistUrl": "https://books.apple.com/fr/author/fran%C3%A7oise-bourdin/id220050069",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/96/6c/1e/966c1e43-3378-29f2-2bca-ef8569dbae19/9791036626180.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/une-nouvelle-vie/id1781688411"
+    }
+  ]
+}

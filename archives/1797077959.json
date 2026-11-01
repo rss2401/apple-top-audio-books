@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 30,
+      "artistName": "Karine Tuil",
+      "id": "1797077959",
+      "name": "La guerre par d'autres moyens",
+      "releaseDate": "2025-03-06",
+      "kind": "audio-books",
+      "artistId": "373129254",
+      "artistUrl": "https://books.apple.com/fr/author/karine-tuil/id373129254",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/b1/b6/b1b1b62e-2ca6-4540-fea3-0b1791609db4/9782073117137.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/la-guerre-par-dautres-moyens/id1797077959"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 96,
+      "artistName": "Pumuckl",
+      "id": "6803499114",
+      "name": "Halloween - Hörspiele & Spukgeschichten mit Pumuckl",
+      "releaseDate": "2026-10-02",
+      "kind": "audio-books",
+      "artistId": "1710040920",
+      "artistUrl": "https://books.apple.com/de/author/pumuckl/id1710040920",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/de/c1/98/dec19820-8d23-95b0-6a29-2e17c0019072/4071498822579.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000044",
+          "name": "Kinder und Jugend",
+          "url": "https://itunes.apple.com/de/genre/id50000044"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/halloween-h%C3%B6rspiele-spukgeschichten-mit-pumuckl/id6803499114"
+    }
+  ]
+}

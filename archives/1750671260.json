@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 57,
+      "artistName": "Matthew Perry",
+      "id": "1750671260",
+      "name": "Friends, mes amours et cette chose terrible",
+      "releaseDate": "2024-07-04",
+      "kind": "audio-books",
+      "artistId": "1451135808",
+      "artistUrl": "https://books.apple.com/fr/author/matthew-perry/id1451135808",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/11/fc/a511fcee-19d0-782e-3c3c-94ed28ff29b2/9791036635878.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000052",
+          "name": "Essais et sciences humaines",
+          "url": "https://itunes.apple.com/fr/genre/id50000052"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/friends-mes-amours-et-cette-chose-terrible/id1750671260"
+    }
+  ]
+}

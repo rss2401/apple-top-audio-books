@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 36,
+      "artistName": "Harlan Coben",
+      "id": "1082484048",
+      "name": "Harlan Coben - Standalone Thriller Collection: Six Years, Missing You, The Stranger (Unabridged)",
+      "releaseDate": "2026-01-15",
+      "kind": "audio-books",
+      "artistId": "2079141",
+      "artistUrl": "https://books.apple.com/fr/author/harlan-coben/id2079141",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/91/25/11/91251111-1049-6c9b-235c-7e94ee6b3c5f/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000051",
+          "name": "Policier et suspense",
+          "url": "https://itunes.apple.com/fr/genre/id50000051"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/harlan-coben-standalone-thriller-collection-six-years/id1082484048"
+    }
+  ]
+}

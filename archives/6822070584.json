@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 59,
+      "artistName": "Claas Meyer-Heuer",
+      "id": "6822070584",
+      "name": "Protokolle der Unterwelt: Die geheimen Chats der Drogenmafia und der wachsende Einfluss Organisierter Kriminalität in Deutschland",
+      "releaseDate": "2026-10-28",
+      "kind": "audio-books",
+      "artistId": "586378639",
+      "artistUrl": "https://books.apple.com/de/author/claas-meyer-heuer/id586378639",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5b/f2/a7/5bf2a72d-249e-daa6-631c-88068dda82de/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000051",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id50000051"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/protokolle-der-unterwelt-die-geheimen-chats-der-drogenmafia/id6822070584"
+    }
+  ]
+}
