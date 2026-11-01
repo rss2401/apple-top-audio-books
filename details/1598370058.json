@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 303590648,
+      "collectionId": 1598370058,
+      "artistName": "Leon Trotsky",
+      "collectionName": "Ma vie 1",
+      "collectionCensoredName": "Ma vie 1",
+      "artistViewUrl": "https://books.apple.com/fr/author/leon-trotsky/id303590648?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/ma-vie-1/id1598370058?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/aa/7a/99/aa7a993b-e595-bb7d-530b-3d910a512eb1/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/aa/7a/99/aa7a993b-e595-bb7d-530b-3d910a512eb1/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 20.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 2,
+      "copyright": "© 2021 Sixtrid",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2021-11-08T08:00:00Z",
+      "primaryGenreName": "Biographies et mémoires",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/c1/37/70/c1377071-1a18-ab7b-fdeb-5ace7541046d/mzaf_13828431902784007814.std.aac.p.m4a",
+      "description": "<i>Ma vie</i> est l'autobiographie du révolutionnaire russe Léon Trotsky, écrite durant son exil et publiée en 1929.<br /><br />\"Je ne puis nier que ma vie n'a pas été des plus ordinaires. Mais il faut en chercher les causes plutôt dans les circonstances de l'époque qu'en moi-même. Bien entendu, il fallait aussi qu'il existât certains traits personnels pour que j'aie rempli la tâche, bonne ou mauvaise, que j'ai remplie. Cependant, dans d'autres circonstances historiques, ces particularités individuelles auraient pu paisiblement somnoler, de même que somnolent, innombrables, des inclinations et passions humaines que la vie sociale ne réclame pas. En revanche il se peut que se soient manifestées d'autres qualités qui sont actuellement rejetées ou écrasées. En fin de compte, l'objectif prend le pas sur le subjectif et décide de tout.<br /><br />Mon activité consciente et active - j'en marque le début vers mes dix-sept ou dix-huit ans - a été dans une lutte constante pour des idées déterminées. Il n'y a pas eu dans ma vie personnelle d'événements qui méritent l'attention de l'opinion publique. Tous les faits tant soit peu remarquables de mon passé se rattachent à la lutte révolutionnaire et reçoivent d'elle leur sens. C'est seulement cette considération qui peut justifier la publication de mon autobiographie.\"<br />\nLéon Trotsky."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 269438126,
+      "collectionId": 1682444417,
+      "artistName": "Jack Vance",
+      "collectionName": "La Perle verte",
+      "collectionCensoredName": "La Perle verte",
+      "artistViewUrl": "https://books.apple.com/fr/author/jack-vance/id269438126?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/la-perle-verte/id1682444417?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1c/80/6a/1c806a03-4d0f-7b92-9676-dd06c70b2655/9791035410384.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1c/80/6a/1c806a03-4d0f-7b92-9676-dd06c70b2655/9791035410384.jpg/100x100bb.jpg",
+      "collectionPrice": 24.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2023-06-21T07:00:00Z",
+      "primaryGenreName": "SF et fantasy",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/e5/a8/f0/e5a8f0a7-1a4d-d091-bc5e-73a937df4c62/mzaf_8592994426808159746.std.aac.p.m4a",
+      "description": "Il régnait alors, sur les terres des Isles Anciennes, chaos et infortune. Aillas de Troicinet, désormais roi de l’Ulfland du Sud, devait guerroyer contre les Skas, qui jadis l’avaient réduit en esclavage, et contre l’ambition du roi Casmir, qui rêvait toujours d’étendre son empire au-delà de Lyonesse. Mais, selon une ancienne prophétie, seul le fils de Suldrun parviendrait à unifier l’ensemble des Isles Anciennes ; Suldrun qui, avant de disparaître, n’avait enfanté qu’une fille... Cependant, le monde de la magie menaçait de peser sur l’issue des conflits : la malice de la sorcière Desmëi s’était concentrée sous la forme d’une perle verte, semant luxure, envie et mort."
+    }
+  ]
+}

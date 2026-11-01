@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 373392577,
+      "collectionId": 1667052517,
+      "artistName": "Pierre Lemaitre",
+      "collectionName": "Dictionnaire amoureux du polar",
+      "collectionCensoredName": "Dictionnaire amoureux du polar",
+      "artistViewUrl": "https://books.apple.com/fr/author/pierre-lemaitre/id373392577?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/dictionnaire-amoureux-du-polar/id1667052517?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d7/44/34/d74434ab-206e-e99b-acc1-cbe6756bf64f/9791036625992.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d7/44/34/d74434ab-206e-e99b-acc1-cbe6756bf64f/9791036625992.jpg/100x100bb.jpg",
+      "collectionPrice": 19.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "2023 \n            © Éditions Plon, un département de Place des Éditeurs, 2020..℗ Lizzie, un département d'Univers Poche, Paris, 2023..",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2023-03-23T07:00:00Z",
+      "primaryGenreName": "Essais et sciences humaines",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/1b/bc/ef/1bbcef44-ef30-b014-a2f3-ee63a25a853e/mzaf_7639615078878759024.std.aac.p.m4a",
+      "description": "Une bible du noir érudite, éclectique et réjouissante par un maître et un amoureux du polar : Pierre Lemaitre. Lu par l'auteur \" Autant prévenir tout de suite (j'espère que vous lisez ces lignes avant d'acheter...) : les amateurs de définitions maîtrisées, de monographies exhaustives, d'analyses thématiques seront déçus. C'est à un écrivain que l'éditeur a confié ce Dictionnaire amoureux, je parlerai donc ici en romancier et en lecteur. Il y aura des oublis impardonnables, des injustices criantes, des jugements contestables, c'est inévitable : c'est un dictionnaire de ce que j'aime et encore n'ai-je pas pu mettre tout ce que j'aime. \" Qu'on l'appelle noir ou policier, qu'on le qualifie de \" littérature de genre \" – comme s'il n'appartenait pas à la littérature tout court –, le polar ne manque pas de papes, rois, reines (ou prétendus tels), chapelles, querelles, ego... mais surtout de romans qui emportent, frappent, terrifient, marquent les esprits comme les époques. Adepte des livres, films, séries qui racontent – ou dénoncent – le monde tel qu'il va mal, Pierre Lemaitre, avec la liberté d'esprit, l'engagement et la verve qu'on lui connaît, brosse ici un panorama international jouissif et personnel. Attention : bible du noir érudite, éclectique et réjouissante."
+    }
+  ]
+}

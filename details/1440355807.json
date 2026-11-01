@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 330928799,
+      "collectionId": 1440355807,
+      "artistName": "Fred Vargas",
+      "collectionName": "L'homme aux cercles bleus",
+      "collectionCensoredName": "L'homme aux cercles bleus",
+      "artistViewUrl": "https://books.apple.com/fr/author/fred-vargas/id330928799?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/lhomme-aux-cercles-bleus/id1440355807?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/7b/e8/34/7be8340f-c87a-ade3-d06a-281f1e27ff69/9782356418296.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/7b/e8/34/7be8340f-c87a-ade3-d06a-281f1e27ff69/9782356418296.jpg/100x100bb.jpg",
+      "collectionPrice": 16.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2014-08-20T07:00:00Z",
+      "primaryGenreName": "Policier et suspense",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/86/12/9f/86129fbc-47b9-86c8-7b0b-98cc59ed0000/mzaf_2678558044358602309.std.aac.p.m4a",
+      "description": "« Victor, mauvais sort, que fais-tu dehors ? » Ça amuse les Parisiens. Depuis quatre mois, cette phrase accompagne les cercles qui surgissent à la nuit, tracés à la craie sur les trottoirs de la ville ; au centre de ces cercles, prisonniers, un débris, un déchet, un objet perdu : trombone, bougie, pince à épiler, yaourt, patte de pigeon… Le phénomène fait les délices des journalistes et de quelques psychiatres qui théorisent. Le commissaire Adamsberg, lui, ne rit pas. Ces cercles et leur contenu hétéroclite « suintent » la cruauté. Il le sait, il le sent : bientôt, de l’anodin saugrenu on passera au tragique."
+    }
+  ]
+}

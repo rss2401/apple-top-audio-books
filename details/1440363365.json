@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 254119723,
+      "collectionId": 1440363365,
+      "artistName": "Primo Levi",
+      "collectionName": "Si c'est un homme",
+      "collectionCensoredName": "Si c'est un homme",
+      "artistViewUrl": "https://books.apple.com/fr/author/primo-levi/id254119723?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/si-cest-un-homme/id1440363365?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/4d/0e/75/4d0e75e1-05f0-ad6a-ac11-067b792040fc/9782367620169.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/4d/0e/75/4d0e75e1-05f0-ad6a-ac11-067b792040fc/9782367620169.jpg/100x100bb.jpg",
+      "collectionPrice": 18.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2015-09-09T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/21/39/81/2139812a-5a1b-35f9-6025-78a79866e40d/mzaf_8107312454846772988.std.aac.p.m4a",
+      "description": "Durant la Seconde Guerre mondiale, Primo Levi, vingt-quatre ans, juif, lutte auxcôtés des maquisards antifascistes du Piémont. Capturé en 1943, il se retrouvepeu après à Auschwitz, où il demeurera plus d’un an avant d’être libéré par l’arméerusse en janvier 1945.Au camp, il observe tout. Il se souviendra de tout, racontera tout : la promiscuitédes blocks-dortoirs, les camarades qu’on y découvre à l’aube, morts de froid et defaim ; les humiliations et le travail quotidiens, sous les coups de trique des kapos ;les « sélections » périodiques où l’on sépare les malades des bien-portants pourles envoyer à la mort ; les pendaisons pour l’exemple ; les trains, bourrés de juifset de tziganes, qu’on dirige dès leur arrivée vers les crématoires…Et pourtant, dans ce récit, la dignité la plus impressionnante ; aucune haine, aucunexcès, aucune exploitation des souffrances personnelles, mais une réflexionmorale sur la douleur, sublimée en une vision de la vie.<br />Paru en 1946, Si c’est un homme est considéré comme un des livres les plusimportants du XXe siècle.<br /><br />Parce qu’il est familier des grands textes philosophiques, Raphael Enthoven résoud avec une talentueuse sobriété la difficile équation que pose le texte de Primo Levi&#xa0; : comment nommer l’innommable&#xa0; ?<br />Remerciements à Benoît Peeters, écrivain, pour sa lecture de l’interview de Primo Levi par&#xa0; Philippe Roth.<br /><br />Avec le soutien de la Fondation pour la Mémoire de la Shoah"
+    }
+  ]
+}

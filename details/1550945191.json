@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 14433632,
+      "collectionId": 1550945191,
+      "amgArtistId": 851836,
+      "artistName": "Bernd Stelter",
+      "collectionName": "Mieses Spiel um schwarze Muscheln - Camping-Krimi (Ungekürzt)",
+      "collectionCensoredName": "Mieses Spiel um schwarze Muscheln - Camping-Krimi (Ungekürzt)",
+      "artistViewUrl": "https://music.apple.com/de/artist/bernd-stelter/14433632?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/mieses-spiel-um-schwarze-muscheln-camping-krimi-ungek%C3%BCrzt/id1550945191?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e7/7e/0b/e77e0bef-9b84-4fd4-c9da-7a7ca9ce04cd/9783838794648_3000.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e7/7e/0b/e77e0bef-9b84-4fd4-c9da-7a7ca9ce04cd/9783838794648_3000.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2021 Lübbe Audio",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2021-02-26T08:00:00Z",
+      "primaryGenreName": "Krimis und Thriller",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/19/6b/af/196baf45-ea40-e85e-b13f-8e3e0d18a834/mzaf_14452000718295771749.std.aac.p.m4a",
+      "description": "Inspecteur Piet van Houvenkamp genießt die Ruhe beim Angeln, den einen oder anderen Hornhecht hat er schon erwischt. Aber der Angler neben ihm scheint noch mehr Glück zu haben. Er hat einen dicken Brocken am Haken! Leider stellt sich schnell heraus, dass es sich nicht um einen Fisch handelt, sondern um eine Leiche. Es ist Jacobus Schouten, ein Muschelfischer, ertrunken, in einen Jutesack eingenäht. Das sieht nicht nach Selbstmord aus. Nein, das ist ganz klar Mord! Verdächtige gibt es sofort eine ganze Menge ... Und leider auch Unterstützung, die Piet lieber gestern als heute los wäre: Denn auch die deutschen Camper von \"De Grevelinge\" ermitteln wieder tüchtig mit!"
+    }
+  ]
+}

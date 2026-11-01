@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 14433632,
+      "collectionId": 6789264408,
+      "amgArtistId": 851836,
+      "artistName": "Bernd Stelter",
+      "collectionName": "Die kalte Hand des Camping-Killers (Kriminalroman. Ungekürzt.)",
+      "collectionCensoredName": "Die kalte Hand des Camping-Killers (Kriminalroman. Ungekürzt.)",
+      "artistViewUrl": "https://music.apple.com/de/artist/bernd-stelter/14433632?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/die-kalte-hand-des-camping-killers-kriminalroman-ungek%C3%BCrzt/id6789264408?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/63/97/37639760-46e3-c8fd-6643-54747c838615/cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/63/97/37639760-46e3-c8fd-6643-54747c838615/cover.jpg/100x100bb.jpg",
+      "collectionPrice": 18.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2026 Lübbe Audio, Bastei Lübbe AG",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2026-08-03T07:00:00Z",
+      "primaryGenreName": "Krimis und Thriller",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6a/80/3e/6a803e32-c9b8-78df-e6d8-15e5505eef3c/mzaf_11770665725911669685.std.aac.p.m4a",
+      "description": "Zwei Teenager knutschen am Strand, als sie die Hand eines Toten entdecken, die aus dem Sand herausragt. Die herbeigerufene Strandwacht informiert sogleich die Polizei in Middelburg. Inspecteur Piet van Houvencamp und seine Assistentin nehmen die Ermittlungen auf. Die Identität des Toten ist schnell geklärt, denn Ausweis und Handy stecken in der Hosentasche. Es ist ein belgischer Staatsbürger - und ein Immobilienmakler. Er hatte zuvor versucht, Campingplätze in der Gegend aufzukaufen, um stattdessen luxuriöse Chalets bauen zu lassen. Sein Tod ruft gleich die deutschen Camper und Hobbydetektive auf den Plan. Zu van Houvencamps Missfallen beginnen sie, auf eigene Faust zu ermitteln ..."
+    }
+  ]
+}

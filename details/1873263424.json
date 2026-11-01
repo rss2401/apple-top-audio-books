@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1142457444,
+      "collectionId": 1873263424,
+      "artistName": "John Marrs",
+      "collectionName": "Tous leurs secrets",
+      "collectionCensoredName": "Tous leurs secrets",
+      "artistViewUrl": "https://books.apple.com/fr/author/john-marrs/id1142457444?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/tous-leurs-secrets/id1873263424?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3d/df/03/3ddf0384-6e9a-8be9-faf7-1b75e406ce6e/9791035423315.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3d/df/03/3ddf0384-6e9a-8be9-faf7-1b75e406ce6e/9791035423315.jpg/100x100bb.jpg",
+      "collectionPrice": 22.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2026-03-11T07:00:00Z",
+      "primaryGenreName": "Policier et suspense",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b5/49/a8/b549a880-c7e2-b42c-443c-7651c271b4ec/mzaf_3230176236876256160.std.aac.p.m4a",
+      "description": "«&#xa0; Pour certains, je représente le salut&#xa0; ; pour d’autres, la damnation.&#xa0; »<br />Lorsque Mia et Finn visitent une vieille bâtisse victorienne à l’abandon, ils savent qu’ils ont trouvé la maison de leurs rêves. L’endroit où ils pourront élever avec bonheur l’enfant que Mia va mettre au monde.&#xa0; <br />Mais au fil des travaux, ils découvrent des détails inquiétants. À quoi servait cette pièce secrète condamnée depuis des années ? Et il y a, sur une plinthe cette inscription qui fait froid dans le dos : « Je dois les sauver du grenier. » Mia découvre alors que, des années auparavant, des meurtres ont été commis dans la maison de ses rêves.<br />Inquiète, la jeune femme veut trouver des réponses. Et lorsque les fragments d'une sombre vérité commencent à émerger, Mia découvre que quelqu’un les observe et que le danger est toujours présent. Elle est prête à tout pour protéger sa famille, mais quel sera le prix à payer ?<br /><br />Interprétation humaine"
+    }
+  ]
+}

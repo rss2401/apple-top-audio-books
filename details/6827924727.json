@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 121003253,
+      "collectionId": 6827924727,
+      "amgArtistId": 897295,
+      "artistName": "BLYND",
+      "collectionName": "Rendez-vous avec Rama",
+      "collectionCensoredName": "Rendez-vous avec Rama",
+      "artistViewUrl": "https://music.apple.com/fr/artist/blynd/121003253?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/rendez-vous-avec-rama/id6827924727?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/de/61/75/de6175da-37d2-f5cd-9260-a02f706044b2/9782385811112.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/de/61/75/de6175da-37d2-f5cd-9260-a02f706044b2/9782385811112.jpg/100x100bb.jpg",
+      "collectionPrice": 14.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2025 BLYND",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2025-10-30T07:00:00Z",
+      "primaryGenreName": "SF et fantasy",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/eb/68/54/eb6854b4-6263-1835-d306-7ad9ed50208c/mzaf_16291481923539600208.std.aac.p.m4a",
+      "description": "En l'an 2130... un \"objet\" pénètre dans le système solaire et aussitôt les ordinateurs répondent : un cylindre, longueur: 30 km, vitesse: 100 000 km/h... Il sera baptisé Rama.\r\nLe vaisseau spatial Endeavour part à sa rencontre, réussit à se poser dessus et pour le commandant Norton et ses hommes l'accès de Rama se révèle étonnamment facile.\r\nUn étonnement qui se change en stupeur, en effroi, quand ils pénètrent dans ses flancs : il y a là quatre mille km' à explorer, un monde de structures, d'escaliers vertigineux, de routes. Un monde de silence et de non-vie... Où tout semble d'une haute technologie, intact, et pourtant vieux de millions d'années !\r\nRama continue de fendre l'espace... Qui est aux commandes : un robot ? un esprit ?\r\n\r\n©️J'ai lu"
+    }
+  ]
+}

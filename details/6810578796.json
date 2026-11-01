@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 420727790,
+      "collectionId": 6810578796,
+      "amgArtistId": 3082710,
+      "artistName": "Guillaume de Tonquédec",
+      "collectionName": "Ta mère et moi",
+      "collectionCensoredName": "Ta mère et moi",
+      "artistViewUrl": "https://music.apple.com/fr/artist/guillaume-de-tonqu%C3%A9dec/420727790?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/ta-m%C3%A8re-et-moi/id6810578796?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/07/82/07078258-20aa-8f4a-7a20-36aea98c1e29/9791035426927-001-y.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/07/82/07078258-20aa-8f4a-7a20-36aea98c1e29/9791035426927-001-y.jpg/100x100bb.jpg",
+      "collectionPrice": 16.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2026-10-21T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ba/a1/dd/baa1ddce-d471-a7b9-7900-a4f52088181d/mzaf_8610615767224209785.std.aac.p.m4a",
+      "description": "« Papa a été clair : “Je t’aime, je veux faire ma vie avec toi. Alors soit on se marie, soit on ne se voit plus.” &#xa0; L’ultimatum est sans appel pour toi maman. Tout a rejailli : la rencontre à la gare, la naissance des chats, le bain de mer, le rôti brûlé, l’année passée sans nouvelles de l’autre puis les retrouvailles inattendues, au même endroit en Bretagne, l’été d’après, l’envie folle de vous embrasser, l’émotion de la première fois que les corps se touchent. Les nuits à refaire le monde. Et soudain la demande de papa. Ton oui sort comme une évidence. »<br />&#xa0; <br />Je suis né d’un coup de foudre.<br />Quelques années plus tard, à quarante ans, ma mère est diagnostiquée souffrante d’une sclérose en plaques. Mon père devient, bien malgré lui, son aidant. Moi, j’assiste impuissant à leur chute.<br />C’est avant tout la plus belle histoire d’amour qu’il m’ait été donné de voir que j’ai voulu raconter.<br /><br />Interprétation humaine."
+    }
+  ]
+}

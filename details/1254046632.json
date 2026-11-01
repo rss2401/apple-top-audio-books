@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 411571599,
+      "collectionId": 1254046632,
+      "artistName": "León Tolstói",
+      "collectionName": "Anna Karénine 2",
+      "collectionCensoredName": "Anna Karénine 2",
+      "artistViewUrl": "https://books.apple.com/fr/author/le%C3%B3n-tolst%C3%B3i/id411571599?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/anna-kar%C3%A9nine-2/id1254046632?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/00/3a/60/003a60e6-fbb9-1e7c-10d2-096958c1ce35/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/00/3a/60/003a60e6-fbb9-1e7c-10d2-096958c1ce35/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 17.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 2,
+      "copyright": "© 2024 Sixtrid",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2024-11-01T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/8e/7e/ca/8e7eca45-e4a6-7c6a-50ae-aee3aee75228/mzaf_7332081791222975415.std.aac.p.m4a",
+      "description": "Anna Karénine est une jeune femme mariée à Alexis Karénine et mère d'un jeune garçon. Elle se rend à Moscou chez son frère Stiva Oblonski. En descendant du train, elle croise le comte Vronski. Anna tombe amoureuse de Vronski, cet officier brillant, mais frivole. Elle lutte contre cette passion et finit pourtant par s'abandonner avec un bonheur coupable. Puis Anna tombe enceinte. Elle décide d'avouer son infidélité à son mari. \n<br /><br />En parallèle, Tolstoï brosse le portrait de deux autres couples : Kitty et Lévine, et Daria et Oblonski. Tolstoï décrit la Russie de la fin du 19ème siècle où se mêlent les paysages immenses et rudes des campagnes, le labeur des paysans et les villes hauts lieux des mondains où l'apparence et le faste sont de mises. Paru en France pour la première fois en 1852, \n<i>Anna Karénine</i> marque l'entrée triomphale de la littérature russe dans la culture européenne."
+    }
+  ]
+}

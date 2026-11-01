@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 77628527,
+      "collectionId": 6799931897,
+      "amgArtistId": 1009331,
+      "artistName": "Karl May",
+      "collectionName": "Im Reiche des silbernen Löwen - Karl Mays Gesammelte Werke - Die Schatten des Ahriman I, Band 28 (Ungekürzt)",
+      "collectionCensoredName": "Im Reiche des silbernen Löwen - Karl Mays Gesammelte Werke - Die Schatten des Ahriman I, Band 28 (Ungekürzt)",
+      "artistViewUrl": "https://books.apple.com/de/author/karl-may/id77628527?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/im-reiche-des-silbernen-l%C3%B6wen-karl-mays-gesammelte/id6799931897?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/2d/0a/622d0a3f-1fad-6ddd-3e34-83912f605e90/4066004948171_3000.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/2d/0a/622d0a3f-1fad-6ddd-3e34-83912f605e90/4066004948171_3000.jpg/100x100bb.jpg",
+      "collectionPrice": 12.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2026 Karl-May-Verlag",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "1957-01-01T08:00:00Z",
+      "primaryGenreName": "Belletristik",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/89/28/9e/89289eb2-e6d8-74bb-8d7f-6c728d344333/mzaf_12186562968167511766.std.aac.p.m4a",
+      "description": "Im Fieberland Basra beginnt die Handlung, die zur Schilderung einer großen inneren und äußeren Krise wird. Überall lauert das Verderben, und nur mit knapper Not entrinnt der Held dem Tod, als in einem verzweifelten Entschluss der 'Sprung über die Vergangenheit' gewagt wird. Das Tal der Dschamikun, ein unberührtes Land voller Geheimnisse, soll den beiden Freunden Kara Ben Nemsi und Hadschi Halef Omar die Genesung bringen.\n\"Im Reiche des silbernen Löwen\" - Band 28 der Gesammelten Werke, gelesen von Jean-Marc Birkholz - ist der erste Teil eines Doppelbandes. Wie es weitergeht, erfährt man in Band 29\n\"Das versteinerte Gebet\", ebenfalls gelesen von Jean-Marc Birkholz"
+    }
+  ]
+}

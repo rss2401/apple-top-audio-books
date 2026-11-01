@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1146267858,
+      "collectionId": 1586287823,
+      "artistName": "Anna Lembke",
+      "collectionName": "Dopamine Nation",
+      "collectionCensoredName": "Dopamine Nation",
+      "artistViewUrl": "https://books.apple.com/gb/author/anna-lembke/id1146267858?uo=4",
+      "collectionViewUrl": "https://books.apple.com/gb/audiobook/dopamine-nation/id1586287823?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/53/76/8c/53768c81-5630-b334-90c3-18c0b1a06f98/9781472294142.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/53/76/8c/53768c81-5630-b334-90c3-18c0b1a06f98/9781472294142.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "GBR",
+      "currency": "GBP",
+      "releaseDate": "2021-09-30T07:00:00Z",
+      "primaryGenreName": "Science & Nature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/45/a9/b8/45a9b868-8b1e-b6e9-5036-5d6a47432460/mzaf_13877859364888189689.std.aac.p.m4a",
+      "description": "<b>THE MILLION COPY INTERNATIONAL BESTSELLER </b><br /><br /> We are a wired generation. In these fast-paced times we are constantly bombarded by high-reward, high-dopamine stimuli. From texting to social media, food to drugs, gambling to shopping, we have become addicted to fleeting and distracting pleasures that are making us sick.<br /><br /> In <b><i>Dopamine Nation</i></b><i>, </i>psychiatrist and bestselling author Dr Anna Lembke reveals why our relentless pursuit of pleasure leads to pain and what we can do about it. Bringing together cutting-edge neuroscience with the gripping real life experiences from her clinical practice, Lembke explores how contentment and connectedness are essential tools in keeping dopamine in check. This is an essential book for anyone wanting to find a balance for a happier life.<br /><br /><b>Don't miss the new book from Dr Anna Lembke - RADICAL SURRENDER: Letting Go in a World Addicted to Control - coming November 2026</b>"
+    }
+  ]
+}

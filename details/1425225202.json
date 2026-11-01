@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 2809167,
+      "collectionId": 1425225202,
+      "artistName": "Honoré de Balzac",
+      "collectionName": "La Comédie Humaine: Le Père Goriot",
+      "collectionCensoredName": "La Comédie Humaine: Le Père Goriot",
+      "artistViewUrl": "https://books.apple.com/fr/author/honor%C3%A9-de-balzac/id2809167?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/la-com%C3%A9die-humaine-le-p%C3%A8re-goriot/id1425225202?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/6d/3d/ec/6d3dec8e-46e3-bb32-c95a-ac524f6aa77b/9782291041511.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/6d/3d/ec/6d3dec8e-46e3-bb32-c95a-ac524f6aa77b/9782291041511.jpg/100x100bb.jpg",
+      "collectionPrice": 0.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2018 OreganPpublishing",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2018-08-12T07:00:00Z",
+      "primaryGenreName": "Classiques",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/a5/fb/a0/a5fba017-3566-0452-00e3-fcfc7e4c4970/mzaf_5525139299402476885.std.aac.p.m4a",
+      "description": "Le Père Goriot est un roman d'Honoré de Balzac, écrit en 1834, dont la publication débute dans la Revue de Paris et qui paraît en 1835 en librairie. Il fait partie des Scènes de la vie privée de la Comédie humaine. Le Père Goriot établit les bases de ce qui deviendra un véritable édifice : la Comédie humaine, construction littéraire unique en son genre, avec des liens entre les volumes, des passerelles, des renvois."
+    }
+  ]
+}

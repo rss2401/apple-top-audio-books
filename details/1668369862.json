@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 201440614,
+      "collectionId": 1668369862,
+      "artistName": "Wallace D. Wattles",
+      "collectionName": "The Science of Getting Rich",
+      "collectionCensoredName": "The Science of Getting Rich",
+      "artistViewUrl": "https://books.apple.com/us/author/wallace-d-wattles/id201440614?uo=4",
+      "collectionViewUrl": "https://books.apple.com/us/audiobook/the-science-of-getting-rich/id1668369862?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/74/80/52/748052cd-d394-09c6-79d2-2ce6bea27e03/9782384653096.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/74/80/52/748052cd-d394-09c6-79d2-2ce6bea27e03/9782384653096.jpg/100x100bb.jpg",
+      "collectionPrice": 0.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2023 Publius",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2023-01-27T08:00:00Z",
+      "primaryGenreName": "Classics",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/3c/08/e3/3c08e32e-d165-e73e-ef77-9cf296cca67b/mzaf_5579765931813755108.std.aac.p.m4a",
+      "description": "The Science of Getting Rich is the classic guide to creating wealth through the Law of Attraction. First published in 1910, a hundred years later it inspired Rhonda Byrne's bestselling book and movie, The Secret. According to Wallace D. Wattles, \"There is a science of getting rich, and it is an exact science, like algebra or arithmetic. There are certain laws which govern the process of acquiring riches; once these laws are learned and obeyed by any man, he will get rich with mathematical certainty.\""
+    }
+  ]
+}

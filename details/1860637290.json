@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1320850327,
+      "collectionId": 1860637290,
+      "artistName": "Omar Youssef Souleimane",
+      "collectionName": "Les complices du mal",
+      "collectionCensoredName": "Les complices du mal",
+      "artistViewUrl": "https://books.apple.com/fr/author/omar-youssef-souleimane/id1320850327?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/les-complices-du-mal/id1860637290?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/75/18/c2/7518c225-4792-431e-9ab2-4f8236b66937/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/75/18/c2/7518c225-4792-431e-9ab2-4f8236b66937/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 15.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2025 SonoBooK",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2025-10-08T07:00:00Z",
+      "primaryGenreName": "Biographies et mémoires",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/45/69/1f/45691fef-542d-6a30-54b3-0579623f8595/mzaf_17926636474885838524.std.aac.p.m4a",
+      "description": "Un cri d'alerte dénonçant l'alliance trouble de La France Insoumise avec l'islamisme, et son projet de déstabilisation de la démocratie française.<br /><br />D'origine syrienne, Omar Youssef Souleimane a infiltré plusieurs manifestations de soutien à la Palestine organisées par La France Insoumise et des associations palestiniennes marquées par la présence d'islamistes en leur sein. Il y a recueilli des slogans antisémites, des images radicales et des témoignages édifiants.<br /><br />Rédigé à la première personne et dans un style narratif, ce témoignage mêle enquête de terrain, analyse politique et récit personnel. Après des mois de travail et de nombreux entretiens avec les cadres du parti, l'auteur révèle les liens entre certains candidats LFI et des projets islamistes tentant d'imposer de nouvelles normes sociales compatibles avec la charia. En mettant en place un discours séparatiste, jouant sur la mémoire coloniale pour mobiliser une partie de la jeunesse française, ces acteurs créent les conditions d'un affrontement social.<br /><br />Ce livre est un cri d'alerte. Il rappelle que la lutte contre l'islamisme constitue aussi une protection pour les Musulmans de France, pris en otage par ceux qui prétendent parler en leur nom. Il met en garde contre l'alliance entre l'extrême gauche et l'islam politique, véritable projet de déstabilisation menaçant directement la laïcité, l'universalisme républicain et la cohésion nationale.<br /><br />Omar Youssef Souleimane est né en 1987 dans le gouvernorat de Damas. Journaliste (L'Express, Le Point, Marianne), poète et écrivain, il est notamment l'auteur d'<i>Être français</i> (Flammarion, 2023), d'<i>Une chambre en exil</i> (Flammarion, 2022), du <i>Dernier Syrien</i> (Flammarion, 2020) et de <i>Le Petit Terroriste</i> (Flammarion, 2018)."
+    }
+  ]
+}

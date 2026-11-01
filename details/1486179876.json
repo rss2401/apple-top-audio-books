@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 517140738,
+      "collectionId": 1486179876,
+      "artistName": "Sylvain Tesson",
+      "collectionName": "La panthère des neiges",
+      "collectionCensoredName": "La panthère des neiges",
+      "artistViewUrl": "https://books.apple.com/fr/author/sylvain-tesson/id517140738?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/la-panth%C3%A8re-des-neiges/id1486179876?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b1/b9/4d/b1b94d32-1879-aee3-6163-33ec7e782510/9782072883996.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/b1/b9/4d/b1b94d32-1879-aee3-6163-33ec7e782510/9782072883996.jpg/100x100bb.jpg",
+      "collectionPrice": 13.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2019 Editions Gallimard",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2019-11-07T08:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/40/9f/19/409f1923-d909-73be-3233-3a4a4db16975/mzaf_3913831683503748276.std.aac.p.m4a",
+      "description": "\"– Tesson ! Je poursuis une bête depuis six ans, dit Munier. Elle se cache sur les plateaux du Tibet. J'y retourne cet hiver, je t'emmène. \n– Qui est-ce ? \n– La panthère des neiges. Une ombre magique ! \n– Je pensais qu'elle avait disparu, dis-je. \n– C'est ce qu'elle fait croire.\""
+    }
+  ]
+}

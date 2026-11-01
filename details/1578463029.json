@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 40712696,
+      "collectionId": 1578463029,
+      "artistName": "Erich Maria Remarque",
+      "collectionName": "À l'Ouest, rien de nouveau",
+      "collectionCensoredName": "À l'Ouest, rien de nouveau",
+      "artistViewUrl": "https://books.apple.com/fr/author/erich-maria-remarque/id40712696?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/%C3%A0-louest-rien-de-nouveau/id1578463029?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0f/9b/d2/0f9bd2a8-d715-405d-b33c-f01cfbd16063/9791035406103.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0f/9b/d2/0f9bd2a8-d715-405d-b33c-f01cfbd16063/9791035406103.jpg/100x100bb.jpg",
+      "collectionPrice": 18.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2021-08-11T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/29/f8/16/29f816be-b41e-23e3-0965-051a837d3987/mzaf_12162201367449774344.std.aac.p.m4a",
+      "description": "À l’Ouest, rien de nouveau a donné la parole à l’un de ces jeunes soldats allemands qui, comme l’auteur, vécut l’épreuve de la Grande Guerre. Plus de glorification des faits d’armes, mais l’omniprésence de la mort et le tableau de l’Apocalypse. Le livre est interdit à parution. Mais la puissance d’évocation de cette œuvre est telle qu’elle résiste à toute censure. Écrit au présent, avec une sobriété qui souligne l’horreur quotidienne du front et de la vie dans les tranchées, ce roman nous interpelle du fin fond de l’enfer, dans la plus déchirante intimité.<br />En 1933, le livre est brûlé sur la place publique par les Nazis, et Erich Maria Remarque est déchu de sa nationalité allemande en 1938. Il s’exile aux États-Unis dès 1931 et meurt en Suisse en 1970.<br /><br />Julien Frison, pensionnaire de la Comédie-Française, nous offre une lecture vibrante de ce roman, devenu dans le monde entier une ode au pacifisme."
+    }
+  ]
+}

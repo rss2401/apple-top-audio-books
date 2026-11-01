@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1362794658,
+      "collectionId": 625457376,
+      "artistName": "Pierre Noaro, Henri Louette & Paolo Cifarelli",
+      "collectionName": "40 leçons pour parler italien",
+      "collectionCensoredName": "40 leçons pour parler italien",
+      "artistViewUrl": "https://books.apple.com/fr/author/pierre-noaro/id1362794658?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/40-le%C3%A7ons-pour-parler-italien/id625457376?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/1e/a0/8a/1ea08a68-5bbe-eaa4-f2b0-62f068907c10/lg_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/1e/a0/8a/1ea08a68-5bbe-eaa4-f2b0-62f068907c10/lg_image.jpg/100x100bb.jpg",
+      "collectionPrice": 13.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2026 Langues Pour Tous",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2026-09-17T07:00:00Z",
+      "primaryGenreName": "Langues",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/cf/d3/01/cfd3017f-1f95-7753-1eb9-eff6c477e8d8/mzaf_15109922344569294254.std.aac.p.m4a",
+      "description": "Vous voulez vous initier à l'italien ? Vous avez envie de réactiver vos connaissances ? \n<i>40 leçons pour parler italien</i> est un outil d'auto-apprentissage complet et progressif. \n<br /><br /> \n<i>40 leçons pour parler italien</i> de Langues Pour Tous : \n<br /> - est destiné à ceux qui désirent aborder l'italien ou revoir les bases de la langue, \n<br />- est une méthode ancrée dans la réalité : un vocabulaire usuel et des dialogues vivants, \n<br />- est pour la première fois disponible en version \"tout audio\", utilisable sans aucun support papier : les éléments grammaticaux, lexicaux et phonétiques, les phrases d'entraînement à répéter, et quelques exercices vous sont proposés dans une version sonore. \n<br /><br />Chaque unité de \n<i>40 leçons pour parler italien</i> est constituée de 4 parties : \n<br />- partie A : présente en A1 les éléments grammaticaux, lexicaux et phonétiques nécessaires à l'étude de l'unité, en A2 des phrases en français suivies de leur traduction italienne avec des blancs permettant la répétition, en A3 des remarques concernant les points de grammaire, de vocabulaire et de prononciation abordés dans l'unité, \n<br />- partie B : est organisée comme la partie A, \n<br />- partie C : propose quelques exercices, \n<br />- partie D (à partir de la leçon 6) : présente un dialogue, d'abord en français puis en italien, pour rendre l'apprentissage de la langue plus vivant."
+    }
+  ]
+}

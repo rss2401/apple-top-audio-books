@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 129924788,
+      "collectionId": 1617353968,
+      "amgArtistId": 31655,
+      "artistName": "Ursula K. Le Guin",
+      "collectionName": "Les Dépossédés",
+      "collectionCensoredName": "Les Dépossédés",
+      "artistViewUrl": "https://books.apple.com/fr/author/ursula-k-le-guin/id129924788?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/les-d%C3%A9poss%C3%A9d%C3%A9s/id1617353968?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/25/7a/02/257a022c-3948-d0ae-3f9a-098cb66d8105/9791036621499.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/25/7a/02/257a022c-3948-d0ae-3f9a-098cb66d8105/9791036621499.jpg/100x100bb.jpg",
+      "collectionPrice": 19.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "2022 Titre original : The Dispossessed.© 1974 by Ursula K. Le Guin.www.ursulakleguin.com.© Harper & Row, 1974.Traduction française :.© Éditions Robert Laffont, S.A.S., Paris, 1983, 2022.℗ Lizzie, un département d'Univers Poche, Paris, 2022",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2022-04-14T07:00:00Z",
+      "primaryGenreName": "SF et fantasy",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/31/f6/0b/31f60b47-826f-024d-658f-f1e3654b2030/mzaf_10996280178392956144.std.aac.p.m4a",
+      "description": "Un des romans emblématiques d'Ursula K. Le Guin, qui a obtenu les prix Hugo, Nebula et Locus et qui n'a rien perdu de sa virulence politique. Bien au contraire... Deux planètes se font face.Anarres est une utopie concrète fondée sur la liberté absolue et la coopération.Mais loin d'être un paradis, c'est un monde pauvre et dur.Sur Urras, le capitalisme et le culte du profit règnent en maîtres. L'État centralisateur est tout-puissant, l'individualité niée.Le Dr Shevek, éminent physicien d'Anarres, se rend en mission sur Urras au grand dam des siens.Pourra-t-il faire partager aux habitants d'Urras la promesse dont il est porteur, celle de la liberté ?Traduction révisée par Sébastien GuillotPréface de David Meulemans et postface d'Elisabeth Vonarburg Prix Hugo - 1975 Prix Jupiter - 1975 Prix Locus - 1975 Prix Nebula - 1974"
+    }
+  ]
+}

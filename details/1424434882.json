@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1424434891,
+      "collectionId": 1424434882,
+      "artistName": "Wolfgang Herrndorf",
+      "collectionName": "Tschick",
+      "collectionCensoredName": "Tschick",
+      "artistViewUrl": "https://books.apple.com/de/author/wolfgang-herrndorf/id1424434891?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/tschick/id1424434882?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/bf/e2/d5bfe2c1-b7ca-c0c4-d56a-b5c1cd58a53d/9783732451166.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/bf/e2/d5bfe2c1-b7ca-c0c4-d56a-b5c1cd58a53d/9783732451166.jpg/100x100bb.jpg",
+      "collectionPrice": 13.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2016 Argon Verlag AVE GmbH",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2016-06-29T07:00:00Z",
+      "primaryGenreName": "Kinder und Jugend",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6d/7f/87/6d7f8773-1588-1388-c723-ff6f03d7e430/mzaf_16690561544631853469.std.aac.p.m4a",
+      "description": "Maik, Sohn einer zerrütteten, wohlhabenden Unternehmerfamilie, verbringt die Ferien allein am Pool der elterlichen Villa. Am ersten Ferientag sind alle anderen zu Tatjanas Geburtstagsfeier eingeladen, außer den Idioten, den Fetten, dem Nazi, Maik und Tschick. Tschick, eigentlich Andrej, ist Deutschrusse, wohnt im Hochhaus und sieht unerhört asiatisch aus und ein bisschen gefährlich. Plötzlich ist er da und drängt sich dem widerstrebenden Maik auf. Im Handumdrehen hat er aus Maik herausgekitzelt, dass der unsterblich in Tatjana verliebt ist. Kurze Zeit später sitzen die beiden in einem geklauten Lada und machen sich auf in Richtung Südosten, in die Walachei, denn da wohnt Tschicks Opa. Eine somnambul-schöne Reise durch die sommerglühende deutsche Provinz beginnt, unvergesslich wie die Flussfahrt von Tom Sawyer und Huck Finn."
+    }
+  ]
+}

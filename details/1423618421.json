@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 41828779,
+      "collectionId": 1423618421,
+      "artistName": "Ken Follett",
+      "collectionName": "Die Säulen der Erde",
+      "collectionCensoredName": "Die Säulen der Erde",
+      "artistViewUrl": "https://books.apple.com/de/author/ken-follett/id41828779?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/die-s%C3%A4ulen-der-erde/id1423618421?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/c2/9a/b5/c29ab556-caf3-a483-63c0-e4171ad19425/9783838765952_3000.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/c2/9a/b5/c29ab556-caf3-a483-63c0-e4171ad19425/9783838765952_3000.jpg/100x100bb.jpg",
+      "collectionPrice": 11.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 3,
+      "copyright": "© 2014 Bastei Lübbe (Lübbe Audio)",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2014-12-12T08:00:00Z",
+      "primaryGenreName": "Belletristik",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/cf/d4/04/cfd4044d-eba5-d7c2-6c6c-ffc40b39160d/mzaf_13161230589320982285.std.aac.p.m4a",
+      "description": "England 1123-1173, eine Zeit blutiger Auseinandersetzungen zwischen Krone und Adel, Klerus und Volk. Der junge Prior Philip träumt von einem Zeichen des Friedens, von einer gotischen Kathedrale. Doch bis der kühne Traum Wirklichkeit geworden ist und in Kingsbridge das großartige Gotteshaus endlich emporragt, müssen der Klosterherr, sein Baumeister Tom und die Grafentochter Aliena sich in einem Kampf auf Leben und Tod gegen ihre Widersacher behaupten."
+    }
+  ]
+}

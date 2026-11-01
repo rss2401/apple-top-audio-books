@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 504818729,
+      "collectionId": 1617499796,
+      "amgArtistId": 3528612,
+      "artistName": "Olivier Norek",
+      "collectionName": "Dans les brumes de Capelans",
+      "collectionCensoredName": "Dans les brumes de Capelans",
+      "artistViewUrl": "https://books.apple.com/fr/author/olivier-norek/id504818729?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/dans-les-brumes-de-capelans/id1617499796?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5d/b6/4a/5db64a7d-ebb4-9724-b92d-a89b19240998/9791036621659.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5d/b6/4a/5db64a7d-ebb4-9724-b92d-a89b19240998/9791036621659.jpg/100x100bb.jpg",
+      "collectionPrice": 18.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "2022 © Éditions Michel Lafon, 2022.℗ Lizzie, un département d'Univers Poche, Paris, 2022",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2022-04-07T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/0d/71/5b/0d715bb1-8e17-670d-b2f6-52534ba42211/mzaf_1454491570204308483.std.aac.p.m4a",
+      "description": "Le grand retour du capitaine Coste (Code 93, Territoires et Surtensions) Une île de l'Atlantique battue par les vents, le brouillard et la neige. Un flic qui a disparu depuis six ans et dont les nouvelles missions sont classées secret défense. Sa résidence surveillée, forteresse imprenable protégée par des vitres pare-balles. Une jeune femme qu'il y garde enfermée. Et le monstre qui les traque. Dans les brumes de Capelans, la nouvelle aventure du capitaine Coste se fera à l'aveugle."
+    }
+  ]
+}

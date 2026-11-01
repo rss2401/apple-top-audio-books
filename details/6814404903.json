@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 409390111,
+      "collectionId": 6814404903,
+      "artistName": "Stéphane Allix",
+      "collectionName": "La Force de l'âme",
+      "collectionCensoredName": "La Force de l'âme",
+      "artistViewUrl": "https://books.apple.com/fr/author/st%C3%A9phane-allix/id409390111?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/la-force-de-l%C3%A2me/id6814404903?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/0f/b9/9a0fb938-eeb0-2c30-6045-63fa7442d43d/9791033930358.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/0f/b9/9a0fb938-eeb0-2c30-6045-63fa7442d43d/9791033930358.jpg/100x100bb.jpg",
+      "collectionPrice": 18.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2026 HarperCollins France",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2026-10-07T07:00:00Z",
+      "primaryGenreName": "Essais et sciences humaines",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/43/7d/71/437d7140-da5d-f493-f946-4fe66437fe1b/mzaf_367217914998138350.std.aac.p.m4a",
+      "description": "Quand la spiritualité s'éveille et nous accompagne dans l'épreuve\r\n\r\nAprès plus de vingt ans d'enquête sur l'après-vie et la conscience, Stéphane Allix pense avoir trouvé des réponses sur la mort. Mais une question demeure : qu'est-ce qui nous donne la force de vivre, même au cœur des plus grandes épreuves ?\r\n\r\nQuelle est cette énergie qui nous relie à plus grand que nous, transforme la souffrance et révèle une puissance intérieure aussi profonde que réparatrice ? Où trouve-t-elle véritablement sa source et quelle est sa nature profonde ? Et aussi : que dit-elle de notre réalité et de ce que nous sommes réellement ?\r\n\r\nLa découverte de la spiritualité indienne par Stéphane et sa rencontre avec Sabrina Jecker, enseignante de yoga, ouvrent un nouveau chemin entre science et traditions millénaires. À travers leur parcours et les témoignages de personnes confrontées au deuil, La Force de l'âme explore l'éveil de cette force essentielle, dans un voyage où l'expérience spirituelle rencontre l'invisible."
+    }
+  ]
+}

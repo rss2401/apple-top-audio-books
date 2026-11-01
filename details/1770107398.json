@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1463894666,
+      "collectionId": 1770107398,
+      "artistName": "Caroline Peters",
+      "collectionName": "Ein anderes Leben",
+      "collectionCensoredName": "Ein anderes Leben",
+      "artistViewUrl": "https://books.apple.com/de/artist/caroline-peters/1463894666?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/ein-anderes-leben/id1770107398?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/de/fd/df/defddfd2-b203-d2b5-d3e6-409f128a6923/9783732421275.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/de/fd/df/defddfd2-b203-d2b5-d3e6-409f128a6923/9783732421275.jpg/100x100bb.jpg",
+      "collectionPrice": 16.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2024 Argon Verlag AVE GmbH",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2024-10-15T07:00:00Z",
+      "primaryGenreName": "Belletristik",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/55/a2/24/55a224d8-ccb7-7c70-d68f-d035820d18f4/mzaf_5286838661972014326.std.aac.p.m4a",
+      "description": "Ein sehr persönliches Hörbuch, kraftvoll, berührend und von hinreißendem Humor.\nWer war Hanna? Diese Frau, die so oft aus der Rolle fiel, immer mit Gedichten im Kopf, über die sie den Haushalt vergaß, die ihren Platz suchte zwischen Familie, den Erwartungen an sie und dem Wunsch, Dichterin zu werden – und nur selten für sich sein konnte?\nViele Jahre nach Hannas Tod blickt die Tochter zurück auf das Leben ihrer Mutter, auf die eigene Kindheit im Rheinland der Siebziger und Achtziger, in der Hanna dafür sorgt, dass der Alltag immer etwas anders ist als üblich. Ein Leben zwischen Bürgerlichkeit und Boheme: mit Champagner und Puschkin am Sonntagmorgen im Bett, Besuche nach der Schule in der Institutsbibliothek, wo die Mutter arbeitet und mit verschüchterten Studenten flirtet, Pokern unterm Weihnachtsbaum, abenteuerliche Fahrten in der Ente – bis sich Hanna eines Tages entscheidet, Mann und Tochter zu verlassen und ihr Leben allein von vorn zu beginnen.\n\nMit großer Einfühlsamkeit und Leichtigkeit erzählt Caroline Peters von den Fragen einer Tochter an die verstorbene Mutter und an sich selbst – und davon, was es heißt, eigene Wege zu gehen."
+    }
+  ]
+}

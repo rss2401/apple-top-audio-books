@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 220050069,
+      "collectionId": 1781688411,
+      "artistName": "Françoise Bourdin",
+      "collectionName": "Une nouvelle vie",
+      "collectionCensoredName": "Une nouvelle vie",
+      "artistViewUrl": "https://books.apple.com/fr/author/fran%C3%A7oise-bourdin/id220050069?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/une-nouvelle-vie/id1781688411?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/96/6c/1e/966c1e43-3378-29f2-2bca-ef8569dbae19/9791036626180.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/96/6c/1e/966c1e43-3378-29f2-2bca-ef8569dbae19/9791036626180.jpg/100x100bb.jpg",
+      "collectionPrice": 18.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "2023 © 2008, Belfond un département de Place des Editeurs..℗ Lizzie, un département d'Univers Poche, Paris, 2023",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2023-11-23T08:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b3/7a/c5/b37ac5ed-0b74-c1b5-c968-966ac8eda8da/mzaf_1217129926167627298.std.aac.p.m4a",
+      "description": "À la suite d'un accident, Alban Espérandieu doit renoncer à sa carrière de pilote de ligne. Il décide de se réfugier dans la maison de son enfance, à Trouville. Aux côtés de Jo, la grand-mère qui l'a élevé, et avec Valentine, sa compagne, Alban cherche un nouvel avenir. Dans le même temps, entre ces murs qu'il connaît si bien, il découvre par hasard que des événements étranges ont eu lieu trente ans auparavant. Et que Jo tait bien des secrets... \" Tout, dans ce roman, est réussi : l'intrigue, la psychologie, le dénouement. Et de surcroît, servi par une écriture impeccable. À ne pas manquer. \" La Manche libre"
+    }
+  ]
+}

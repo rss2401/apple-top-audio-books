@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1416230921,
+      "collectionId": 1439476866,
+      "amgArtistId": 331138,
+      "artistName": "Charles Dickens",
+      "collectionName": "A Christmas Carol (Reissue) (Abridged)",
+      "collectionCensoredName": "A Christmas Carol (Reissue) (Abridged)",
+      "artistViewUrl": "https://books.apple.com/us/author/charles-dickens/id1416230921?uo=4",
+      "collectionViewUrl": "https://books.apple.com/us/audiobook/a-christmas-carol-reissue-abridged/id1439476866?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/dd/5f/7add5ff0-1dc8-e507-fa4e-b6c95a9d0d4e/9780743563802.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7a/dd/5f/7add5ff0-1dc8-e507-fa4e-b6c95a9d0d4e/9780743563802.jpg/100x100bb.jpg",
+      "collectionPrice": 7.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2006-10-03T07:00:00Z",
+      "primaryGenreName": "Nonfiction",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/95/b6/63/95b663de-577d-1cc1-6599-ecb049517982/mzaf_1901347857116724718.std.aac.p.m4a",
+      "description": "<b><b>Grammy Award Nominee for Best Spoken Word Album!</b></b><br /><br /><b><b>Tiny Tim, Bob Cratchit, and Ebenezer Scrooge come to marvelous life in Patrick Stewart's critically acclaimed solo interpretation of <i>A Christmas Carol</i>.</b></b><br /><br />The star of X-Men and The Royal Shakespeare Company, Stewart has performed his one-man stage production of this holiday classic to sell-out audiences. Now, in this Grammy-nominated studio recording of the dazzling achievement that has thrilled audiences in New York and Los Angeles, Stewart invites listeners to rediscover the timeless story at its source: Dickens' own words, presented in a soaring, virtuoso solo performance in which Stewart plays all parts."
+    }
+  ]
+}

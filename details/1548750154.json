@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 416100063,
+      "collectionId": 1548750154,
+      "amgArtistId": 3130999,
+      "artistName": "Franck Thilliez",
+      "collectionName": "AtomKa",
+      "collectionCensoredName": "AtomKa",
+      "artistViewUrl": "https://books.apple.com/fr/author/franck-thilliez/id416100063?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/atomka/id1548750154?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/54/9d/b5/549db573-658f-f200-7b6f-767975048fe5/9791036612749.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/54/9d/b5/549db573-658f-f200-7b6f-767975048fe5/9791036612749.jpg/100x100bb.jpg",
+      "collectionPrice": 21.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "2021 © 2012, Fleuve éditions, département d'Univers Poche.℗ Lizzie, un département d'Univers Poche, Paris, 2021",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2021-01-14T08:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/3b/bb/df/3bbbdfa3-e6cc-6f1c-3527-15dbc9498fe2/mzaf_17813474548544945776.std.aac.p.m4a",
+      "description": "Entre le moment où s'arrête la vie et celui où commence la mort il existe une frontière. Certains l'ont explorée... URSS, 1986. Hommes, terres, bêtes... l'atome a tout ravagé. Mais de Tchernobyl vient de s'échapper un mal plus terrible encore...Paris, vingt-six ans plus tard. La scène de crime n'est pas banale : un journaliste mort de froid, enfermé dans son congélateur. À quoi travaillait-il ? Franck Sharko et Lucie Henebelle, de la Crim', remontent la piste... Elle les mènera au cœur de l'enfer, là où, au nom de la science, l'avenir s'écrit en lettres de sang.\" De quoi méditer et mourir de trouille, grâce à un auteur en totale et parfaite maîtrise de son art. \" Le Point\" C'est avec une passion et un intérêt quasi hypnotiques que l'on suit le chemin tortueux que Franck Thilliez nous fait suivre. \" 20 Minutes\" Glaçant ! \" Le Figaro Madame"
+    }
+  ]
+}

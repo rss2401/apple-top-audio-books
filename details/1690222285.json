@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 357992761,
+      "collectionId": 1690222285,
+      "artistName": "Tracy Wolff",
+      "collectionName": "Assoiffés - tome 03 : Convoités",
+      "collectionCensoredName": "Assoiffés - tome 03 : Convoités",
+      "artistViewUrl": "https://books.apple.com/fr/author/tracy-wolff/id357992761?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/assoiff%C3%A9s-tome-03-convoit%C3%A9s/id1690222285?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bc/3c/7e/bc3c7e41-7651-8dd6-c956-9a224b378327/9791036625589.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bc/3c/7e/bc3c7e41-7651-8dd6-c956-9a224b378327/9791036625589.jpg/100x100bb.jpg",
+      "collectionPrice": 18.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "2023 Covet © 2021, Tracy Deebs © 2022, éditions Pocket Jeunesse, département d'Univers Poche ℗ Lizzie, un département d'Univers Poche, Paris, 2023..",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2023-06-08T07:00:00Z",
+      "primaryGenreName": "Jeunesse",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ba/71/56/ba71565d-5749-f7fb-6f39-6905c4d56be4/mzaf_13619863546455819342.std.aac.p.m4a",
+      "description": "Le troisième tome de la série événement Assoiffés ! Ça y est, je craque. J'ai atteint mon point de rupture : non seulement je m'apprête à passer mon bac dans un lycée pour créatures surnaturelles, mais en plus ma situation amoureuse est plus embrouillée que jamais. Pour couronner le tout, la Sangsue vient de nous annoncer une nouvelle aussi dévastatrice qu'une bombe nucléaire. Jaxon est devenu plus froid que le blizzard ; Hudson est recherché par la police et le Cercle se déchire au sujet de mon accession au trône. Après tout, à quoi je m'attendais ? La vie à Katmere a toujours été intense, non ?"
+    }
+  ]
+}

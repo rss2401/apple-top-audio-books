@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 366108375,
+      "collectionId": 1498255449,
+      "artistName": "Joris-Karl Huysmans",
+      "collectionName": "A rebours",
+      "collectionCensoredName": "A rebours",
+      "artistViewUrl": "https://books.apple.com/fr/author/joris-karl-huysmans/id366108375?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/a-rebours/id1498255449?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/f1/50/30/f15030bf-001c-cb36-2b8a-3c78fabb7ce3/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/f1/50/30/f15030bf-001c-cb36-2b8a-3c78fabb7ce3/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 13.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2026 Le Livre Qui Parle",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2026-07-24T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/24/e0/8c/24e08cf5-8cdf-5187-2b3a-8dbcf14afc6e/mzaf_26436947063020485.std.aac.p.m4a",
+      "description": "Des Esseintes, dernier descendant d'une noblesse épuisée, après avoir profité un temps des plaisirs d'une vaste fortune, ayant finalement asséché la veine des amitiés charnelles, des mondanités insipides et de l'exubérance juvénile décide, fébrile, de se retirer de Paris en un pavillon qu'il aménage en havre salutaire où il pourra se consacrer en paix à la lecture et aux raffinements des sens.<br /><br />Et c'est en effet un refuge délectable aménagé avec génie, décrit, justifié, exceptionnel détail après détail, composé d'essences rares et exotiques, de teintes choisies suivant d'habiles calculs, d'étoffes précieuses, de vitraux, de curiosités agencés avec la précision d'un goût sûr et d'une richesse remarquable. Tout y est visible, palpable, si vrai que l'on peut le sentir. Dans un isolement total, des Esseintes va pouvoir profiter d'une retraite quasi monastique. Mais bientôt, malgré la perfection de son environnement, sa névrose resurgit gâtant un à un ses sens et ses plaisirs, le faisant délirer sans raison apparente.<br /><br />Après des espoirs de rétablissements, fruits de médications spirituelles et ingénieusement délicates soldées de pires rechutes, il est contraint d'appeler un médecin qui va finalement l'obliger à rentrer à Paris lui arrachant ces derniers mots : \"Comme un raz de marée, les vagues de la médiocrité humaine montent jusqu'au ciel et elles vont engloutir le refuge dont j'ouvre, malgré moi, les digues.\""
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1505677546,
+      "collectionId": 1638272526,
+      "artistName": "Sarah Pearse",
+      "collectionName": "Das Sanatorium",
+      "collectionCensoredName": "Das Sanatorium",
+      "artistViewUrl": "https://books.apple.com/de/author/sarah-pearse/id1505677546?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/das-sanatorium/id1638272526?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e5/c5/ac/e5c5ac69-d02a-110b-a58b-ad96f55b6202/9783844545104.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e5/c5/ac/e5c5ac69-d02a-110b-a58b-ad96f55b6202/9783844545104.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2022 der Hörverlag",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2023-02-13T08:00:00Z",
+      "primaryGenreName": "Belletristik",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/ae/b8/2f/aeb82f47-5dd5-c013-7c4f-849d0f7758ff/mzaf_6226729187893078468.std.aac.p.m4a",
+      "description": "<b>Die Krimisensation des Jahres: Gäste eines Luxushotels sind mit einem Mörder eingesperrt ...</b><br /><br />Halb versteckt im Wald und überragt von dunkel drohenden Gipfeln war Le Sommet schon immer ein unheimlicher Ort. Einst diente es als Sanatorium für Tuberkulosepatienten, dann verfiel es mit den Jahren und wurde schließlich aufgegeben. Nun hat man es zu einem Luxushotel umgebaut, doch seine düstere Vergangenheit ist noch immer spürbar. Als Detective Inspector Elin Warner zur Verlobungsfeier ihres Bruders anreist, beginnt der Albtraum: Erst verschwindet Isaacs Verlobte, dann geschieht ein Mord. Schließlich schneidet auch noch ein Schneesturm das Hotel von der Außenwelt ab, und die Gäste sind mit einem Killer gefangen ...<br /><br />Gekürzte Lesung mit Demet Fey<br />11h 30min"
+    }
+  ]
+}

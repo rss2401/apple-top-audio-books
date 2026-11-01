@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 49949629,
+      "collectionId": 1840516988,
+      "amgArtistId": 1776304,
+      "artistName": "Fédor Dostoïevski & André Markowicz",
+      "collectionName": "Les Nuits blanches",
+      "collectionCensoredName": "Les Nuits blanches",
+      "artistViewUrl": "https://books.apple.com/fr/author/f%C3%A9dor-dosto%C3%AFevski/id49949629?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/les-nuits-blanches/id1840516988?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a7/85/6f/a7856f95-af2e-0226-9b1a-54ae0cf1910f/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a7/85/6f/a7856f95-af2e-0226-9b1a-54ae0cf1910f/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 8.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2025 Actes Sud Audio",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2025-09-17T07:00:00Z",
+      "primaryGenreName": "Romance",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/65/58/24/65582466-0e07-2757-2b6f-bab4b57bbc5c/mzaf_18407576745211810462.std.aac.p.m4a",
+      "description": "<i>Les Nuits blanches</i>, c'est d'abord un vrai roman d'amour. Un jeune homme solitaire et romanesque rencontre, une nuit, dans Pétersbourg désert, une jeune fille éplorée. Désespérée par un chagrin d'amour, Nastenka se laisse aller au fantasme du jeune homme, amoureux depuis le premier instant, le berce - et se berce - dans l'illusion, jusqu'à ce que… le fiancé revienne et qu'elle se jette dans ses bras.<br /><br />Le label « IH » (« Interprétation Humaine ») signifie que ce livre audio a été enregistré par un comédien ou une comédienne."
+    }
+  ]
+}

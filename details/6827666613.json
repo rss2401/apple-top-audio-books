@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 532572318,
+      "collectionId": 6827666613,
+      "artistName": "Thierry Courtin",
+      "collectionName": "T'choupi va à l'aquarium",
+      "collectionCensoredName": "T'choupi va à l'aquarium",
+      "artistViewUrl": "https://books.apple.com/fr/author/thierry-courtin/id532572318?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/tchoupi-va-%C3%A0-laquarium/id6827666613?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/83/a4/e383a41f-f093-7542-a799-713f4f966745/9791036656651.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/83/a4/e383a41f-f093-7542-a799-713f4f966745/9791036656651.jpg/100x100bb.jpg",
+      "collectionPrice": 1.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "2026 Un personnage de Thierry Courtin..© 2020 pour la première édition..© 2020 Éditions Nathan, Sejer, pour la présente édition..℗ Lizzie, un département d'Univers Poche, Paris, 2026",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2026-10-28T07:00:00Z",
+      "primaryGenreName": "Jeunesse",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d1/7a/5b/d17a5be8-eb48-1262-1568-e3190705e56d/mzaf_17114920885118199227.std.aac.p.m4a",
+      "description": "Requins, méduses, poissons clowns...T'choupi adore l'aquarium ! Des histoires qui racontent la vie des enfants de 2 à 4 ans, les grandes joies, les temps forts de la vie de famille et les petits tracas du quotidien. Grâce à T'choupi, de nombreux petits problèmes trouvent leur solution tout en douceur.Résumé de l'histoire : Aujourd'hui, T'choupi va à l'aquarium avec son papa. Tortues, poissons zèbres, poissons clowns, requins marteaux... que de découvertes ! Et T'choupi a même le droit d'en caresser certains !Interprétation humaine"
+    }
+  ]
+}

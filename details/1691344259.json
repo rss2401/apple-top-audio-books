@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 650564637,
+      "collectionId": 1691344259,
+      "artistName": "Pierce Brown",
+      "collectionName": "Morning Star - Red Rising, tome 3",
+      "collectionCensoredName": "Morning Star - Red Rising, tome 3",
+      "artistViewUrl": "https://books.apple.com/fr/author/pierce-brown/id650564637?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/morning-star-red-rising-tome-3/id1691344259?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7e/0e/30/7e0e306c-04b4-bb67-d41f-b31bbadc0ef5/9791035412944.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7e/0e/30/7e0e306c-04b4-bb67-d41f-b31bbadc0ef5/9791035412944.jpg/100x100bb.jpg",
+      "collectionPrice": 22.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2023-09-27T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/1f/8d/61/1f8d6182-ffdb-c651-e9bb-93eec80ebb21/mzaf_2039687472665841450.std.aac.p.m4a",
+      "description": "« Je suis le faucheur. Je connais la douleur. Je connais les ténèbres. Ce n’est que le début. »<br />&#xa0; <br />Darrow aurait voulu vivre en paix. Ses ennemis l’ont jeté dans la guerre. Il s’est élevé parmi les puissants qui dirigent la Société pour mieux préparer sa révolution. À présent, la fin du règne tyrannique des Ors a enfin sonné.<br />Malgré les doutes qui l’assaillent, malgré les anciens amis qu’il va devoir affronter aux quatre coins du Système solaire, Darrow est plus que jamais déterminé à briser les chaînes…<br />&#xa0; <br />La citation d’Antigone de Sophocle est tirée de la traduction de Jean Grosjean, in Les Tragiques grecs, Eschyle / Sophocle, Pléiade, éditions Gallimard, Paris, 1967.<br />La citation des Euménides d’Eschyle est tirée de la traduction de Charles-Marie Leconte de Lisle, in Eschyle – traduction nouvelle, éditions Alphonse Lemerre, Paris, 18??.<br />La citation de « Do not go gentle into that good night », de Dylan Thomas, est tirée de la traduction<br />de Lionel-Édouard Martin, lionel-edouard-martin.net.<br />La citation de Jules César, de William Shakespeare, est tirée de la traduction de François-Victor Hugo, in Œuvres complètes de W. Shakespeare, tome X, éditions Pagnerre, Paris, 1872.<br />La citation de Cymbeline, de William Shakespeare, est tirée de la traduction de François-Victor Hugo, in Œuvres complètes de W. Shakespeare, tome V, éditions Pagnerre, Paris, 1868.<br />La citation de La Vie d’Henry V, de William Shakespeare, est tirée de la traduction de Jean-Michel Déprats, in Œuvres complètes de William Shakespeare – volume IV – Histoires II, Pléiade, éditions Gallimard, Paris, 2008."
+    }
+  ]
+}

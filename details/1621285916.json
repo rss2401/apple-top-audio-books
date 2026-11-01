@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 357923457,
+      "collectionId": 1621285916,
+      "artistName": "Mark Greaney",
+      "collectionName": "The Gray Man",
+      "collectionCensoredName": "The Gray Man",
+      "artistViewUrl": "https://books.apple.com/fr/author/mark-greaney/id357923457?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/the-gray-man/id1621285916?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cf/ce/f7/cfcef7d0-dbd2-9f70-5ec9-549c8849d489/9791036622397.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/cf/ce/f7/cfcef7d0-dbd2-9f70-5ec9-549c8849d489/9791036622397.jpg/100x100bb.jpg",
+      "collectionPrice": 18.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2022 ℗ Lizzie, un département d’Univers Poche, Paris, 2022",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2022-05-12T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/20/ea/39/20ea393e-ddc7-43d2-90fe-5253f463f36b/mzaf_4274111916286038523.std.aac.p.m4a",
+      "description": "Ceux qui oeuvrent dans l'ombre le connaissent sous le nom de Gray Man. Plus connu sous le pseudonyme de \"Gray Man\", tueur à gages implacable devenu une légende pour sa discrétion et sa terrible efficacité, il enchaîne les missions et parvient toujours à abattre sa cible avant de disparaître. Aujourd'hui, la tête de Gray Man est mise à prix. Seul, il doit sans cesse se déplacer pour échapper aux mercenaires qui veulent l'éliminer. La frontière est dès lors abolie entre tuer pour gagner sa vie et tuer pour sauver sa peau... De l'Irak à la France, en passant par Londres, Prague, Budapest et la Suisse, un thriller d'action où magouilles financières, enjeux géopolitiques et exécutions sommaires sont étroitement mêlés. Gray Man ? Un Jason Bourne dopé au Red Bull et aux amphétamines ! Coauteur avec Tom Clancy des aventures de Jason Bourne, Mark Greaney signe un thriller dont l'adaptation est diffusée sur Netflix en 2022."
+    }
+  ]
+}

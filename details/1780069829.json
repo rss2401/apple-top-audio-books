@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 273830578,
+      "collectionId": 1780069829,
+      "amgArtistId": 27538,
+      "artistName": "Clement Clarke Moore",
+      "collectionName": "La Nuit Avant Noël",
+      "collectionCensoredName": "La Nuit Avant Noël",
+      "artistViewUrl": "https://books.apple.com/fr/author/clement-clarke-moore/id273830578?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/la-nuit-avant-no%C3%ABl/id1780069829?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/c3/29/15c329bd-9407-4421-d1f9-a9b8a4a96d1f/9798347918386.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/15/c3/29/15c329bd-9407-4421-d1f9-a9b8a4a96d1f/9798347918386.png/100x100bb.jpg",
+      "collectionPrice": 3.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2024-11-15T08:00:00Z",
+      "primaryGenreName": "Jeunesse",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7f/e2/13/7fe213a0-1257-b7b7-9997-53908fc01d41/mzaf_4558751940365229543.std.aac.p.m4a",
+      "description": "Plongez dans la magie de Noël avec La Nuit Avant Noël (titre original: 'Twas The Night Before Christmas), un conte intemporel de Clement Clarke Moore, merveilleusement narré en français par Etombe Edembe. Cette histoire enchanteresse suit le voyage nocturne du Père Noël alors qu'il visite une petite ville endormie, apportant des cadeaux et de la joie aux familles. Le récit évoque la féérie de Noël, des étoiles scintillantes au ciel aux bruits doux de la neige sous le traîneau tiré par des rennes.<br /><br />La voix captivante d’Etombe Edembe donne vie à ce classique, faisant vibrer chaque vers avec chaleur et nostalgie. Les enfants et les adultes retrouveront le Père Noël et ses rennes, le célèbre traîneau rempli de jouets et la magie de cette nuit unique qui rassemble les cœurs. Ce voyage poétique et musical dans la tradition de Noël est parfait pour une écoute en famille, au coin du feu ou au moment du coucher.<br /><br />La Nuit Avant Noël est bien plus qu'une histoire : c’est une expérience chaleureuse et festive, imprégnée d'esprit de Noël. Cette adaptation en français ravira tous ceux qui souhaitent redécouvrir cette légende merveilleuse et intemporelle."
+    }
+  ]
+}

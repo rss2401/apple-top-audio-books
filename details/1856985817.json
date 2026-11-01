@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 373077050,
+      "collectionId": 1856985817,
+      "artistName": "Delphine de Vigan",
+      "collectionName": "Je suis Romane Monnier",
+      "collectionCensoredName": "Je suis Romane Monnier",
+      "artistViewUrl": "https://books.apple.com/fr/author/delphine-de-vigan/id373077050?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/je-suis-romane-monnier/id1856985817?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/2e/57/8e2e57ed-c27e-29b1-0ea0-986a0894353c/9782073153036.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/2e/57/8e2e57ed-c27e-29b1-0ea0-986a0894353c/9782073153036.jpg/100x100bb.jpg",
+      "collectionPrice": 16.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2025 Editions Gallimard",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2026-01-15T08:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a1/ae/06/a1ae0653-f7c7-743b-cc6d-c17af1fa80bf/mzaf_9535097726334284707.std.aac.p.m4a",
+      "description": "\"Les gens ne comprennent pas. Ils pensent que j’exagère. Mais en fait, je cherche quelque chose qui a disparu. Quelque chose de pur, de limpide… qui n’existe plus.\" \n\nQui est Romane Monnier ? D’elle, il ne reste qu’un téléphone portable. Des notes, des messages, des souvenirs, des enregistrements, autant de traces confiées à un inconnu, un samedi soir dans un bar. \n\nDelphine de Vigan elle-même, accompagnée de Gregori Baquet, Élissa Alloula de la Comédie-Française, Philippe Awat, Bénédicte Cerutti, Louis Berthélémy, Martin Campestre, Isis Ravel et Thalia Otmanetelba nous proposent une lecture immersive et palpitante des recoins les plus intimes de la vie de Romane. Une enquête bouleversante au cœur de nos archives virtuelles. \n\nCouverture : Photographie prise sur le tournage du film Chacun cherche son chat, réalisé par Cédric Klapisch, en 1996, avec Garance Clavel. Photo © Jérôme Plon."
+    }
+  ]
+}
