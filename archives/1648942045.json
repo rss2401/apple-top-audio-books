@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 95,
+      "artistName": "Napoleon Hill",
+      "id": "1648942045",
+      "name": "Think and Grow Rich",
+      "releaseDate": "2015-03-01",
+      "kind": "audio-books",
+      "artistId": "30863058",
+      "artistUrl": "https://books.apple.com/gb/author/napoleon-hill/id30863058",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/44/94/37/449437f5-27b8-0e5a-5303-f1ad2c4c3f3c/9781469060804.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000056",
+          "name": "Self-Development",
+          "url": "https://itunes.apple.com/gb/genre/id50000056"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Audiobooks",
+          "url": "https://itunes.apple.com/gb/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/gb/audiobook/think-and-grow-rich/id1648942045"
+    }
+  ]
+}

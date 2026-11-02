@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 80,
+      "artistName": "Terry Pratchett",
+      "id": "1595669647",
+      "name": "Men At Arms",
+      "releaseDate": "2023-05-25",
+      "kind": "audio-books",
+      "artistId": "2039265",
+      "artistUrl": "https://books.apple.com/fr/author/terry-pratchett/id2039265",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7d/ff/e6/7dffe69a-aedd-50f3-24cb-3de8ec7e768f/9781473588653.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000055",
+          "name": "SF et fantasy",
+          "url": "https://itunes.apple.com/fr/genre/id50000055"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000051",
+          "name": "Policier et suspense",
+          "url": "https://itunes.apple.com/fr/genre/id50000051"
+        },
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/men-at-arms/id1595669647"
+    }
+  ]
+}

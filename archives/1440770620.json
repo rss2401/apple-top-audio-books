@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 18,
+      "artistName": "Yuval Noah Harari",
+      "id": "1440770620",
+      "name": "Homo deus",
+      "releaseDate": "2018-06-06",
+      "kind": "audio-books",
+      "artistId": "680533594",
+      "artistUrl": "https://books.apple.com/fr/author/yuval-noah-harari/id680533594",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/33/a5/ee/33a5ee36-7e1e-b7ad-5210-9e9b5fb32242/9782367626185.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000052",
+          "name": "Essais et sciences humaines",
+          "url": "https://itunes.apple.com/fr/genre/id50000052"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/homo-deus/id1440770620"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 8,
+      "artistName": "Hector Durville",
+      "id": "1258974506",
+      "name": "Maîtrise de Soi",
+      "releaseDate": "2026-09-10",
+      "kind": "audio-books",
+      "artistId": "914328718",
+      "artistUrl": "https://books.apple.com/fr/author/hector-durville/id914328718",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/3d/89/d93d89d4-80bf-521f-26fc-e8737d26a242/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000052",
+          "name": "Essais et sciences humaines",
+          "url": "https://itunes.apple.com/fr/genre/id50000052"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000056",
+          "name": "Santé et bien-être",
+          "url": "https://itunes.apple.com/fr/genre/id50000056"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/ma%C3%AEtrise-de-soi/id1258974506"
+    }
+  ]
+}

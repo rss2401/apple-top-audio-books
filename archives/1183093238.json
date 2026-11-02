@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 52,
+      "artistName": "León Tolstói",
+      "id": "1183093238",
+      "name": "Guerre et Paix 2",
+      "releaseDate": "2025-09-08",
+      "kind": "audio-books",
+      "artistId": "411571599",
+      "artistUrl": "https://books.apple.com/fr/author/le%C3%B3n-tolst%C3%B3i/id411571599",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/95/8a/a7/958aa7f4-a36c-a353-dadd-1c7ba7df0444/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000045",
+          "name": "Classiques",
+          "url": "https://itunes.apple.com/fr/genre/id50000045"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/guerre-et-paix-2/id1183093238"
+    }
+  ]
+}

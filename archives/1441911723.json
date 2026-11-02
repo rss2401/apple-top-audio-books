@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 65,
+      "artistName": "Philippe Delerm",
+      "id": "1441911723",
+      "name": "La première gorgée de bière et autres plaisirs minuscules",
+      "releaseDate": "2015-05-13",
+      "kind": "audio-books",
+      "artistId": "212192955",
+      "artistUrl": "https://books.apple.com/fr/author/philippe-delerm/id212192955",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/16/68/19/16681953-0788-e9c7-2055-f119ba5e8918/9782072000829.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/la-premi%C3%A8re-gorg%C3%A9e-de-bi%C3%A8re-et-autres-plaisirs-minuscules/id1441911723"
+    }
+  ]
+}

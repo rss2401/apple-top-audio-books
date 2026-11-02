@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 45,
+      "artistName": "Lucie Castel",
+      "id": "1884944875",
+      "name": "Le Pacte des Héritières - Livre 1, Alina",
+      "releaseDate": "2026-04-01",
+      "kind": "audio-books",
+      "artistId": "1189090256",
+      "artistUrl": "https://books.apple.com/fr/author/lucie-castel/id1189090256",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f4/3e/09/f43e0941-1757-097e-546f-98b1272e8049/9782386940699.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/le-pacte-des-h%C3%A9riti%C3%A8res-livre-1-alina/id1884944875"
+    }
+  ]
+}

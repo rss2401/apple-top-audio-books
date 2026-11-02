@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 88,
+      "artistName": "Tami Hoag",
+      "id": "1784252596",
+      "name": "Schwärzer als der Tod - Tami Hoag Bestseller Thriller, Band 1 (Ungekürzt)",
+      "releaseDate": "2025-01-10",
+      "kind": "audio-books",
+      "artistId": "2070310",
+      "artistUrl": "https://books.apple.com/de/author/tami-hoag/id2070310",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/eb/06/edeb06d9-7da0-5237-8112-398eae349af1/9783757017613_3000.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000051",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id50000051"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/schw%C3%A4rzer-als-der-tod-tami-hoag-bestseller-thriller/id1784252596"
+    }
+  ]
+}

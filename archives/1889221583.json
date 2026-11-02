@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 78,
+      "artistName": "Agatha Christie",
+      "id": "1889221583",
+      "name": "Le mystére De Listerdale (Version Intégrale)",
+      "releaseDate": "2026-03-06",
+      "kind": "audio-books",
+      "artistId": "2035795",
+      "artistUrl": "https://books.apple.com/fr/author/agatha-christie/id2035795",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/de/60/8ede6002-915a-ac6b-0480-01dc930b5489/4066004931395_3000.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000051",
+          "name": "Policier et suspense",
+          "url": "https://itunes.apple.com/fr/genre/id50000051"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/le-myst%C3%A9re-de-listerdale-version-int%C3%A9grale/id1889221583"
+    }
+  ]
+}

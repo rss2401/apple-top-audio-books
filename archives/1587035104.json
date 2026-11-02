@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 79,
+      "artistName": "Jeffrey Archer",
+      "id": "1587035104",
+      "name": "Over My Dead Body",
+      "releaseDate": "2021-10-12",
+      "kind": "audio-books",
+      "artistId": "2765327",
+      "artistUrl": "https://books.apple.com/gb/author/jeffrey-archer/id2765327",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/f1/2c/6bf12c9d-0cf2-2b47-81ea-15feb2f6c22c/9780008474300.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000051",
+          "name": "Crime & Thrillers",
+          "url": "https://itunes.apple.com/gb/genre/id50000051"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Audiobooks",
+          "url": "https://itunes.apple.com/gb/genre/id50000024"
+        },
+        {
+          "genreId": "50000040",
+          "name": "Fiction",
+          "url": "https://itunes.apple.com/gb/genre/id50000040"
+        }
+      ],
+      "url": "https://books.apple.com/gb/audiobook/over-my-dead-body/id1587035104"
+    }
+  ]
+}

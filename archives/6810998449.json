@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 80,
+      "artistName": "Dora Heldt",
+      "id": "6810998449",
+      "name": "Unzertrennlich (ungekürzt)",
+      "releaseDate": "2008-09-01",
+      "kind": "audio-books",
+      "artistId": "291938135",
+      "artistUrl": "https://books.apple.com/de/author/dora-heldt/id291938135",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/70/92/d1/7092d1c3-b01f-c5f6-8935-2fa516cb90df/4066004881324_3000.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Belletristik",
+          "url": "https://itunes.apple.com/de/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        },
+        {
+          "genreId": "50000069",
+          "name": "Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id50000069"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/unzertrennlich-ungek%C3%BCrzt/id6810998449"
+    }
+  ]
+}

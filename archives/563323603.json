@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 62,
+      "artistName": "Alphonse Daudet",
+      "id": "563323603",
+      "name": "Les lettres de mon moulin",
+      "releaseDate": "2025-01-27",
+      "kind": "audio-books",
+      "artistId": "338695673",
+      "artistUrl": "https://books.apple.com/fr/author/alphonse-daudet/id338695673",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5f/37/21/5f3721f9-43b3-6e3c-9989-43f93767a96a/lg_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000044",
+          "name": "Jeunesse",
+          "url": "https://itunes.apple.com/fr/genre/id50000044"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/les-lettres-de-mon-moulin/id563323603"
+    }
+  ]
+}

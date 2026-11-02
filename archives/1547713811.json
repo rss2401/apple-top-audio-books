@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 67,
+      "artistName": "Sophie Love",
+      "id": "1547713811",
+      "name": "Les Terres fantômes: Mort et collation (Un polar cosy spectral et canin – Livre 2)",
+      "releaseDate": "2020-12-28",
+      "kind": "audio-books",
+      "artistId": "1144517745",
+      "artistUrl": "https://books.apple.com/fr/author/sophie-love/id1144517745",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/61/9b/dd/619bdd9c-b834-5de3-8783-091c20853f0e/9781094317717_cover.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000051",
+          "name": "Policier et suspense",
+          "url": "https://itunes.apple.com/fr/genre/id50000051"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/les-terres-fant%C3%B4mes-mort-et-collation-un-polar-cosy/id1547713811"
+    }
+  ]
+}

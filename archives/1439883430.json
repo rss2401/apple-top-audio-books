@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 86,
+      "artistName": "Dr. Maya Angelou",
+      "id": "1439883430",
+      "name": "I Know Why The Caged Bird Sings",
+      "releaseDate": "2014-04-04",
+      "kind": "audio-books",
+      "artistId": "420690009",
+      "artistUrl": "https://books.apple.com/fr/author/dr-maya-angelou/id420690009",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1b/3b/1a/1b3b1a82-31fc-be4a-905c-619a4112ead8/9781405531191.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000042",
+          "name": "Biographies et mémoires",
+          "url": "https://itunes.apple.com/fr/genre/id50000042"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/i-know-why-the-caged-bird-sings/id1439883430"
+    }
+  ]
+}

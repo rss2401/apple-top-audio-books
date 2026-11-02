@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 54,
+      "artistName": "AELF",
+      "id": "6817231440",
+      "name": "Le Nouveau Testament - Traduction officielle liturgique",
+      "releaseDate": "2026-10-30",
+      "kind": "audio-books",
+      "artistId": "1051796495",
+      "artistUrl": "https://books.apple.com/fr/author/aelf/id1051796495",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/29/0d/3f290d33-daab-7896-c033-f1ac107497ca/9782728940226.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000053",
+          "name": "Religion et spiritualité",
+          "url": "https://itunes.apple.com/fr/genre/id50000053"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/le-nouveau-testament-traduction-officielle-liturgique/id6817231440"
+    }
+  ]
+}

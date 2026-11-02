@@ -1,0 +1,48 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 48,
+      "artistName": "Sun Tzu",
+      "id": "1358655235",
+      "name": "L'art de la guerre. Réfléchir pour vaincre",
+      "releaseDate": "2024-10-25",
+      "kind": "audio-books",
+      "artistId": "60737826",
+      "artistUrl": "https://books.apple.com/fr/author/sun-tzu/id60737826",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/c2/9b/9cc29bc3-1015-abbe-152f-e1f68e98ef2c/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000051",
+          "name": "Policier et suspense",
+          "url": "https://itunes.apple.com/fr/genre/id50000051"
+        },
+        {
+          "genreId": "50000052",
+          "name": "Essais et sciences humaines",
+          "url": "https://itunes.apple.com/fr/genre/id50000052"
+        },
+        {
+          "genreId": "50000045",
+          "name": "Classiques",
+          "url": "https://itunes.apple.com/fr/genre/id50000045"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/lart-de-la-guerre-r%C3%A9fl%C3%A9chir-pour-vaincre/id1358655235"
+    }
+  ]
+}

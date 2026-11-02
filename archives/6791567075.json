@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 44,
+      "artistName": "Pierric Bailly",
+      "id": "6791567075",
+      "name": "Rouges-truites",
+      "releaseDate": "2026-08-20",
+      "kind": "audio-books",
+      "artistId": "543550304",
+      "artistUrl": "https://books.apple.com/fr/author/pierric-bailly/id543550304",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/86/d8/b8/86d8b8c1-1ebf-da6f-fdee-3747885e7146/9782073181435.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/rouges-truites/id6791567075"
+    }
+  ]
+}

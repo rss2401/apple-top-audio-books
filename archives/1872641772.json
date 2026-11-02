@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 36,
+      "artistName": "Ethan Mollick",
+      "id": "1872641772",
+      "name": "Co-Existence",
+      "releaseDate": "2026-10-22",
+      "kind": "audio-books",
+      "artistId": "404355412",
+      "artistUrl": "https://books.apple.com/fr/author/ethan-mollick/id404355412",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/f6/9f/27f69fa0-6a94-e359-0d37-9ad63d776ca8/9780753562710.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000052",
+          "name": "Essais et sciences humaines",
+          "url": "https://itunes.apple.com/fr/genre/id50000052"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/co-existence/id1872641772"
+    }
+  ]
+}

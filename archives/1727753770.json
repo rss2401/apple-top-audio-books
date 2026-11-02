@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 91,
+      "artistName": "Eugène Le Roy",
+      "id": "1727753770",
+      "name": "Jacquou le croquant",
+      "releaseDate": "2026-07-24",
+      "kind": "audio-books",
+      "artistId": "379131134",
+      "artistUrl": "https://books.apple.com/fr/author/eug%C3%A8ne-le-roy/id379131134",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/43/5c/bc/435cbc7b-97eb-4365-8910-bb410b4856ab/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/jacquou-le-croquant/id1727753770"
+    }
+  ]
+}

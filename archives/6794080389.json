@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 96,
+      "artistName": "Eric C. So",
+      "id": "6794080389",
+      "name": "The Collision : What AI Does to Us",
+      "releaseDate": "2026-10-06",
+      "kind": "audio-books",
+      "artistId": "1879873356",
+      "artistUrl": "https://books.apple.com/fr/author/eric-c-so/id1879873356",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/48/07/e8480772-7150-907c-de44-627f606b3b04/9798318583841.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000054",
+          "name": "Sciences",
+          "url": "https://itunes.apple.com/fr/genre/id50000054"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/the-collision-what-ai-does-to-us/id6794080389"
+    }
+  ]
+}

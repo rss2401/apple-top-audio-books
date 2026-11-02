@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 87,
+      "artistName": "Virginia Evans",
+      "id": "6779300309",
+      "name": "La Correspondante",
+      "releaseDate": "2026-07-16",
+      "kind": "audio-books",
+      "artistId": "269549820",
+      "artistUrl": "https://books.apple.com/fr/author/virginia-evans/id269549820",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/13/c4/e213c4aa-556c-7024-0d1e-7cefb515d1a9/9791036653957.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/la-correspondante/id6779300309"
+    }
+  ]
+}

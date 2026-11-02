@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 84,
+      "artistName": "Simon Winder",
+      "id": "1697830931",
+      "name": "Germania",
+      "releaseDate": "2024-04-11",
+      "kind": "audio-books",
+      "artistId": "364661761",
+      "artistUrl": "https://books.apple.com/fr/author/simon-winder/id364661761",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b8/e7/17/b8e717f7-4823-2807-6630-a47eda2eb9c9/9781035024049.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000049",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id50000049"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000046",
+          "name": "Comédie",
+          "url": "https://itunes.apple.com/fr/genre/id50000046"
+        },
+        {
+          "genreId": "50000059",
+          "name": "Tourisme et voyages",
+          "url": "https://itunes.apple.com/fr/genre/id50000059"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/germania/id1697830931"
+    }
+  ]
+}

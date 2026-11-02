@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 16,
+      "artistName": "Lucinda Riley",
+      "id": "1741500826",
+      "name": "La Soeur de la Lune - Les Sept Soeurs, tome 5",
+      "releaseDate": "2024-05-01",
+      "kind": "audio-books",
+      "artistId": "401210503",
+      "artistUrl": "https://books.apple.com/fr/author/lucinda-riley/id401210503",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/e7/1d/7fe71d85-fee3-a99e-2072-c8c88d48a487/9791035412128.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000069",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/fr/genre/id50000069"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/la-soeur-de-la-lune-les-sept-soeurs-tome-5/id1741500826"
+    }
+  ]
+}

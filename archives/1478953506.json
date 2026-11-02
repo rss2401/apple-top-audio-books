@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 87,
+      "artistName": "Juli Zeh",
+      "id": "1478953506",
+      "name": "Neujahr",
+      "releaseDate": "2018-09-10",
+      "kind": "audio-books",
+      "artistId": "84243465",
+      "artistUrl": "https://books.apple.com/de/author/juli-zeh/id84243465",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/df/40/2a/df402aa9-3a91-7bd0-eb51-b5588ebf0d9f/9783844530988.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Belletristik",
+          "url": "https://itunes.apple.com/de/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/neujahr/id1478953506"
+    }
+  ]
+}

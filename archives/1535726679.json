@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 66,
+      "artistName": "Charlotte Link",
+      "id": "1535726679",
+      "name": "Ohne Schuld",
+      "releaseDate": "2020-11-02",
+      "kind": "audio-books",
+      "artistId": "15407324",
+      "artistUrl": "https://books.apple.com/de/author/charlotte-link/id15407324",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/18/78/e8/1878e87b-458d-f679-4b0a-765de7de0114/9783837154221.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Belletristik",
+          "url": "https://itunes.apple.com/de/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/ohne-schuld/id1535726679"
+    }
+  ]
+}

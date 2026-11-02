@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 35,
+      "artistName": "Cecilia Lilienthal",
+      "id": "1794171967",
+      "name": "Zur Schokoladen-Symphonie",
+      "releaseDate": "2024-02-03",
+      "kind": "audio-books",
+      "artistId": "1785866210",
+      "artistUrl": "https://books.apple.com/de/author/cecilia-lilienthal/id1785866210",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d3/81/27/d3812760-9c54-ad36-fcb3-df6a61830a7d/4069828151598.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000069",
+          "name": "Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id50000069"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/zur-schokoladen-symphonie/id1794171967"
+    }
+  ]
+}

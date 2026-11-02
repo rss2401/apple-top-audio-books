@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 46,
+      "artistName": "Fabien Olicard",
+      "id": "1501212552",
+      "name": "Votre temps est infini",
+      "releaseDate": "2020-01-09",
+      "kind": "audio-books",
+      "artistId": "1232428642",
+      "artistUrl": "https://books.apple.com/fr/author/fabien-olicard/id1232428642",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/44/c6/2a/44c62ac0-7599-2486-4f69-80a7733cb58d/9791036606595.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000056",
+          "name": "Santé et bien-être",
+          "url": "https://itunes.apple.com/fr/genre/id50000056"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/votre-temps-est-infini/id1501212552"
+    }
+  ]
+}

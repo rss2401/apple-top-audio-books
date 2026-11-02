@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 37,
+      "artistName": "Peter F. Hamilton",
+      "id": "1728228414",
+      "name": "Une brèche dans le ciel",
+      "releaseDate": "2023-07-28",
+      "kind": "audio-books",
+      "artistId": "279984751",
+      "artistUrl": "https://books.apple.com/fr/author/peter-f-hamilton/id279984751",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/d0/95/8fd095f9-e1dc-04b8-39db-be0ff987dcf0/9782374344164.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000055",
+          "name": "SF et fantasy",
+          "url": "https://itunes.apple.com/fr/genre/id50000055"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/une-br%C3%A8che-dans-le-ciel/id1728228414"
+    }
+  ]
+}
