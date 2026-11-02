@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1534098498,
+      "collectionId": 1540798593,
+      "artistName": "By Steve",
+      "collectionName": "Karma Sutra",
+      "collectionCensoredName": "Karma Sutra",
+      "artistViewUrl": "https://books.apple.com/fr/author/by-steve/id1534098498?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/karma-sutra/id1540798593?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0f/43/12/0f43129c-ae23-1832-54ec-194ec636deb8/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0f/43/12/0f43129c-ae23-1832-54ec-194ec636deb8/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 10.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2020 Audible Studios",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2020-11-19T08:00:00Z",
+      "primaryGenreName": "Religion et spiritualité",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/af/7b/03/af7b0353-dd58-9d02-b5a5-fd8699a8ca7b/mzaf_13045998162429776507.std.aac.p.m4a",
+      "description": "La nouvelle version du célèbre best-seller auto-édité.<br /><br /><i>Karma Sutra</i>, c'est 150 pages expliquant le règles que j'ai pu découvrir grâce à de multiples expériences extraordinaires au cours de ma vie : de mes années passées chez les commandos, jusqu'aux Championnats de France et Championnats du Monde de Lecture Rapide, en passant par la rencontre de multiples mentors et experts dans le monde entier.<br /><br />Acquérir ce livre audio, c'est disposer d'un logiciel pour pirater le monde et ses secrets sans aucun effort et pour enfin vous libérer de vos croyances limitantes. Si ces méthodes ne fonctionnaient pas, pensez vous que mon équipe et moi aurions pu décrocher 7 médailles en un seul Championnat du Monde ?<br /><br />L'heure est donc venue d'arrêter de regarder sous votre lit, terrifié, pour voir s'il y a des monstres... ce livre audio vous servira à allumer la lumière et voir que les seuls monstres à vaincre sont à l'intérieur de vous !"
+    }
+  ]
+}

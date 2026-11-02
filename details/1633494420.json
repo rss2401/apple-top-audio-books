@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 430855342,
+      "collectionId": 1633494420,
+      "artistName": "Stéphane Carlier",
+      "collectionName": "Clara lit Proust",
+      "collectionCensoredName": "Clara lit Proust",
+      "artistViewUrl": "https://books.apple.com/fr/author/st%C3%A9phane-carlier/id430855342?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/clara-lit-proust/id1633494420?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7b/b5/0d/7bb50d0b-5143-3bf1-60a2-829215a3ea1b/9782072998980.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7b/b5/0d/7bb50d0b-5143-3bf1-60a2-829215a3ea1b/9782072998980.jpg/100x100bb.jpg",
+      "collectionPrice": 13.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2022 Editions Gallimard",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2022-09-01T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/43/2d/15/432d1509-d62c-372e-fa9a-fcb76c096a9c/mzaf_7850699907549155352.std.aac.p.m4a",
+      "description": "\"Proust. Avant, ce nom mythique était pour elle comme celui de certaines villes – Capri, Saint-Pétersbourg... – où il était entendu qu’elle ne mettrait jamais les pieds.\" &#xa0;\n\nClara est coiffeuse dans une petite ville de Saône-et-Loire. Son quotidien, c’est une patronne mélancolique, un copain beau comme un prince de Disney, un chat qui ne se laisse pas caresser. Le temps passe au rythme des histoires du salon et des tubes diffusés par Nostalgie, jusqu’au jour où Clara rencontre l’homme qui va changer sa vie&#xa0;: Marcel Proust. \n\nAvec une fraicheur et une douceur réjouissante, Rachel Arditi prend le rôle de Clara, une jeune coiffeuse qui découvre la lecture grâce à Proust."
+    }
+  ]
+}

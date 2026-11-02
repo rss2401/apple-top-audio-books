@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 468365995,
+      "collectionId": 6807014790,
+      "artistName": "Viveca Sten",
+      "collectionName": "Gnadenopfer - Ein Fall für Hanna Ahlander: Die Åre-Morde, Band 5",
+      "collectionCensoredName": "Gnadenopfer - Ein Fall für Hanna Ahlander: Die Åre-Morde, Band 5",
+      "artistViewUrl": "https://books.apple.com/de/author/viveca-sten/id468365995?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/gnadenopfer-ein-fall-f%C3%BCr-hanna-ahlander-die-%C3%A5re-morde-band-5/id6807014790?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/f4/28/e2f42864-3eac-9d5d-e9f3-42bde4d4daec/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/f4/28/e2f42864-3eac-9d5d-e9f3-42bde4d4daec/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 14.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2026 Der Audio Verlag",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2026-10-08T07:00:00Z",
+      "primaryGenreName": "Krimis und Thriller",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d3/41/6b/d3416bb9-b196-7640-98e1-2656926913f1/mzaf_4899562746135507972.std.aac.p.m4a",
+      "description": "Eine Reihe mysteriöser Todesfälle sucht den beliebten Skiort Åre im Norden Schwedens heim. Die Opfer haben eines gemeinsam: Sie alle waren weit über 60 Jahre alt. Hanna Ahlander ahnt schnell, dass etwas nicht stimmt. Gleichzeitig gerät ihre Beziehung zu ihrem engsten Kollegen Daniel Lindskog ins Wanken, und der Konflikt verschärft sich, obwohl die beiden aufeinander angewiesen sind. Während die Uhr tickt, müssen Hanna und Daniel verhindern, dass weitere Menschen ermordet werden – aber dafür müssen sie wieder zueinander finden."
+    }
+  ]
+}

@@ -1,4 +1,26 @@
 {
-  "resultCount": 0,
-  "results": []
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 699223610,
+      "collectionId": 1874323972,
+      "artistName": "Stephen J. Harper",
+      "collectionName": "Here for Canada: Memoirs of the 22nd Prime Minister (Unabridged)",
+      "collectionCensoredName": "Here for Canada: Memoirs of the 22nd Prime Minister (Unabridged)",
+      "artistViewUrl": "https://books.apple.com/jp/author/stephen-j-harper/id699223610?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/here-for-canada-memoirs-of-the-22nd-prime/id1874323972?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/34/f9/4134f9c7-8962-3430-972f-1220bfe22aff/9780771004070.d.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/34/f9/4134f9c7-8962-3430-972f-1220bfe22aff/9780771004070.d.jpg/100x100bb.jpg",
+      "collectionPrice": 4685,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 2,
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2026-11-03T08:00:00Z",
+      "primaryGenreName": "ノンフィクション",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b2/68/29/b26829b2-57b0-043b-a214-78fb3e2943b7/mzaf_10558997044452846897.std.aac.p.m4a",
+      "description": "<b>A unique first-hand account of the major events, decisions, triumphs and tragedies that defined Stephen Harper’s time in power, as well as the story of his path to prime minister, <i>Here for Canada</i> is a must have for any reader interested in leadership, Canadian history, and politics.</b><br /><br />Spanning a near ten-year journey in government, Mr. Harper’s account takes us behind the scenes of Canada's deft handling of the 2008 global financial collapse, his oversight of the country’s military engagement in Afghanistan, his passionate defence of Canada’s Northern sovereignty, and his historic accomplishments in growing Canada’s trading relationships. Perhaps the most striking element of these captivating memoirs is how relevant Mr. Harper’s foreign policies are to today’s geopolitical landscape, and how prescient his government was on China, Russia, Ukraine, India, the Middle East, global energy markets, foreign trade and, of course, Canada's relationship with the United States.<br /><br /><i>Here for Canada</i> also recounts the Harper government’s relentless work to toughen criminal justice laws to protect communities, rebuild the country’s military, speak with an influential voice abroad, while celebrating Canada’s proud identity and history at home.&#xa0; A trained economist determined to put Canada on the path to long-term prosperity, Mr. Harper’s account of restoring a balanced budget in 2015, cutting taxes to boost competitiveness, and enabling development of natural resources is particularly relevant today.<br /><br />These memoirs are an insider account of what it is like to be prime minister; how and why decisions are made and at what cost. But they also examine our national identity and what is necessary to sustain it. <i>Here for Canada</i> stands as a testament to both Stephen Harper’s significant legacy as Prime Minister, and Canada’s forward potential."
+    }
+  ]
 }

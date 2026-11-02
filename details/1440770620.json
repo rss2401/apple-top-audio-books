@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 680533594,
+      "collectionId": 1440770620,
+      "artistName": "Yuval Noah Harari",
+      "collectionName": "Homo deus",
+      "collectionCensoredName": "Homo deus",
+      "artistViewUrl": "https://books.apple.com/fr/author/yuval-noah-harari/id680533594?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/homo-deus/id1440770620?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/33/a5/ee/33a5ee36-7e1e-b7ad-5210-9e9b5fb32242/9782367626185.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/33/a5/ee/33a5ee36-7e1e-b7ad-5210-9e9b5fb32242/9782367626185.jpg/100x100bb.jpg",
+      "collectionPrice": 21.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2018-06-06T07:00:00Z",
+      "primaryGenreName": "Essais et sciences humaines",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/1c/cc/4e/1ccc4e1b-1e03-1b8a-a740-eb34a63ec783/mzaf_2493543937332446925.std.aac.p.m4a",
+      "description": "Sapiens retraçait l’histoire de l’humanité. Homo deus interroge son avenir.<br />Que deviendront nos démocraties quand Google et Facebook connaîtront nos goûts et nos préférences politiques mieux que nous-mêmes ? Qu’adviendra-t-il de l’État providence lorsque nous, les humains, serons évincés du marché de l’emploi par des ordinateurs plus performants ? Quelle utilisation certaines religions feront-elles de la manipulation génétique ? Homo deus nous dévoile ce que sera le monde d’aujourd’hui lorsque, à nos mythes collectifs tels que les dieux, l’argent, l’égalité et la liberté, s’allieront de nouvelles technologies démiurgiques. Et que les algorithmes, de plus en plus intelligents, pourront se passer de notre pouvoir de décision. Car, tandis que l’Homo sapiens devient un Homo deus, nous nous forgeons un nouveau destin.<br />Best-seller international – plus de 380 000 exemplaires vendus en France, traduit dans près de 40 langues – Sapiens interrogeait l’histoire de l’humanité, de l’âge de la pierre à l’ère de la Silicon Valley. Le nouveau livre de Yuval Noah Harari offre un aperçu vertigineux des rêves et des cauchemars qui façonneront le XXIe siècle."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1337148538,
+      "collectionId": 1854089680,
+      "artistName": "Guillaume Meurice",
+      "collectionName": "Petit éloge de la médiocrité",
+      "collectionCensoredName": "Petit éloge de la médiocrité",
+      "artistViewUrl": "https://books.apple.com/fr/author/guillaume-meurice/id1337148538?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/petit-%C3%A9loge-de-la-m%C3%A9diocrit%C3%A9/id1854089680?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/11/67/63116760-96ab-8b62-fa11-4d91b252206a/9791025207055.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/11/67/63116760-96ab-8b62-fa11-4d91b252206a/9791025207055.jpg/100x100bb.jpg",
+      "collectionPrice": 11.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2025 Éditions Les Pérégrines",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2025-11-20T08:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/58/39/68/583968fa-b59b-c7d8-59e0-ee8e593781e2/mzaf_11401151174009551515.std.aac.p.m4a",
+      "description": "Médiocre : de qualité moyenne, qui tient le milieu entre le grand et le petit. La normalité, version péjorative, avec un arrière-goût de nullité. Pour Guillaume Meurice, ardent défenseur du 10/20, du « peut mieux faire », du « bof bof », la médiocrité est non seulement un mode de vie, mais aussi un formidable facteur d'émancipation. Elle autorise l'action sans la pression du résultat, pour le simple plaisir de se mettre en mouvement, pour la beauté du geste. Il faut la revendiquer en tant que résistance politique, car elle porte en elle le refus de la hiérarchie, de la compétition et du catéchisme capitaliste.\r\nÀ la fois manifeste en faveur de la contre-performance et anti-manuel de développement personnel, ce Petit éloge nous invite à accepter avec\r\nsérénité notre médiocrité. Décomplexant !"
+    }
+  ]
+}

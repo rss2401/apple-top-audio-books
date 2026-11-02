@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1051796495,
+      "collectionId": 6817231271,
+      "artistName": "AELF",
+      "collectionName": "Les Psaumes - Traduction officielle liturgique",
+      "collectionCensoredName": "Les Psaumes - Traduction officielle liturgique",
+      "artistViewUrl": "https://books.apple.com/fr/author/aelf/id1051796495?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/les-psaumes-traduction-officielle-liturgique/id6817231271?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/fc/f3/cefcf30c-82ee-6e6b-d2d4-6eb1f41dc3d2/9782728940240.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/fc/f3/cefcf30c-82ee-6e6b-d2d4-6eb1f41dc3d2/9782728940240.jpg/100x100bb.jpg",
+      "collectionPrice": 5.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2026 Mame",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2026-10-30T07:00:00Z",
+      "primaryGenreName": "Religion et spiritualité",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/da/d5/1b/dad51b68-3cb9-c355-f6ab-1135ce96df93/mzaf_3396997941665818314.std.aac.p.m4a",
+      "description": "\"Ta parole est la lumière de mes pas, la lampe de ma route.\" (Ps 118, 105)<br /><br />Le texte intégral des psaumes, dans la traduction officielle liturgique.<br /><br />Avec Amandine Blanquart, Marianne Pommier, Gautier Marchado, Ivan Gouillon.<br /><br />Une production entièrement réalisée en France, avec des voix humaines.<br /><br />Une magnifique façon de (re)découvrir toute la beauté de ces poèmes, composés, selon la Tradition, par le roi David.<br /><br />Production exécutive : Cascades. Réalisation : Blynd."
+    }
+  ]
+}

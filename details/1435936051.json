@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 15407324,
+      "collectionId": 1435936051,
+      "artistName": "Charlotte Link",
+      "collectionName": "Die Suche",
+      "collectionCensoredName": "Die Suche",
+      "artistViewUrl": "https://books.apple.com/de/author/charlotte-link/id15407324?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/die-suche/id1435936051?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f3/0e/b2/f30eb2dd-4fb6-bb61-529f-9a309c4ac13f/9783837143232.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f3/0e/b2/f30eb2dd-4fb6-bb61-529f-9a309c4ac13f/9783837143232.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2018 Random House Audio",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2018-10-01T07:00:00Z",
+      "primaryGenreName": "Belletristik",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/7b/e0/20/7be02007-6c65-9e22-1a64-0e5f26326ec5/mzaf_4972662615842643332.std.aac.p.m4a",
+      "description": "<b>Drei verschwundene Mädchen und eine Spur, die weit in die Vergangenheit führt ...</b><br /><br />In den Hochmooren Nordenglands wird die Leiche der ein Jahr zuvor verschwundenen 14-jährigen Saskia Morris gefunden. Kurze Zeit später wird ein weiteres junges Mädchen vermisst, die ebenfalls 14-jährige Amelie Goldsby. Die Polizei in Scarborough ist alarmiert. Treibt ein Serientäter sein Unwesen? In den Medien ist schnell vom Hochmoor-Killer die Rede, was den Druck auf Detective Chief Inspector Caleb Hale erhöht. Auch Detective Sergeant Kate Linville von Scotland Yard ist in der Gegend, um ihr ehemaliges Elternhaus zu verkaufen. Durch Zufall macht sie die Bekanntschaft von Amelies völlig verzweifelter Familie und wird zur unfreiwilligen Ermittlerin in einem Drama, das weder Anfang noch Ende zu haben scheint. Und dann fehlt erneut von einem Mädchen jede Spur ...Gelesen von Claudia Michelsen — fesselnder Hörgenuss, der seinesgleichen sucht."
+    }
+  ]
+}

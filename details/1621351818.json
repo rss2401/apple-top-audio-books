@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1465592684,
+      "collectionId": 1621351818,
+      "artistName": "Fabrice Caro",
+      "collectionName": "Samouraï",
+      "collectionCensoredName": "Samouraï",
+      "artistViewUrl": "https://books.apple.com/fr/author/fabrice-caro/id1465592684?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/samoura%C3%AF/id1621351818?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b1/e0/b0/b1e0b0f0-1cf0-31d2-2bcd-523803324a62/9782072992391.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b1/e0/b0/b1e0b0f0-1cf0-31d2-2bcd-523803324a62/9782072992391.jpg/100x100bb.jpg",
+      "collectionPrice": 14.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2022 Éditions Gallimard",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2022-05-05T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/77/40/09/774009b2-350f-88fe-6fa1-bb69659d860c/mzaf_3575283257179026389.std.aac.p.m4a",
+      "description": "\"TU VEUX PAS ÉCRIRE UN ROMAN SÉRIEUX ?\" a conseillé Lisa à Alan, avant de le quitter pour un universitaire spécialiste de Ronsard. Depuis, Alan cherche un sujet de \"roman sérieux\". Il veut profiter de l’été qui commence pour se plonger avec la discipline d’un guerrier samouraï dans l’écriture d’un livre profond et poignant. Ça et aussi s’occuper de la piscine des voisins partis en vacances. Or bientôt l’eau du bassin se met à verdir, de drôles d’insectes appelés notonectes se multiplient à la surface… \nBenjamin Lavernhe de la Comédie-Française s'empare avec grâce de ce récit doux-amer, chronique drôle et tendre de l'absurde de nos vies."
+    }
+  ]
+}

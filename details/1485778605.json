@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 526766707,
+      "collectionId": 1485778605,
+      "artistName": "Нассим Николас Талеб",
+      "collectionName": "Черный лебедь. Под знаком непредсказуемости",
+      "collectionCensoredName": "Черный лебедь. Под знаком непредсказуемости",
+      "artistViewUrl": "https://books.apple.com/fr/author/%D0%BD%D0%B0%D1%81%D1%81%D0%B8%D0%BC-%D0%BD%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D1%81-%D1%82%D0%B0%D0%BB%D0%B5%D0%B1/id526766707?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/%D1%87%D0%B5%D1%80%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B5%D0%B1%D0%B5%D0%B4%D1%8C-%D0%BF%D0%BE%D0%B4-%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC-%D0%BD%D0%B5%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D1%83%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D0%B8/id1485778605?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/1f/ad/c4/1fadc444-09bc-8679-1590-0d8b2e848928/9785389141599.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/1f/ad/c4/1fadc444-09bc-8679-1590-0d8b2e848928/9785389141599.jpg/100x100bb.jpg",
+      "collectionPrice": 11.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2018 Колибри - Colibri (AZBOOKA-ATTICUS PUBLISHING GROUP LLC)",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2023-11-01T07:00:00Z",
+      "primaryGenreName": "Affaires",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/6a/70/85/6a70854e-dd1b-c84d-ced4-5c43b89a2c75/mzaf_1431804571952253572.std.aac.p.m4a",
+      "description": "За одно только последнее десятилетие человечество пережило ряд тяжелейших катастроф, потрясений и катаклизмов, не укладывающихся в рамки самых фантастических предсказаний. Выпускник Сорбонны и ньюйоркский финансовый гуру Нассим Талеб называет такие непрогнозируемые события Черными лебедями. Он убежден: именно они дают толчок как истории в целом, так и существованию каждого отдельного человека. И чтобы пре успеть, надо быть к ним готовыми. Сразу после выхода \"Черного лебедя\" автор блестяще продемонстрировал свою \"нетеорию\" на практике: на фоне финансового кризиса компания Талеба заработала (а не потеряла!) для инвесторов полмиллиарда долларов. Но его труд — не учебник по экономике. Это размышления незаурядного человека о жизни и о том, как найти в ней свое место."
+    }
+  ]
+}

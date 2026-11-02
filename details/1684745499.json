@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 2129151,
+      "collectionId": 1684745499,
+      "artistName": "C. S. Lewis",
+      "collectionName": "Le Monde de Narnia (Tome 4) - Le Prince Caspian",
+      "collectionCensoredName": "Le Monde de Narnia (Tome 4) - Le Prince Caspian",
+      "artistViewUrl": "https://books.apple.com/fr/author/c-s-lewis/id2129151?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/le-monde-de-narnia-tome-4-le-prince-caspian/id1684745499?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ff/c6/b6/ffc6b6ef-28d7-d7ba-379d-fd2ca7be40c2/9782075168151.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ff/c6/b6/ffc6b6ef-28d7-d7ba-379d-fd2ca7be40c2/9782075168151.jpg/100x100bb.jpg",
+      "collectionPrice": 15.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2001 Editions Gallimard Jeunesse",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2022-04-20T07:00:00Z",
+      "primaryGenreName": "Jeunesse",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/b9/23/28/b9232822-e57b-91c5-676a-c2b8c59e5b97/mzaf_3516777631632599800.std.aac.p.m4a",
+      "description": "Peter, Susan, Edmund et Lucy sont de retour dans le monde merveilleux de Narnia. Mais si pour eux une seule année s'est écoulée, dans leur ancien royaume, des siècles ont passé. Le terrible roi Miraz a pris le pouvoir et le pays tout entier est désolé. Seul le prince Caspian peut rétablir l'harmonie. Les enfants parviendront-ils à le retrouver ?"
+    }
+  ]
+}

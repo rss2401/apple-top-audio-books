@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1879873356,
+      "collectionId": 6794080389,
+      "artistName": "Eric C. So",
+      "collectionName": "The Collision : What AI Does to Us",
+      "collectionCensoredName": "The Collision : What AI Does to Us",
+      "artistViewUrl": "https://books.apple.com/fr/author/eric-c-so/id1879873356?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/the-collision-what-ai-does-to-us/id6794080389?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/48/07/e8480772-7150-907c-de44-627f606b3b04/9798318583841.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/48/07/e8480772-7150-907c-de44-627f606b3b04/9798318583841.jpg/100x100bb.jpg",
+      "collectionPrice": 15.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2026-10-06T07:00:00Z",
+      "primaryGenreName": "Sciences",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/68/76/5f/68765f58-c9c0-dbb4-6083-19604fd77e65/mzaf_11663572096130819375.std.aac.p.m4a",
+      "description": "<b>AI is not just changing what we do. It is changing who we are as thinkers. How do we get the best out of AI without making ourselves worse?</b><br /><br />AI promises effortless solutions and endless capacity. But the collision of human intelligence and machine intelligence has also started to create two diverging groups: those who use AI to think better and those who use AI instead of thinking. What if the accessibility of a tool this fast, creative, and smart is eroding our ability to think for ourselves?<br /><br />Through lucid storytelling and cutting-edge research, including his own widely discussed work and examples from workers across industries who are struggling and succeeding with AI, MIT professor Eric C. So reveals the science behind the way AI is reshaping our brains―and offers practical guidance for wielding these powerful tools without letting our minds atrophy: Value the struggle of human effort. Know who you are without AI. Reinvest the cognitive surplus AI creates. Treat AI as a cognitive trainer, not a replacement.<br /><br />Rich with takeaways for professionals, parents, and everyone trying to understand AI's perils and promise,&#xa0;<i>The Collision</i>&#xa0;is an essential guide for using AI without losing yourself."
+    }
+  ]
+}

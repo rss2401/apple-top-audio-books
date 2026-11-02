@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1051796495,
+      "collectionId": 6817231440,
+      "artistName": "AELF",
+      "collectionName": "Le Nouveau Testament - Traduction officielle liturgique",
+      "collectionCensoredName": "Le Nouveau Testament - Traduction officielle liturgique",
+      "artistViewUrl": "https://books.apple.com/fr/author/aelf/id1051796495?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/le-nouveau-testament-traduction-officielle-liturgique/id6817231440?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/29/0d/3f290d33-daab-7896-c033-f1ac107497ca/9782728940226.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/29/0d/3f290d33-daab-7896-c033-f1ac107497ca/9782728940226.jpg/100x100bb.jpg",
+      "collectionPrice": 25.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 2,
+      "copyright": "© 2026 Mame",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2026-10-30T07:00:00Z",
+      "primaryGenreName": "Religion et spiritualité",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d2/e5/b4/d2e5b4b9-f0a8-a135-1c73-f11037dc3914/mzaf_17284634354435269829.std.aac.p.m4a",
+      "description": "\"L'homme ne vit pas seulement de pain, mais de toute parole qui sort de la bouche de Dieu.\" (Mt 4, 4)<br /><br />Le texte intégral du Nouveau Testament, dans la traduction officielle liturgique.<br /><br />Avec Gautier Marchado (narrateur), Hyppolit Audouy (Jésus), Ivan Gouillon (personnages masculins), Amandine Blanquart (personnages féminins), Marianne Pommier (paratexte et psaumes).<br /><br />Une production entièrement réalisée en France, avec des voix humaines.<br /><br />Une magnifique façon de (re)découvrir toute la beauté du texte biblique.<br /><br />Production exécutive : Cascades. Réalisation : Blynd."
+    }
+  ]
+}

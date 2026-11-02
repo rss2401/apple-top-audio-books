@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1490678813,
+      "collectionId": 1529293658,
+      "artistName": "Stella Delmas",
+      "collectionName": "Méditer pour être heureux",
+      "collectionCensoredName": "Méditer pour être heureux",
+      "artistViewUrl": "https://books.apple.com/fr/author/stella-delmas/id1490678813?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/m%C3%A9diter-pour-%C3%AAtre-heureux/id1529293658?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/5e/a1/94/5ea194c6-41a0-38dd-f512-113e240f1263/9791035401658.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/5e/a1/94/5ea194c6-41a0-38dd-f512-113e240f1263/9791035401658.jpg/100x100bb.jpg",
+      "collectionPrice": 17.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2020-09-16T07:00:00Z",
+      "primaryGenreName": "Religion et spiritualité",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/5e/ff/2c/5eff2cf0-2a23-2c32-ad37-c0c1dc4dad3d/mzaf_14468586030437331905.std.aac.p.m4a",
+      "description": "Découvrez la sérénité avec plus de 50 séances de méditation autour de la musique, des sons de la nature et du silence.<br /><br />Dans cet ouvrage, découvrez des méditations et relaxations qui vous permettront d’explorer de nouvelles sensations de plénitude et de quiétude. Suivez ce parcours initiatique grâce à 15 beaux airs de musique classique relaxants et 12 sons apaisants de la nature. Pour chaque son de la nature ou air classique, l’autrice vous invite à méditer, en vous laissant transporter par la musique qui lui est associée. D’autres méditations vous inciteront, cette fois-ci dans le silence, au retour sur l’instant présent et à l’écoute de vous-même. Laissez-vous bercer, accueillez le monde qui vous entoure et voyagez dans votre for intérieur…<br /><br />En partenariat avec Radio Classique, cet enregistrement vous invite à méditer sur tous les thèmes et en toutes circonstances.<br /><br />Tous droits du producteur phonographique et du propriétaire de l’œuvre enregistrée réservés. Sauf autorisation, la duplication, la location, le prêt ou l’utilisation de cet enregistrement pour exécution publique ou radiodiffusion sont interdits. Enregistrements monophoniques et *stéréophoniques. Remerciements : Laurent Worms et Pascal Vigneron (mixage et masterisation), avec l’aimable autorisation des disques DOM-Forlane (track n°20)."
+    }
+  ]
+}

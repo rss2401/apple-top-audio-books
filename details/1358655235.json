@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 60737826,
+      "collectionId": 1358655235,
+      "amgArtistId": 1273429,
+      "artistName": "Sun Tzu",
+      "collectionName": "L'art de la guerre. Réfléchir pour vaincre",
+      "collectionCensoredName": "L'art de la guerre. Réfléchir pour vaincre",
+      "artistViewUrl": "https://books.apple.com/fr/author/sun-tzu/id60737826?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/lart-de-la-guerre-r%C3%A9fl%C3%A9chir-pour-vaincre/id1358655235?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/c2/9b/9cc29bc3-1015-abbe-152f-e1f68e98ef2c/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/c2/9b/9cc29bc3-1015-abbe-152f-e1f68e98ef2c/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 4.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2024 Club Positif",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2024-10-25T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/36/20/16/36201675-3e54-0ba0-4a72-a1ffe43e1d14/mzaf_7772117049902928295.std.aac.p.m4a",
+      "description": "\"Si vous connaissez l'ennemi et que vous vous connaissez vous-même, eussiez-vous cent guerres à mener cent fois vous serez victorieux. Si vous vous connaissez sans connaître l'ennemi, vos chances de perdre et de gagner seront égales. Si vous ne connaissez ni l'ennemi ni vous-même, chaque combat sera votre défaite.\" \n<br /><br /> \n<i>L'art de la guerre</i> de Sun Tzu, dans sa traduction de Lionel Gilles (1920) est le traité de stratégie militaire le plus cité et le plus lu. Ses nombreux enseignements font partie de la base des connaissances des stratèges des temps modernes aussi bien que des militaires. C'est aussi un livre indispensable pour prendre en compte son environnement et avancer face aux difficultés de sa vie personnelle, savoir quels terrains favoriser, quels obstacles affronter, quand la victoire est à votre portée et que vous devez vous précipiter pour la saisir. \n<br /><br />Plus qu'un simple traité militaire, ce livre audio vous aidera à parcourir le chemin qui vous mène là où vous désirez aller."
+    }
+  ]
+}

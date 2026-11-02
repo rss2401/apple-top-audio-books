@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 364661761,
+      "collectionId": 1697830931,
+      "artistName": "Simon Winder",
+      "collectionName": "Germania",
+      "collectionCensoredName": "Germania",
+      "artistViewUrl": "https://books.apple.com/fr/author/simon-winder/id364661761?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/germania/id1697830931?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b8/e7/17/b8e717f7-4823-2807-6630-a47eda2eb9c9/9781035024049.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b8/e7/17/b8e717f7-4823-2807-6630-a47eda2eb9c9/9781035024049.jpg/100x100bb.jpg",
+      "collectionPrice": 14.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 2,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2024-04-11T07:00:00Z",
+      "primaryGenreName": "Histoire",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ac/94/84/ac94849b-8d69-f1a5-68f2-e122ed102b56/mzaf_6023803817555053836.std.aac.p.m4a",
+      "description": "<b>The <i>Sunday Times </i>Bestseller and insipration behind David Mitchell's <i>Unruly.</i></b><br /><br /><b>'Entertaining and informative . . . Delightful' – <i>Independent</i></b><br /><br />There are many reasons to be fascinated by Germany: forests, architecture and fairy tales, not to mention its history and inhabitants’ penchant for very peculiar food. Our distant and often maligned cousin, this is a place in which innumerable strange characters have held power, in which a chaotic jigsaw of borders have moved about seemingly at random, and which at the dark heart of the 20th century fell into the hands of truly terrible forces. And now Simon Winder is here to tell us everything else there is to know about this mesmerizing, tortured and endlessly fascinating country.<br /><br /><i>Germania </i>is also a personal guide to the Germany that Simon Winder loves. In this startlingly vibrant account, Winder describes Germany’s past afresh, starting with the shaggy world of the ancient forests, all the way up to the present day – and in doing so, he sees and begins to understand a country much like our own: Protestant, aggressive and committed to betterment.<br /><br /><b>Joining <i>Danubia </i>and <i>Lotharingia </i>in Winder’s endlessly fascinating retelling of European history, <i>Germania </i>is a brilliant, vivid and enthusiastic insight to the hidden wonders of Germany.</b>"
+    }
+  ]
+}

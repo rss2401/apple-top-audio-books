@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 914328718,
+      "collectionId": 1258974506,
+      "artistName": "Hector Durville",
+      "collectionName": "Maîtrise de Soi",
+      "collectionCensoredName": "Maîtrise de Soi",
+      "artistViewUrl": "https://books.apple.com/fr/author/hector-durville/id914328718?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/ma%C3%AEtrise-de-soi/id1258974506?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/3d/89/d93d89d4-80bf-521f-26fc-e8737d26a242/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/3d/89/d93d89d4-80bf-521f-26fc-e8737d26a242/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 6.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2026 FV Éditions",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2026-09-10T07:00:00Z",
+      "primaryGenreName": "Essais et sciences humaines",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/9b/2f/c1/9b2fc190-89ed-4f8e-42e8-3be072f7fce5/mzaf_9817335329548681882.std.aac.p.m4a",
+      "description": "La maitrise de Soi est un état d'âme particulier, une qualité de supériorité et de puissance qui permet de faire ce que l'on veut et rien que ce que l'on veut. C'est la faculté qui nous permet de discuter tous nos actes et de contrôler tous nos mouvements, dans le but d'économiser notre énergie pour l'utiliser le plus avantageusement possible. C'est la force qui, sous tous les rapports, met l'individu qui la possède au-dessus des autres ; c'est la plus grande partie du magnétisme personnel qui permet d'attirer naturellement les bonnes choses de la vie et de repousser les mauvaises."
+    }
+  ]
+}

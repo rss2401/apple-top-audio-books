@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 2039265,
+      "collectionId": 1595669647,
+      "amgArtistId": 2919953,
+      "artistName": "Terry Pratchett",
+      "collectionName": "Men At Arms",
+      "collectionCensoredName": "Men At Arms",
+      "artistViewUrl": "https://books.apple.com/fr/author/terry-pratchett/id2039265?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/men-at-arms/id1595669647?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7d/ff/e6/7dffe69a-aedd-50f3-24cb-3de8ec7e768f/9781473588653.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7d/ff/e6/7dffe69a-aedd-50f3-24cb-3de8ec7e768f/9781473588653.jpg/100x100bb.jpg",
+      "collectionPrice": 13.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2023-05-25T07:00:00Z",
+      "primaryGenreName": "SF et fantasy",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/3b/d1/c9/3bd1c9cf-c624-f30f-4000-e0462d3a6067/mzaf_499246097593771961.std.aac.p.m4a",
+      "description": "<b>Brought to you by Penguin.</b><br /><br /><b>Over 1 million Discworld audiobooks sold – discover the extraordinary universe of Terry Pratchett’s Discworld like never before </b><br /><br /><i>'What's so hard about pulling a sword out of a stone? The real work's already been done. You ought to make yourself useful and find the man who put the sword in the stone in the first place.'</i><br /><br />The <b>City Watch </b>needs MEN! But what it's <i>got</i> includes <b>Corporal Carrot </b>(technically a dwarf), <b>Lance-constable Cuddy</b> (really a dwarf), <b>Lance-constable Detritus</b> (a troll), <b>Lance-constable Angua </b>(a woman... most of the time) and <b>Corporal Nobbs</b> (disqualified from the human race for shoving).<br /><br />And they need all the help they can get, because someone in <b>Ankh-Morpork</b> has been getting dangerous ideas - about crowns and legendary swords, and <i>destiny</i>.<br /><br />And the problem with destiny is, of course, that she is not always careful where she points her finger. One minute you might be minding your own business on a normal if not spectacular career path, the next you might be in the frame for the big job, like saving the world . . .<br /><br /><i>The Discworld novels can be read in any order but <b>Men At Arms</b> is the second book in the City Watch series.</i><br /><br /><b>'Funny, wise and mock heroic . . . The funniest and best crafted book I have read all year' </b><i>Sunday Express</i><br /><br />© Terry Pratchett 1993 (P) Penguin Audio 2023"
+    }
+  ]
+}

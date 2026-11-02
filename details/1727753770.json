@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 379131134,
+      "collectionId": 1727753770,
+      "artistName": "Eugène Le Roy",
+      "collectionName": "Jacquou le croquant",
+      "collectionCensoredName": "Jacquou le croquant",
+      "artistViewUrl": "https://books.apple.com/fr/author/eug%C3%A8ne-le-roy/id379131134?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/jacquou-le-croquant/id1727753770?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/43/5c/bc/435cbc7b-97eb-4365-8910-bb410b4856ab/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/43/5c/bc/435cbc7b-97eb-4365-8910-bb410b4856ab/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 13.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2026 Le Livre qui parle",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2026-07-24T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e7/ee/e3/e7eee3a9-4648-c987-a4b2-b7d71450fa89/mzaf_3138862822258289623.std.aac.p.m4a",
+      "description": "1815 dans le Périgord, le comte de Nansac, seigneur du Château de l'Herm, opprime les paysans. Par sa faute, Jacquou devient orphelin. Miséreux, il doit sa survie à ses larcins jusqu'à ce qu'un curé le recueille. Réfugié dans la forêt de la Barade, son désir de vengeance va se changer en lutte contre les injustices. Le roman s'inspire de lieux réels et des jacqueries (révoltes paysannes) du XVIIe siècle."
+    }
+  ]
+}

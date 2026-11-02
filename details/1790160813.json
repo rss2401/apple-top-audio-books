@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1774469662,
+      "collectionId": 1790160813,
+      "artistName": "Matthias Baccino",
+      "collectionName": "Prenez votre argent en main: Devenir riche, ça s'apprend !",
+      "collectionCensoredName": "Prenez votre argent en main: Devenir riche, ça s'apprend !",
+      "artistViewUrl": "https://books.apple.com/fr/author/matthias-baccino/id1774469662?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/prenez-votre-argent-en-main-devenir-riche-%C3%A7a-sapprend/id1790160813?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b6/62/d1/b662d182-359d-eeb2-ceee-8ed3fe11323c/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b6/62/d1/b662d182-359d-eeb2-ceee-8ed3fe11323c/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 10.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2024 Audible Studios",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2024-12-30T08:00:00Z",
+      "primaryGenreName": "Affaires",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/11/20/bf/1120bf40-549c-ec28-3dbe-bf5498e181c0/mzaf_3571244767010972511.std.aac.p.m4a",
+      "description": "\"L'épargne, c'est un truc de riche.\"<br /><br />\n\"Investir mon argent? Je n'y arriverai jamais.\"<br /><br />\n\"On est condamnés à être pauvres.\"<br /><br />Stop. Rien n'est plus faux !<br /><br />\nVous êtes parfaitement capables de gérer votre argent ! Et de le faire fructifier efficacement. C'est ce que j'appelle l'indépendance financière et c'est bien plus simple qu'on veut vous le faire croire.<br /><br />L'avenir préoccupant de notre pays, notre appauvrissement collectif et personnel, n'est pas une fatalité, et je vais vous aider à mettre fin à la spirale des souffrances face à l'argent.<br /><br />Pour cela, il vous suffit de prendre votre argent en main. Qui que vous soyez, c'est simple et à votre portée. Et ça pourrait rapporter 200 milliards d'euros par an aux Français.<br /><br />Le livre que votre banquier ne veut pas que vous lisiez !<br /><br />Diplômé de Sciences po et de l'ESSEC, MATTHIAS BACCINO dirige les marchés européens de la banque en ligne Trade Republic, après avoir travaillé dans la diplomatie et la finance. Cet ardent défenseur de la transition financière s'est fixé une mission : vous amener à comprendre que l'argent est une ressource précieuse et que vous devez l'optimiser. Ses interventions sur les réseaux sociaux sont suivies par des millions de Françaises et de Français."
+    }
+  ]
+}

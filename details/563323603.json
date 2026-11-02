@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 338695673,
+      "collectionId": 563323603,
+      "amgArtistId": 1298769,
+      "artistName": "Alphonse Daudet",
+      "collectionName": "Les lettres de mon moulin",
+      "collectionCensoredName": "Les lettres de mon moulin",
+      "artistViewUrl": "https://books.apple.com/fr/author/alphonse-daudet/id338695673?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/les-lettres-de-mon-moulin/id563323603?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5f/37/21/5f3721f9-43b3-6e3c-9989-43f93767a96a/lg_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/5f/37/21/5f3721f9-43b3-6e3c-9989-43f93767a96a/lg_image.jpg/100x100bb.jpg",
+      "collectionPrice": 11.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2025 Isis",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2025-01-27T08:00:00Z",
+      "primaryGenreName": "Jeunesse",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/3e/d5/7c/3ed57cca-8caf-2f91-e290-afd5d7fd045a/mzaf_16217470430875381944.std.aac.p.m4a",
+      "description": "<i>Les Lettres de mon moulin</i> constituent un recueil de nouvelles, 19 publiées chez Hetzel en 1869, puis 24 en 1879, après parution entre 1866 et 1873 dans plusieurs journaux. Dilettante, Daudet a repris contact depuis 1859 avec sa Provence natale où il effectue de fréquents séjours dans une propriété de famille et dans les moulins des environs d'Arles. \n<br /> \n<i>Les Lettres</i> sont inspirées de souvenirs de Mistral, d'aventures autobiographiques - il aimait dire qu'il relatait les histoires contées par les bergers lors de veillées - et de notes de voyage. Mistral félicitera Daudet d'avoir écrit en \"provençal français\" ! \n<br /> \n<i>Les Lettres</i> reflètent la vie du petit peuple du sud - curé, berger, poète, amoureux, intriguant ou même préfet... - dans une langue imagée, chaude et sensuelle, s'amusant des petits travers de ses personnages tout en leur témoignant indulgence et compassion. L'atmosphère ensoleillée, la fragrance de la flore, la présence proche de la faune et des animaux domestiques, dépaysent agréablement l'auditeur. \n<br /><br /> \n \n <i>La chèvre de Monsieur Seguin</i> ;  \n <i>Le secret de Maître Corneille</i> ;  \n <i>Les étoiles</i> ;  \n <i>Les vieux</i> ;  \n <i>La mule du Pape</i> ;  \n <i>L'Arlésienne<i> ; </i></i> \n <i><i><i>Le curé de Cucugnan<i> ; </i></i></i></i> \n <i><i><i><i>Les trois messes basses</i>. </i></i></i>"
+    }
+  ]
+}

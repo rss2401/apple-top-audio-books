@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 420690009,
+      "collectionId": 1439883430,
+      "artistName": "Dr. Maya Angelou",
+      "collectionName": "I Know Why The Caged Bird Sings",
+      "collectionCensoredName": "I Know Why The Caged Bird Sings",
+      "artistViewUrl": "https://books.apple.com/fr/author/dr-maya-angelou/id420690009?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/i-know-why-the-caged-bird-sings/id1439883430?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1b/3b/1a/1b3b1a82-31fc-be4a-905c-619a4112ead8/9781405531191.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1b/3b/1a/1b3b1a82-31fc-be4a-905c-619a4112ead8/9781405531191.jpg/100x100bb.jpg",
+      "collectionPrice": 22.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2014-04-04T07:00:00Z",
+      "primaryGenreName": "Biographies et mémoires",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/a5/dc/61/a5dc617f-f274-c9fe-2728-26134b25dfd8/mzaf_9510771694971194170.std.aac.p.m4a",
+      "description": "Maya Angelou's six volumes of autobiography are a testament to the talents and resilience of this extraordinary writer. Loving the world, she also knows its cruelty. As a Black woman she has known discrimination and extreme poverty, but also hope, joy, achievement and celebration. In this first volume of her six books of autobiography, Maya Angelou beautifully evokes her childhood with her grandmother in the American south of the 1930s. She learns the power of the white folks at the other end of town and suffers the terrible trauma of rape by her mother's lover.<br /><br />'I write about being a Black American woman, however, I am always talking about what it's like to be a human being. This is how we are, what makes us laugh, and this is how we fall and how we somehow, amazingly, stand up again' Maya Angelou"
+    }
+  ]
+}

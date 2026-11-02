@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 663337800,
+      "collectionId": 1442379165,
+      "artistName": "Fredrik Backman",
+      "collectionName": "Beartown",
+      "collectionCensoredName": "Beartown",
+      "artistViewUrl": "https://books.apple.com/gb/author/fredrik-backman/id663337800?uo=4",
+      "collectionViewUrl": "https://books.apple.com/gb/audiobook/beartown/id1442379165?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b0/af/c3/b0afc3a3-8a2a-e64f-c205-4f4080262212/9781405941211.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b0/af/c3/b0afc3a3-8a2a-e64f-c205-4f4080262212/9781405941211.jpg/100x100bb.jpg",
+      "collectionPrice": 7.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "GBR",
+      "currency": "GBP",
+      "releaseDate": "2018-09-27T07:00:00Z",
+      "primaryGenreName": "Fiction",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/30/44/51/30445100-d927-ca00-cf99-ed9cb03b5ff2/mzaf_12650444315978072923.std.aac.p.m4a",
+      "description": "<b>Penguin presents the audiobook edition of <i>Beartown </i>by Fredik Backman, read by John Sackville. </b><br /><b><br />Beartown is a small town in a large Swedish forest.</b><br /><br />For most of the year it is under a thick blanket of snow, experiencing the kind of cold and dark that brings people closer together - or pulls them apart.<br /><br />Its isolation means that Beartown has been slowly shrinking with each passing year. But now the town is on the verge of an astonishing revival. A bright new future is just around the corner.<br /><br />Until the day it is all put in jeopardy by a single, brutal act. <br /><br />It divides the town into those who think it should be hushed up and forgotten, and those who'll risk the future to see justice done. At last, it falls to one young man to find the courage to speak the truth that it seems no one else wants to hear.<br /><br />With the town's future at stake, no one can stand by or stay silent. Everyone is on one side or the other.<br /><br /><b>Which side would you be on?</b><br /><br /><b>Previously published as <i>The Scandal. </i></b>"
+    }
+  ]
+}

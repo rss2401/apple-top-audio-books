@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 401210503,
+      "collectionId": 1741500826,
+      "artistName": "Lucinda Riley",
+      "collectionName": "La Soeur de la Lune - Les Sept Soeurs, tome 5",
+      "collectionCensoredName": "La Soeur de la Lune - Les Sept Soeurs, tome 5",
+      "artistViewUrl": "https://books.apple.com/fr/author/lucinda-riley/id401210503?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/la-soeur-de-la-lune-les-sept-soeurs-tome-5/id1741500826?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/e7/1d/7fe71d85-fee3-a99e-2072-c8c88d48a487/9791035412128.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/e7/1d/7fe71d85-fee3-a99e-2072-c8c88d48a487/9791035412128.jpg/100x100bb.jpg",
+      "collectionPrice": 22.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2024-05-01T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0f/6c/07/0f6c0732-66eb-eb9a-5b2a-70250a4d1950/mzaf_734985128170732401.std.aac.p.m4a",
+      "description": "À la mort de son père, l’énigmatique milliardaire Pa Salt – surnommé ainsi par ses filles, adoptées aux quatre coins du monde –, Tiggy se réfugie dans les Highlands écossais, où elle se consacre à sa passion : s’occuper des animaux du domaine de Kinnaird, dirigé par le mystérieux Charlie.<br />Là, au coeur de la nature, elle retrouve une sorte de paix intérieure. Mais sur le domaine vit aussi Chilly, un vieux gitan, porteur d’un troublant message : Tiggy est l’héritière d’une célèbre lignée de voyants andalous, et il était écrit qu’il serait celui qui la ramènerait chez elle… à Grenade.<br /><br />La Sœur la Lune est le cinquième tome de la série événement Les Sept Sœurs, qui a conquis 50 millions de lecteurs dans le monde. À travers ces romans au souffle unique, peuplés de personnages inoubliables, liés par les drames et l’amour, Lucinda Riley a affirmé son immense talent, créant un genre littéraire à part entière."
+    }
+  ]
+}

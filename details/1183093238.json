@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 411571599,
+      "collectionId": 1183093238,
+      "artistName": "León Tolstói",
+      "collectionName": "Guerre et Paix 2",
+      "collectionCensoredName": "Guerre et Paix 2",
+      "artistViewUrl": "https://books.apple.com/fr/author/le%C3%B3n-tolst%C3%B3i/id411571599?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/guerre-et-paix-2/id1183093238?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/95/8a/a7/958aa7f4-a36c-a353-dadd-1c7ba7df0444/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/95/8a/a7/958aa7f4-a36c-a353-dadd-1c7ba7df0444/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 20.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 2,
+      "copyright": "© 2025 Sixtrid",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2025-09-08T07:00:00Z",
+      "primaryGenreName": "Classiques",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/69/f1/80/69f18072-abb4-c3ef-6c41-f998f4d0fce4/mzaf_10988578544555831267.std.aac.p.m4a",
+      "description": "À la suite du traité de Tilsit, la paix semble à nouveau s'établir durablement en Europe. Et chacun de retourner à ses occupations d'avant-guerre. Les bals, les fêtes, l'insouciance des vies reprennent de plus belle, d'autant que beaucoup ont vu la mort de près et sont revenus auréolés de gloire. Les alliances entre les familles se nouent et se dénouent au gré des amours. Chacun pousse ses pions pour trouver le bon parti au mépris des autres même de ses anciens camarades de guerre. Tel Dolokhov qui, amoureux de Sonia, cherche à éloigner Nicolas par tous les moyens même les plus méprisables. Certains se cherchent un nouvel idéal. Ainsi Pierre, qui - après avoir suivi l'enseignement maçonnique - veut libérer ses terres du servage. Mais trompé par un intendant indélicat, il ne s'aperçoit pas que ses décisions sont plus néfastes que bénéfiques. \n<br /><br />Avec la paix, la vie a repris pleine de futilités et bien loin des misères et des horreurs de la guerre !"
+    }
+  ]
+}

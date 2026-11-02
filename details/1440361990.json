@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 194297476,
+      "collectionId": 1440361990,
+      "artistName": "Gillian Flynn",
+      "collectionName": "Les apparences",
+      "collectionCensoredName": "Les apparences",
+      "artistViewUrl": "https://books.apple.com/fr/author/gillian-flynn/id194297476?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/les-apparences/id1440361990?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/40/20/80/402080ae-6902-32e5-9d0b-b2b402b4181b/9782356415417.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/40/20/80/402080ae-6902-32e5-9d0b-b2b402b4181b/9782356415417.jpg/100x100bb.jpg",
+      "collectionPrice": 18.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2013-02-13T08:00:00Z",
+      "primaryGenreName": "Policier et suspense",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/fa/99/c1/fa99c1af-5781-3d4e-97d9-31aee597ee77/mzaf_15537810175838073840.std.aac.p.m4a",
+      "description": "Amy, une jolie jeune femme au foyer, et son mari Nick, propriétaire d’un bar, forment, selon toutes apparences, un couple parfait. Ils coulent des jours paisibles dans la petite ville des bords du Mississipi où Nick a grandi. Jusqu’au jour où Charlie, en rentrant du travail, découvre dans leur maison un chaos indescriptible… Et aucune trace de sa femme. Quelque chose de grave est arrivé. Après qu’il a appelé les forces de l’ordre pour signaler la disparition d’Amy, la situation prend une tournure inattendue. Si leur mariage n’était pas aussi parfait qu’il le paraissait, Nick est néanmoins encore loin de se douter à quel point leur couple n’était qu’une illusion.<br /><br />Odile Cohen et Julien Chatelet modulent avec subtilité le passage de la banalité du quotidien aux plus angoissantes découvertes."
+    }
+  ]
+}

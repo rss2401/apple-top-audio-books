@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1437523250,
+      "collectionId": 1437523247,
+      "artistName": "Antoine de Saint-Exupéry",
+      "collectionName": "The Little Prince (Unabridged)",
+      "collectionCensoredName": "The Little Prince (Unabridged)",
+      "artistViewUrl": "https://books.apple.com/fr/author/antoine-de-saint-exup%C3%A9ry/id1437523250?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/the-little-prince-unabridged/id1437523247?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/5b/0b/1a/5b0b1af4-b077-232e-eff8-bf46a76dbc93/9781742014654_FrontCover_Trade_DD.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/5b/0b/1a/5b0b1af4-b077-232e-eff8-bf46a76dbc93/9781742014654_FrontCover_Trade_DD.jpg/100x100bb.jpg",
+      "collectionPrice": 6.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2008 Bolinda Publishing",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2014-04-01T07:00:00Z",
+      "primaryGenreName": "Jeunesse",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/22/ce/08/22ce08c7-853b-5e94-8cee-095d1804109c/mzaf_3663877206335880542.std.aac.p.m4a",
+      "description": "A timeless classic.\n\nA pilot stranded in the desert awakes one morning to see, standing before him, the most extraordinary little fellow. 'Please,' asks the stranger, 'draw me a sheep.' And the pilot realises that when life's events are too difficult to understand, there is no choice but to succumb to their mysteries. He pulls out pencil and paper... \n\nAnd thus begins this wise and enchanting fable that, in teaching the secret of what is really important in life, has changed forever the world for its readers.\n\nThe book has been translated into more than 160 languages and, to date, has sold more than 50 million copies worldwide. It is one of the top fifty bestselling books. It has been adapted into a movie musical by Lerner and Loewe, two different operas, as well as into an animated series."
+    }
+  ]
+}

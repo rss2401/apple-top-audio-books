@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 212192955,
+      "collectionId": 1441911723,
+      "artistName": "Philippe Delerm",
+      "collectionName": "La première gorgée de bière et autres plaisirs minuscules",
+      "collectionCensoredName": "La première gorgée de bière et autres plaisirs minuscules",
+      "artistViewUrl": "https://books.apple.com/fr/author/philippe-delerm/id212192955?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/la-premi%C3%A8re-gorg%C3%A9e-de-bi%C3%A8re-et-autres-plaisirs-minuscules/id1441911723?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/16/68/19/16681953-0788-e9c7-2055-f119ba5e8918/9782072000829.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/16/68/19/16681953-0788-e9c7-2055-f119ba5e8918/9782072000829.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2004 Éditions Gallimard",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2015-05-13T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/17/29/c0/1729c013-4a14-4c79-3c3d-63577aff069e/mzaf_9693813970767978869.std.aac.p.m4a",
+      "description": "Une trentaine de textes brefs qui déclinent ces petits riens de la vie quotidienne, véritables moments de bonheur indicibles. De la cueillette des mûres, au plaisir sans complexe de savourer un banana-split, en passant par la magie colorée des kaléidoscopes ou l'épluchage subtil des petits pois.\n\nCes textes mis en bouche par Jean-Pierre Cassel évoquent irrésistiblement les plaisirs minuscules que chacun connaît : le dîner au jardin, à la fraîche, l'odeur beurrée des croissants chauds, les loukoums fondants de chez l'épicier arabe... Plaisirs simples et essentiels que l'on savoure, comme les mots de Jean-Pierre Cassel, narrateur exquis.\n\nCouverture : d'après une photo d'A. Marsalis @ Getty Images /Stone"
+    }
+  ]
+}
