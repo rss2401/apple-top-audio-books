@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1753665879,
+      "collectionId": 1755145345,
+      "artistName": "Mavisel Yener",
+      "collectionName": "Ölüler Ormanı: Dolunay Dedektifleri 5",
+      "collectionCensoredName": "Ölüler Ormanı: Dolunay Dedektifleri 5",
+      "artistViewUrl": "https://books.apple.com/jp/author/mavisel-yener/id1753665879?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/%C3%B6l%C3%BCler-orman%C4%B1-dolunay-dedektifleri-5/id1755145345?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/8e/7a/448e7ada-fe05-2ed8-9845-fa12f6e59d0d/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/8e/7a/448e7ada-fe05-2ed8-9845-fa12f6e59d0d/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 1681,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2024 Sesle Kitap",
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2024-05-04T07:00:00Z",
+      "primaryGenreName": "キッズ／ヤングアダルト",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/91/e6/f4/91e6f470-6fe6-1e13-3d29-3a24e6240189/mzaf_7150525478843268506.std.aac.p.m4a",
+      "description": "Onlar, beş kafadar arkadaş. Heyecanlı, enerjik, akıllı ve meraklı. Dolunay onların yaşamına, olağanüstü bir serüvenle girdi. Birbiri peşisıra öyle gizemli olayları çözdüler ki şimdi dünyanın ünlü dedektifleri şaşkınlık içinde onları izliyor. İlk dört kitabı ile çocukları inanılmaz serüvenlere sürükleyen dedektiflik dizisinin beşinci kitabında macera devam ediyor."
+    }
+  ]
+}

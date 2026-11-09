@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1151532096,
+      "collectionId": 1839502565,
+      "artistName": "Fedor Dostoievski",
+      "collectionName": "Les Nuits blanches",
+      "collectionCensoredName": "Les Nuits blanches",
+      "artistViewUrl": "https://books.apple.com/fr/author/fedor-dostoievski/id1151532096?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/les-nuits-blanches/id1839502565?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/dd/67/23dd67f0-263e-068d-3710-57cbeea573e1/9782330215354.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/dd/67/23dd67f0-263e-068d-3710-57cbeea573e1/9782330215354.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2025 Actes Sud",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2025-09-17T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b5/41/cb/b541cb43-5978-e0b2-2582-80ddb83f587c/mzaf_17984476760347486359.std.aac.p.m4a",
+      "description": "Un jeune homme solitaire et romanesque rencontre, une nuit, dans Pétersbourg désert, une jeune fille éplorée. Désespérée par un chagrin d’amour, Nastenka se laisse aller au fantasme du jeune homme, épris dès le premier instant, le berce – et se berce – dans l’illusion d’une flamme naissante…\nLa traduction d’André Markowicz tire de ce roman un parti stylistique étonnant. Discordante, ironique, la voix que l’on entend ici est bien celle du grand écrivain russe, qui n’a cessé sa vie durant de se battre, au nom de la vérité, contre l’élégance trompeuse, celle des mots et celle des sentiments. <br /><br /> Le label « IH » (« Interprétation Humaine ») signifie que ce livre audio a été enregistré par un comédien ou une comédienne."
+    }
+  ]
+}

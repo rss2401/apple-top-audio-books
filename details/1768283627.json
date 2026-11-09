@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 2038596,
+      "collectionId": 1768283627,
+      "artistName": "Robert A. Heinlein",
+      "collectionName": "Starship Troopers",
+      "collectionCensoredName": "Starship Troopers",
+      "artistViewUrl": "https://books.apple.com/jp/author/robert-a-heinlein/id2038596?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/starship-troopers/id1768283627?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/f6/00/6bf60021-8f03-233e-9d02-b4756912a78e/9781004180356.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/f6/00/6bf60021-8f03-233e-9d02-b4756912a78e/9781004180356.jpg/100x100bb.jpg",
+      "collectionPrice": 2139,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2024 Blackstone Publishing",
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2024-11-07T08:00:00Z",
+      "primaryGenreName": "SF／ファンタジー",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f4/a8/e8/f4a8e806-cbd6-afcb-4017-29b40db9b4a6/mzaf_2607934477134262346.std.aac.p.m4a",
+      "description": "5,000 years in the future, humanity faces total extermination.<br /><br />Our one defence: highly-trained soldiers who scour the metal-strewn blackness of space to hunt down a terrifying enemy: an insect life-form known only as 'Bugs.'<br /><br />This is the story of trooper Johnny Rico, from his idealistic enlistment in the infantry of the future through his rigorous training to the command of his own platoon. And his destiny is a war that will span the galaxy.<br /><br />© 1959, 1987 by Robert A. Heinlein. © 2003 by the Robert A. &amp; Virginia Heinlein Prize Trust"
+    }
+  ]
+}

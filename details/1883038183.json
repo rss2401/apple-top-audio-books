@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1364280183,
+      "collectionId": 1883038183,
+      "artistName": "Ellie Midwood",
+      "collectionName": "L'Ange d'Auschwitz",
+      "collectionCensoredName": "L'Ange d'Auschwitz",
+      "artistViewUrl": "https://books.apple.com/fr/author/ellie-midwood/id1364280183?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/lange-dauschwitz/id1883038183?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/a0/ae/90a0ae3d-5765-cebe-0782-c820593fd275/9782374347332.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/a0/ae/90a0ae3d-5765-cebe-0782-c820593fd275/9782374347332.jpg/100x100bb.jpg",
+      "collectionPrice": 7.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2026 Hardigan",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2026-04-17T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a6/f1/ff/a6f1ffbf-ff4a-7ff6-8f5d-cf2b4722b249/mzaf_9398889143601764451.std.aac.p.m4a",
+      "description": "1962. Orli est internée en hôpital psychiatrique. Traumatisée par ses expériences vécues lors de sa déportation dans les camps de concentration, elle revient sur ce qu'elle a vécu aux côtés du sinistre Dr Mengele...\n1942. Trahie par son propre mari parce qu'elle est une résistante allemande, Orli n'a plus personne au monde lorsqu'elle trébuche du camion à bestiaux sur le terrain gelé d'Auschwitz. Elle est arrivée croyant être condamnée à une mort certaine mais au lieu de cela, elle est affectée à l'infirmerie pour assister le Dr Josef Mengele.\nTrès vite, Orli apprend que Mengele est connu comme l'Ange de la mort, et qu'il est l'homme le plus redouté d'Auschwitz. Entre ses mains, des milliers de détenus en bonne santé sont cruellement tués et soumis à des expériences, et Orli est censée l'aider. Elle se rend alors compte que son travail de résistante n'est pas terminé.\nDepuis l'infirmerie, elle va tenter de sauver secrètement autant de déportés que possible. Mais lorsque Mengele lui demande de lui trouver des enfants, elle sait que ce n'est pas suffisant... Avec l'aide de ses collègues infirmières, elle envisage de simuler une épidémie de typhus.\nMais Orli peut-elle vraiment tromper l'un des hommes les plus puissants d'Auschwitz ? Et si Mengele découvre son plan, quel sera le prix à payer ?&#xa0;\nCe livre audio est interprété par une voix humaine, dans le respect des engagements d'Hardigan."
+    }
+  ]
+}

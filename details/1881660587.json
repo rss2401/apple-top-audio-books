@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 274789581,
+      "collectionId": 1881660587,
+      "amgArtistId": 680442,
+      "artistName": "André Malraux",
+      "collectionName": "La condition humaine",
+      "collectionCensoredName": "La condition humaine",
+      "artistViewUrl": "https://books.apple.com/fr/author/andr%C3%A9-malraux/id274789581?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/la-condition-humaine/id1881660587?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/38/18/fb3818c2-47f5-1ed5-155a-484f8ae283b5/9782073165442.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/38/18/fb3818c2-47f5-1ed5-155a-484f8ae283b5/9782073165442.jpg/100x100bb.jpg",
+      "collectionPrice": 16.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2026 Editions Gallimard",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2026-04-20T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/08/8d/97/088d979d-28a4-c7a7-5476-a698f230cf6a/mzaf_8823553364256506994.std.aac.p.m4a",
+      "description": "\"Tchen tenterait-il de lever la moustiquaire ? Frapperait-il au travers ? L'angoisse lui tordait l'estomac ; il connaissait sa propre fermeté, mais n'était capable en cet instant que d'y songer avec hébétude, fasciné par ce tas de mousseline blanche qui tombait du plafond sur un corps moins visible qu'une ombre, et d'où sortait seulement ce pied à demi incliné par le sommeil, vivant quand même – de la chair d'homme.\" \nC'est avec talent que Denis Podalydès de la Comédie-Française nous conduit à Shanghai en 1927, au cœur des révolutions, afin de nous questionner sur la condition et la destinée humaines. \n\nPrix Goncourt 1933. \n\nÉdition revue et corrigée en 1946. Couverture : Affiche de La condition humaine par Roger Parry. Photo Roger Parry © Gallimard."
+    }
+  ]
+}

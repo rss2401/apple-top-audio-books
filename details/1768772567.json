@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 397978820,
+      "collectionId": 1768772567,
+      "artistName": "Camille de Peretti",
+      "collectionName": "L'Inconnue du portrait",
+      "collectionCensoredName": "L'Inconnue du portrait",
+      "artistViewUrl": "https://books.apple.com/fr/author/camille-de-peretti/id397978820?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/linconnue-du-portrait/id1768772567?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/69/74/64697466-a2a0-1cd5-3e9e-f2cfa1aa804e/9791035417093.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/69/74/64697466-a2a0-1cd5-3e9e-f2cfa1aa804e/9791035417093.jpg/100x100bb.jpg",
+      "collectionPrice": 19.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2024-10-23T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/dc/4a/0b/dc4a0b88-a541-31e4-478b-f3535cea2863/mzaf_6549742088257411381.std.aac.p.m4a",
+      "description": "« La toile vibrait de beauté. Elle en avait le souffle coupé et se noyait dans l’œil bleu ciel piqueté de vert. Est-ce qu’elle était réellement le sosie de cette inconnue ? »<br />&#xa0; <br />Peint à Vienne en 1910, le tableau de Gustav Klimt Portrait d’une dame est acheté par un collectionneur anonyme en 1916, retouché par le maître un an plus tard, puis volé en 1997, avant de réapparaître en 2019 dans les jardins d’un musée d’art moderne en Italie.<br />Aucun expert en art, aucun conservateur de musée, aucun enquêteur de police ne sait qui était la jeune femme représentée sur le tableau, ni quels mystères entourent l’histoire mouvementée de son portrait.<br />&#xa0; <br />Des rues de Vienne en 1900 au Texas des années 1980, du Manhattan de la Grande Dépression à l’Italie contemporaine, Camille de Peretti imagine la destinée de cette jeune femme, ainsi que celles de ses descendants. Une fresque magistrale où se mêlent secrets de familles, succès éclatants, amours contrariées, disparitions et drames retentissants.<br /><br />Les citations présentes en début de partie sont extraites des recueils de Georg Trakl, Poèmes I et II, traduction de l’allemand de Jacques Legrand, GF, Flammarion, 2001.<br />&#xa0;"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 2065839,
+      "collectionId": 1440362019,
+      "artistName": "Philip Kerr",
+      "collectionName": "L'été de cristal - La trilogie berlinoise 1",
+      "collectionCensoredName": "L'été de cristal - La trilogie berlinoise 1",
+      "artistViewUrl": "https://books.apple.com/fr/author/philip-kerr/id2065839?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/l%C3%A9t%C3%A9-de-cristal-la-trilogie-berlinoise-1/id1440362019?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/3e/e0/6e/3ee06e48-85d8-1b5b-d20b-49cf470e14dd/9782356413888.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/3e/e0/6e/3ee06e48-85d8-1b5b-d20b-49cf470e14dd/9782356413888.jpg/100x100bb.jpg",
+      "collectionPrice": 14.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2011-11-09T08:00:00Z",
+      "primaryGenreName": "Policier et suspense",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/cb/f2/c3/cbf2c354-2434-2ed7-5a6f-08ce9c39d266/mzaf_15646457624040470539.std.aac.p.m4a",
+      "description": "Ancien policier, Bernie Gunther, trente-huit ans, est devenu détective privé, spécialisé dans la recherche des personnes disparues. Et on disparaît beaucoup, à Berlin, en cet été 1936 où les S.A., à la veille des Jeux Olympiques, se chargent, à leur manière, de rendre la ville « accueillante » aux touristes. C'est pourtant une autre mission que lui propose Hermann Six : ce dernier ne cherche pas sa fille,<br />assassinée chez elle, mais des bijoux disparus. Bernie se met en chasse. Et cet été-là, l'ordre nouveau qui règne sur l'Allemagne va se révéler à lui, faisant voler en éclats le peu d'illusions qui lui restent...<br /><br />L’interprétation de Julien Châtelet n’omet aucune dimension de ce roman policier qui est aussi une impressionnante analyse de l’irrésistible ascension de la folie nazie."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1274964819,
+      "collectionId": 1529601742,
+      "artistName": "The Secret Barrister",
+      "collectionName": "Fake Law",
+      "collectionCensoredName": "Fake Law",
+      "artistViewUrl": "https://books.apple.com/gb/author/the-secret-barrister/id1274964819?uo=4",
+      "collectionViewUrl": "https://books.apple.com/gb/audiobook/fake-law/id1529601742?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e1/5f/00/e15f0016-8ed7-af74-d532-519a089ec716/9781529009972.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e1/5f/00/e15f0016-8ed7-af74-d532-519a089ec716/9781529009972.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 2,
+      "country": "GBR",
+      "currency": "GBP",
+      "releaseDate": "2020-09-03T07:00:00Z",
+      "primaryGenreName": "Non-Fiction",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/53/73/6c/53736cc7-2857-49d2-c41a-a761696dac33/mzaf_2248091328414959871.std.aac.p.m4a",
+      "description": "<b>THE TOP TEN<i> SUNDAY TIMES</i> BESTSELLER<br /></b><br /><b>Could the courts really order the death of your innocent baby?  Was there an illegal immigrant who couldn't be deported because he had a pet cat?  Are unelected judges truly enemies of the people? </b><br /><br /> Most of us think the law is only relevant to criminals, if we even think of it at all. But the law touches every area of our lives: from intimate family matters to the biggest issues in our society.<br /><br /> Our unfamiliarity is dangerous because it makes us vulnerable to media spin, political lies and the kind of misinformation that frequently comes from loud-mouthed amateurs and those with vested interests. This 'fake law' allows the powerful and the ignorant to corrupt justice without our knowledge – worse, we risk letting them make us complicit.<br /><br /><b> Thankfully, the Secret Barrister is back to reveal the stupidity, malice and incompetence behind many of the biggest legal stories of recent years. In <i>Fake Law</i>, the Secret Barrister debunks the lies and builds a defence against the abuse of our law, our rights and our democracy that is as entertaining as it is vital.</b>"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 64434751,
+      "collectionId": 1727299703,
+      "amgArtistId": 1227792,
+      "artistName": "Guy de Maupassant",
+      "collectionName": "Boule de Suif",
+      "collectionCensoredName": "Boule de Suif",
+      "artistViewUrl": "https://books.apple.com/fr/author/guy-de-maupassant/id64434751?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/boule-de-suif/id1727299703?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/dc/30/ba/dc30ba4b-3efd-e151-3d06-03f40ad22f15/9791090054356.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/dc/30/ba/dc30ba4b-3efd-e151-3d06-03f40ad22f15/9791090054356.png/100x100bb.jpg",
+      "collectionPrice": 2.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2016-05-24T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/08/63/fe/0863fe14-019f-7ef3-a304-da76c152246e/mzaf_3700435436702172791.std.aac.p.m4a",
+      "description": "Écrite en 1879, Boule de Suif est la nouvelle qui a imposé Guy de Maupassant comme un maître. L'action se situe durant la guerre de 1870 : dix personnes fuient Rouen, occupée par les soldats prussiens, pour gagner Dieppe en diligence. Parmi ces dix personnes, se trouvent des bourgeois, des commerçants, des nobles, et une prostituée, surnommée Boule de Suif, à cause de son embonpoint. <br /><br />\"La femme, une de celles appelées galantes, était célèbre par son embonpoint précoce qui lui avait valu le surnom de Boule de Suif. Petite, ronde de partout, grasse à lard, avec des doigts bouffis, étranglés aux phalanges, pareils à des chapelets de courtes saucisses ; avec une peau luisante et tendue, une gorge énorme qui saillait sous sa robe, elle restait cependant appétissante et courue, tant sa fraîcheur faisait plaisir à voir. Sa figure était une pomme rouge, un bouton de pivoine prêt à fleurir ; et là-dedans s'ouvraient, en haut, deux yeux noirs magnifiques, ombragés de grands cils épais qui mettaient une ombre dedans ; en bas, une bouche charmante, étroite, humide pour le baiser, meublée de quenottes luisantes et microscopiques. Elle était de plus, disait-on, pleine de qualités inappréciables.\""
+    }
+  ]
+}

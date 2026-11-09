@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 373366107,
+      "collectionId": 1753901557,
+      "artistName": "Philippe Jaenada",
+      "collectionName": "La désinvolture est une bien belle chose",
+      "collectionCensoredName": "La désinvolture est une bien belle chose",
+      "artistViewUrl": "https://books.apple.com/fr/author/philippe-jaenada/id373366107?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/la-d%C3%A9sinvolture-est-une-bien-belle-chose/id1753901557?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/7b/8e/1b7b8e74-94df-9682-7236-661c58edd94b/9782073092274.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/7b/8e/1b7b8e74-94df-9682-7236-661c58edd94b/9782073092274.jpg/100x100bb.jpg",
+      "collectionPrice": 8.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2024 Editions Gallimard",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2024-08-21T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cf/29/bd/cf29bd5e-0982-2d8d-10f7-e963dc103144/mzaf_7295900398312515606.std.aac.p.m4a",
+      "description": "Tandis qu’au volant de sa voiture de location, il fait le tour de la France par les bords, Philippe Jaenada ne peut s’ôter de la tête l’image de cette jeune femme qui, à l’aube du 28 novembre 1953, s’est écrasée sur le trottoir de la rue Cels, derrière le cimetière du Montparnasse. Elle s’appelait Jacqueline Harispe, elle avait vingt ans, on la surnommait Kaki. Elle passait son existence Chez Moineau, un café de la rue du Four où quelques très jeunes gens, serrés les uns contre les autres, jouissaient de l’instant sans l’ombre d’un projet d’avenir. \n\nPhilippe Jaenada a cherché à savoir, à comprendre pourquoi une si jolie jeune femme, intelligente et libre, entourée d’amis, admirée, une fille que la vie semblait amuser, amoureuse d’un beau soldat américain qui l’aimait aussi, s’est jetée, un matin d’automne, par la fenêtre d’une chambre d’hôtel. \n\nÀ nouveau, Bernard Métraux s’empare remarquablement des mots de Philippe Jaenada pour nous offrir une enquête complète et passionnante. \n\nPhoto : DR"
+    }
+  ]
+}

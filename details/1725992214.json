@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1286851069,
+      "collectionId": 1725992214,
+      "artistName": "Nine Gorman & Marie Alhinho",
+      "collectionName": "La nuit où les étoiles se sont éteintes",
+      "collectionCensoredName": "La nuit où les étoiles se sont éteintes",
+      "artistViewUrl": "https://books.apple.com/fr/author/nine-gorman/id1286851069?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/la-nuit-o%C3%B9-les-%C3%A9toiles-se-sont-%C3%A9teintes/id1725992214?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/93/0c/2f/930c2f58-86b8-de5a-3e04-b36a57e2087c/9791035414634.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/93/0c/2f/930c2f58-86b8-de5a-3e04-b36a57e2087c/9791035414634.jpg/100x100bb.jpg",
+      "collectionPrice": 21.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2024-02-28T08:00:00Z",
+      "primaryGenreName": "Jeunesse",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/9c/ca/14/9cca14fb-cd65-7f13-2d4f-ad342d962ba1/mzaf_1841472827026611483.std.aac.p.m4a",
+      "description": "J’aimerais lui rétorquer que les étoiles s’éteignent et que quand c’est le cas, elles détruisent tout sur leur passage. J’aimerais lui dire que, parfois, c’est comme ça que je me sens, comme une supernova sur le point de se transformer en trou noir. <br /><br />Depuis que sa mère est en prison, Finn pense ne jamais pouvoir remonter la pente. Il se laisse sombrer et tente de s’oublier entre les bras des filles. Mais la vie prend parfois des tournants inattendus… Certaines rencontres éclairent sa route, comme des lumières dans la nuit.<br />&#xa0; Plus sombre est le chaos, plus belle sera l’étoile."
+    }
+  ]
+}

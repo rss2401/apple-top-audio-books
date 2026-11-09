@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1563191135,
+      "collectionId": 1853581305,
+      "artistName": "Lena Kupke",
+      "collectionName": "Pause",
+      "collectionCensoredName": "Pause",
+      "artistViewUrl": "https://books.apple.com/de/author/lena-kupke/id1563191135?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/pause/id1853581305?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/1b/28/6f1b2897-b59c-3eb8-2e2b-c46dc3510308/9783732486359.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/1b/28/6f1b2897-b59c-3eb8-2e2b-c46dc3510308/9783732486359.jpg/100x100bb.jpg",
+      "collectionPrice": 17.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2026 Argon Verlag AVE GmbH",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2026-05-01T07:00:00Z",
+      "primaryGenreName": "Belletristik",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f2/92/a4/f292a40c-c3d6-5647-60a7-88c16b53e664/mzaf_6323813584757860786.std.aac.p.m4a",
+      "description": "Der Tag als die Notärztin kam, war der Tag, an dem ich wieder zu meinen Eltern gezogen bin. Mit sechsunddreißig.\nNach einem einschneidendem Erlebnis zieht Hanna Hals über Kopf von Berlin in ihre alte Heimat Lüneburg zurück – zu ihren Eltern, in ihr altes Kinderzimmer, das mittlerweile das Büro ihres Vaters ist, samt Drucker, elektrischen Rollos und 90 cm Gästebett. Doch wie soll das funktionieren: ein Familienalltag von null auf hundert mit drei erwachsenen Menschen, die seit jeher Konflikte lieber unter den Teppich kehren, als sie zu klären? Zwischen alten und frischen Wunden muss Hanna lernen, sich selbst zu heilen und ihre Familie mit anderen Augen zu sehen. Und sie entdeckt, dass einen die Liebe auch in den in den hilflosesten Momenten findet …\nEin warmherziges, zart-witziges und ehrliches Hörbuch über Momente am Boden und den langen Weg zur Verarbeitung von Schicksalsschlägen."
+    }
+  ]
+}

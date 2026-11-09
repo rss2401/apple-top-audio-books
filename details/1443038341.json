@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 56993313,
+      "collectionId": 1443038341,
+      "artistName": "Malcolm Gladwell",
+      "collectionName": "Outliers",
+      "collectionCensoredName": "Outliers",
+      "artistViewUrl": "https://books.apple.com/fr/author/malcolm-gladwell/id56993313?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/outliers/id1443038341?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/d8/4f/a2d84ffb-3e2d-b578-9018-8727c821cec7/9781600243929.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/d8/4f/a2d84ffb-3e2d-b578-9018-8727c821cec7/9781600243929.jpg/100x100bb.jpg",
+      "collectionPrice": 16.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2008-11-18T08:00:00Z",
+      "primaryGenreName": "Affaires",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/49/d7/47/49d74708-4b99-266b-4503-f833ebf963eb/mzaf_16523963553512713445.std.aac.p.m4a",
+      "description": "<b>From the bestselling author of <i>The Bomber Mafia</i>, learn what sets high achievers apart</b>—f<b>rom Bill Gates to the Beatles</b>—<b>in this seminal work&#xa0;from \"a singular talent\" (<i>New York Times Book Review</i>). </b><br /><br />In this stunning book, Malcolm Gladwell takes us on an intellectual journey through the world of \"outliers\"—the best and the brightest, the most famous and the most successful. He asks the question: what makes high-achievers different?<br /><br />His answer is that we pay too much attention to what successful people are like, and too little attention to where they are from: that is, their culture, their family, their generation, and the idiosyncratic experiences of their upbringing. Along the way he explains the secrets of software billionaires, what it takes to be a great soccer player, why Asians are good at math, and what made the Beatles the greatest rock band.<br /><br />Brilliant and entertaining, <i>Outliers</i> is a landmark work that will simultaneously delight and illuminate."
+    }
+  ]
+}

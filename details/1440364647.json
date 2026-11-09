@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 357913257,
+      "collectionId": 1440364647,
+      "artistName": "Liane Moriarty",
+      "collectionName": "Le Secret du mari",
+      "collectionCensoredName": "Le Secret du mari",
+      "artistViewUrl": "https://books.apple.com/fr/author/liane-moriarty/id357913257?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/le-secret-du-mari/id1440364647?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ac/2d/80/ac2d80d1-ebe6-bcf9-ab10-e8c5163bf39c/9782367623450.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ac/2d/80/ac2d80d1-ebe6-bcf9-ab10-e8c5163bf39c/9782367623450.jpg/100x100bb.jpg",
+      "collectionPrice": 19.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2017-05-17T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/36/99/59/3699598e-0f73-f4d5-991d-de658d982968/mzaf_9945397455781416367.std.aac.p.m4a",
+      "description": "Jamais Cecilia n’aurait dû trouver cette lettre dans le grenier. Sur l’enveloppe jaunie, quelques mots de la main de son mari : « À n’ouvrir qu’après ma mort. » Quelle décision prendre ? Respecter le voeu de John-Paul, qui est bien vivant ? Ou céder à la curiosité et découvrir un secret qui risque de bouleverser sa vie ? Numéro 1 sur la liste des best-sellers du New York Times pendant près d’un an, Le Secret du mari connaît en France un immense succès. Ce roman intense, pétillant, plein d’humanité allie suspense et émotion jusqu’à la dernière page. Un livre bouleversant qu’on n’oublie pas.<br />&#xa0;"
+    }
+  ]
+}

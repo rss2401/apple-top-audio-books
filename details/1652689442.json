@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1040669086,
+      "collectionId": 1652689442,
+      "artistName": "Mélissa Da Costa",
+      "collectionName": "La Doublure",
+      "collectionCensoredName": "La Doublure",
+      "artistViewUrl": "https://books.apple.com/fr/artist/m%C3%A9lissa-da-costa/1040669086?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/la-doublure/id1652689442?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/8a/c6/bd8ac660-1118-ad8a-cc47-5638132400a8/9791035411855.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/8a/c6/bd8ac660-1118-ad8a-cc47-5638132400a8/9791035411855.jpg/100x100bb.jpg",
+      "collectionPrice": 22.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2023-01-18T08:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/fa/57/c7/fa57c78e-065c-2df7-c1ad-cf8f52cb9bf8/mzaf_11362609137570469613.std.aac.p.m4a",
+      "description": "Passion, faux-semblants, emprise…<br />Qui manipule qui ?<br /><br />Une jeune femme fragile en quête d’un nouveau départ.<br />Un couple magnétique et fascinant prêt à lui ouvrir les portes de son monde doré.<br />Un trio pris au piège d’un jeu cruel et d’une dépendance fatale.<br /><br />Dans ce roman sombre et envoûtant, Mélissa Da Costa explore, à travers l’histoire d’une passion toxique, la face obscure de l’âme humaine et les méandres du désir.<br />Après les succès de Tout le bleu du ciel, des Lendemains, et de Je revenais des autres, romans aux deux millions de lecteurs, elle révèle une nouvelle facette de son talent."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1411146573,
+      "collectionId": 1664930782,
+      "amgArtistId": 676019,
+      "artistName": "Alexandre Dumas",
+      "collectionName": "Les trois mousquetaires",
+      "collectionCensoredName": "Les trois mousquetaires",
+      "artistViewUrl": "https://books.apple.com/fr/author/alexandre-dumas/id1411146573?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/les-trois-mousquetaires/id1664930782?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/a0/ad/39/a0ad3900-d6e8-a15c-3ab8-34bfabca3848/9782382651063_cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/a0/ad/39/a0ad3900-d6e8-a15c-3ab8-34bfabca3848/9782382651063_cover.jpg/100x100bb.jpg",
+      "collectionPrice": 8.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2022 Edition Jimy",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2022-12-15T08:00:00Z",
+      "primaryGenreName": "Jeunesse",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/1a/e4/dd/1ae4dd22-aefd-662f-6212-8ad0e44555d6/mzaf_1628408006534440950.std.aac.p.m4a",
+      "description": "Le premier lundi du mois d'avril 1625, le bourg de Meung voit le jeune d'Artagnan, gentilhomme pauvre de Gascogne, en route vers Paris pour entrer dans la compagnie des mousquetaires du roi Louis XIII, se faire humilier par deux inconnus, dont il ignore qu'ils sont agents du cardinal de Richelieu&#xa0;: le comte de Rochefort et Milady de Winter. Rochefort lui dérobe la lettre de recommandation écrite par son père à l'intention de M. de Tréville, capitaine des mousquetaires du roi. À Paris, d'Artagnan se présente quand même à M. de Tréville, qui ne peut lui promettre une place dans sa compagnie. En sortant de l'hôtel, alors qu'il cherche à rattraper Rochefort, d'Artagnan provoque, bien malgré lui, les trois mousquetaires en duel, en heurtant l'épaule blessée d'Athos, en se prenant les pieds dans le manteau de Porthos et en ramassant un mouchoir compromettant d'Aramis."
+    }
+  ]
+}

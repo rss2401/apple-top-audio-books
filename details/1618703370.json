@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 667851953,
+      "collectionId": 1618703370,
+      "artistName": "リンダ・グラットン & アンドリュースコット",
+      "collectionName": "超訳ライフ・シフト: 100年時代の人生戦略",
+      "collectionCensoredName": "超訳ライフ・シフト: 100年時代の人生戦略",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E3%83%AA%E3%83%B3%E3%83%80-%E3%82%B0%E3%83%A9%E3%83%83%E3%83%88%E3%83%B3/id667851953?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/%E8%B6%85%E8%A8%B3%E3%83%A9%E3%82%A4%E3%83%95-%E3%82%B7%E3%83%95%E3%83%88-100%E5%B9%B4%E6%99%82%E4%BB%A3%E3%81%AE%E4%BA%BA%E7%94%9F%E6%88%A6%E7%95%A5/id1618703370?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/db/8b/8d/db8b8d56-1638-7d05-839b-f5cdbed35639/square_artwork.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/db/8b/8d/db8b8d56-1638-7d05-839b-f5cdbed35639/square_artwork.jpg/100x100bb.jpg",
+      "collectionPrice": 1630,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 2,
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2022-03-18T07:00:00Z",
+      "primaryGenreName": "自己啓発",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/82/2e/55/822e5592-7861-38f4-26f2-b9e8babaac87/mzaf_9801310538613590489.std.aac.p.m4a",
+      "description": "この本に出会えてよかった!(20代女性)\nいろんな世界を見たくなった!(30代女性)\n気持ちが明るくなった!(40代女性)\n長く生きていく勇気をもらった!(50代男性)\n\nたくさんの絶賛の声をいただいた、『ライフ・シフト』。\nこの「10年に一冊」の必読書のエッセンスを、ぎゅっと凝縮。\n読みやすい自己啓発書のスタイルでお届けします。\n\n400ページのオリジナルを読み通す時間がない、翻訳書は苦手、\n『まんがでわかる ライフシフト』では深い内容まで読み取れないといった\n読者のための、エッセンシャル・バージョンです。"
+    }
+  ]
+}

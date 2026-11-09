@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1448901620,
+      "collectionId": 1623500518,
+      "artistName": "Fiodor Dostoievski",
+      "collectionName": "100 citations de Fiodor Dostoïevski",
+      "collectionCensoredName": "100 citations de Fiodor Dostoïevski",
+      "artistViewUrl": "https://books.apple.com/fr/author/fiodor-dostoievski/id1448901620?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/100-citations-de-fiodor-dosto%C3%AFevski/id1623500518?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e9/a6/10/e9a610c7-e34c-5e17-c24b-536eae9a7c2e/9782821153592.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e9/a6/10/e9a610c7-e34c-5e17-c24b-536eae9a7c2e/9782821153592.jpg/100x100bb.jpg",
+      "collectionPrice": 4.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2020 Compagnie du Savoir",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2020-01-01T08:00:00Z",
+      "primaryGenreName": "Essais et sciences humaines",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/1e/89/4f/1e894ff8-25c9-7d7b-6cd8-3d32b0193466/mzaf_15396293383039234545.std.aac.p.m4a",
+      "description": "Fiodor Dostoïevski est un écrivain russe. Considéré comme l'un des plus grands romanciers russes, il a influencé de nombreux écrivains et philosophes. Devenu sous-lieutenant, il démissionne de l'armée en 1859 et s'engage complètement dans l'écriture. Écrivain admiré après la publication de Crime et Châtiment (1866) et de L'Idiot (1869), l'auteur publie ensuite ses deux œuvres les plus abouties : Les Démons (1871) et Les Frères Karamazov (1880). Ces 100 citations visent à donner accès à son œuvre monumentale par une sélection de ses pensées les plus marquantes, dans un format accessible à tous. Une citation est plus qu'un extrait d'un propos, ce peut être un trait d'esprit, un résumé d'une pensée complexe, une maxime, une ouverture sur une réflexion plus profonde."
+    }
+  ]
+}

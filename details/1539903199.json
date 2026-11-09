@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 262725607,
+      "collectionId": 1539903199,
+      "amgArtistId": 3132231,
+      "artistName": "Lisa Jewell",
+      "collectionName": "A Friend of the Family",
+      "collectionCensoredName": "A Friend of the Family",
+      "artistViewUrl": "https://books.apple.com/fr/author/lisa-jewell/id262725607?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/a-friend-of-the-family/id1539903199?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/85/ab/9e/85ab9eb5-c3bb-26e6-dfaa-7d64cbad4f91/9781405941266.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/85/ab/9e/85ab9eb5-c3bb-26e6-dfaa-7d64cbad4f91/9781405941266.jpg/100x100bb.jpg",
+      "collectionPrice": 11.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2020-12-03T08:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/71/ba/dc/71badccc-2d5f-9a59-41d2-950c6ae38177/mzaf_7816782132140588561.std.aac.p.m4a",
+      "description": "<b>Brought to you by Penguin</b><br /><br />Meet the Londons, a family in need of a friend ...<br /><br />Gerry and Bernie London are proud parents of Tony, Sean and Ned, three wayward lads whose lives have suddenly reached crisis points:<br /><br />Newly divorced Tony is fantasizing about someone he really shouldn't; prize-winning novelist Sean's got a hot new girlfriend and a dose of writer's block; and Ned's just back from Australia, without the girl he took with him - or a clue what he's going to do with his life.<br /><br />If that wasn't enough for one household, the Londons also have a new lodger - a mysterious rockabilly called Gervase. Will he turn out to be a friend - or foe - to the family?<br /><br />© Lisa Jewell 2003 (P) Penguin Audio 2020"
+    }
+  ]
+}

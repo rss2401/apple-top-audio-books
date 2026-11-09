@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 3260253,
+      "collectionId": 1813365766,
+      "artistName": "Meg Cabot",
+      "collectionName": "Le Carnet d'Allie - Tome 5 - L'Anniversaire",
+      "collectionCensoredName": "Le Carnet d'Allie - Tome 5 - L'Anniversaire",
+      "artistViewUrl": "https://books.apple.com/fr/author/meg-cabot/id3260253?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/le-carnet-dallie-tome-5-lanniversaire/id1813365766?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/5f/75/d45f75c4-ab97-04c7-c71c-fd3602ff80dd/9791035418243-001-y.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/5f/75/d45f75c4-ab97-04c7-c71c-fd3602ff80dd/9791035418243-001-y.jpg/100x100bb.jpg",
+      "collectionPrice": 16.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2025-08-27T07:00:00Z",
+      "primaryGenreName": "Jeunesse",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ca/12/fa/ca12fa40-0bd1-0df1-1c63-a065326c88c7/mzaf_15490105452311622612.std.aac.p.m4a",
+      "description": "Allie est folle de joie.<br />Elle va assister à une compétition sportive avec ses meilleures amies.<br />Mais lorsqu’elle est invitée le même week-end à se rendre à un anniversaire en limousine, à dîner au restaurant et à participer à une soirée pyjama dans un grand hôtel, elle hésite.<br />Même si l’invitation vient de sa pire ennemie.<br />Pour Allie, le choix est difficile.<br />Comment prendre la bonne décision ?<br /><br />Interprétation humaine"
+    }
+  ]
+}

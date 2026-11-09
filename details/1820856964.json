@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 890344735,
+      "collectionId": 1820856964,
+      "artistName": "Benjamin Wiater",
+      "collectionName": "Der Bräutigam",
+      "collectionCensoredName": "Der Bräutigam",
+      "artistViewUrl": "https://books.apple.com/de/author/benjamin-wiater/id890344735?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/der-br%C3%A4utigam/id1820856964?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/50/df/7e50df1c-404f-19b1-8688-12dbc3630d00/9788727207063.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/50/df/7e50df1c-404f-19b1-8688-12dbc3630d00/9788727207063.jpg/100x100bb.jpg",
+      "collectionPrice": 4.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2025 SAGA Egmont",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2025-07-08T07:00:00Z",
+      "primaryGenreName": "Belletristik",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/17/f9/a5/17f9a524-20e8-09cf-1208-3cacfa20e964/mzaf_12751866174661523530.std.aac.p.m4a",
+      "description": "Ein rauschendes Familienfest, das zum Albtraum wird \nIm Alten Land geht die Angst um. Der sogenannte \"Bräutigam\" entführt immer wieder Frauen, ohne Spuren zu hinterlassen. Seine Opfer werden nie gefunden. Der einzige Hinweis: eine anonyme Hochzeitsannonce in der örtlichen Zeitung, wenig später gefolgt von einer Todesanzeige. \nAuf einer Familienfeier erfahren die Architektin Nora und ihre jüngere Schwester Sofie von seinen Verbrechen. Die beiden tun das Ganze als Gruselgeschichte ab. Doch am nächsten Morgen ist Sofie verschwunden. Obwohl die Polizei unter Hochdruck ermittelt, geraten die Nachforschungen schnell in eine Sackgasse. Bald darauf wird Noras größte Angst zur schrecklichen Gewissheit: In einer seiner makabren Annoncen verkündet der Bräutigam die anstehende Heirat mit Sofie. Wenn Nora ihre kleine Schwester retten will, gibt es nur einen Weg: Sie muss dem Mörder von Angesicht zu Angesicht gegenübertreten. Und ihr bleibt nicht viel Zeit, bis er Sofie sein tödliches Ja-Wort gibt … "
+    }
+  ]
+}

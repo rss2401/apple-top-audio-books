@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 296898111,
+      "collectionId": 1501246806,
+      "artistName": "Frank Herbert",
+      "collectionName": "Dune - Tome 2 : Le Messie de Dune",
+      "collectionCensoredName": "Dune - Tome 2 : Le Messie de Dune",
+      "artistViewUrl": "https://books.apple.com/fr/author/frank-herbert/id296898111?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/dune-tome-2-le-messie-de-dune/id1501246806?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8c/17/e1/8c17e1f1-aebe-11dc-1554-e6ff8ede499b/9791036603822.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8c/17/e1/8c17e1f1-aebe-11dc-1554-e6ff8ede499b/9791036603822.jpg/100x100bb.jpg",
+      "collectionPrice": 17.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "2019 © Frank Herbert, 1965.© Galaxy Publishing Corporation, 1969.© Traduction française : Éditions Robert Laffont, S. A. 1970, 1972.℗ Lizzie, un département d'Univers Poche, Paris, 2019",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2019-06-13T07:00:00Z",
+      "primaryGenreName": "SF et fantasy",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/f6/fe/98/f6fe9826-9e19-9b77-e5f9-68fc8793c428/mzaf_5837975767301403266.std.aac.p.m4a",
+      "description": "Paul Atréides a triomphé de ses ennemis. En douze ans de guerre sainte, ses Fremen ont conquis l'univers. Il est devenu l'empereur Muad' Dib. Presque un dieu, puisqu'il voit l'avenir. Ses ennemis, il les connaît. Il sait quand et comment ils frapperont. Ils vont essayer de lui reprendre l'épice qui donne la prescience et peut-être de percer le secret de son pouvoir. Il peut déjouer leurs plans, mais voit plus loin encore. Il sait que tous les futurs possibles mènent au désastre et est hanté par la vision de sa propre mort. Peut-être n'y a-t-il pas d'autre liberté pour le prescient que celle du sacrifice..."
+    }
+  ]
+}

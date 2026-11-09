@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1448901620,
+      "collectionId": 1843199201,
+      "artistName": "Fiodor Dostoievski & Livres audio en français",
+      "collectionName": "Crime et Châtiment - Livre Audio",
+      "collectionCensoredName": "Crime et Châtiment - Livre Audio",
+      "artistViewUrl": "https://books.apple.com/fr/author/fiodor-dostoievski/id1448901620?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/crime-et-ch%C3%A2timent-livre-audio/id1843199201?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/40/f8/0240f872-921a-7e5b-21f6-412708b015fd/4069828916401.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/40/f8/0240f872-921a-7e5b-21f6-412708b015fd/4069828916401.jpg/100x100bb.jpg",
+      "collectionPrice": 3.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2025 Golden Age Audio",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2025-10-14T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/38/82/67/38826750-0620-9851-a650-3946387304e4/mzaf_9228011665151944637.std.aac.p.m4a",
+      "description": "Publié en 1866, Crime et Châtiment est l'un des chefs-d'œuvre de Fiodor Dostoïevski et une œuvre majeure de la littérature mondiale. Le roman plonge le lecteur dans les rues oppressantes de Saint-Pétersbourg et suit Rodion Raskolnikov, un ancien étudiant pauvre et tourmenté, qui conçoit l'idée d'assassiner une vieille usurière qu'il juge inutile et corrompue. Convaincu qu'il peut justifier son acte par une théorie morale, il se lance dans ce crime qui bouleversera sa vie.\r\n\r\nÀ travers ce récit haletant, Dostoïevski explore les profondeurs de la conscience humaine, le poids de la culpabilité et la lutte entre raison et morale. Entre tension psychologique, atmosphère sombre et réflexion philosophique, Crime et Châtiment reste une œuvre incontournable, où chaque page interroge la frontière fragile entre le bien et le mal."
+    }
+  ]
+}

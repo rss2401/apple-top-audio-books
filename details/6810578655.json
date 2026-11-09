@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 716496565,
+      "collectionId": 6810578655,
+      "artistName": "Ian Manook",
+      "collectionName": "Gangnam",
+      "collectionCensoredName": "Gangnam",
+      "artistViewUrl": "https://books.apple.com/fr/author/ian-manook/id716496565?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/gangnam/id6810578655?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/09/36/9f/09369f8d-96e6-9d88-9e2f-7af5cf0b94cf/9791035422059-001-y.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/09/36/9f/09369f8d-96e6-9d88-9e2f-7af5cf0b94cf/9791035422059-001-y.jpg/100x100bb.jpg",
+      "collectionPrice": 21.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2026-10-21T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0e/93/fb/0e93fb20-fd1f-8857-5393-99289d4aa0a8/mzaf_1717193279710320170.std.aac.p.m4a",
+      "description": "Au pays des matins pas si calmes, Lee Min-Ho, surnommé Gangnam, ex-policier et ex-mafieux, mène une enquête officieuse sur la disparition d’une touriste française, enlevée le jour de son arrivée à Séoul.<br />Avec l’inspectrice Park, jeune flic prodige nourrie aux dramas, aux mangas coréens, à la K-pop et à la street food, ils tentent d’expliquer cet improbable kidnapping. Le mystère s’épaissit encore lorsque l’idole absolue de la K-pop coréenne se suicide en laissant une étrange lettre d’adieu. Mais quand Gangnam se résout à demander l’aide de Loup Bleu, dragon de la mafia historique, c’est une véritable guerre des clans qu’il déclenche…<br />&#xa0; <br />De sa plume vive et cinématographique, Ian Manook nous embarque cette fois à la découverte de la Corée. C’est enjoué, surprenant, goûteux, coloré, documenté, violent, poétique, émouvant, et Gangnam se révèle n’être ni plus ni moins que le cousin coréen et inattendu du Mongol Yeruldelgger et de l’Islandais Kornelius Jakobsson.<br /><br />Interprétation humaine."
+    }
+  ]
+}

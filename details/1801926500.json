@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 517140738,
+      "collectionId": 1801926500,
+      "artistName": "Sylvain Tesson",
+      "collectionName": "Les Piliers de la mer",
+      "collectionCensoredName": "Les Piliers de la mer",
+      "artistViewUrl": "https://books.apple.com/fr/author/sylvain-tesson/id517140738?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/les-piliers-de-la-mer/id1801926500?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/43/87/dc438754-9b6c-e9d6-8a7c-17ffd2bc72f9/9791035419516.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/43/87/dc438754-9b6c-e9d6-8a7c-17ffd2bc72f9/9791035419516.jpg/100x100bb.jpg",
+      "collectionPrice": 16.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2025-04-10T07:00:00Z",
+      "primaryGenreName": "Tourisme et voyages",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a6/b5/49/a6b549d8-cbd2-8285-4454-a4f9bc3d1386/mzaf_3479932833434438923.std.aac.p.m4a",
+      "description": "« En anglais, on appelle “stacks” les piliers de la mer, détachés de la côte. Autour du monde, ces sentinelles de roche se dressent par milliers devant les falaises côtières.<br />Je veux me balancer dans les vagues, grimper ces aiguilles au milieu des oiseaux. À l’écart, les stacks ressemblent aux dandys, aux rebelles humains.<br />Qui êtes-vous, tours de la haute mer ?<br />Le dernier refuge peut-être ?<br />Tout bouge autour de nous, vous ne reculez pas. »<br /><br />Sylvain Tesson"
+    }
+  ]
+}

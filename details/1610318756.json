@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 40772803,
+      "collectionId": 1610318756,
+      "artistName": "Émile Zola",
+      "collectionName": "Lourdes",
+      "collectionCensoredName": "Lourdes",
+      "artistViewUrl": "https://books.apple.com/fr/author/%C3%A9mile-zola/id40772803?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/lourdes/id1610318756?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/60/ff/8a/60ff8ada-fa9d-3e40-7126-5237ae0fabc3/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/60/ff/8a/60ff8ada-fa9d-3e40-7126-5237ae0fabc3/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 2,
+      "copyright": "© 2026 Collina d'oro",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2026-09-25T07:00:00Z",
+      "primaryGenreName": "Classiques",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/f0/ae/e2/f0aee220-fbfe-1cf9-7a9b-1533cff71a65/mzaf_18441714876210229753.std.aac.p.m4a",
+      "description": "Il volume è il risultato di due viaggi che lo scrittore compì a Lourdes nel 1891-92, dove annotò tutto ciò che vedeva. Il resoconto della descrizione puntuale dei malati, dei luoghi, alternati alla storia del luogo insieme allo sfruttamento economico della fede dei pellegrini si unisce alla lotta interiore del protagonista, Pietro, diventato sacerdote senza convinzione, che vorrebbe credere ma resta tormentato dai dubbi. Inevitabile pensare che il suo conflitto interiore sia stato lo stesso dell'autore. Molti lettori si ritroveranno nelle riflessioni dello scrittore, che dà valore alla compassione per l'umanità e il suo dolore, più che a una fede credula e superficiale.<br /><br />Questo è il primo volume della trilogia che prosegue con <i>Roma</i> e <i>Parigi</i>, e che tratta della ricerca di Dio. Cornice musicale: E. W. Elgar, concerto per violoncello e orchestra in mi minore."
+    }
+  ]
+}

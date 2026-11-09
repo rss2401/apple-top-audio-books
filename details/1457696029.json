@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 137653645,
+      "collectionId": 1457696029,
+      "artistName": "Jacques Salomé",
+      "collectionName": "Le courage d'être soi",
+      "collectionCensoredName": "Le courage d'être soi",
+      "artistViewUrl": "https://books.apple.com/fr/author/jacques-salom%C3%A9/id137653645?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/le-courage-d%C3%AAtre-soi/id1457696029?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/33/ed/78/33ed78a4-d454-e872-d32f-f8421ebaa82c/9781894985772_cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/33/ed/78/33ed78a4-d454-e872-d32f-f8421ebaa82c/9781894985772_cover.jpg/100x100bb.jpg",
+      "collectionPrice": 11.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2017 Coffragants",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2017-01-01T08:00:00Z",
+      "primaryGenreName": "Essais et sciences humaines",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/3a/09/56/3a095614-f00c-6b13-4692-73dc7250d972/mzaf_8813875621862569920.std.aac.p.m4a",
+      "description": "L’ouvrage le plus personnel de JACQUES SALOMÉ nous interpelle sur l’art de communiquer en conscience. Riche de son itinéraire, de son expérience et de ses rencontres, il propose quelques balises, et une méthodologie pratique pour :&#xa0;<br />•EExplorer les zones d’ombre ou de méprise dans notre personnalité, les pièges et les malentendus qui nous enchaînent dans notre relation avec autrui et avec nous-mêmes.&#xa0;<br />• Apprendre à dépasser, violences, blessures et souffrances.&#xa0;<br />• Sortir des fidélités contraignantes et aller de la fidélité à l’autre à la fidélité à soi.&#xa0;<br />• Différencier ressentis et sentiments.&#xa0;<br />• Affronter les risques et les obstacles au changement personnel.&#xa0;<br />• Vivre les deuils successifs de notre existence qui nous permettent de grandir.&#xa0;<br />• Apprendre à vivre les séparations et les ruptures mais aussi les cadeaux de la vie.&#xa0;<br />• Avoir l’audance d’exister.&#xa0;<br />Un livre audio “clé” pour notre époque car il est urgent d’établir le fondement de cette science de cet art qu’est la communication relationnelle. Un livre audio qui est aussi une charte du mieux-être avec soi-même et avec autrui. Un pont entre la psychologie et la spiritualité."
+    }
+  ]
+}

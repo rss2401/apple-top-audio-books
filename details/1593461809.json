@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1593461810,
+      "collectionId": 1593461809,
+      "artistName": "Cléo Blackwood",
+      "collectionName": "Tisane & Convoitise: Les Loups de Járnviðr 1",
+      "collectionCensoredName": "Tisane & Convoitise: Les Loups de Járnviðr 1",
+      "artistViewUrl": "https://books.apple.com/fr/author/cl%C3%A9o-blackwood/id1593461810?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/tisane-convoitise-les-loups-de-j%C3%A1rnvi%C3%B0r-1/id1593461809?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/91/ac/8b91ac2b-29ef-63d2-97aa-715d7c16c72d/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8b/91/ac/8b91ac2b-29ef-63d2-97aa-715d7c16c72d/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 11.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2026 Audible Studios",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2026-09-10T07:00:00Z",
+      "primaryGenreName": "Romance",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/41/20/1c/41201c0f-2b74-a71b-452f-882911c6fd6c/mzaf_12283935977741155416.std.aac.p.m4a",
+      "description": "S'installer à la campagne pour y vivre tranquillement sans attirer l'attention ? Quand j'ai choisi mon trou perdu suédois, moi aussi j'y croyais. Avec mon herboristerie, mes connaissances pour ne tuer personne avec mes plantes un rien trop efficaces, je partais pour une petite vie planquée à l'abri des regards indiscrets. Ou pas... Il aura suffi d'une herbe, anodine bien que peu commune, pour nous griller, mes pouvoirs et moi. En tout cas si j'en crois la soudaine visite d'un puissant homme d'affaires dans ma boutique, suivie de celle d'un mystérieux représentant du peuple autochtone local, aussi démesurément taciturne que sexy. Et évidemment, ça s'est soldé par mon kidnapping. La bonne nouvelle ?&#xa0;Ils ne savent pas à qui ils ont affaire. La mauvaise ? Peut-être la menace qui pèse sur la sécurité mondiale et me plonge au cœur de la tourmente, allez savoir. Non vraiment, la vie d'ermite, ça a du bon."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 409252004,
+      "collectionId": 1521815833,
+      "artistName": "Jennifer Bassett & Gaston Leroux",
+      "collectionName": "The Phantom of the Opera",
+      "collectionCensoredName": "The Phantom of the Opera",
+      "artistViewUrl": "https://books.apple.com/jp/author/jennifer-bassett/id409252004?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/the-phantom-of-the-opera/id1521815833?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/df/8e/32/df8e329b-3196-5828-10a1-7abc80d0bce9/9780194215503_cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/df/8e/32/df8e329b-3196-5828-10a1-7abc80d0bce9/9780194215503_cover.jpg/100x100bb.jpg",
+      "collectionPrice": 968,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2007 Oxford University Press",
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2007-11-08T08:00:00Z",
+      "primaryGenreName": "言語",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/ab/a2/42/aba2428d-aaf3-f2f8-c8b1-fe8d4467d4cb/mzaf_17217725720597938381.std.aac.p.m4a",
+      "description": "It is 1880, in the Opera House in Paris. Everybody is talking about the Phantom of the Opera, the ghost that lives somewhere under the Opera House. The Phantom is a man in black clothes. He is a body without a head, he is a head without a body. He has a yellow face, he has no nose, he has black holes for eyes. Everybody is afraid of the Phantom - the singers, the dancers, the directors, the stage workers ...But who has actually seen him?"
+    }
+  ]
+}

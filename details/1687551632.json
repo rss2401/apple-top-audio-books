@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 141817437,
+      "collectionId": 1687551632,
+      "artistName": "Irène Némirovsky",
+      "collectionName": "Le bal",
+      "collectionCensoredName": "Le bal",
+      "artistViewUrl": "https://books.apple.com/fr/author/ir%C3%A8ne-n%C3%A9mirovsky/id141817437?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/le-bal/id1687551632?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f9/38/c0/f938c083-fe54-fa74-2968-be72ef7ad2e0/9782821125414.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f9/38/c0/f938c083-fe54-fa74-2968-be72ef7ad2e0/9782821125414.jpg/100x100bb.jpg",
+      "collectionPrice": 2.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2020 Compagnie du Savoir",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2020-01-01T08:00:00Z",
+      "primaryGenreName": "Essais et sciences humaines",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/10/6d/c9/106dc9d6-eee1-8ac6-4638-0de232745973/mzaf_13496080797949301290.std.aac.p.m4a",
+      "description": "Irène Némirovsky est une romancière russe d'expression française, morte le 19 août 1942 à Auschwitz. Auteur à succès dans la France des années 1930 mais oubliée après la Seconde Guerre mondiale, elle est le seul écrivain à qui le prix Renaudot ait été décerné à titre posthume, en 2004, pour son roman inachevé \"&#xa0;Suite française&#xa0;\". Le Bal, dont l'action se situe en 1928, décrit les tourments d'une adolescente de quatorze ans, Antoinette, qui entretient des rapports difficiles avec ses parents, parvenus de fraîche date, et spécialement avec sa mère. Celle-ci ayant refusé de la laisser assister au premier bal mondain qu'elle et son mari veulent donner, la jeune fille trouve à se venger cruellement. Le récit met en scène une relation conflictuelle d'inspiration partiellement autobiographique entre mère et fille."
+    }
+  ]
+}

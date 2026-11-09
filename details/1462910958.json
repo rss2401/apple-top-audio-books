@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 409273200,
+      "collectionId": 1462910958,
+      "artistName": "Blake Crouch",
+      "collectionName": "Recursion",
+      "collectionCensoredName": "Recursion",
+      "artistViewUrl": "https://books.apple.com/fr/author/blake-crouch/id409273200?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/recursion/id1462910958?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f6/18/82/f61882dc-732f-061d-bc21-22841d063891/9781509866700.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/f6/18/82/f61882dc-732f-061d-bc21-22841d063891/9781509866700.jpg/100x100bb.jpg",
+      "collectionPrice": 11.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2019-06-13T07:00:00Z",
+      "primaryGenreName": "Policier et suspense",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/be/cf/6b/becf6bd7-92ce-b25d-4954-7ce58ae943e9/mzaf_1043320750300036434.std.aac.p.m4a",
+      "description": "<b>'Action-packed, brilliantly unique' – Andy Weir, author of <i>The Martian</i></b><br /><br /><b>A compulsive, mind-bending exploration of memory and what it means to be human, <i>Recursion</i> is a breathtaking thriller from the author of <i>Dark Matter</i>, Blake Crouch.</b><br /><br />At first, it looks like a disease.<br /><br />An epidemic that spreads through no known means, driving its victims mad with memories of a life they never lived.<br /><br />But the force that’s sweeping the world is no pathogen. It’s just the first shockwave, unleashed by a stunning discovery – and what’s in jeopardy is not just our minds.<br /><br />In New York City, Detective Barry Sutton is closing in on the truth – and in a remote laboratory, neuroscientist Helena Smith is unaware that she alone holds the key to this mystery . . . and the tools for fighting back.<br /><br />Together, Barry and Helena will have to confront their enemy – before they, and the world, are trapped in a loop of ever-growing chaos.<br /><br /><b>'<i>Recursion</i> takes mind-twisting premises and embeds them in a deeply emotional story about time and loss and grief and most of all, the glory of the human heart' – Gregg Hurwitz, author of <i>Orphan X</i><br /><br />Fans are blown away by <i>Recursion</i> . . .</b><br /><br /><i>'Unbelievably good'<br /><br />'Mind-blowing, brilliant, enthralling and gripping from beginning to end'<br /><br />'The stakes are colossal, the characters are the perfect propelling forces of the story, and the big reveals are placed at exactly the right moments'<br /><br />'I couldn't put it down, I had to know what happened next'<br /><br />'Crouch, an already phenomenal author, just keeps getting better'</i>"
+    }
+  ]
+}

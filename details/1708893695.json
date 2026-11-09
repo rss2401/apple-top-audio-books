@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 18095413,
+      "collectionId": 1708893695,
+      "amgArtistId": 40474,
+      "artistName": "Ian Moore",
+      "collectionName": "The Man Who Didn't Burn",
+      "collectionCensoredName": "The Man Who Didn't Burn",
+      "artistViewUrl": "https://books.apple.com/fr/artist/ian-moore/18095413?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/the-man-who-didnt-burn/id1708893695?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9f/81/bc/9f81bc5b-e084-668f-f713-75a7999794af/9781788425063.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9f/81/bc/9f81bc5b-e084-668f-f713-75a7999794af/9781788425063.png/100x100bb.jpg",
+      "collectionPrice": 16.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2023 Duckworth Books",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2023-10-12T07:00:00Z",
+      "primaryGenreName": "Policier et suspense",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c8/7e/41/c87e4143-084b-062d-c7ed-028e2b1012a3/mzaf_8079795163099052025.std.aac.p.m4a",
+      "description": "A KILLER. A SAINT. A TOWN FULL OF WHISPERS<br /><br />When an English expat is brutally murdered, his charred corpse left on a Loire Valley hillside, the police turn to juge d’instruction Matthieu Lombard to find the killer.<br /><br />Instead, Lombard discovers a wealth of secrets, grudges and feuds in the idyllic town of Saint-Genèse-sur-Loire. He begins to suspect that the remaining members of the Comité des Fêtes know more about the death than they are letting on.<br /><br />But rather than leading to an arrest, each clue he uncovers seems to point in one, unexpected direction: Joan of Arc. Is the answer to the murder hiding in the barroom gossip of the Lion d’Or? Or in another century altogether?<br /><br />The thrilling new crime series from the Times bestselling author of Death and Croissants"
+    }
+  ]
+}

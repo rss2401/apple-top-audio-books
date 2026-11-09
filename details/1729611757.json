@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 965412427,
+      "collectionId": 1729611757,
+      "artistName": "Celine Denjean",
+      "collectionName": "Châtiment",
+      "collectionCensoredName": "Châtiment",
+      "artistViewUrl": "https://books.apple.com/fr/author/celine-denjean/id965412427?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/ch%C3%A2timent/id1729611757?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/36/40/46/364046c7-22bc-be46-f1dc-e7e4ae60c5e3/9791036632389.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/36/40/46/364046c7-22bc-be46-f1dc-e7e4ae60c5e3/9791036632389.jpg/100x100bb.jpg",
+      "collectionPrice": 18.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "2024 © Céline Denjean et Michel Lafon Publishing, 2024...℗ Lizzie, un département d'Univers Poche, Paris, 2024.",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2024-02-08T08:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/96/d5/f3/96d5f3c9-9b09-f239-4c67-97e7287f654d/mzaf_12537171562058645589.std.aac.p.m4a",
+      "description": "Il voit tout, Il entend tout, Il sait tout. La nouvelle enquête de Violaine Menou et Louise Caumont a de quoi vous faire trembler durant votre écoute. Interprété par Léovanie Raud, ce livre audio vous fera découvrir des secrets de famille qui auraient peut-être mieux faits de rester enfouis... \" Depuis qu'un fou furieux a tué maman, la rage qui couvait au fond de moi est sortie de ses gonds. Je la sens, là, qui enfle, gronde, bouillonne. Elle ressemble à un monstre qui me soulève le ventre. \" Une violence sourde ronge la très respectable famille Bellegarde dont la mère, Marie-France, a été sauvagement assassinée. Les fondations de l'édifice familial vacillent. La major Louise Caumont trouvera-t-elle la faille pour percer à jour les secrets du clan ?"
+    }
+  ]
+}

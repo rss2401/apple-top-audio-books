@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 79826265,
+      "collectionId": 1548734511,
+      "artistName": "Joseph Kessel",
+      "collectionName": "L'armée des ombres",
+      "collectionCensoredName": "L'armée des ombres",
+      "artistViewUrl": "https://books.apple.com/fr/author/joseph-kessel/id79826265?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/larm%C3%A9e-des-ombres/id1548734511?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c7/20/5f/c7205f61-38e6-6852-63a4-5e440636bba8/9791036612855.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c7/20/5f/c7205f61-38e6-6852-63a4-5e440636bba8/9791036612855.jpg/100x100bb.jpg",
+      "collectionPrice": 19.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "2021 © Pocket, un département d'Univers Poche, pour la présente édition.℗ Lizzie, un département d'Univers Poche, Paris, 2021",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2021-01-14T08:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/90/07/76/900776f8-99bb-d4e9-e9b3-7709ec742dc2/mzaf_15761545733144739756.std.aac.p.m4a",
+      "description": "Le grand roman de la Résistance pendant la Seconde Guerre mondiale. LES GRANDS TEXTES DU XXe SIÈCLE Londres, 1943, Joseph Kessel écrit L'Armée des ombres, le roman-symbole de la Résistance que l'auteur présente ainsi : \" La France n'a plus de pain, de vin, de feu. Mais surtout elle n'a plus de lois. La désobéissance civique, la rébellion individuelle ou organisée sont devenues devoirs envers la patrie. (...) Jamais la France n'a fait guerre plus haute et plus belle que celle des caves où s'impriment ses journaux libres, des terrains nocturnes et des criques secrètes où elle reçoit ses amis libres et d'où partent ses enfants libres, des cellules de torture où malgré les tenailles, les épingles rougies au feu et les os broyés, des Français meurent en hommes libres. Tout ce qu'on va lire ici a été vécu par des gens de France. \""
+    }
+  ]
+}

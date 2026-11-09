@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 156380009,
+      "collectionId": 1498639552,
+      "artistName": "Toni Morrison",
+      "collectionName": "Beloved",
+      "collectionCensoredName": "Beloved",
+      "artistViewUrl": "https://books.apple.com/fr/author/toni-morrison/id156380009?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/beloved/id1498639552?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f1/01/96/f1019659-fe79-39ab-4193-023994df18a4/9791035401856.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f1/01/96/f1019659-fe79-39ab-4193-023994df18a4/9791035401856.jpg/100x100bb.jpg",
+      "collectionPrice": 20.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2020-03-11T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/17/af/3a/17af3ad3-b4c3-0f4b-bf7c-2609098f599a/mzaf_12293946587836659688.std.aac.p.m4a",
+      "description": "« Le 124 était habité de malveillance. Imprégné de la malédiction d'un bébé... »<br />À Bluestone Road, près de Cincinnati, vers 1870, les meubles volent, la lumière allume au sol des flaques de sang, des gâteaux sortent du four marqués de l'empreinte d'une petite main de bébé. Dix-huit ans après son acte de violence et d'amour maternel, Sethe l'ancienne esclave et les siens sont encore hantés par la petite fille de deux ans qu'elle a égorgée. Jusqu'au jour où une inconnue, Beloved, arrivée mystérieusement au 124, donne enfin à cette mère hors-la-loi la possibilité d'exorciser son passé. Parce que pour ceux qui ont tout perdu, la rédemption ne vient pas du souvenir, mais de l'oubli.<br />Ce roman aux résonances de tragédie grecque, au style d'une flamboyante beauté lyrique, a reçu en 1988 le prix Pulitzer, et a figuré pendant des mois en tête des listes de best-sellers en Grande-Bretagne et aux États-Unis.<br /><br />Beloved est un moment hors du temps, une alchimie sublime entre un texte puissant et la voix envoûtante d’Anne Alvaro."
+    }
+  ]
+}
