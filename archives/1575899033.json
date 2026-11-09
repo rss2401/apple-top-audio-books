@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
     {
       "month": "202610",
@@ -38,6 +38,44 @@
         }
       ],
       "url": "https://books.apple.com/jp/audiobook/four-thousand-weeks/id1575899033"
+    },
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 46,
+      "artistName": "Oliver Burkeman",
+      "id": "1575899033",
+      "name": "Four Thousand Weeks",
+      "releaseDate": "2021-08-26",
+      "kind": "audio-books",
+      "artistId": "408872471",
+      "artistUrl": "https://books.apple.com/de/author/oliver-burkeman/id408872471",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bc/1c/4b/bc1c4b93-0afc-ed34-5370-786fd5d139a9/9781473564954.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000056",
+          "name": "Ratgeber",
+          "url": "https://itunes.apple.com/de/genre/id50000056"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        },
+        {
+          "genreId": "50000054",
+          "name": "Naturwissenschaften",
+          "url": "https://itunes.apple.com/de/genre/id50000054"
+        },
+        {
+          "genreId": "50000052",
+          "name": "Sachbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000052"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/four-thousand-weeks/id1575899033"
     }
   ]
 }

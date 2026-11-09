@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 68,
+      "artistName": "Arnaldur Indridason",
+      "id": "1440369293",
+      "name": "La Femme de l'ombre - Trilogie des ombres, tome 2",
+      "releaseDate": "2018-01-17",
+      "kind": "audio-books",
+      "artistId": "1425245487",
+      "artistUrl": "https://books.apple.com/fr/author/arnaldur-indridason/id1425245487",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/84/c6/cf/84c6cfcf-5c84-18c5-2e05-017885f5d523/9782367625409.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000051",
+          "name": "Policier et suspense",
+          "url": "https://itunes.apple.com/fr/genre/id50000051"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/la-femme-de-lombre-trilogie-des-ombres-tome-2/id1440369293"
+    }
+  ]
+}

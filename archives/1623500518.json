@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 80,
+      "artistName": "Fiodor Dostoievski",
+      "id": "1623500518",
+      "name": "100 citations de Fiodor Dostoïevski",
+      "releaseDate": "2020-01-01",
+      "kind": "audio-books",
+      "artistId": "1448901620",
+      "artistUrl": "https://books.apple.com/fr/author/fiodor-dostoievski/id1448901620",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e9/a6/10/e9a610c7-e34c-5e17-c24b-536eae9a7c2e/9782821153592.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000052",
+          "name": "Essais et sciences humaines",
+          "url": "https://itunes.apple.com/fr/genre/id50000052"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/100-citations-de-fiodor-dosto%C3%AFevski/id1623500518"
+    }
+  ]
+}

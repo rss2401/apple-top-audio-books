@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 81,
+      "artistName": "Charles Dickens",
+      "id": "407877792",
+      "name": "A Christmas Carol: A Signature Performance by Tim Curry  (Unabridged)",
+      "releaseDate": "2010-12-01",
+      "kind": "audio-books",
+      "artistId": "2671774",
+      "artistUrl": "https://books.apple.com/fr/author/charles-dickens/id2671774",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/db/14/98/db1498f6-4696-ebb9-e665-457a5d07061d/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000045",
+          "name": "Classiques",
+          "url": "https://itunes.apple.com/fr/genre/id50000045"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/a-christmas-carol-a-signature-performance-by/id407877792"
+    }
+  ]
+}

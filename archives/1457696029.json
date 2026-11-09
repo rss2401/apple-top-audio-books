@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 61,
+      "artistName": "Jacques Salomé",
+      "id": "1457696029",
+      "name": "Le courage d'être soi",
+      "releaseDate": "2017-01-01",
+      "kind": "audio-books",
+      "artistId": "137653645",
+      "artistUrl": "https://books.apple.com/fr/author/jacques-salom%C3%A9/id137653645",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/33/ed/78/33ed78a4-d454-e872-d32f-f8421ebaa82c/9781894985772_cover.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000052",
+          "name": "Essais et sciences humaines",
+          "url": "https://itunes.apple.com/fr/genre/id50000052"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/le-courage-d%C3%AAtre-soi/id1457696029"
+    }
+  ]
+}

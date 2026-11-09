@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 78,
+      "artistName": "Eckhart Tolle",
+      "id": "1750610250",
+      "name": "Jetzt! Die Kraft der Gegenwart",
+      "releaseDate": "2024-07-01",
+      "kind": "audio-books",
+      "artistId": "2063449",
+      "artistUrl": "https://books.apple.com/de/author/eckhart-tolle/id2063449",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fc/d3/d8/fcd3d809-640a-5476-77f5-2f94c89bf91c/9783442335329.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000056",
+          "name": "Ratgeber",
+          "url": "https://itunes.apple.com/de/genre/id50000056"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/jetzt-die-kraft-der-gegenwart/id1750610250"
+    }
+  ]
+}

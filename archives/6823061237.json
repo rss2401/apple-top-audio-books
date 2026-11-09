@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 84,
+      "artistName": "Eric Giacometti & Jacques Ravenne",
+      "id": "6823061237",
+      "name": "La Pierre du destin - La Saga du Soleil noir, vol. 8",
+      "releaseDate": "2027-01-06",
+      "kind": "audio-books",
+      "artistId": "476284510",
+      "artistUrl": "https://books.apple.com/fr/author/eric-giacometti/id476284510",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f6/d4/32/f6d4324e-b322-9dc9-e3af-acfa6faf649e/9791035427566-001-y.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000051",
+          "name": "Policier et suspense",
+          "url": "https://itunes.apple.com/fr/genre/id50000051"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/la-pierre-du-destin-la-saga-du-soleil-noir-vol-8/id6823061237"
+    }
+  ]
+}

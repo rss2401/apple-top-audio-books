@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 71,
+      "artistName": "Kirstin Rae Evans",
+      "id": "1795572512",
+      "name": "Parler en public (5 en 1) [Speak in Public (5 in 1)]: 91 techniques et astuces pour booster votre confiance et chasser votre anxiété devant un auditoire (Unabridged)",
+      "releaseDate": "2026-08-21",
+      "kind": "audio-books",
+      "artistId": "1794652558",
+      "artistUrl": "https://books.apple.com/fr/author/kirstin-rae-evans/id1794652558",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/3b/69/923b6900-f32f-2023-02d5-815cc63b1ec1/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000043",
+          "name": "Affaires",
+          "url": "https://itunes.apple.com/fr/genre/id50000043"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000052",
+          "name": "Essais et sciences humaines",
+          "url": "https://itunes.apple.com/fr/genre/id50000052"
+        },
+        {
+          "genreId": "50000056",
+          "name": "Santé et bien-être",
+          "url": "https://itunes.apple.com/fr/genre/id50000056"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/parler-en-public-5-en-1-speak-in-public-5-in-1-91-techniques/id1795572512"
+    }
+  ]
+}

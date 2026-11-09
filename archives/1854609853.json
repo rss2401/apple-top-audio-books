@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 74,
+      "artistName": "Paul J. Anderson",
+      "id": "1854609853",
+      "name": "Apprendre l’anglais en 90 jours: Le cours d'anglais complet pour parler avec confiance. Avec des dialogues réels et les expressions les plus utiles pour la vie de tous les jours (A1-B2) (Unabridged)",
+      "releaseDate": "2025-11-21",
+      "kind": "audio-books",
+      "artistId": "1744608969",
+      "artistUrl": "https://books.apple.com/fr/author/paul-j-anderson/id1744608969",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/98/54/119854ae-fb82-49d5-67e4-a34e90bf93c5/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000050",
+          "name": "Langues",
+          "url": "https://itunes.apple.com/fr/genre/id50000050"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000052",
+          "name": "Essais et sciences humaines",
+          "url": "https://itunes.apple.com/fr/genre/id50000052"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/apprendre-langlais-en-90-jours-le-cours-danglais-complet/id1854609853"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 13,
+      "artistName": "ビアトリクス・ポター",
+      "id": "1581747048",
+      "name": "ピーターラビットのおはなし-THE TALE OF PETER RABBIT-: ピーターラビットシリーズ完全版",
+      "releaseDate": "2021-08-31",
+      "kind": "audio-books",
+      "artistId": "814831159",
+      "artistUrl": "https://books.apple.com/jp/author/%E3%83%93%E3%82%A2%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9-%E3%83%9D%E3%82%BF%E3%83%BC/id814831159",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/50/d4/a2/50d4a27d-fc96-c23f-a132-c5034619e39c/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000044",
+          "name": "キッズ／ヤングアダルト",
+          "url": "https://itunes.apple.com/jp/genre/id50000044"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E3%83%94%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%A9%E3%83%93%E3%83%83%E3%83%88%E3%81%AE%E3%81%8A%E3%81%AF%E3%81%AA%E3%81%97-the-tale-of-peter-rabbit-%E3%83%94%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%A9%E3%83%93%E3%83%83%E3%83%88%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E5%AE%8C%E5%85%A8%E7%89%88/id1581747048"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 38,
+      "artistName": "Alice Hunter",
+      "id": "1829747654",
+      "name": "La femme du serial killer - Un thriller domestique sombre et inquiétant",
+      "releaseDate": "2025-08-21",
+      "kind": "audio-books",
+      "artistId": "514221565",
+      "artistUrl": "https://books.apple.com/fr/author/alice-hunter/id514221565",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/3f/91/6f3f9155-344f-7e1f-7a37-ba0c8d26540b/9791036644849.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/la-femme-du-serial-killer-un-thriller-domestique/id1829747654"
+    }
+  ]
+}

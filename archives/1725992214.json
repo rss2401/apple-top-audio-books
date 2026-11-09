@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 65,
+      "artistName": "Nine Gorman & Marie Alhinho",
+      "id": "1725992214",
+      "name": "La nuit où les étoiles se sont éteintes",
+      "releaseDate": "2024-02-28",
+      "kind": "audio-books",
+      "artistId": "1286851069",
+      "artistUrl": "https://books.apple.com/fr/author/nine-gorman/id1286851069",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/93/0c/2f/930c2f58-86b8-de5a-3e04-b36a57e2087c/9791035414634.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000044",
+          "name": "Jeunesse",
+          "url": "https://itunes.apple.com/fr/genre/id50000044"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/la-nuit-o%C3%B9-les-%C3%A9toiles-se-sont-%C3%A9teintes/id1725992214"
+    }
+  ]
+}

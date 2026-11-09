@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 57,
+      "artistName": "Jean M. Auel",
+      "id": "1267529904",
+      "name": "Le clan de l'ours des cavernes: Les enfants de la Terre 1",
+      "releaseDate": "2017-08-10",
+      "kind": "audio-books",
+      "artistId": "264339089",
+      "artistUrl": "https://books.apple.com/fr/author/jean-m-auel/id264339089",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/9a/f9/9d9af949-bb96-2d77-7c05-5dc87bad3bd5/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/le-clan-de-lours-des-cavernes-les-enfants-de-la-terre-1/id1267529904"
+    }
+  ]
+}

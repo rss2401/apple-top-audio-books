@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 58,
+      "artistName": "Philip Kerr",
+      "id": "1440362019",
+      "name": "L'été de cristal - La trilogie berlinoise 1",
+      "releaseDate": "2011-11-09",
+      "kind": "audio-books",
+      "artistId": "2065839",
+      "artistUrl": "https://books.apple.com/fr/author/philip-kerr/id2065839",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/3e/e0/6e/3ee06e48-85d8-1b5b-d20b-49cf470e14dd/9782356413888.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000051",
+          "name": "Policier et suspense",
+          "url": "https://itunes.apple.com/fr/genre/id50000051"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/l%C3%A9t%C3%A9-de-cristal-la-trilogie-berlinoise-1/id1440362019"
+    }
+  ]
+}

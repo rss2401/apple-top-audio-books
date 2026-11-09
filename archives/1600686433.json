@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 82,
+      "artistName": "Lee Mack",
+      "id": "1600686433",
+      "name": "Mack The Life",
+      "releaseDate": "2022-07-14",
+      "kind": "audio-books",
+      "artistId": "131497876",
+      "artistUrl": "https://books.apple.com/gb/author/lee-mack/id131497876",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9c/64/da/9c64da2e-137e-4e18-ea0e-7a38bc8c6eef/9781448125937.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000042",
+          "name": "Biography",
+          "url": "https://itunes.apple.com/gb/genre/id50000042"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Audiobooks",
+          "url": "https://itunes.apple.com/gb/genre/id50000024"
+        },
+        {
+          "genreId": "50000046",
+          "name": "Comedy",
+          "url": "https://itunes.apple.com/gb/genre/id50000046"
+        }
+      ],
+      "url": "https://books.apple.com/gb/audiobook/mack-the-life/id1600686433"
+    }
+  ]
+}

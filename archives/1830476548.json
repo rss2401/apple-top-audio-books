@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 90,
+      "artistName": "Oliver Kalkofe",
+      "id": "1830476548",
+      "name": "Nie war Früher schöner als Jetzt - Ein Boomer blickt zurück nach vorn (Ungekürzte Lesung)",
+      "releaseDate": "2025-11-03",
+      "kind": "audio-books",
+      "artistId": "27434068",
+      "artistUrl": "https://books.apple.com/de/author/oliver-kalkofe/id27434068",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/1f/b9/631fb98c-18fa-d3a0-0d59-2ff314ad337d/9783732484317_3000.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000052",
+          "name": "Sachbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000052"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/nie-war-fr%C3%BCher-sch%C3%B6ner-als-jetzt-ein-boomer-blickt/id1830476548"
+    }
+  ]
+}

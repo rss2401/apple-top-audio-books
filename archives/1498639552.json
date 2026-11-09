@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 49,
+      "artistName": "Toni Morrison",
+      "id": "1498639552",
+      "name": "Beloved",
+      "releaseDate": "2020-03-11",
+      "kind": "audio-books",
+      "artistId": "156380009",
+      "artistUrl": "https://books.apple.com/fr/author/toni-morrison/id156380009",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f1/01/96/f1019659-fe79-39ab-4193-023994df18a4/9791035401856.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/beloved/id1498639552"
+    }
+  ]
+}

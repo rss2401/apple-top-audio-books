@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 39,
+      "artistName": "Alexandre Dumas",
+      "id": "1664930782",
+      "name": "Les trois mousquetaires",
+      "releaseDate": "2022-12-15",
+      "kind": "audio-books",
+      "artistId": "1411146573",
+      "artistUrl": "https://books.apple.com/fr/author/alexandre-dumas/id1411146573",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/a0/ad/39/a0ad3900-d6e8-a15c-3ab8-34bfabca3848/9782382651063_cover.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000044",
+          "name": "Jeunesse",
+          "url": "https://itunes.apple.com/fr/genre/id50000044"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/les-trois-mousquetaires/id1664930782"
+    }
+  ]
+}

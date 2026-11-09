@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 29,
+      "artistName": "Collectif",
+      "id": "1434684880",
+      "name": "Osez... 20 histoires d'amour au bureau: Osez...",
+      "releaseDate": "2018-09-06",
+      "kind": "audio-books",
+      "artistId": "206588722",
+      "artistUrl": "https://books.apple.com/fr/author/collectif/id206588722",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/05/5a/5c055a49-533e-17a4-ddf7-48330ae34e8e/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000092",
+          "name": "Érotisme",
+          "url": "https://itunes.apple.com/fr/genre/id50000092"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/osez-20-histoires-damour-au-bureau-osez/id1434684880"
+    }
+  ]
+}

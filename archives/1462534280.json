@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 12,
+      "artistName": "Blake Pierce",
+      "id": "1462534280",
+      "name": "Réaction en Chaîne (Une Enquête de Riley Paige – Tome 2)",
+      "releaseDate": "2019-04-22",
+      "kind": "audio-books",
+      "artistId": "1061299863",
+      "artistUrl": "https://books.apple.com/fr/author/blake-pierce/id1061299863",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ff/41/84/ff41842a-3c04-3820-b161-d36ad8ec73a3/9781640299184_cover.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000051",
+          "name": "Policier et suspense",
+          "url": "https://itunes.apple.com/fr/genre/id50000051"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/r%C3%A9action-en-cha%C3%AEne-une-enqu%C3%AAte-de-riley-paige-tome-2/id1462534280"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 86,
+      "artistName": "Heather Ashley",
+      "id": "1865851183",
+      "name": "Unexpectedly Ever After",
+      "releaseDate": "2025-09-02",
+      "kind": "audio-books",
+      "artistId": "1031224115",
+      "artistUrl": "https://books.apple.com/fr/author/heather-ashley/id1031224115",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/6e/6c/6b6e6cf5-6005-f5a6-1d23-a463045a2d26/9798347020478.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000069",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/fr/genre/id50000069"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/unexpectedly-ever-after/id1865851183"
+    }
+  ]
+}

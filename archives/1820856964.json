@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 92,
+      "artistName": "Benjamin Wiater",
+      "id": "1820856964",
+      "name": "Der Bräutigam",
+      "releaseDate": "2025-07-08",
+      "kind": "audio-books",
+      "artistId": "890344735",
+      "artistUrl": "https://books.apple.com/de/author/benjamin-wiater/id890344735",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/50/df/7e50df1c-404f-19b1-8688-12dbc3630d00/9788727207063.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Belletristik",
+          "url": "https://itunes.apple.com/de/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/der-br%C3%A4utigam/id1820856964"
+    }
+  ]
+}

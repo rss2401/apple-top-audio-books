@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 92,
+      "artistName": "Philippe Jaenada",
+      "id": "1753901557",
+      "name": "La désinvolture est une bien belle chose",
+      "releaseDate": "2024-08-21",
+      "kind": "audio-books",
+      "artistId": "373366107",
+      "artistUrl": "https://books.apple.com/fr/author/philippe-jaenada/id373366107",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/7b/8e/1b7b8e74-94df-9682-7236-661c58edd94b/9782073092274.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/la-d%C3%A9sinvolture-est-une-bien-belle-chose/id1753901557"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 23,
+      "artistName": "Ian Manook",
+      "id": "6810578655",
+      "name": "Gangnam",
+      "releaseDate": "2026-10-21",
+      "kind": "audio-books",
+      "artistId": "716496565",
+      "artistUrl": "https://books.apple.com/fr/author/ian-manook/id716496565",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/09/36/9f/09369f8d-96e6-9d88-9e2f-7af5cf0b94cf/9791035422059-001-y.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000051",
+          "name": "Policier et suspense",
+          "url": "https://itunes.apple.com/fr/genre/id50000051"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/gangnam/id6810578655"
+    }
+  ]
+}

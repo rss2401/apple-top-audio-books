@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 63,
+      "artistName": "Celine Denjean",
+      "id": "1729611757",
+      "name": "Châtiment",
+      "releaseDate": "2024-02-08",
+      "kind": "audio-books",
+      "artistId": "965412427",
+      "artistUrl": "https://books.apple.com/fr/author/celine-denjean/id965412427",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/36/40/46/364046c7-22bc-be46-f1dc-e7e4ae60c5e3/9791036632389.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/ch%C3%A2timent/id1729611757"
+    }
+  ]
+}

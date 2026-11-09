@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 90,
+      "artistName": "Émile Zola",
+      "id": "1610318756",
+      "name": "Lourdes",
+      "releaseDate": "2026-09-25",
+      "kind": "audio-books",
+      "artistId": "40772803",
+      "artistUrl": "https://books.apple.com/fr/author/%C3%A9mile-zola/id40772803",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/60/ff/8a/60ff8ada-fa9d-3e40-7126-5237ae0fabc3/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000045",
+          "name": "Classiques",
+          "url": "https://itunes.apple.com/fr/genre/id50000045"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/lourdes/id1610318756"
+    }
+  ]
+}

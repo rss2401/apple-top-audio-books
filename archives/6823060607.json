@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 82,
+      "artistName": "Stephen King",
+      "id": "6823060607",
+      "name": "L'année du loup-garou",
+      "releaseDate": "2026-11-18",
+      "kind": "audio-books",
+      "artistId": "2024797",
+      "artistUrl": "https://books.apple.com/fr/author/stephen-king/id2024797",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/61/03/086103b2-5696-3f29-2d8d-9bdc4da27c3b/9791035423209-001-y.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/lann%C3%A9e-du-loup-garou/id6823060607"
+    }
+  ]
+}

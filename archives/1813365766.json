@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 88,
+      "artistName": "Meg Cabot",
+      "id": "1813365766",
+      "name": "Le Carnet d'Allie - Tome 5 - L'Anniversaire",
+      "releaseDate": "2025-08-27",
+      "kind": "audio-books",
+      "artistId": "3260253",
+      "artistUrl": "https://books.apple.com/fr/author/meg-cabot/id3260253",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/5f/75/d45f75c4-ab97-04c7-c71c-fd3602ff80dd/9791035418243-001-y.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000044",
+          "name": "Jeunesse",
+          "url": "https://itunes.apple.com/fr/genre/id50000044"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/le-carnet-dallie-tome-5-lanniversaire/id1813365766"
+    }
+  ]
+}

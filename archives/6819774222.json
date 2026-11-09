@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 59,
+      "artistName": "Amanda Baker, Abi Grant & Jimmy Carr",
+      "id": "6819774222",
+      "name": "On Jokes (Unabridged)",
+      "releaseDate": "2026-10-22",
+      "kind": "audio-books",
+      "artistId": "125978410",
+      "artistUrl": "https://books.apple.com/gb/author/amanda-baker/id125978410",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/b5/02/27b50243-776a-a39a-3e66-755fc5fb9c57/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000046",
+          "name": "Comedy",
+          "url": "https://itunes.apple.com/gb/genre/id50000046"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Audiobooks",
+          "url": "https://itunes.apple.com/gb/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/gb/audiobook/on-jokes-unabridged/id6819774222"
+    }
+  ]
+}

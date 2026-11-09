@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 91,
+      "artistName": "Jenny Offill",
+      "id": "1588179838",
+      "name": "Dept. of Speculation (Unabridged)",
+      "releaseDate": "2021-11-23",
+      "kind": "audio-books",
+      "artistId": "419924656",
+      "artistUrl": "https://books.apple.com/fr/author/jenny-offill/id419924656",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d8/25/c9/d825c95d-c006-9c5e-9178-a958d9f799f2/coverArt.c026c6.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/dept-of-speculation-unabridged/id1588179838"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 66,
+      "artistName": "Florian Parent",
+      "id": "1812679709",
+      "name": "À ceux que nous étions (Young Adult MxM Gay Romance ): Lu par Florian Parent",
+      "releaseDate": "2025-05-03",
+      "kind": "audio-books",
+      "artistId": "1530636326",
+      "artistUrl": "https://books.apple.com/fr/author/florian-parent/id1530636326",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/56/a5/5556a534-682c-52db-8d1d-9e926d433489/9798318020469.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000069",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/fr/genre/id50000069"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/%C3%A0-ceux-que-nous-%C3%A9tions-young-adult-mxm-gay-romance/id1812679709"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 55,
+      "artistName": "Camille de Peretti",
+      "id": "1768772567",
+      "name": "L'Inconnue du portrait",
+      "releaseDate": "2024-10-23",
+      "kind": "audio-books",
+      "artistId": "397978820",
+      "artistUrl": "https://books.apple.com/fr/author/camille-de-peretti/id397978820",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/69/74/64697466-a2a0-1cd5-3e9e-f2cfa1aa804e/9791035417093.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000069",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/fr/genre/id50000069"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/linconnue-du-portrait/id1768772567"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 79,
+      "artistName": "Nicolas Courcier",
+      "id": "1844368444",
+      "name": "Zelda",
+      "releaseDate": "2025-10-14",
+      "kind": "audio-books",
+      "artistId": "1214352027",
+      "artistUrl": "https://books.apple.com/fr/author/nicolas-courcier/id1214352027",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f2/c4/98/f2c49890-4e01-c9b9-8f63-2bc089d40584/9782377845873.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000052",
+          "name": "Essais et sciences humaines",
+          "url": "https://itunes.apple.com/fr/genre/id50000052"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/zelda/id1844368444"
+    }
+  ]
+}

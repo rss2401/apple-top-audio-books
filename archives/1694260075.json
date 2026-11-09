@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 81,
+      "artistName": "Jonathan Haidt",
+      "id": "1694260075",
+      "name": "The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness (Unabridged)",
+      "releaseDate": "2024-03-26",
+      "kind": "audio-books",
+      "artistId": "211300654",
+      "artistUrl": "https://books.apple.com/us/author/jonathan-haidt/id211300654",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4d/4c/52/4d4c5244-0a44-7d4d-aadf-f8549d4c57f5/9780593829097.d.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000052",
+          "name": "Nonfiction",
+          "url": "https://itunes.apple.com/us/genre/id50000052"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Audiobooks",
+          "url": "https://itunes.apple.com/us/genre/id50000024"
+        },
+        {
+          "genreId": "50000056",
+          "name": "Self-Development",
+          "url": "https://itunes.apple.com/us/genre/id50000056"
+        }
+      ],
+      "url": "https://books.apple.com/us/audiobook/the-anxious-generation-how-the-great-rewiring/id1694260075"
+    }
+  ]
+}

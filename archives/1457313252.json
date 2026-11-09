@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 48,
+      "artistName": "Delphine de Vigan",
+      "id": "1457313252",
+      "name": "Les Gratitudes",
+      "releaseDate": "2019-04-17",
+      "kind": "audio-books",
+      "artistId": "373077050",
+      "artistUrl": "https://books.apple.com/fr/author/delphine-de-vigan/id373077050",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/a4/79/11/a479118c-cee7-8aa3-1786-1205c4ef0113/9782367629025.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/les-gratitudes/id1457313252"
+    }
+  ]
+}

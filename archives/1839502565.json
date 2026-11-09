@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 50,
+      "artistName": "Fedor Dostoievski",
+      "id": "1839502565",
+      "name": "Les Nuits blanches",
+      "releaseDate": "2025-09-17",
+      "kind": "audio-books",
+      "artistId": "1151532096",
+      "artistUrl": "https://books.apple.com/fr/author/fedor-dostoievski/id1151532096",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/dd/67/23dd67f0-263e-068d-3710-57cbeea573e1/9782330215354.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/les-nuits-blanches/id1839502565"
+    }
+  ]
+}

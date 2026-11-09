@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 100,
+      "artistName": "Catherine Lloyd",
+      "id": "6823133811",
+      "name": "Miss Harrington und das tödliche Dinner",
+      "releaseDate": "2026-10-26",
+      "kind": "audio-books",
+      "artistId": "662917159",
+      "artistUrl": "https://books.apple.com/de/author/catherine-lloyd/id662917159",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/a3/a2/51a3a288-de18-b0e5-cc2d-d7fe8a1c45a8/9783694052302.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000051",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id50000051"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/miss-harrington-und-das-t%C3%B6dliche-dinner/id6823133811"
+    }
+  ]
+}

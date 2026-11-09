@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 47,
+      "artistName": "Joseph Kessel",
+      "id": "1548734511",
+      "name": "L'armée des ombres",
+      "releaseDate": "2021-01-14",
+      "kind": "audio-books",
+      "artistId": "79826265",
+      "artistUrl": "https://books.apple.com/fr/author/joseph-kessel/id79826265",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c7/20/5f/c7205f61-38e6-6852-63a4-5e440636bba8/9791036612855.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/larm%C3%A9e-des-ombres/id1548734511"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 75,
+      "artistName": "Lisa Jewell",
+      "id": "1539903199",
+      "name": "A Friend of the Family",
+      "releaseDate": "2020-12-03",
+      "kind": "audio-books",
+      "artistId": "262725607",
+      "artistUrl": "https://books.apple.com/fr/author/lisa-jewell/id262725607",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/85/ab/9e/85ab9eb5-c3bb-26e6-dfaa-7d64cbad4f91/9781405941266.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000069",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/fr/genre/id50000069"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/a-friend-of-the-family/id1539903199"
+    }
+  ]
+}

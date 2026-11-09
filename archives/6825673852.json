@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 69,
+      "artistName": "Andreas Winkelmann",
+      "id": "6825673852",
+      "name": "Moorland. Die Braut",
+      "releaseDate": "2026-11-02",
+      "kind": "audio-books",
+      "artistId": "368149611",
+      "artistUrl": "https://books.apple.com/de/author/andreas-winkelmann/id368149611",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b4/28/43/b428439f-7eea-e9e5-e419-79b6973df727/9783732492428.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Belletristik",
+          "url": "https://itunes.apple.com/de/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/moorland-die-braut/id6825673852"
+    }
+  ]
+}

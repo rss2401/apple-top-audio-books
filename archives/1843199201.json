@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 10,
+      "artistName": "Fiodor Dostoievski & Livres audio en français",
+      "id": "1843199201",
+      "name": "Crime et Châtiment - Livre Audio",
+      "releaseDate": "2025-10-14",
+      "kind": "audio-books",
+      "artistId": "1448901620",
+      "artistUrl": "https://books.apple.com/fr/author/fiodor-dostoievski/id1448901620",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/02/40/f8/0240f872-921a-7e5b-21f6-412708b015fd/4069828916401.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/crime-et-ch%C3%A2timent-livre-audio/id1843199201"
+    }
+  ]
+}

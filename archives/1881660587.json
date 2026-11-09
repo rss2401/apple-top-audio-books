@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 64,
+      "artistName": "André Malraux",
+      "id": "1881660587",
+      "name": "La condition humaine",
+      "releaseDate": "2026-04-20",
+      "kind": "audio-books",
+      "artistId": "274789581",
+      "artistUrl": "https://books.apple.com/fr/author/andr%C3%A9-malraux/id274789581",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/38/18/fb3818c2-47f5-1ed5-155a-484f8ae283b5/9782073165442.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/la-condition-humaine/id1881660587"
+    }
+  ]
+}
