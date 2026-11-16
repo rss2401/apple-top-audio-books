@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 68,
+      "artistName": "Frédéric Garnier",
+      "id": "1623491747",
+      "name": "Contes, légendes et folklore du monde entier",
+      "releaseDate": "2017-01-01",
+      "kind": "audio-books",
+      "artistId": "725826949",
+      "artistUrl": "https://books.apple.com/fr/author/fr%C3%A9d%C3%A9ric-garnier/id725826949",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/92/54/85/9254854e-1289-6519-da58-ac16a1fea6e3/9782821103078.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000044",
+          "name": "Jeunesse",
+          "url": "https://itunes.apple.com/fr/genre/id50000044"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/contes-l%C3%A9gendes-et-folklore-du-monde-entier/id1623491747"
+    }
+  ]
+}

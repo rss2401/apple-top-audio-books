@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 24,
+      "artistName": "Karine Giébel",
+      "id": "6821284504",
+      "name": "Dans la terre froide",
+      "releaseDate": "2026-11-05",
+      "kind": "audio-books",
+      "artistId": "476304180",
+      "artistUrl": "https://books.apple.com/fr/author/karine-gi%C3%A9bel/id476304180",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8f/89/48/8f8948eb-01b5-c358-ab66-fe846994d9dc/9791036658143.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/dans-la-terre-froide/id6821284504"
+    }
+  ]
+}

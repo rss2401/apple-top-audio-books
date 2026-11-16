@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 62,
+      "artistName": "Ava Avery",
+      "id": "1815942749",
+      "name": "Mariée au milliardaire: le faux mariage avec le PDG (Équipe Titan Racing)",
+      "releaseDate": "2025-07-31",
+      "kind": "audio-books",
+      "artistId": "1606510383",
+      "artistUrl": "https://books.apple.com/fr/author/ava-avery/id1606510383",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/67/a0/9667a08b-b90e-4214-8ce5-f8d39265ae0f/9781004212422.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000069",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/fr/genre/id50000069"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/mari%C3%A9e-au-milliardaire-le-faux-mariage-avec-le-pdg/id1815942749"
+    }
+  ]
+}

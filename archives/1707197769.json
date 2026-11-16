@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 81,
+      "artistName": "Rebecca Yarros",
+      "id": "1707197769",
+      "name": "Iron Flame – Flammengeküsst (Flammengeküsst-Reihe 2)",
+      "releaseDate": "2023-12-01",
+      "kind": "audio-books",
+      "artistId": "802770747",
+      "artistUrl": "https://books.apple.com/de/author/rebecca-yarros/id802770747",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/81/07/25810749-3b9a-d05c-883c-9850f40008c7/9783844933482.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000055",
+          "name": "Science-Fiction und Fantasy",
+          "url": "https://itunes.apple.com/de/genre/id50000055"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/iron-flame-flammengek%C3%BCsst-flammengek%C3%BCsst-reihe-2/id1707197769"
+    }
+  ]
+}

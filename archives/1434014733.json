@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 62,
+      "artistName": "宮沢賢治",
+      "id": "1434014733",
+      "name": "セロ弾きのゴーシュ",
+      "releaseDate": "2011-07-01",
+      "kind": "audio-books",
+      "artistId": "1146392961",
+      "artistUrl": "https://books.apple.com/jp/author/%E5%AE%AE%E6%B2%A2%E8%B3%A2%E6%B2%BB/id1146392961",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e6/60/7c/e6607c1c-b009-1340-ca98-74207fd71938/square_artwork.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000045",
+          "name": "名作",
+          "url": "https://itunes.apple.com/jp/genre/id50000045"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        },
+        {
+          "genreId": "50000044",
+          "name": "キッズ／ヤングアダルト",
+          "url": "https://itunes.apple.com/jp/genre/id50000044"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E3%82%BB%E3%83%AD%E5%BC%BE%E3%81%8D%E3%81%AE%E3%82%B4%E3%83%BC%E3%82%B7%E3%83%A5/id1434014733"
+    }
+  ]
+}

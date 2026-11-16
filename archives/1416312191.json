@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 70,
+      "artistName": "本田健",
+      "id": "1416312191",
+      "name": "きっと、よくなる!",
+      "releaseDate": "2010-12-10",
+      "kind": "audio-books",
+      "artistId": "582059812",
+      "artistUrl": "https://books.apple.com/jp/author/%E6%9C%AC%E7%94%B0%E5%81%A5/id582059812",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/c9/46/fd/c946fd7c-4bfa-c2d2-944c-f8c449ce402b/dj.githujwq.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000056",
+          "name": "自己啓発",
+          "url": "https://itunes.apple.com/jp/genre/id50000056"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E3%81%8D%E3%81%A3%E3%81%A8-%E3%82%88%E3%81%8F%E3%81%AA%E3%82%8B/id1416312191"
+    }
+  ]
+}

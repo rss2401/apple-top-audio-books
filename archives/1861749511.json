@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 23,
+      "artistName": "Florence Scovel Shinn",
+      "id": "1861749511",
+      "name": "Le jeu de la vie et comment y jouer (Unabridged)",
+      "releaseDate": "2024-02-16",
+      "kind": "audio-books",
+      "artistId": "137654282",
+      "artistUrl": "https://books.apple.com/fr/author/florence-scovel-shinn/id137654282",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/26/48/6d264854-5122-efc2-5c68-44f9c040beb4/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000056",
+          "name": "Santé et bien-être",
+          "url": "https://itunes.apple.com/fr/genre/id50000056"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000052",
+          "name": "Essais et sciences humaines",
+          "url": "https://itunes.apple.com/fr/genre/id50000052"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/le-jeu-de-la-vie-et-comment-y-jouer-unabridged/id1861749511"
+    }
+  ]
+}

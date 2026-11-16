@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 54,
+      "artistName": "Paolo Cognetti",
+      "id": "1440364151",
+      "name": "Les Huit Montagnes",
+      "releaseDate": "2018-08-16",
+      "kind": "audio-books",
+      "artistId": "1747821873",
+      "artistUrl": "https://books.apple.com/fr/author/paolo-cognetti/id1747821873",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/0c/6e/59/0c6e5911-70be-afad-70ed-b25b21319aef/9782367626390.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000059",
+          "name": "Tourisme et voyages",
+          "url": "https://itunes.apple.com/fr/genre/id50000059"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/les-huit-montagnes/id1440364151"
+    }
+  ]
+}

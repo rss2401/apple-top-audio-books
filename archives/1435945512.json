@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 77,
+      "artistName": "江戸川乱歩",
+      "id": "1435945512",
+      "name": "「押絵と旅する男」 - wisの朗読シリーズ(49)",
+      "releaseDate": "2011-08-03",
+      "kind": "audio-books",
+      "artistId": "1435944438",
+      "artistUrl": "https://books.apple.com/jp/author/%E6%B1%9F%E6%88%B8%E5%B7%9D%E4%B9%B1%E6%AD%A9/id1435944438",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/7b/fc/2d/7bfc2dfe-e6a1-66b6-38e3-299ccd900f98/artwork.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000045",
+          "name": "名作",
+          "url": "https://itunes.apple.com/jp/genre/id50000045"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        },
+        {
+          "genreId": "50000052",
+          "name": "ノンフィクション",
+          "url": "https://itunes.apple.com/jp/genre/id50000052"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E6%8A%BC%E7%B5%B5%E3%81%A8%E6%97%85%E3%81%99%E3%82%8B%E7%94%B7-wis%E3%81%AE%E6%9C%97%E8%AA%AD%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-49/id1435945512"
+    }
+  ]
+}

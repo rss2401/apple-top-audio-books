@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 54,
+      "artistName": "Brian Tracy",
+      "id": "1874297139",
+      "name": "Keine Ausreden! Die Kraft der Selbstdisziplin",
+      "releaseDate": "2020-08-24",
+      "kind": "audio-books",
+      "artistId": "5524949",
+      "artistUrl": "https://books.apple.com/de/author/brian-tracy/id5524949",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/d4/b3/ddd4b34f-9990-5735-6336-91a6cbe66d61/9781628610048.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000056",
+          "name": "Ratgeber",
+          "url": "https://itunes.apple.com/de/genre/id50000056"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/keine-ausreden-die-kraft-der-selbstdisziplin/id1874297139"
+    }
+  ]
+}

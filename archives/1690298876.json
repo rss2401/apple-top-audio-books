@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 85,
+      "artistName": "Robert Jackson Bennett",
+      "id": "1690298876",
+      "name": "The Tainted Cup (Unabridged)",
+      "releaseDate": "2024-02-06",
+      "kind": "audio-books",
+      "artistId": "365474156",
+      "artistUrl": "https://books.apple.com/us/author/robert-jackson-bennett/id365474156",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/66/2a/06/662a06d8-decf-0efa-486f-987ccdbab6ff/9780593823859.d.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000055",
+          "name": "Sci-Fi & Fantasy",
+          "url": "https://itunes.apple.com/us/genre/id50000055"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Audiobooks",
+          "url": "https://itunes.apple.com/us/genre/id50000024"
+        },
+        {
+          "genreId": "50000051",
+          "name": "Mysteries & Thrillers",
+          "url": "https://itunes.apple.com/us/genre/id50000051"
+        }
+      ],
+      "url": "https://books.apple.com/us/audiobook/the-tainted-cup-unabridged/id1690298876"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 54,
+      "artistName": "相沢沙呼",
+      "id": "1539559813",
+      "name": "medium 霊媒探偵城塚翡翠",
+      "releaseDate": "2020-09-28",
+      "kind": "audio-books",
+      "artistId": "878902494",
+      "artistUrl": "https://books.apple.com/jp/author/%E7%9B%B8%E6%B2%A2%E6%B2%99%E5%91%BC/id878902494",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a8/c9/af/a8c9aff0-ed29-3b6a-ea53-941310f6f83a/square_artwork.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "フィクション",
+          "url": "https://itunes.apple.com/jp/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/medium-%E9%9C%8A%E5%AA%92%E6%8E%A2%E5%81%B5%E5%9F%8E%E5%A1%9A%E7%BF%A1%E7%BF%A0/id1539559813"
+    }
+  ]
+}

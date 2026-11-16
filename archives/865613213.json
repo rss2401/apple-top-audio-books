@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 75,
+      "artistName": "Julia Donaldson",
+      "id": "865613213",
+      "name": "Stick Man (Unabridged)",
+      "releaseDate": "2014-05-01",
+      "kind": "audio-books",
+      "artistId": "201229848",
+      "artistUrl": "https://books.apple.com/jp/author/julia-donaldson/id201229848",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e7/50/0d/e7500d2d-07fd-10fd-5776-05682ea5cc23/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000044",
+          "name": "キッズ／ヤングアダルト",
+          "url": "https://itunes.apple.com/jp/genre/id50000044"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/stick-man-unabridged/id865613213"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 29,
+      "artistName": "Lise Bourbeau",
+      "id": "1644768031",
+      "name": "La Guérison des 5 blessures",
+      "releaseDate": "2022-10-13",
+      "kind": "audio-books",
+      "artistId": "251611686",
+      "artistUrl": "https://books.apple.com/fr/author/lise-bourbeau/id251611686",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/6a/24/a3/6a24a336-732d-ac84-e722-25f7a1f59c49/9791036617645.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000052",
+          "name": "Essais et sciences humaines",
+          "url": "https://itunes.apple.com/fr/genre/id50000052"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/la-gu%C3%A9rison-des-5-blessures/id1644768031"
+    }
+  ]
+}

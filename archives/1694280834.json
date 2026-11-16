@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 22,
+      "artistName": "永守重信",
+      "id": "1694280834",
+      "name": "運をつかむ",
+      "releaseDate": "2023-06-02",
+      "kind": "audio-books",
+      "artistId": "994829731",
+      "artistUrl": "https://books.apple.com/jp/author/%E6%B0%B8%E5%AE%88%E9%87%8D%E4%BF%A1/id994829731",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8b/7b/d6/8b7bd6e4-1e31-fb0c-154e-62caf4af02a4/square_artwork.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000053",
+          "name": "宗教／スピリチュアル",
+          "url": "https://itunes.apple.com/jp/genre/id50000053"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E9%81%8B%E3%82%92%E3%81%A4%E3%81%8B%E3%82%80/id1694280834"
+    }
+  ]
+}

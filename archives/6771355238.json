@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 29,
+      "artistName": "田中 芳樹",
+      "id": "6771355238",
+      "name": "アルスラーン戦記8 仮面兵団",
+      "releaseDate": "2026-05-29",
+      "kind": "audio-books",
+      "artistId": "1155048295",
+      "artistUrl": "https://books.apple.com/jp/author/%E7%94%B0%E4%B8%AD-%E8%8A%B3%E6%A8%B9/id1155048295",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/9d/80/8d9d801d-2e33-5230-8921-d3267d5f53d1/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000055",
+          "name": "SF／ファンタジー",
+          "url": "https://itunes.apple.com/jp/genre/id50000055"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E3%82%A2%E3%83%AB%E3%82%B9%E3%83%A9%E3%83%BC%E3%83%B3%E6%88%A6%E8%A8%988-%E4%BB%AE%E9%9D%A2%E5%85%B5%E5%9B%A3/id6771355238"
+    }
+  ]
+}

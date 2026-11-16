@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 59,
+      "artistName": "Vergès Françoise",
+      "id": "6768241473",
+      "name": "Un féminisme décolonial",
+      "releaseDate": "2019-02-15",
+      "kind": "audio-books",
+      "artistId": "1896553278",
+      "artistUrl": "https://books.apple.com/fr/author/verg%C3%A8s-fran%C3%A7oise/id1896553278",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/2e/3a/2b2e3a4b-48a1-3838-2c4b-ae056fcbf463/9782358723251.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000052",
+          "name": "Essais et sciences humaines",
+          "url": "https://itunes.apple.com/fr/genre/id50000052"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/un-f%C3%A9minisme-d%C3%A9colonial/id6768241473"
+    }
+  ]
+}

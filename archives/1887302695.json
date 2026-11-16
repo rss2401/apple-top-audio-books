@@ -6,7 +6,7 @@
       "country": "us",
       "mediaType": "audio-books",
       "feed": "top-audio-books",
-      "rank": 87,
+      "rank": 7,
       "artistName": "Trisha Paytas",
       "id": "1887302695",
       "name": "Crying on the Kitchen Floor",
@@ -14,7 +14,7 @@
       "kind": "audio-books",
       "artistId": "762950768",
       "artistUrl": "https://books.apple.com/us/author/trisha-paytas/id762950768",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0d/3b/af/0d3bafff-6c4c-7618-9c76-6c98d143a54f/9781668659427.jpg/100x100bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/64/ed/2a/64ed2a5b-c94b-1fff-4013-0b16fc67742a/9781668659427.jpg/100x100bb.png",
       "genres": [
         {
           "genreId": "50000042",

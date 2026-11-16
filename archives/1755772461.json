@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 21,
+      "artistName": "Kamel Daoud",
+      "id": "1755772461",
+      "name": "Houris - Prix Goncourt 2024",
+      "releaseDate": "2024-08-15",
+      "kind": "audio-books",
+      "artistId": "619363550",
+      "artistUrl": "https://books.apple.com/fr/author/kamel-daoud/id619363550",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e9/7c/c4/e97cc467-1bdf-d895-8be2-8ec7a619636f/9782073098580.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/houris-prix-goncourt-2024/id1755772461"
+    }
+  ]
+}

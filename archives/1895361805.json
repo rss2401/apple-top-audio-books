@@ -6,7 +6,7 @@
       "country": "de",
       "mediaType": "audio-books",
       "feed": "top-audio-books",
-      "rank": 91,
+      "rank": 85,
       "artistName": "Bonnie Garmus",
       "id": "1895361805",
       "name": "Peck & Peck",
@@ -14,7 +14,7 @@
       "kind": "audio-books",
       "artistId": "1575309668",
       "artistUrl": "https://books.apple.com/de/author/bonnie-garmus/id1575309668",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5e/57/12/5e57120b-6f15-6169-e5c2-a4cffc1a99dd/9783844948929.jpg/100x100bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/04/28/80/0428807e-e342-c97b-9a58-585af1b8f98b/9783844948929.jpg/100x100bb.png",
       "genres": [
         {
           "genreId": "50000040",

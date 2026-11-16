@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 44,
+      "artistName": "Olivier Truc",
+      "id": "1063373409",
+      "name": "Le détroit du loup: Klemet Nango et Nina Nansen 2",
+      "releaseDate": "2024-11-16",
+      "kind": "audio-books",
+      "artistId": "373392077",
+      "artistUrl": "https://books.apple.com/fr/author/olivier-truc/id373392077",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/93/07/80/930780ae-4ccf-4a09-d611-615e8437d4fc/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000051",
+          "name": "Policier et suspense",
+          "url": "https://itunes.apple.com/fr/genre/id50000051"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/le-d%C3%A9troit-du-loup-klemet-nango-et-nina-nansen-2/id1063373409"
+    }
+  ]
+}

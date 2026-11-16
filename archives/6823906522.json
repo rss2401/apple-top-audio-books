@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 77,
+      "artistName": "Michael Hjorth & Bjarni Thorsson",
+      "id": "6823906522",
+      "name": "Stumme Fjorde",
+      "releaseDate": "2026-11-13",
+      "kind": "audio-books",
+      "artistId": "461742245",
+      "artistUrl": "https://books.apple.com/de/author/michael-hjorth/id461742245",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/c3/d0/c1c3d0d1-5016-20db-5706-080209a053fc/9783732486151.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000051",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id50000051"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/stumme-fjorde/id6823906522"
+    }
+  ]
+}

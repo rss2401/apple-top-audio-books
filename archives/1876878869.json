@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 19,
+      "artistName": "Morgan Rice",
+      "id": "1876878869",
+      "name": "Héroïne, Traîtresse, Fille  (De Couronnes et de Gloire, Tome n°6): Narration par une voix synthétisée",
+      "releaseDate": "2026-03-17",
+      "kind": "audio-books",
+      "artistId": "417552527",
+      "artistUrl": "https://books.apple.com/fr/author/morgan-rice/id417552527",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c7/b7/27/c7b72764-4466-e0ef-eb84-32ec97734440/9798261404804.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000044",
+          "name": "Jeunesse",
+          "url": "https://itunes.apple.com/fr/genre/id50000044"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000055",
+          "name": "SF et fantasy",
+          "url": "https://itunes.apple.com/fr/genre/id50000055"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/h%C3%A9ro%C3%AFne-tra%C3%AEtresse-fille-de-couronnes-et-de-gloire/id1876878869"
+    }
+  ]
+}

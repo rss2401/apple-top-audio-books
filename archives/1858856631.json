@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 60,
+      "artistName": "Michel Pastoureau",
+      "id": "1858856631",
+      "name": "Histoire d'une couleur - Coffret de trois titres",
+      "releaseDate": "2025-12-17",
+      "kind": "audio-books",
+      "artistId": "482540741",
+      "artistUrl": "https://books.apple.com/fr/author/michel-pastoureau/id482540741",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/e1/cc/67e1cc83-9ecc-a16e-1060-1450c6ca3159/9782387071194.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000049",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id50000049"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/histoire-dune-couleur-coffret-de-trois-titres/id1858856631"
+    }
+  ]
+}

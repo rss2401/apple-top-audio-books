@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 4,
+      "artistName": "本田健, 影平隆一 & 納谷六朗",
+      "id": "1416422216",
+      "name": "ユダヤ人大富豪の教え",
+      "releaseDate": "2010-08-06",
+      "kind": "audio-books",
+      "artistId": "582059812",
+      "artistUrl": "https://books.apple.com/jp/author/%E6%9C%AC%E7%94%B0%E5%81%A5/id582059812",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ee/6a/ca/ee6aca21-c597-7565-1630-364f190ed4b3/dj.gpshzhcj.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000056",
+          "name": "自己啓発",
+          "url": "https://itunes.apple.com/jp/genre/id50000056"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E3%83%A6%E3%83%80%E3%83%A4%E4%BA%BA%E5%A4%A7%E5%AF%8C%E8%B1%AA%E3%81%AE%E6%95%99%E3%81%88/id1416422216"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 14,
+      "artistName": "Bernard Werber",
+      "id": "1242384287",
+      "name": "Les Thanatonautes",
+      "releaseDate": "2017-06-01",
+      "kind": "audio-books",
+      "artistId": "49402429",
+      "artistUrl": "https://books.apple.com/fr/author/bernard-werber/id49402429",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/e5/55/a2e55550-ffb4-144c-677d-83c877027fb3/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000055",
+          "name": "SF et fantasy",
+          "url": "https://itunes.apple.com/fr/genre/id50000055"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/les-thanatonautes/id1242384287"
+    }
+  ]
+}

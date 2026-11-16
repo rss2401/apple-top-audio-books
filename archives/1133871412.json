@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 65,
+      "artistName": "小松 左京",
+      "id": "1133871412",
+      "name": "くだんのはは",
+      "releaseDate": "2016-07-26",
+      "kind": "audio-books",
+      "artistId": "1133871287",
+      "artistUrl": "https://books.apple.com/jp/author/%E5%B0%8F%E6%9D%BE-%E5%B7%A6%E4%BA%AC/id1133871287",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music30/v4/be/79/21/be79212e-cdca-25b4-8a6a-680a34f37cda/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "フィクション",
+          "url": "https://itunes.apple.com/jp/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        },
+        {
+          "genreId": "50000051",
+          "name": "ミステリー",
+          "url": "https://itunes.apple.com/jp/genre/id50000051"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E3%81%8F%E3%81%A0%E3%82%93%E3%81%AE%E3%81%AF%E3%81%AF/id1133871412"
+    }
+  ]
+}

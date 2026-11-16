@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 94,
+      "artistName": "吉川英治",
+      "id": "1740890508",
+      "name": "新書太閤記 第一巻",
+      "releaseDate": "2024-03-25",
+      "kind": "audio-books",
+      "artistId": "581175101",
+      "artistUrl": "https://books.apple.com/jp/author/%E5%90%89%E5%B7%9D%E8%8B%B1%E6%B2%BB/id581175101",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/81/1a/68811abc-ddfb-528b-6581-905c75f50f75/square_artwork.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000045",
+          "name": "名作",
+          "url": "https://itunes.apple.com/jp/genre/id50000045"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E6%96%B0%E6%9B%B8%E5%A4%AA%E9%96%A4%E8%A8%98-%E7%AC%AC%E4%B8%80%E5%B7%BB/id1740890508"
+    }
+  ]
+}

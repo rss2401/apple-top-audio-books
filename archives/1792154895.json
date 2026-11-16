@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 88,
+      "artistName": "マリリー・G・アダムス",
+      "id": "1792154895",
+      "name": "すべては「前向き質問」でうまくいく 質問思考の技術 増補改訂版",
+      "releaseDate": "2024-07-19",
+      "kind": "audio-books",
+      "artistId": "954715823",
+      "artistUrl": "https://books.apple.com/jp/author/%E3%83%9E%E3%83%AA%E3%83%AA%E3%83%BC-g-%E3%82%A2%E3%83%80%E3%83%A0%E3%82%B9/id954715823",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/0e/d9/5c0ed94c-4026-97bd-622a-c0dd414f589f/square_artwork.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000043",
+          "name": "ビジネス",
+          "url": "https://itunes.apple.com/jp/genre/id50000043"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AF-%E5%89%8D%E5%90%91%E3%81%8D%E8%B3%AA%E5%95%8F-%E3%81%A7%E3%81%86%E3%81%BE%E3%81%8F%E3%81%84%E3%81%8F-%E8%B3%AA%E5%95%8F%E6%80%9D%E8%80%83%E3%81%AE%E6%8A%80%E8%A1%93-%E5%A2%97%E8%A3%9C%E6%94%B9%E8%A8%82%E7%89%88/id1792154895"
+    }
+  ]
+}

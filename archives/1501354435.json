@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 38,
+      "artistName": "Karine Giébel",
+      "id": "1501354435",
+      "name": "Toutes blessent la dernière tue",
+      "releaseDate": "2019-05-09",
+      "kind": "audio-books",
+      "artistId": "476304180",
+      "artistUrl": "https://books.apple.com/fr/author/karine-gi%C3%A9bel/id476304180",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3b/d4/33/3bd433a8-0fc1-fff9-f297-879a0c900123/9791036602139.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/toutes-blessent-la-derni%C3%A8re-tue/id1501354435"
+    }
+  ]
+}

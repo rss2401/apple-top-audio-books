@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 96,
+      "artistName": "本田真美",
+      "id": "1659342335",
+      "name": "医師のつくった「頭のよさ」テスト 認知特性から見た6つのパターン",
+      "releaseDate": "2022-12-05",
+      "kind": "audio-books",
+      "artistId": "593298348",
+      "artistUrl": "https://books.apple.com/jp/author/%E6%9C%AC%E7%94%B0%E7%9C%9F%E7%BE%8E/id593298348",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/2e/81/09/2e81094d-fee9-0bf4-c559-f5f94aa1ef06/square_artwork.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000052",
+          "name": "ノンフィクション",
+          "url": "https://itunes.apple.com/jp/genre/id50000052"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E5%8C%BB%E5%B8%AB%E3%81%AE%E3%81%A4%E3%81%8F%E3%81%A3%E3%81%9F-%E9%A0%AD%E3%81%AE%E3%82%88%E3%81%95-%E3%83%86%E3%82%B9%E3%83%88-%E8%AA%8D%E7%9F%A5%E7%89%B9%E6%80%A7%E3%81%8B%E3%82%89%E8%A6%8B%E3%81%9F6%E3%81%A4%E3%81%AE%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3/id1659342335"
+    }
+  ]
+}

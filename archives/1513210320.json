@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 45,
+      "artistName": "Anna Jacobs",
+      "id": "1513210320",
+      "name": "Cassandra et ses soeurs: Cassandra 2",
+      "releaseDate": "2020-04-09",
+      "kind": "audio-books",
+      "artistId": "261284573",
+      "artistUrl": "https://books.apple.com/fr/author/anna-jacobs/id261284573",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/8d/88/86/8d88861a-00ab-f521-c040-7403322ddd69/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000069",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/fr/genre/id50000069"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/cassandra-et-ses-soeurs-cassandra-2/id1513210320"
+    }
+  ]
+}

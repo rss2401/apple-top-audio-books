@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 90,
+      "artistName": "宮沢賢治",
+      "id": "1703519483",
+      "name": "宮沢賢治 貝の火",
+      "releaseDate": "2023-08-15",
+      "kind": "audio-books",
+      "artistId": "106372375",
+      "artistUrl": "https://books.apple.com/jp/author/%E5%AE%AE%E6%B2%A2%E8%B3%A2%E6%B2%BB/id106372375",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/24/37/41243778-f0e5-2418-d98c-b3dab5b14e57/square_artwork.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000044",
+          "name": "キッズ／ヤングアダルト",
+          "url": "https://itunes.apple.com/jp/genre/id50000044"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E5%AE%AE%E6%B2%A2%E8%B3%A2%E6%B2%BB-%E8%B2%9D%E3%81%AE%E7%81%AB/id1703519483"
+    }
+  ]
+}

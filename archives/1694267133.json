@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 93,
+      "artistName": "江戸川乱歩",
+      "id": "1694267133",
+      "name": "二銭銅貨",
+      "releaseDate": "2021-08-15",
+      "kind": "audio-books",
+      "artistId": "893856533",
+      "artistUrl": "https://books.apple.com/jp/author/%E6%B1%9F%E6%88%B8%E5%B7%9D%E4%B9%B1%E6%AD%A9/id893856533",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/cb/f7/58cbf7ff-0bdc-f770-66c6-4bcffbe5fd58/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "フィクション",
+          "url": "https://itunes.apple.com/jp/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E4%BA%8C%E9%8A%AD%E9%8A%85%E8%B2%A8/id1694267133"
+    }
+  ]
+}

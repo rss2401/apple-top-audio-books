@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 17,
+      "artistName": "横山秀夫",
+      "id": "1578210469",
+      "name": "顔 FACE",
+      "releaseDate": "2019-12-08",
+      "kind": "audio-books",
+      "artistId": "583632867",
+      "artistUrl": "https://books.apple.com/jp/author/%E6%A8%AA%E5%B1%B1%E7%A7%80%E5%A4%AB/id583632867",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cf/01/27/cf012741-3541-50b9-4a92-af2b9afb2d50/square_artwork.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "フィクション",
+          "url": "https://itunes.apple.com/jp/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E9%A1%94-face/id1578210469"
+    }
+  ]
+}

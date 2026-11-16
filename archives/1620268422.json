@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 34,
+      "artistName": "Franck Thilliez",
+      "id": "1620268422",
+      "name": "Labyrinthes",
+      "releaseDate": "2022-05-05",
+      "kind": "audio-books",
+      "artistId": "416100063",
+      "artistUrl": "https://books.apple.com/fr/author/franck-thilliez/id416100063",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e2/b7/53/e2b753bd-bcf4-53f9-c42c-ffbc3c413ce7/9791036621994.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/labyrinthes/id1620268422"
+    }
+  ]
+}

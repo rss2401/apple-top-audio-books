@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 95,
+      "artistName": "宮沢賢治",
+      "id": "1702446003",
+      "name": "カイロ団長(小学館の名作文芸朗読)",
+      "releaseDate": "2023-08-01",
+      "kind": "audio-books",
+      "artistId": "106372375",
+      "artistUrl": "https://books.apple.com/jp/author/%E5%AE%AE%E6%B2%A2%E8%B3%A2%E6%B2%BB/id106372375",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/65/f3/5b/65f35b46-f639-82da-8157-c088884c9b01/square_artwork.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000045",
+          "name": "名作",
+          "url": "https://itunes.apple.com/jp/genre/id50000045"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E3%82%AB%E3%82%A4%E3%83%AD%E5%9B%A3%E9%95%B7-%E5%B0%8F%E5%AD%A6%E9%A4%A8%E3%81%AE%E5%90%8D%E4%BD%9C%E6%96%87%E8%8A%B8%E6%9C%97%E8%AA%AD/id1702446003"
+    }
+  ]
+}

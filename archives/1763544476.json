@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 76,
+      "artistName": "苫米地英人",
+      "id": "1763544476",
+      "name": "人生を劇的に好転させる自己洗脳ルール44もう、努力してはいけない!",
+      "releaseDate": "2021-03-13",
+      "kind": "audio-books",
+      "artistId": "297456480",
+      "artistUrl": "https://books.apple.com/jp/author/%E8%8B%AB%E7%B1%B3%E5%9C%B0%E8%8B%B1%E4%BA%BA/id297456480",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/49/8d/89/498d89b4-cf8f-f6d3-8ab6-b3ce146db840/square_artwork.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000052",
+          "name": "ノンフィクション",
+          "url": "https://itunes.apple.com/jp/genre/id50000052"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E4%BA%BA%E7%94%9F%E3%82%92%E5%8A%87%E7%9A%84%E3%81%AB%E5%A5%BD%E8%BB%A2%E3%81%95%E3%81%9B%E3%82%8B%E8%87%AA%E5%B7%B1%E6%B4%97%E8%84%B3%E3%83%AB%E3%83%BC%E3%83%AB44%E3%82%82%E3%81%86-%E5%8A%AA%E5%8A%9B%E3%81%97%E3%81%A6%E3%81%AF%E3%81%84%E3%81%91%E3%81%AA%E3%81%84/id1763544476"
+    }
+  ]
+}

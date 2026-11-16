@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 43,
+      "artistName": "Jane Austen, Livres audio en français & Livre audio classique",
+      "id": "1785697675",
+      "name": "Orgueil et Préjugés - Livre Audio",
+      "releaseDate": "2024-12-23",
+      "kind": "audio-books",
+      "artistId": "2038186",
+      "artistUrl": "https://books.apple.com/fr/author/jane-austen/id2038186",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/9e/d4/539ed454-157c-11fd-0bb9-13b9a22acf4a/4069828002272.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/orgueil-et-pr%C3%A9jug%C3%A9s-livre-audio/id1785697675"
+    }
+  ]
+}

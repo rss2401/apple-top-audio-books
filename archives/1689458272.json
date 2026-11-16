@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 42,
+      "artistName": "Agnès Martin-Lugand",
+      "id": "1689458272",
+      "name": "Les gens heureux lisent et boivent du café",
+      "releaseDate": "2023-06-08",
+      "kind": "audio-books",
+      "artistId": "595101005",
+      "artistUrl": "https://books.apple.com/fr/author/agn%C3%A8s-martin-lugand/id595101005",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b7/60/bd/b760bd2e-deff-d28e-dd71-eed2b4329fde/9791036623196.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/les-gens-heureux-lisent-et-boivent-du-caf%C3%A9/id1689458272"
+    }
+  ]
+}

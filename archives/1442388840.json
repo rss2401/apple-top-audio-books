@@ -1,0 +1,43 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 46,
+      "artistName": "Andrew Roberts",
+      "id": "1442388840",
+      "name": "Churchill",
+      "releaseDate": "2018-10-04",
+      "kind": "audio-books",
+      "artistId": "279383167",
+      "artistUrl": "https://books.apple.com/fr/author/andrew-roberts/id279383167",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/18/3d/dc/183ddc54-e628-5f78-44cb-42a24b934915/9780141987163.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000042",
+          "name": "Biographies et mémoires",
+          "url": "https://itunes.apple.com/fr/genre/id50000042"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000052",
+          "name": "Essais et sciences humaines",
+          "url": "https://itunes.apple.com/fr/genre/id50000052"
+        },
+        {
+          "genreId": "50000049",
+          "name": "Histoire",
+          "url": "https://itunes.apple.com/fr/genre/id50000049"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/churchill/id1442388840"
+    }
+  ]
+}

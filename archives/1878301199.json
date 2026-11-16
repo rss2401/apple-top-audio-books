@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 63,
+      "artistName": "Alex Aster",
+      "id": "1878301199",
+      "name": "Starside",
+      "releaseDate": "2026-03-31",
+      "kind": "audio-books",
+      "artistId": "1495907572",
+      "artistUrl": "https://books.apple.com/fr/author/alex-aster/id1495907572",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/60/46/f1/6046f1ac-69a1-a249-e83d-89baea97cf9c/9781037202407.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000055",
+          "name": "SF et fantasy",
+          "url": "https://itunes.apple.com/fr/genre/id50000055"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/starside/id1878301199"
+    }
+  ]
+}

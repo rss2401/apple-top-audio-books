@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 28,
+      "artistName": "Patricia Lockwood",
+      "id": "6805753866",
+      "name": "Agate Head / Stone Soup",
+      "releaseDate": "2026-10-06",
+      "kind": "audio-books",
+      "artistId": "734850053",
+      "artistUrl": "https://books.apple.com/jp/author/patricia-lockwood/id734850053",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/12/ce/f4/12cef4d2-9b95-a18f-1a25-ecbe48bfdc90/9781037217395.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "フィクション",
+          "url": "https://itunes.apple.com/jp/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/agate-head-stone-soup/id6805753866"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 67,
+      "artistName": "Dale Carnegie",
+      "id": "1425605397",
+      "name": "Sorge dich nicht – lebe!",
+      "releaseDate": "2015-11-11",
+      "kind": "audio-books",
+      "artistId": "23547707",
+      "artistUrl": "https://books.apple.com/de/author/dale-carnegie/id23547707",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7f/47/b4/7f47b4ec-a0ce-5426-33c1-50ef117823fc/9783732491087.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000056",
+          "name": "Ratgeber",
+          "url": "https://itunes.apple.com/de/genre/id50000056"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/sorge-dich-nicht-lebe/id1425605397"
+    }
+  ]
+}

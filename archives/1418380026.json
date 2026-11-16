@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 23,
+      "artistName": "Madeleine L'Engle",
+      "id": "1418380026",
+      "name": "A Wrinkle in Time (Unabridged)",
+      "releaseDate": "2012-01-10",
+      "kind": "audio-books",
+      "artistId": "3412676",
+      "artistUrl": "https://books.apple.com/jp/author/madeleine-lengle/id3412676",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a0/4f/ae/a04fae7a-cf44-6243-f006-a066cdc110b9/9780307916587.d.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000044",
+          "name": "キッズ／ヤングアダルト",
+          "url": "https://itunes.apple.com/jp/genre/id50000044"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/a-wrinkle-in-time-unabridged/id1418380026"
+    }
+  ]
+}

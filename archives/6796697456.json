@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 58,
+      "artistName": "Ina Henning & David Mayer",
+      "id": "6796697456",
+      "name": "Das Buch, das ihr lesen müsst, wenn ihr ein Paar bleiben wollt",
+      "releaseDate": "2026-08-14",
+      "kind": "audio-books",
+      "artistId": "1885665383",
+      "artistUrl": "https://books.apple.com/de/author/ina-henning/id1885665383",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/33/12/01331205-9156-c5e6-ca12-55e7a0610211/9783732490851_3000.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000052",
+          "name": "Sachbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000052"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/das-buch-das-ihr-lesen-m%C3%BCsst-wenn-ihr-ein-paar-bleiben-wollt/id6796697456"
+    }
+  ]
+}

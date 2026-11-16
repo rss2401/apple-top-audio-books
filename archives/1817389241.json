@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 32,
+      "artistName": "Anonymous (Gnostic Tradition)",
+      "id": "1817389241",
+      "name": "Pistis Sophia: The Mystical Teachings of Light and Redemption - A Modern Translation - Adapted for the Contemporary Reader",
+      "releaseDate": "2025-03-27",
+      "kind": "audio-books",
+      "artistId": "1817389246",
+      "artistUrl": "https://books.apple.com/jp/author/anonymous-gnostic-tradition/id1817389246",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c3/85/33/c38533e5-dffa-205c-0f98-3e1574ff7c37/9798318020988.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000052",
+          "name": "ノンフィクション",
+          "url": "https://itunes.apple.com/jp/genre/id50000052"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/pistis-sophia-the-mystical-teachings-of-light/id1817389241"
+    }
+  ]
+}

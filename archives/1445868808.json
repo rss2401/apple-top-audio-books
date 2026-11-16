@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 78,
+      "artistName": "Anthony Horowitz",
+      "id": "1445868808",
+      "name": "The Sentence is Death",
+      "releaseDate": "2018-11-01",
+      "kind": "audio-books",
+      "artistId": "81994863",
+      "artistUrl": "https://books.apple.com/jp/author/anthony-horowitz/id81994863",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f7/6b/bc/f76bbc3a-fa78-a3bf-6591-818a03769332/9781473539419.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000051",
+          "name": "ミステリー",
+          "url": "https://itunes.apple.com/jp/genre/id50000051"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/the-sentence-is-death/id1445868808"
+    }
+  ]
+}

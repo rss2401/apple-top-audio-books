@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 12,
+      "artistName": "アルク",
+      "id": "431978620",
+      "name": "キクタン英検3級 例文音声 (アルク/オーディオブック版)",
+      "releaseDate": "2011-04-20",
+      "kind": "audio-books",
+      "artistId": "633804856",
+      "artistUrl": "https://books.apple.com/jp/author/%E3%82%A2%E3%83%AB%E3%82%AF/id633804856",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/39/d7/b8/39d7b8bb-1d34-b81e-b623-c69343c56ed0/lg_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000052",
+          "name": "ノンフィクション",
+          "url": "https://itunes.apple.com/jp/genre/id50000052"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        },
+        {
+          "genreId": "50000050",
+          "name": "言語",
+          "url": "https://itunes.apple.com/jp/genre/id50000050"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E3%82%AD%E3%82%AF%E3%82%BF%E3%83%B3%E8%8B%B1%E6%A4%9C3%E7%B4%9A-%E4%BE%8B%E6%96%87%E9%9F%B3%E5%A3%B0-%E3%82%A2%E3%83%AB%E3%82%AF-%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA%E3%83%96%E3%83%83%E3%82%AF%E7%89%88/id431978620"
+    }
+  ]
+}

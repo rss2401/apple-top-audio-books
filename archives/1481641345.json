@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 56,
+      "artistName": "George Eliot",
+      "id": "1481641345",
+      "name": "Middlemarch",
+      "releaseDate": "2019-09-26",
+      "kind": "audio-books",
+      "artistId": "28596172",
+      "artistUrl": "https://books.apple.com/fr/author/george-eliot/id28596172",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/da/bd/b5/dabdb54c-e62a-8f1b-4c94-2fc662b75726/9780241422540.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000069",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/fr/genre/id50000069"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/middlemarch/id1481641345"
+    }
+  ]
+}
