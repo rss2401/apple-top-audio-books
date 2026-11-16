@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 461086921,
+      "collectionId": 1254522087,
+      "artistName": "Éloi Laurent",
+      "collectionName": "Nos mythologies économiques",
+      "collectionCensoredName": "Nos mythologies économiques",
+      "artistViewUrl": "https://books.apple.com/fr/author/%C3%A9loi-laurent/id461086921?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/nos-mythologies-%C3%A9conomiques/id1254522087?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/dd/af/36ddaf3b-36fa-576e-16de-faff16e65139/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/dd/af/36ddaf3b-36fa-576e-16de-faff16e65139/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 5.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2017 Audible Studios",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2017-07-13T07:00:00Z",
+      "primaryGenreName": "Affaires",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/1a/df/60/1adf6095-5192-bda1-5424-785800ee53c7/mzaf_12562372219374417691.std.aac.p.m4a",
+      "description": "L'économie est une mythologie qui désenchante le monde : plus que jamais \"lugubre\", elle pollue le débat public de ses fausses certitudes et empoisonne l'esprit démocratique. Les mythes économiques contemporains ont pour fonction principale de détourner l'attention des citoyens des véritables enjeux dont ils devraient se soucier et débattre. Nos mythologies économiques sont des mystifications politiques. \n<br /><br />Cet ouvrage espère à la fois immuniser les citoyens et désenvoûter les politiques du charme mortifère du néolibéralisme finissant, de la social-xénophobie émergente et de l'écolo-scepticisme persistant. Il se propose de déconstruire quinze mythes contemporains, parmi lesquels : \n \n \"Une économie de marché dynamique repose sur une concurrence libre et non faussée\",  \n \"Il faut produire des richesses avant de les redistribuer\",  \n \"Les flux migratoires actuels sont incontrôlables et conduiront sous peu au 'grand remplacement' de la population française\",  \n \"Il est impossible d'intégrer socialement les immigrés\",  \n \"Les marchés et la croissance sont les véritables solutions à l'urgence écologique\",  \n \"La transition écologique est une affaire de riches synonyme d'injustice sociale\".  \n \n<br />Retrouvons le goût du questionnement économique ! \n<br /><br />&gt;&gt; Ce livre audio en version intégrale vous est proposé en exclusivité par Audible et est uniquement disponible en téléchargement."
+    }
+  ]
+}

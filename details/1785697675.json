@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 2038186,
+      "collectionId": 1785697675,
+      "amgArtistId": 289416,
+      "artistName": "Jane Austen, Livres audio en français & Livre audio classique",
+      "collectionName": "Orgueil et Préjugés - Livre Audio",
+      "collectionCensoredName": "Orgueil et Préjugés - Livre Audio",
+      "artistViewUrl": "https://books.apple.com/fr/author/jane-austen/id2038186?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/orgueil-et-pr%C3%A9jug%C3%A9s-livre-audio/id1785697675?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/9e/d4/539ed454-157c-11fd-0bb9-13b9a22acf4a/4069828002272.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/53/9e/d4/539ed454-157c-11fd-0bb9-13b9a22acf4a/4069828002272.jpg/100x100bb.jpg",
+      "collectionPrice": 3.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2024 Golden Age Audio",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2024-12-23T08:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/15/51/d8/1551d806-de79-6f03-e5c1-a1d734416b06/mzaf_3224774741080607344.std.aac.p.m4a",
+      "description": "«Orgueil et Préjugés», roman emblématique de Jane Austen, explore les complexités des relations humaines, les normes sociales et les différences de classe dans l'Angleterre du début du XIXe siècle. L'histoire se concentre sur Elizabeth Bennet, une jeune femme intelligente et indépendante, et sur sa relation tumultueuse avec le mystérieux et orgueilleux Mr. Darcy. À travers des dialogues captivants et des scènes pleines d'humour, Austen dévoile comment les préjugés et les malentendus peuvent façonner ou entraver l'amour et l'amitié. Ce chef-d'œuvre intemporel continue de séduire les lecteurs par son style élégant et ses observations perspicaces sur la nature humaine."
+    }
+  ]
+}

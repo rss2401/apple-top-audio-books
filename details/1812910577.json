@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 568396691,
+      "collectionId": 1812910577,
+      "artistName": "Myriam Brousse",
+      "collectionName": "Les Mémoires du corps : Se libérer de la répétition des traumatismes",
+      "collectionCensoredName": "Les Mémoires du corps : Se libérer de la répétition des traumatismes",
+      "artistViewUrl": "https://books.apple.com/fr/author/myriam-brousse/id568396691?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/les-m%C3%A9moires-du-corps-se-lib%C3%A9rer-de-la-r%C3%A9p%C3%A9tition/id1812910577?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/a5/03/4ba5034e-86a6-1aba-cb67-b7cf1c1ebfd9/9781004214839.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4b/a5/03/4ba5034e-86a6-1aba-cb67-b7cf1c1ebfd9/9781004214839.jpg/100x100bb.jpg",
+      "collectionPrice": 16.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2025-08-14T07:00:00Z",
+      "primaryGenreName": "Essais et sciences humaines",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3a/20/30/3a203066-e10e-1108-1e33-34e4e20ef0b4/mzaf_6793840574408110115.std.aac.p.m4a",
+      "description": "Notre corps est habité par des souvenirs enfouis, issus de la période qui entoure notre naissance, voire des expériences de nos parents et de nos ancêtres. Ils suscitent des souffrances, des échecs et des actes manqués qui ressurgissent, de façon répétitive, dans nos vies.C'est à travers les événements de sa propre existence, puis au cours de plusieurs dizaines d'années en tant que thérapeute, que Myriam Brousse a découvert l'existence de ces mémoires du corps, qui résistent, même quand nous avons travaillé sur nous-mêmes et que nous croyons avoir dénoué, « dans notre tête », tous nos problèmes.Dans cet ouvrage nourri de récits personnels, elle explique le fonctionnement de ce système, et présente la méthode et les outils qui permettent d'arrêter ce cycle infernal. Elle nous explique aussi comment intégrer la dimension spirituelle de notre existence afin d'abandonner une compréhension purement cérébrale de nos vies, pour accéder à une vision plus profonde, ancrée dans notre corps. Ainsi, seulement, nous pourrons nous libérer des répétitions pour ne plus être victimes d'une fatalité, mais tracer, en conscience, notre chemin de vie.<br />Myriam Brousse est thérapeute depuis plus de quarante ans. Fondatrice de l'École de mémoire cellulaire, elle anime également des conférences et des séminaires. Elle est l'auteure de Votre corps a une mémoire, Au risque d'être soi, La Descente dans le corps et Le Corps ne le sait pas encore."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 137654282,
+      "collectionId": 1861749511,
+      "amgArtistId": 2037838,
+      "artistName": "Florence Scovel Shinn",
+      "collectionName": "Le jeu de la vie et comment y jouer (Unabridged)",
+      "collectionCensoredName": "Le jeu de la vie et comment y jouer (Unabridged)",
+      "artistViewUrl": "https://books.apple.com/fr/author/florence-scovel-shinn/id137654282?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/le-jeu-de-la-vie-et-comment-y-jouer-unabridged/id1861749511?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/26/48/6d264854-5122-efc2-5c68-44f9c040beb4/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/26/48/6d264854-5122-efc2-5c68-44f9c040beb4/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 6.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2024 ADA audio - SGNT média inc.",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2024-02-16T08:00:00Z",
+      "primaryGenreName": "Santé et bien-être",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b7/f2/29/b7f2294f-7bf0-08f5-8f4e-615109215053/mzaf_2088415505742832626.std.aac.p.m4a",
+      "description": "Dans ce best-seller classique, Florence Scovel Shinn a contribué à définir le genre de la réussite personnelle. Écrit dans la tradition de la nouvelle pensée, son message est simple et transformateur : nous recevons en retour ce que nous créons dans le monde par le biais de nos pensées, de nos paroles, de nos actions, de notre énergie et de notre attitude. La négativité et le pessimisme nous sont rendus en nature, mais en changeant le scénario en faveur d'attitudes et d'affirmations positives, nous sommes capables de manifester le succès et la joie dans tout ce que nous entreprenons.<br /><br />La vie, nous dit Shinn, n'est pas une bataille de nous contre le monde, mais plutôt un jeu de donner et de recevoir. Ce que nous donnons au monde, nous le recevons en retour, qu'il s'agisse du poids sombre de la peur et de l'inhibition ou de la liberté de la joie et de la responsabilisation. Cette nouvelle édition est en fait une nouvelle traduction du texte originale, qui nous l'espérons, inspirera une nouvelle génération de lecteurs de livre audio à la recherche d'une compréhension des lois universelles de la Vie."
+    }
+  ]
+}

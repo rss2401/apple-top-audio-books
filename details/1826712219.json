@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 255453362,
+      "collectionId": 1826712219,
+      "artistName": "James Clavell",
+      "collectionName": "Shōgun - Tome 1 - Shōgun",
+      "collectionCensoredName": "Shōgun - Tome 1 - Shōgun",
+      "artistViewUrl": "https://books.apple.com/fr/author/james-clavell/id255453362?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/sh%C5%8Dgun-tome-1-sh%C5%8Dgun/id1826712219?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c7/c4/cb/c7c4cbe1-f87b-2df0-1638-f1ce36d96ca5/9782487064263.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c7/c4/cb/c7c4cbe1-f87b-2df0-1638-f1ce36d96ca5/9782487064263.jpg/100x100bb.jpg",
+      "collectionPrice": 32.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 2,
+      "copyright": "© 2024 Cascades",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2024-07-15T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a8/35/45/a8354539-207c-d1f1-0e63-cd404208bc15/mzaf_10890834942878680904.std.aac.p.m4a",
+      "description": "JAPON. 1600. John Blackthorne&#xa0;rêvait d’y accoster. Il n’imaginait pas que, pour y parvenir, il aurait à braver une tempête. Craché par l’océan, l’équipage du pilote anglais touche enfin terre. Mais les marins regrettent bien vite leur découverte, car ils sont maintenant prisonniers de samouraïs aux mœurs très différentes des leurs. Amené devant Toranaga et Ishido, deux&#xa0;daimyō&#xa0;rivaux dont l’ambition secrète est de devenir Shōgun, Blackthorne fera tout pour recouvrer sa liberté. Mais il faudra bien des sacrifices pour survivre sur cette \"Terre des Larmes\", où la mort est une fatalité."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 416100063,
+      "collectionId": 1620268422,
+      "amgArtistId": 3130999,
+      "artistName": "Franck Thilliez",
+      "collectionName": "Labyrinthes",
+      "collectionCensoredName": "Labyrinthes",
+      "artistViewUrl": "https://books.apple.com/fr/author/franck-thilliez/id416100063?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/labyrinthes/id1620268422?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e2/b7/53/e2b753bd-bcf4-53f9-c42c-ffbc3c413ce7/9791036621994.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e2/b7/53/e2b753bd-bcf4-53f9-c42c-ffbc3c413ce7/9791036621994.jpg/100x100bb.jpg",
+      "collectionPrice": 19.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "2022 © 2022, Fleuve Éditions, département d'Univers Poche.℗ Lizzie, un département d'Univers Poche, Paris, 2022",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2022-05-05T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/0a/cc/46/0acc460b-3a91-17ae-d788-bfd136e0eca0/mzaf_6031117456483692923.std.aac.p.m4a",
+      "description": "Suivez le fil infernal Une scène de pure folie dans un chalet. Une victime au visage réduit en bouillie à coups de tisonnier. Et une suspecte atteinte d'une étrange amnésie. Camille Nijinski, en charge de l'enquête, a besoin de comprendre cette subite perte de mémoire, mais le psychiatre avec lequel elle s'entretient à bien plus à lui apprendre. Car avant de tout oublier, sa patiente lui a confié son histoire. Une histoire longue et complexe. Sans doute la plus extraordinaire que Camille entendra de toute sa carrière...\" Tout d'abord, mademoiselle Nijinski, vous devez savoir qu'il y a cinq protagonistes. Toutes des femmes. Écrivez, c'est important : \"la kidnappée', \"la journaliste', \"la romancière', \"la psychiatre'... Et concentrez-vous, parce que cette histoire est un vrai labyrinthe où tout s'entremêle. La cinquième personne sera d'ailleurs le fil dans le dédale et, j'en suis sûr, apportera les réponses à toutes vos questions. \"Inclus, un chapitre bonus lu par l'auteur"
+    }
+  ]
+}

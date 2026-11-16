@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 15407324,
+      "collectionId": 1435821475,
+      "artistName": "Charlotte Link",
+      "collectionName": "Die Stunde der Erben",
+      "collectionCensoredName": "Die Stunde der Erben",
+      "artistViewUrl": "https://books.apple.com/de/author/charlotte-link/id15407324?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/die-stunde-der-erben/id1435821475?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/4d/c2/b4/4dc2b429-5fb2-3f83-a32a-6040e1213151/9783837175226.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/4d/c2/b4/4dc2b429-5fb2-3f83-a32a-6040e1213151/9783837175226.jpg/100x100bb.jpg",
+      "collectionPrice": 12.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2008-10-30T07:00:00Z",
+      "primaryGenreName": "Belletristik",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/68/31/cc/6831cc2c-4eff-3a45-10fe-8f8bccfedd5b/mzaf_4523526321283680786.std.aac.p.m4a",
+      "description": "Frankfurt in der Nachkriegszeit: Im Deutschland des Wirtschaftswunders muss Alexandra als Unternehmerin in die Fußstapfen ihrer starken Großmutter Felicia Lavergne treten. Sie wagt alles – und verliert. Doch das Erbe Felicias lässt sie einen Neuanfang wagen… Das Porträt einer widersprüchlichen Frau, die Geschichte einer großen Familie, das Bild einer Epoche im Umbruch."
+    }
+  ]
+}

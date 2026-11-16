@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 504888847,
+      "collectionId": 1858745037,
+      "artistName": "夏川草介",
+      "collectionName": "神様のカルテ0",
+      "collectionCensoredName": "神様のカルテ0",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E5%A4%8F%E5%B7%9D%E8%8D%89%E4%BB%8B/id504888847?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/%E7%A5%9E%E6%A7%98%E3%81%AE%E3%82%AB%E3%83%AB%E3%83%860/id1858745037?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e5/da/50/e5da5073-9ff6-6276-5e27-6571125f6a2f/square_artwork.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e5/da/50/e5da5073-9ff6-6276-5e27-6571125f6a2f/square_artwork.jpg/100x100bb.jpg",
+      "collectionPrice": 1426,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2025-11-26T08:00:00Z",
+      "primaryGenreName": "フィクション",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f2/53/8e/f2538ebc-b0f6-acf2-a8b7-3d9998a80aed/mzaf_4179742166585617183.std.aac.p.m4a",
+      "description": "信州にある24時間365日営業の本庄病院で働く内科医・栗原一止を巡る連作短編集。妻・榛名は、なぜ山に登り写真を撮るのか。栗原一止はなぜ日本酒を好むようになったのか?『神様のカルテ』は、ここから始まる。\n\n(C)Sosuke Natsukawa 2017"
+    }
+  ]
+}

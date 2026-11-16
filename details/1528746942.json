@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 31469590,
+      "collectionId": 1528746942,
+      "artistName": "村上春樹",
+      "collectionName": "Kafka on the Shore",
+      "collectionCensoredName": "Kafka on the Shore",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9/id31469590?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/kafka-on-the-shore/id1528746942?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8a/89/1e/8a891e0f-9035-1fda-fdda-001a70981118/9781473582538.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8a/89/1e/8a891e0f-9035-1fda-fdda-001a70981118/9781473582538.jpg/100x100bb.jpg",
+      "collectionPrice": 1528,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2020-10-29T07:00:00Z",
+      "primaryGenreName": "フィクション",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/b8/bf/e0/b8bfe093-b110-3833-6748-5a595957b8a9/mzaf_12079985603128285583.std.aac.p.m4a",
+      "description": "<b>Brought to you by Penguin.</b><br /><br /><b>Kafka Tamura runs away from home at fifteen, under the shadow of his father's dark prophesy.</b> <br /><br /> The aging Nakata, tracker of lost cats, who never recovered from a bizarre childhood affliction, finds his pleasantly simplified life suddenly turned upside down. <br /><br /> As their parallel odysseys unravel, cats converse with people; fish tumble from the sky; a ghost-like pimp deploys a Hegel-spouting girl of the night; a forest harbours soldiers apparently un-aged since World War II. There is a savage killing, but the identity of both victim and killer is a riddle - one of many which combine to create an elegant and dreamlike masterpiece.<br /><br /><b>'Wonderful... Magical and outlandish' </b><b><i>Daily Mail</i></b><br /><br /><b> 'Hypnotic, spellbinding' <i>The Times</i></b><br /><br /><b> 'Cool, fluent and addictive' <i>Daily Telegraph</i></b><br /><br />© Haruki Marakami 2005 (P) Penguin Audio 2020"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 581175101,
+      "collectionId": 1740890508,
+      "artistName": "吉川英治",
+      "collectionName": "新書太閤記 第一巻",
+      "collectionCensoredName": "新書太閤記 第一巻",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E5%90%89%E5%B7%9D%E8%8B%B1%E6%B2%BB/id581175101?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/%E6%96%B0%E6%9B%B8%E5%A4%AA%E9%96%A4%E8%A8%98-%E7%AC%AC%E4%B8%80%E5%B7%BB/id1740890508?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/81/1a/68811abc-ddfb-528b-6581-905c75f50f75/square_artwork.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/81/1a/68811abc-ddfb-528b-6581-905c75f50f75/square_artwork.jpg/100x100bb.jpg",
+      "collectionPrice": 1069,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2024-03-25T07:00:00Z",
+      "primaryGenreName": "名作",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/17/13/b5/1713b587-ac60-89df-d684-74b248bff0e3/mzaf_10290176213079643321.std.aac.p.m4a",
+      "description": "吉川英治の名作、「新書太閤記」を朗読全文連載開始したいと思います。\n この作品は、当初読売新聞に1939年1月1日から1945年8月23日まで、掲載されました。以降の原稿は、「続太閤記」としていくつかの地方紙に掲載されました。前半の中断は、終戦が原因となったそうです。\n\n 日本の天下を統一した豊臣秀吉の生涯を昭和の文豪が描く!\n\n\n■登場人物\n日吉……のちの豊臣秀吉\n弥右衛門……日吉の父\nお奈加……日吉の母\nおつみ……日吉の姉\n筑阿弥……日吉の継父\n於福……楊景福。日吉の友達\n五郎太夫……お福の父。陶器職人\n捨次郎……五郎太夫の下僕\n利琴……お福の母\n仁王……日吉の友達\n加藤弾正……日吉の親戚となる\n小竹……日吉の弟\n渡辺天蔵……土匪の頭\n\n蜂須賀小六……蜂須賀一族の長\n松原内匠……小六の部下\n仁田彦十……小六の部下。古弓売りに化ける\n乙若……弥右衛門の友人で、織田家につかえる\n斉藤秀龍……道三。美濃の戦国大名\n難波内記……道三の家中\n蜂須賀七内……小六の舎弟\n斎藤義龍……道三の息子。父と美濃の覇権を争う\n明智十兵衛光秀……光安の客分で、日吉をつかまえる。\n明智光安入道……道三の配下\n明智弥平治光春……光安の息子"
+    }
+  ]
+}

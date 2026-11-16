@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 404120085,
+      "collectionId": 1473111323,
+      "artistName": "Rita Falk",
+      "collectionName": "Guglhupfgeschwader: Franz Eberhofer 10",
+      "collectionCensoredName": "Guglhupfgeschwader: Franz Eberhofer 10",
+      "artistViewUrl": "https://books.apple.com/de/author/rita-falk/id404120085?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/guglhupfgeschwader-franz-eberhofer-10/id1473111323?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/e2/94/dd/e294dd1e-6a90-026b-6226-16c512afdea8/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/e2/94/dd/e294dd1e-6a90-026b-6226-16c512afdea8/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 12.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2019 Der Audio Verlag",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2019-08-12T07:00:00Z",
+      "primaryGenreName": "Krimis und Thriller",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/fb/96/d3/fb96d361-eb0e-c5be-7e3a-804409d29565/mzaf_7627501891067022525.std.aac.p.m4a",
+      "description": "In seinem zehnten Fall bekommt es der Eberhofer mit brutalen Geldeintreibern, einem tragischen Mordfall und einem bockigen Birkenberger zu tun. Dabei könnte er sich so schön feiern lassen, hat man doch in Niederkaltenkirchen beschlossen, dem erfolgreichen Dorfgendarm zu Ehren den Kreisverkehr auf den Namen \"Franz-Eberhofer-Kreisel\" zu taufen! Stattdessen muss sich der Eberhofer jetzt darum kümmern, dass den brutalen Verfolgern vom Lotto-Otto so rasch wie möglich das Handwerk gelegt wird. Doch noch bevor er die Ermittlungen im Fall Lotto-Otto aufnehmen kann, geht der Lotto-Laden in die Luft - und der Eberhofer hat es jetzt auch noch mit einem Mord zu tun..."
+    }
+  ]
+}

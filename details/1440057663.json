@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 2087446,
+      "collectionId": 1440057663,
+      "artistName": "James Patterson",
+      "collectionName": "Private Games",
+      "collectionCensoredName": "Private Games",
+      "artistViewUrl": "https://books.apple.com/fr/author/james-patterson/id2087446?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/private-games/id1440057663?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/c2/6d/36c26d57-da1c-ac0c-217a-429c258786d5/9781448107681.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/c2/6d/36c26d57-da1c-ac0c-217a-429c258786d5/9781448107681.jpg/100x100bb.jpg",
+      "collectionPrice": 8.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2012-01-19T08:00:00Z",
+      "primaryGenreName": "Policier et suspense",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/58/78/fa/5878face-ba98-9972-aaf6-766d78d563ef/mzaf_13579147886859130229.std.aac.p.m4a",
+      "description": "<b>July 2012: </b>The Games have arrived in London. Preparations have gone flawlessly and the stage is set for one of the greatest ever showcases of sporting excellence. But one man has a devastating plan. Having waited years for this chance, he is now ready for vengeance.<br /><br />When Sir Denton Marshall, a key member of the London Olympic organising committee, is found decapitated in his garden, Peter Knight, head of Private London, is called to the scene. Private are working with the organising committee on the security for the Games, so Denton Marshall was a valuable client. But there is a more personal link: Marshall was also the fiancé of Knight's mother.<br /><br />Having only recently lost close friends and colleagues at Private London in a fatal plane crash, this is another torturous blow for Knight and threatens to push him over the edge. But it soon becomes clear that Denton Marshall's murder is no isolated incident, and that the killer's number one target is the Games itself.<br /><br /><b>As the most talented athletes in the world gather in London, Knight knows he must find Sir Denton's killer. Thousands of lives are at stake...</b>"
+    }
+  ]
+}

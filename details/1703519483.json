@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 106372375,
+      "collectionId": 1703519483,
+      "artistName": "宮沢賢治",
+      "collectionName": "宮沢賢治 貝の火",
+      "collectionCensoredName": "宮沢賢治 貝の火",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E5%AE%AE%E6%B2%A2%E8%B3%A2%E6%B2%BB/id106372375?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/%E5%AE%AE%E6%B2%A2%E8%B3%A2%E6%B2%BB-%E8%B2%9D%E3%81%AE%E7%81%AB/id1703519483?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/24/37/41243778-f0e5-2418-d98c-b3dab5b14e57/square_artwork.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/24/37/41243778-f0e5-2418-d98c-b3dab5b14e57/square_artwork.jpg/100x100bb.jpg",
+      "collectionPrice": 306,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2023-08-15T07:00:00Z",
+      "primaryGenreName": "キッズ／ヤングアダルト",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/89/bd/da/89bdda48-cdc2-1c8a-d8ae-7cb4cde7c7e5/mzaf_5413346196296533262.std.aac.p.m4a",
+      "description": "「貝の火」は宮沢賢治が花巻農学校の教員時代、生徒に朗読して聞かせた短編童話です。\nうさぎの子のホモイが川でひばりの子を助け、そのお礼として「貝の火」という宝珠(ほうじゅ)を手に入れる。ホモイは馬やリスから敬意を払われ、やがて驕りを見せるようになると玉に変化が現われる・・・。\n本作品では登場人物をそれぞれ声優・役者が演じ、効果音も入れた臨場感たっぷりの朗読劇となっています。お楽しみください。"
+    }
+  ]
+}

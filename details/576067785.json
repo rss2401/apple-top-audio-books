@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 283171755,
+      "collectionId": 576067785,
+      "artistName": "Robert T. Kiyosaki",
+      "collectionName": "Rich Dad's Guide to Investing: What the Rich Invest In That the Poor and Middle Class Do Not! (Unabridged)",
+      "collectionCensoredName": "Rich Dad's Guide to Investing: What the Rich Invest In That the Poor and Middle Class Do Not! (Unabridged)",
+      "artistViewUrl": "https://books.apple.com/fr/author/robert-t-kiyosaki/id283171755?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/rich-dads-guide-to-investing-what-the-rich-invest-in/id576067785?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3e/2f/a9/3e2fa96b-a27d-05cc-deed-a8cd416079d4/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3e/2f/a9/3e2fa96b-a27d-05cc-deed-a8cd416079d4/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 18.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 2,
+      "copyright": "© 2012 Brilliance Audio",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2012-10-25T07:00:00Z",
+      "primaryGenreName": "Affaires",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/13/0c/8e/130c8e64-c559-f410-98a2-86e51d79b149/mzaf_3902836114852107681.std.aac.p.m4a",
+      "description": "Investing means different things to different people… and there is a huge difference between passive investing and becoming an active, engaged investor. <i>Rich Dad’s Guide to Investing</i>, one of the three core titles in the Rich Dad Series, covers the basic rules of investing, how to reduce your investment risk, how to convert your earned income into passive income… plus Rich Dad’s 10 Investor Controls.<br /><br />The Rich Dad philosophy makes a key distinction between managing your money and growing it… and understanding key principles of investing is the first step toward creating and growing wealth. This book delivers guidance, not guarantees, to help anyone begin the process of becoming an active investor on the road to financial freedom."
+    }
+  ]
+}

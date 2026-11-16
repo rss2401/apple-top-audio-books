@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 725826949,
+      "collectionId": 1623491747,
+      "artistName": "Frédéric Garnier",
+      "collectionName": "Contes, légendes et folklore du monde entier",
+      "collectionCensoredName": "Contes, légendes et folklore du monde entier",
+      "artistViewUrl": "https://books.apple.com/fr/author/fr%C3%A9d%C3%A9ric-garnier/id725826949?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/contes-l%C3%A9gendes-et-folklore-du-monde-entier/id1623491747?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/92/54/85/9254854e-1289-6519-da58-ac16a1fea6e3/9782821103078.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/92/54/85/9254854e-1289-6519-da58-ac16a1fea6e3/9782821103078.jpg/100x100bb.jpg",
+      "collectionPrice": 5.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2017 Compagnie du Savoir",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2017-01-01T08:00:00Z",
+      "primaryGenreName": "Jeunesse",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/1f/65/dd/1f65dd84-ce8a-ce78-4184-b93dbd082836/mzaf_9853846934856939194.std.aac.p.m4a",
+      "description": "Histoires pour s'endormir, histoires pour rêver, et aussi voyage au cœur de la tradition et de la culture populaire de tradition orale : cette sélection de contes des peuples du monde ravira petits et grands. Leur sagesse intemporelle et leur exotisme plein d'humour nous parviennent bien vivants du passé, grâce à l'interprétation de Nicolas de Coulonges qui les présente pour la première fois en livre audio. Ces contes et légendes choisis parmi les plus beaux du folklore feront rêver tous les amateurs de voyages immobiles et de profondeur. Voici les 15 contes d'Afrique et d'Asie sélectionnés pour vous : L'arrêt du babouin, L'iguane et le chien, La caille et le crabe, La hyène et le lièvre, La panthère le chien et la tortue, Le boeuf et le lion, La caméléon et l'Araignée, Le lézard et la tortue, Le soleil et la lune, Les quatre sourds, On ne fait pas deux fois la même route, Pourquoi le crocodile ne mange pas la poule, Voilà pourquoi l'eau de mer est salée, Comment le sapin devint un arbre de Noël, L'araignée."
+    }
+  ]
+}

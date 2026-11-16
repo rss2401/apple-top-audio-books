@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 173331980,
+      "collectionId": 1568974262,
+      "artistName": "太宰治",
+      "collectionName": "太宰治名作選",
+      "collectionCensoredName": "太宰治名作選",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E5%A4%AA%E5%AE%B0%E6%B2%BB/id173331980?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/%E5%A4%AA%E5%AE%B0%E6%B2%BB%E5%90%8D%E4%BD%9C%E9%81%B8/id1568974262?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/02/0d/69/020d69f5-6352-88ca-0da8-f48dcfb56881/square_artwork.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/02/0d/69/020d69f5-6352-88ca-0da8-f48dcfb56881/square_artwork.jpg/100x100bb.jpg",
+      "collectionPrice": 5704,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2021-05-14T07:00:00Z",
+      "primaryGenreName": "名作",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/bd/9c/65/bd9c6591-7abe-ec92-10c2-c7a3bcac2523/mzaf_5555415574778187982.std.aac.p.m4a",
+      "description": "■内容紹介\n初期作品『ダス・ゲマイネ』から未完の絶筆『グッド・バイ』まで、珠玉の14作品を発表順に収録しています。\n無頼の作家太宰治の名作を、プロの朗読でお楽しみください。\n\n■収録作品\nダス・ゲマイネ\n富嶽百景\n葉桜と魔笛\n畜犬談 ―伊馬鵜平君に与える―\n駈込み訴え\n走れメロス\nきりぎりす\n親友交歓\nトカトントン\nメリイクリスマス\nヴィヨンの妻\n斜陽\n人間失格\nグッド・バイ"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 106372375,
+      "collectionId": 1614202918,
+      "artistName": "宮沢賢治",
+      "collectionName": "オツベルと象",
+      "collectionCensoredName": "オツベルと象",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E5%AE%AE%E6%B2%A2%E8%B3%A2%E6%B2%BB/id106372375?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/%E3%82%AA%E3%83%84%E3%83%99%E3%83%AB%E3%81%A8%E8%B1%A1/id1614202918?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/59/88/2e/59882ed6-5751-a6f3-99ea-fa7527e919e9/square_artwork.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/59/88/2e/59882ed6-5751-a6f3-99ea-fa7527e919e9/square_artwork.jpg/100x100bb.jpg",
+      "collectionPrice": 204,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2022-03-11T08:00:00Z",
+      "primaryGenreName": "キッズ／ヤングアダルト",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/df/7f/63/df7f6319-fe70-6797-5558-bc99c2cbb841/mzaf_16894514678309212590.std.aac.p.m4a",
+      "description": "童話。ある牛飼いが物語る話。ある日大金持ちの地主のオツベルのところに大きな白い象がやってくる。オツベルは象を騙して、過酷な労働をさせようとする。象は最初は楽しそうに労働していたが、食べ物を減らされて弱っていく。象は仲間に手紙を書いて助けに来てもらう。\n【朗読 新井歩】透明感のあるメゾソプラノ。作品の世界とあなたを繋ぎます。"
+    }
+  ]
+}

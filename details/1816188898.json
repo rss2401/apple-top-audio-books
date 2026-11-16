@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1126784033,
+      "collectionId": 1816188898,
+      "artistName": "Julia Chapman",
+      "collectionName": "Rendez-vous avec la justice - Les détectives du Yorkshire - Tome 9",
+      "collectionCensoredName": "Rendez-vous avec la justice - Les détectives du Yorkshire - Tome 9",
+      "artistViewUrl": "https://books.apple.com/fr/author/julia-chapman/id1126784033?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/rendez-vous-avec-la-justice-les-d%C3%A9tectives-du-yorkshire/id1816188898?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/1f/38/181f38e6-a9eb-5b4e-6d14-b3d52cf6c429/9791036636059.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/18/1f/38/181f38e6-a9eb-5b4e-6d14-b3d52cf6c429/9791036636059.jpg/100x100bb.jpg",
+      "collectionPrice": 18.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "2024 Titre original : Date with justice. © Julia Chapman, 2023. © Éditions Robert Laffont, S.A.S., 2023. ℗ Lizzie, un département d'Univers Poche, Paris, 2024.",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2024-05-23T07:00:00Z",
+      "primaryGenreName": "Policier et suspense",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/56/2f/bb/562fbb83-3632-72c2-1531-27c693054a93/mzaf_13730123246179783669.std.aac.p.m4a",
+      "description": "Odile Cohen donne à nouveau vie à tous les personnages attachants, qui peuplent l'univers de Julia Chapman. LA MORT RATTRAPE CEUX QUI LA FUIENT La découverte du cadavre d'un écologiste fait souffler un vent de panique sur les Vallons. Tout accuse Will Metcalfe, le frère de Delilah. Mais Delilah ne peut croire à la culpabilité de son frère, et Samson non plus. Déterminés à prouver l'innocence de Will, les deux détectives mènent l'enquête. Mais la justice se paiera au prix fort..."
+    }
+  ]
+}

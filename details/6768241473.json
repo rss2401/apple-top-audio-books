@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1896553278,
+      "collectionId": 6768241473,
+      "artistName": "Vergès Françoise",
+      "collectionName": "Un féminisme décolonial",
+      "collectionCensoredName": "Un féminisme décolonial",
+      "artistViewUrl": "https://books.apple.com/fr/author/verg%C3%A8s-fran%C3%A7oise/id1896553278?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/un-f%C3%A9minisme-d%C3%A9colonial/id6768241473?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/2e/3a/2b2e3a4b-48a1-3838-2c4b-ae056fcbf463/9782358723251.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/2e/3a/2b2e3a4b-48a1-3838-2c4b-ae056fcbf463/9782358723251.jpg/100x100bb.jpg",
+      "collectionPrice": 11.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2026 La fabrique éditions",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2019-02-15T08:00:00Z",
+      "primaryGenreName": "Essais et sciences humaines",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e8/d9/b6/e8d9b625-fdc4-cf2b-a893-c65c22623a19/mzaf_9482355768666113239.std.aac.p.m4a",
+      "description": "Dans le débat public, être décolonial est une infamie. Dans les universités, dans les partis de gauche et d'extrême gauche, les syndicats, les associations féministes, partout on traque une « pensée décoloniale » infiltrée et funeste pour le vivre-ensemble.\r\n\r\nDans ce livre, Françoise Vergès élucide l'objet du scandale. Le féminisme décolonial révèle les impensés de la bonne conscience blanche ; il se situe du point de vue des femmes racisées : celles qui, travailleuses domestiques, nettoient le monde ; il dénonce un capitalisme foncièrement racial et patriarcal.\r\n\r\nCes pages incisives proposent un autre récit du féminisme et posent toutes les questions qui fâchent : quelles alliances avec les femmes blanches ? Quelle solidarité avec les hommes racisés ? Quelles sont les premières vies menacées par le capitalisme racial ? Pourquoi les néofascismes s'attaquent-ils aux femmes racisées ?\r\n\r\nCe livre est une invitation à renouer avec la puissance utopique du féminisme, c'est-à-dire avec un imaginaire à même de porter une transformation radicale de la société.\r\n\r\n\r\nLu par Aïssa Maïga, actrice et réalisatrice notamment connue pour ses rôles dans Bamako (2006), Prêt à tout (2014) et Promis le ciel (2025)."
+    }
+  ]
+}

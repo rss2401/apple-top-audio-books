@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 583632867,
+      "collectionId": 1578210469,
+      "artistName": "横山秀夫",
+      "collectionName": "顔 FACE",
+      "collectionCensoredName": "顔 FACE",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E6%A8%AA%E5%B1%B1%E7%A7%80%E5%A4%AB/id583632867?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/%E9%A1%94-face/id1578210469?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cf/01/27/cf012741-3541-50b9-4a92-af2b9afb2d50/square_artwork.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/cf/01/27/cf012741-3541-50b9-4a92-af2b9afb2d50/square_artwork.jpg/100x100bb.jpg",
+      "collectionPrice": 1477,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2019-12-08T08:00:00Z",
+      "primaryGenreName": "フィクション",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/61/6d/e0/616de0ad-54fd-402a-78c3-18aaf8fd5993/mzaf_8135276556322769721.std.aac.p.m4a",
+      "description": "「だから女は使えねぇ!」\n鑑識課長の一言に傷つきながら、\nひたむきに己の職務に忠実に立ち向かう似顔絵婦警・平野瑞穂。\n\n瑞穂が描くのは、犯罪者の心の闇。\n追い詰めるのは「顔なき犯人」。\n\n鮮やかなヒロインが活躍する異色のD県警シリーズ。"
+    }
+  ]
+}

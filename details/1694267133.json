@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 893856533,
+      "collectionId": 1694267133,
+      "artistName": "江戸川乱歩",
+      "collectionName": "二銭銅貨",
+      "collectionCensoredName": "二銭銅貨",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E6%B1%9F%E6%88%B8%E5%B7%9D%E4%B9%B1%E6%AD%A9/id893856533?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/%E4%BA%8C%E9%8A%AD%E9%8A%85%E8%B2%A8/id1694267133?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/cb/f7/58cbf7ff-0bdc-f770-66c6-4bcffbe5fd58/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/58/cb/f7/58cbf7ff-0bdc-f770-66c6-4bcffbe5fd58/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 458,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2021 読人舎",
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2021-08-15T07:00:00Z",
+      "primaryGenreName": "フィクション",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/88/00/43/88004360-59ce-6d10-ecd6-993add87f953/mzaf_5931645648214332747.std.aac.p.m4a",
+      "description": "日本の推理小説界に燦然と輝く江戸川乱歩のデビュー作。<br />日本最初の本格探偵小説と言われるこの作品を聴かずして推理小説を語る資格はない。<br />「あの泥棒が羨ましい」で始まる一行は松本清張も「この書き出しの素晴らしさに惹かれた」と最大級の賛辞を贈っている。"
+    }
+  ]
+}

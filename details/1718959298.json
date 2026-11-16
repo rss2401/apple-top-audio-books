@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 669017786,
+      "collectionId": 1718959298,
+      "artistName": "Helge Weichmann",
+      "collectionName": "Schandfieber",
+      "collectionCensoredName": "Schandfieber",
+      "artistViewUrl": "https://books.apple.com/de/author/helge-weichmann/id669017786?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/schandfieber/id1718959298?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ca/8c/a4/ca8ca48c-aa0a-04aa-118f-17648cda32d2/9783839205488.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ca/8c/a4/ca8ca48c-aa0a-04aa-118f-17648cda32d2/9783839205488.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2023 Gmeiner-Verlag",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2023-11-30T08:00:00Z",
+      "primaryGenreName": "Krimis und Thriller",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/f9/52/8f/f9528f6c-3d57-f32a-193e-6819ff671ef1/mzaf_10869805748586252450.std.aac.p.m4a",
+      "description": "Es läuft gerade nicht rund für die Historikerin Tinne Nachtigall: Von heute auf morgen wird sie zur Aushilfs-Mama erklärt und muss sich um eine Fünfjährige kümmern. Und ausgerechnet jetzt hat ihr Mitbewohner Axl ein Hardrock-Tonstudio im Keller eingerichtet. Auch beruflich gerät einiges aus den Fugen. Eine Zusammenarbeit mit dem Pharmakologischen Institut zur Erforschung mittelalterlicher Heilmethoden entwickelt sich zum Desaster, eine Explosion verwüstet das Labor, einer der Mitarbeiter verschwindet spurlos. Gemeinsam mit dem Reporter Elvis beginnt Tinne die Fäden aufzudröseln. Die Spur führt nach Bingen, wo vor 1.000 Jahren die Mystikerin Hildegard die Heilmittel der damaligen Zeit zusammenfasste. Doch ihre Schrift »Causae et Curae« gilt als verschollen. Zwischen Kräutermedizin und modernen Pharmainteressen suchen Tinne und Elvis nach der Wahrheit. Plötzlich sind die beiden mittendrin in einem Kampf, den Hildegard von Bingen einst angefangen hat, der aber bis heute noch nicht entschieden ist."
+    }
+  ]
+}

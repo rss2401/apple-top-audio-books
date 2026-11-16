@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1495930606,
+      "collectionId": 1789593035,
+      "artistName": "鴨志田 一",
+      "collectionName": "[14巻] 青春ブタ野郎はガールフレンドの夢を見ない: (KADOKAWA)",
+      "collectionCensoredName": "[14巻] 青春ブタ野郎はガールフレンドの夢を見ない: (KADOKAWA)",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E9%B4%A8%E5%BF%97%E7%94%B0-%E4%B8%80/id1495930606?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/14%E5%B7%BB-%E9%9D%92%E6%98%A5%E3%83%96%E3%82%BF%E9%87%8E%E9%83%8E%E3%81%AF%E3%82%AC%E3%83%BC%E3%83%AB%E3%83%95%E3%83%AC%E3%83%B3%E3%83%89%E3%81%AE%E5%A4%A2%E3%82%92%E8%A6%8B%E3%81%AA%E3%81%84-kadokawa/id1789593035?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/70/b4/de/70b4dec3-03e6-a3b5-e67a-d3c97b4b6526/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/70/b4/de/70b4dec3-03e6-a3b5-e67a-d3c97b4b6526/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 2852,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2024 KADOKAWA",
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2024-12-27T08:00:00Z",
+      "primaryGenreName": "ライトノベル",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f8/f9/5b/f8f95b5a-9f3c-dd0c-4af1-8181fdb2c616/mzaf_8721725620576690937.std.aac.p.m4a",
+      "description": "「実は、私が霧島透子なんです」<br /> ステージで歌を披露した麻衣が、観衆を前に言い放つ。ついに夢見たその日がやってくる、シリーズ第14弾。"
+    }
+  ]
+}

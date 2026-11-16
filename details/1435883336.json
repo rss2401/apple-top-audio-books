@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 680525830,
+      "collectionId": 1435883336,
+      "artistName": "池井戸 潤",
+      "collectionName": "半沢直樹2  オレたち花のバブル組",
+      "collectionCensoredName": "半沢直樹2  オレたち花のバブル組",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E6%B1%A0%E4%BA%95%E6%88%B8-%E6%BD%A4/id680525830?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/%E5%8D%8A%E6%B2%A2%E7%9B%B4%E6%A8%B92-%E3%82%AA%E3%83%AC%E3%81%9F%E3%81%A1%E8%8A%B1%E3%81%AE%E3%83%90%E3%83%96%E3%83%AB%E7%B5%84/id1435883336?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/54/ae/d354ae4b-8002-fd68-7022-097332834906/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/54/ae/d354ae4b-8002-fd68-7022-097332834906/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 4685,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2018 Audible Studios",
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2018-09-14T07:00:00Z",
+      "primaryGenreName": "フィクション",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8c/3c/bd/8c3cbd04-19de-f4e0-74f5-b32d21f4f95e/mzaf_10684588401778167003.std.aac.p.m4a",
+      "description": "銀行本店営業部に異動した半沢直樹が押しつけられたのは、巨大損失を出した老舗ホテルの再建という頭取命令だった。銀行内の見えざる敵、金融庁検査官・黒崎との対決、出向先での執拗ないびり。やられたらやり返す。泣き寝入りはしない。その流儀を貫く半沢は、次々に襲いかかる逆境をどう切り抜けるのか――? 大ヒットドラマ「半沢直樹」原作!!"
+    }
+  ]
+}

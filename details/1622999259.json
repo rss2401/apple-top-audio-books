@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 395727698,
+      "collectionId": 1622999259,
+      "artistName": "Alexandre Kauffmann",
+      "collectionName": "La Mythomane du Bataclan",
+      "collectionCensoredName": "La Mythomane du Bataclan",
+      "artistViewUrl": "https://books.apple.com/fr/author/alexandre-kauffmann/id395727698?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/la-mythomane-du-bataclan/id1622999259?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/48/8b/b7/488bb7bf-8952-8030-4fd5-0b2b69bec383/9788726964141.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/48/8b/b7/488bb7bf-8952-8030-4fd5-0b2b69bec383/9788726964141.jpg/100x100bb.jpg",
+      "collectionPrice": 15.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2021 SAGA Egmont",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2021-08-30T07:00:00Z",
+      "primaryGenreName": "Biographies et mémoires",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/c2/d5/0b/c2d50baa-3a28-374b-d7cb-909a0e6b8a02/mzaf_2163005751054354175.std.aac.p.m4a",
+      "description": "Au lendemain des attentats du 13 novembre 2015, une certaine \"Flo Kitty\" se rapproche des rescapés. Elle leur parle de son meilleur ami Greg, blessé au Bataclan. Appréciée de tous, Flo devient salariée de la principale association de victimes, Life for Paris. Elle pose pour Paris Match, rencontre des élus et organise le retour à Paris des Eagles of Death Metal.\nUn mystère demeure&#xa0;: pourquoi personne ne peut jamais rencontrer son ami hospitalisé&#xa0;? Un jour, une survivante découvre que Flo suit un agenda secret hors la loi. La police est prévenue, une contre-infiltration débute. Quelle est l'histoire de cette femme qui, au moment de rejoindre l'association, portait un bracelet électronique à la cheville ?\nAlexandre Kauffmann a eu accès à l'enquête et a rencontré les victimes flouées. Il a aussi plongé dans le passé de Flo Kitty, découvrant que son mensonge avait commencé vingt ans plus tôt."
+    }
+  ]
+}

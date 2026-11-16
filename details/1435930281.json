@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 2037135,
+      "collectionId": 1435930281,
+      "amgArtistId": 2555,
+      "artistName": "F・スコット・フィッツジェラルド",
+      "collectionName": "グレート・ギャツビー[新版](レベル4)",
+      "collectionCensoredName": "グレート・ギャツビー[新版](レベル4)",
+      "artistViewUrl": "https://books.apple.com/jp/author/f-%E3%82%B9%E3%82%B3%E3%83%83%E3%83%88-%E3%83%95%E3%82%A3%E3%83%83%E3%83%84%E3%82%B8%E3%82%A7%E3%83%A9%E3%83%AB%E3%83%89/id2037135?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%88-%E3%82%AE%E3%83%A3%E3%83%84%E3%83%93%E3%83%BC-%E6%96%B0%E7%89%88-%E3%83%AC%E3%83%99%E3%83%AB4/id1435930281?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/fb/10/74/fb107469-0a6e-e3e4-44b8-369cfb8ba93c/square_artwork.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/fb/10/74/fb107469-0a6e-e3e4-44b8-369cfb8ba93c/square_artwork.jpg/100x100bb.jpg",
+      "collectionPrice": 764,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2012-03-02T08:00:00Z",
+      "primaryGenreName": "フィクション",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/23/1d/68/231d6809-ecd9-d5d7-59eb-cfc9db564b72/mzaf_6697631957259230322.std.aac.p.m4a",
+      "description": "ロストジェネレーション (失われた時代) の作家フィッツジェラルドの代表作であり、英語で書かれた20世紀最高の小説とも称されるグレート・ギャツビー。ミステリアスな成金の男ジェイ・ギャツビーと、上流階級に属する若者たちの生活を、新版ではよりストレートで読みやすい現代英語で描写、およそ1世紀前の物語がいきいきとした英語でよみがえります。やさしい英語で書かれたラダーシリーズのレベル4使用語彙2000語 / TOEIC®テスト470点未満 / 英検準2級以上"
+    }
+  ]
+}

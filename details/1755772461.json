@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 619363550,
+      "collectionId": 1755772461,
+      "artistName": "Kamel Daoud",
+      "collectionName": "Houris - Prix Goncourt 2024",
+      "collectionCensoredName": "Houris - Prix Goncourt 2024",
+      "artistViewUrl": "https://books.apple.com/fr/author/kamel-daoud/id619363550?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/houris-prix-goncourt-2024/id1755772461?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e9/7c/c4/e97cc467-1bdf-d895-8be2-8ec7a619636f/9782073098580.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e9/7c/c4/e97cc467-1bdf-d895-8be2-8ec7a619636f/9782073098580.jpg/100x100bb.jpg",
+      "collectionPrice": 8.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2024 Editions Gallimard",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2024-08-15T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/65/f7/2d/65f72da3-b929-2a8e-fdf4-59b9c36a4e79/mzaf_6612943193778697498.std.aac.p.m4a",
+      "description": "Prix Goncourt 2024. \n\n\"Je suis la véritable trace, le plus solide des indices attestant de tout ce que nous avons vécu en dix ans en Algérie. Je cache l’histoire d’une guerre entière, inscrite sur ma peau depuis que je suis enfant.\" \n\nAube est une jeune Algérienne qui doit se souvenir de la guerre d’indépendance, qu’elle n’a pas vécue, et oublier la guerre civile des années 1990, qu’elle a elle-même traversée. Sa tragédie est marquée sur son corps : une cicatrice au cou et des cordes vocales détruites. Muette, elle rêve de retrouver sa voix. \nSon histoire, elle ne peut la raconter qu’à la fille qu’elle porte dans son ventre. Mais a-t-elle le droit de garder cette enfant ? Peut-on donner la vie quand on vous l’a presque arrachée ? Dans un pays qui a voté des lois pour punir quiconque évoque la guerre civile, Aube décide de se rendre dans son village natal, où tout a débuté, et où les morts lui répondront peut-être. \n\nC'est avec une précieuse et juste douceur que Lola Naymark redonne la voix à cette courageuse femme, Aube. \n\nCouverture : D’après photo © Raymond Depardon / Magnum Photos"
+    }
+  ]
+}

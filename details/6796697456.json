@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1885665383,
+      "collectionId": 6796697456,
+      "artistName": "Ina Henning & David Mayer",
+      "collectionName": "Das Buch, das ihr lesen müsst, wenn ihr ein Paar bleiben wollt",
+      "collectionCensoredName": "Das Buch, das ihr lesen müsst, wenn ihr ein Paar bleiben wollt",
+      "artistViewUrl": "https://books.apple.com/de/author/ina-henning/id1885665383?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/das-buch-das-ihr-lesen-m%C3%BCsst-wenn-ihr-ein-paar-bleiben-wollt/id6796697456?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/33/12/01331205-9156-c5e6-ca12-55e7a0610211/9783732490851_3000.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/33/12/01331205-9156-c5e6-ca12-55e7a0610211/9783732490851_3000.jpg/100x100bb.jpg",
+      "collectionPrice": 13.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 2,
+      "copyright": "© 2026 Argon Verlag AVE GmbH",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2026-08-14T07:00:00Z",
+      "primaryGenreName": "Sachbücher",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b8/3a/a9/b83aa93c-d8b5-439f-5087-5432c286e0d0/mzaf_6920821676160470343.std.aac.p.m4a",
+      "description": "Ein Leitfaden für alle, die für ihre Liebe kämpfen und gemeinsam eine neue Qualität von Nähe und Verbindung entdecken wollen.\n\nErinnerst du dich noch an die Leichtigkeit eures Kennenlernens? Irgendwann schleicht sich jedoch in fast jeder Partnerschaft der Alltag ein. Zwischen Mental Load, endlosen To-do-Listen, Kindern und Job-Stress navigieren viele Paare nur noch im \"Funktionsmodus\". Gespräche werden oberflächlich, die körperliche Distanz wächst, und aus Liebenden werden Mitbewohner. Doch eine Beziehungskrise bedeutet nicht das Ende der Liebe - sie ist Weckruf und Chance zugleich.\n\nIn diesem empathischen und praxisorientierten Beziehungsratgeber zeigen die erfahrenen Paartherapeuten Ina und David (@paartherapeutenpaar), wie Paare wieder in den \"Begegnungsmodus\" wechseln. Mit eingängigen Konzepten wie dem \"Römischen Brunnen\" für die richtige Prioritätensetzung, dem \"Gallischen Dorf\" für Loyalität oder dem \"Circle of Connection\" für Verbundenheit und gute Kommunikation lernt ihr, euer Beziehungskonto täglich zu füllen.\n\nEs sind nicht die spektakulären Urlaube, die eine Partnerschaft retten, sondern die vielen kleinen Gesten der Zuwendung. Erfahrt, wie ihr Konflikte deeskaliert, den Mental Load fair verteilt und warum Me-Time eine notwendige Voraussetzung für exklusive Paarzeit ist.\n\nEin unverzichtbares Hörbuch für alle, die bereit sind, die Entscheidung für eine tief verbundene Partnerschaft jeden Tag aufs Neue zu treffen."
+    }
+  ]
+}

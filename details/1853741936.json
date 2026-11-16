@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 422542906,
+      "collectionId": 1853741936,
+      "artistName": "Jacqueline Harvey",
+      "collectionName": "Alice-Miranda in China",
+      "collectionCensoredName": "Alice-Miranda in China",
+      "artistViewUrl": "https://books.apple.com/fr/author/jacqueline-harvey/id422542906?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/alice-miranda-in-china/id1853741936?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/85/22/27852204-f2c1-6ec3-e010-db03d80ef364/9781761621499.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/85/22/27852204-f2c1-6ec3-e010-db03d80ef364/9781761621499.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2025-12-02T08:00:00Z",
+      "primaryGenreName": "Jeunesse",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c5/95/ae/c595ae22-c9bc-bc8f-52af-63ed6a84aa17/mzaf_16864256298218600630.std.aac.p.m4a",
+      "description": "Alice-Miranda and her friends are on a school exchange in China! There's so much to see and do, and plenty of new people to meet. Among the whirlwind of sights is a breathtaking circus show, a hair-raising feat and an encounter with a family of acrobats.<br /><br />While some are having a great time, others haven't quite landed on their feet. Throw in clashing personalities and the theft of a priceless antiquity, and sparks are set to fly. There may be more than just fireworks in store for Alice-Miranda and her friends . . ."
+    }
+  ]
+}

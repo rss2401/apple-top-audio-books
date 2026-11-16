@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 49402429,
+      "collectionId": 1242384287,
+      "amgArtistId": 2968651,
+      "artistName": "Bernard Werber",
+      "collectionName": "Les Thanatonautes",
+      "collectionCensoredName": "Les Thanatonautes",
+      "artistViewUrl": "https://books.apple.com/fr/author/bernard-werber/id49402429?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/les-thanatonautes/id1242384287?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/e5/55/a2e55550-ffb4-144c-677d-83c877027fb3/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/e5/55/a2e55550-ffb4-144c-677d-83c877027fb3/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 23.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 3,
+      "copyright": "© 2017 Audible Studios",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2017-06-01T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c9/3b/a9/c93ba9cd-5153-1d34-a918-94f25511e27f/mzaf_7852416526249387798.std.aac.p.m4a",
+      "description": "Nourri d'informations scientifiques souvent inédites, des textes sacrés et initiatiques les plus secrets des principales religions depuis le fond des âges, Bernard Werber nous entraîne à la découverte du continent ultime, au-delà de notre imaginaire. En suivant les Thanatonautes, vous connaîtrez des rêves et des terreurs insondables, vous subirez les lois d'un univers étrange, où se cache l'énigme qui hante les hommes depuis toujours... Jamais personne n'est allé aussi loin que les Thanatonautes. Ils ont exploré la vie après la vie. L'odyssée la plus stupéfiante de tous les temps. \n<br /><br />&gt;&gt; Ce livre audio en version intégrale vous est proposé en exclusivité par Audible et est uniquement disponible en téléchargement."
+    }
+  ]
+}

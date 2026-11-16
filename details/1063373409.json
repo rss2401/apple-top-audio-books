@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 373392077,
+      "collectionId": 1063373409,
+      "artistName": "Olivier Truc",
+      "collectionName": "Le détroit du loup: Klemet Nango et Nina Nansen 2",
+      "collectionCensoredName": "Le détroit du loup: Klemet Nango et Nina Nansen 2",
+      "artistViewUrl": "https://books.apple.com/fr/author/olivier-truc/id373392077?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/le-d%C3%A9troit-du-loup-klemet-nango-et-nina-nansen-2/id1063373409?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/93/07/80/930780ae-4ccf-4a09-d611-615e8437d4fc/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/93/07/80/930780ae-4ccf-4a09-d611-615e8437d4fc/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 19.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 2,
+      "copyright": "© 2024 Sixtrid",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2024-11-16T08:00:00Z",
+      "primaryGenreName": "Policier et suspense",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a7/c6/d2/a7c6d2c4-a943-5506-4eef-3961387cef5d/mzaf_2687972889062920986.std.aac.p.m4a",
+      "description": "Le printemps dans le Grand Nord, une lumière qui obsède, une ombre qui ne vous lâche plus. À Hammerfest, petite ville de l'extrême nord de la Laponie, au bord de la mer de Barents, le futur Dubai de l'Arctique, tout serait parfait s'il n'y avait pas quelques éleveurs de rennes et la transhumance... Là, autour du détroit du Loup, des drames se nouent. Alors que des rennes traversent le détroit à la nage, un incident coûte la vie à un jeune éleveur. Peu après, le maire de Hammerfest est retrouvé mort près d'un rocher sacré. Et les morts étranges se succèdent. <br /><br />En ville les héros sont les plongeurs de l'industrie pétrolière, trompe-la-mort et flambeurs, en particulier le jeune Nils Sormi, d'origine sami. Klemet et Nina mènent l'inquête pour la police des rennes. Mais pour Nina une autre quête se joue, plus intime, plus dramatique. Elle l'entraîne à la recherche de ce père disparu dans son enfance. Une histoire sombre va émerger, dévoilant les contours d’une vengeance tissée au nom d'un code d'honneur implacable. <br /><br />Après <i>Le dernier lapon</i> qui mettait pour la première fois en scène la police des rennes, <i>Le détroit du loup</i>, deuxième roman d'Olivier Truc, confirme ses talents de raconteur d'histoires et sa capacité à nous emmener sur des terrains insoupçonnés."
+    }
+  ]
+}

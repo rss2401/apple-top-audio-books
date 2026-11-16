@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 610653110,
+      "collectionId": 1838066753,
+      "artistName": "Ryu Murakami",
+      "collectionName": "In The Miso Soup",
+      "collectionCensoredName": "In The Miso Soup",
+      "artistViewUrl": "https://books.apple.com/jp/author/ryu-murakami/id610653110?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/in-the-miso-soup/id1838066753?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/b3/48/26b348f1-829e-ce87-7d17-acea04b2c05c/9781526684851.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/b3/48/26b348f1-829e-ce87-7d17-acea04b2c05c/9781526684851.jpg/100x100bb.jpg",
+      "collectionPrice": 2444,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 1997 Ryu Murakami",
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2025-11-27T08:00:00Z",
+      "primaryGenreName": "フィクション",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/41/b1/5f/41b15f25-c078-0240-3914-45d7b3389658/mzaf_2131011409401320747.std.aac.p.m4a",
+      "description": "Bloomsbury presents In The Miso Soup by Ryu Murakami read by Kenichiro Thomson\n\n\nA rollercoaster ride from the cult master of the psycho-thriller\n'A blistering portrait of contemporary Japan, its nihilism and decadence wrapped up within one of the most savage thrillers since The Silence of the Lambs' Kirkus\n'Deft and fascinating . . . A grisly tour of the darkness and confusion of the human mind' New York Times\n\nIt's just before New Year, and Frank, an overweight American tourist, has hired Kenji to take him on a guided tour of Tokyo's red light district.\n\n\nAs Frank's behaviour becomes increasingly unsettling, Kenji begins to entertain a horrible suspicion: his client may in fact have murderous intentions.\n\n\nAlthough Kenji is far from innocent himself, he unwillingly descends into the troubling waters of Frank's mind, from which only his sixteen-year-old girlfriend, Jun, can possibly save him."
+    }
+  ]
+}

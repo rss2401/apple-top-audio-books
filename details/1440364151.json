@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1747821873,
+      "collectionId": 1440364151,
+      "artistName": "Paolo Cognetti",
+      "collectionName": "Les Huit Montagnes",
+      "collectionCensoredName": "Les Huit Montagnes",
+      "artistViewUrl": "https://books.apple.com/fr/author/paolo-cognetti/id1747821873?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/les-huit-montagnes/id1440364151?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/0c/6e/59/0c6e5911-70be-afad-70ed-b25b21319aef/9782367626390.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/0c/6e/59/0c6e5911-70be-afad-70ed-b25b21319aef/9782367626390.jpg/100x100bb.jpg",
+      "collectionPrice": 17.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2018-08-16T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/e2/18/c9/e218c9bf-0470-64f5-4034-c196955fe2f7/mzaf_15920879662828556051.std.aac.p.m4a",
+      "description": "« Quel que soit notre destin, il habite les montagnes au-dessus de nos têtes. »<br />Pietro est un garçon de la ville, Bruno un enfant des montagnes.<br />Ils ont 11 ans et tout les sépare. Dès leur rencontre à Grana, au coeur du val d’Aoste, Bruno initie Pietro aux secrets de la montagne. Ensemble, ils parcourent alpages, forêts et glaciers, puisant dans cette nature sauvage les prémices de leur amitié.<br />Vingt ans plus tard, c’est dans ces mêmes montagnes et auprès de ce même ami que Pietro tentera de se réconcilier avec son passé – et son avenir.<br />Dans une langue pure et poétique, Paolo Cognetti mêle l’intime à l’universel et signe un grand roman d’apprentissage et de filiation."
+    }
+  ]
+}

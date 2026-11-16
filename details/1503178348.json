@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 407226596,
+      "collectionId": 1503178348,
+      "artistName": "Albert Uderzo & René Goscinny",
+      "collectionName": "Le Tour de Gaule d'Astérix",
+      "collectionCensoredName": "Le Tour de Gaule d'Astérix",
+      "artistViewUrl": "https://books.apple.com/fr/author/albert-uderzo/id407226596?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/le-tour-de-gaule-dast%C3%A9rix/id1503178348?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/1a/8d/6c/1a8d6c99-bcbf-7587-bbd8-73277247abd9/9791035403225.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/1a/8d/6c/1a8d6c99-bcbf-7587-bbd8-73277247abd9/9791035403225.jpg/100x100bb.jpg",
+      "collectionPrice": 8.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2020-04-29T07:00:00Z",
+      "primaryGenreName": "Comédie",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/f2/ab/44/f2ab444c-67fb-a16d-b5b8-01ef7535a025/mzaf_11003096055835356629.std.aac.p.m4a",
+      "description": "Lassé par la résistance des plus célèbres Gaulois, l’inspecteur général Lucius Fleurdelotus fait construire autour du Village une palissade, et décrète l’embargo. Nul n’entre ni ne sort, « et on vous oubliera ! », prédit l’envoyé spécial de Jules César.Pour Astérix, c’en est trop ! Il lance aux Romains un défi : il fera le tour de la Gaule, et ramènera de chaque région, en guise de preuve, une spécialité culinaire. Commence alors une folle expédition, que l’ensemble de la Gaule n’est pas prêt d’oublier !<br /><br />8 voix exceptionnelles, une musique originale et des bruitages sur-mesure, pour faire le plein d’aventures renversantes avec Astérix et Obélix !&#xa0;"
+    }
+  ]
+}

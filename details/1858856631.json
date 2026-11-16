@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 482540741,
+      "collectionId": 1858856631,
+      "artistName": "Michel Pastoureau",
+      "collectionName": "Histoire d'une couleur - Coffret de trois titres",
+      "collectionCensoredName": "Histoire d'une couleur - Coffret de trois titres",
+      "artistViewUrl": "https://books.apple.com/fr/author/michel-pastoureau/id482540741?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/histoire-dune-couleur-coffret-de-trois-titres/id1858856631?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/e1/cc/67e1cc83-9ecc-a16e-1060-1450c6ca3159/9782387071194.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/e1/cc/67e1cc83-9ecc-a16e-1060-1450c6ca3159/9782387071194.jpg/100x100bb.jpg",
+      "collectionPrice": 23.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2025 Cascades",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2025-12-17T08:00:00Z",
+      "primaryGenreName": "Histoire",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/26/8a/3f/268a3f46-0211-547a-d2de-16ebeee54fbb/mzaf_14235894292336157224.std.aac.p.m4a",
+      "description": "Dans cette compilation, Michel Pastoureau retrace la longue histoire sociale, artistique et symbolique du noir, du vert et du rouge dans les sociétés européennes, de la Grèce antique jusqu’à nos jours.<br /><br />Bleu :&#xa0;L’histoire de la couleur bleue dans les sociétés européennes est celle d’un complet renversement : pour les Grecs et les Romains, cette couleur compte peu ; elle est même désagréable à l’œil. Or aujourd’hui, partout en Europe, le bleu est de très loin la couleur préférée (devant le vert et le rouge).<br /><br />Jaune :&#xa0;Aujourd’hui, en Europe, le jaune est une couleur discrète, peu présente dans la vie quotidienne et dans le monde des symboles. Or, dans l’Antiquité, les Grecs et les Romains lui accordaient une place importante dans les rituels religieux, tandis que les Celtes et les Germains l’associaient à l’or et à l’immortalité.<br /><br />Blanc :&#xa0;Contrairement à une idée reçue, le blanc est une couleur à part entière, au même titre que le rouge, le bleu, le vert ou le jaune. Le livre de Michel Pastoureau retrace sa longue histoire en Europe, de l’Antiquité la plus reculée jusqu’aux sociétés contemporaines. Il s’intéresse à tous les aspects de cette couleur, du lexique aux symboles, en passant par la culture matérielle, les pratiques sociales, les savoirs scientifiques, les morales religieuses, la création artistique."
+    }
+  ]
+}

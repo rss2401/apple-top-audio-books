@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 294222347,
+      "collectionId": 1637882767,
+      "artistName": "Ruth Stiles Gannett",
+      "collectionName": "My Father's Dragon",
+      "collectionCensoredName": "My Father's Dragon",
+      "artistViewUrl": "https://books.apple.com/jp/author/ruth-stiles-gannett/id294222347?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/my-fathers-dragon/id1637882767?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4f/36/94/4f36948d-5f02-1386-7782-535c37ad5472/9781666574029.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4f/36/94/4f36948d-5f02-1386-7782-535c37ad5472/9781666574029.jpg/100x100bb.jpg",
+      "collectionPrice": 764,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2018-12-25T08:00:00Z",
+      "primaryGenreName": "キッズ／ヤングアダルト",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/fe/15/4c/fe154ca1-f046-c251-2057-b738643b47d9/mzaf_17187321393016611920.std.aac.p.m4a",
+      "description": "Armed with two dozen pink lollipops, rubber bands, chewing gum, and a fine-toothed comb, young Elmer runs away with an alley cat to a faraway island. There, he must overcome fierce beasts in order to rescue a baby dragon. The first of a three-part series, which includes Elmer and the Dragon and The Dragons of Blueland, this Newbery Honor Book and ALA Notable Book has been in print continuously for more than forty years."
+    }
+  ]
+}

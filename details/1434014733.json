@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1146392961,
+      "collectionId": 1434014733,
+      "artistName": "宮沢賢治",
+      "collectionName": "セロ弾きのゴーシュ",
+      "collectionCensoredName": "セロ弾きのゴーシュ",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E5%AE%AE%E6%B2%A2%E8%B3%A2%E6%B2%BB/id1146392961?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/%E3%82%BB%E3%83%AD%E5%BC%BE%E3%81%8D%E3%81%AE%E3%82%B4%E3%83%BC%E3%82%B7%E3%83%A5/id1434014733?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e6/60/7c/e6607c1c-b009-1340-ca98-74207fd71938/square_artwork.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e6/60/7c/e6607c1c-b009-1340-ca98-74207fd71938/square_artwork.jpg/100x100bb.jpg",
+      "collectionPrice": 407,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2011-07-01T07:00:00Z",
+      "primaryGenreName": "名作",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/29/01/26/29012616-1d05-34c0-9bdc-087728a7c035/mzaf_8671785909359747801.std.aac.p.m4a",
+      "description": "一人だけセロが上手く弾けないゴーシュは、いつも楽長から怒られていました。そんなセロの家に毎晩、かわいい動物たちが次々にやってきてはゴーシュに弾いてくれと頼みます。そして公演の日に、ゴーシュが弾いたセロは……。温かい気持ちがあふれだす、宮澤賢治の名作「セロ弾きのゴーシュ」を、俳優の高橋正臣が朗読します。【表紙イラスト】fumina"
+    }
+  ]
+}

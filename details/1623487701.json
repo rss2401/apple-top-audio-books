@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 45295047,
+      "collectionId": 1623487701,
+      "artistName": "Maurice Leblanc",
+      "collectionName": "Les Huit Coups de l'horloge – Les aventures d'Arsène Lupin",
+      "collectionCensoredName": "Les Huit Coups de l'horloge – Les aventures d'Arsène Lupin",
+      "artistViewUrl": "https://books.apple.com/fr/author/maurice-leblanc/id45295047?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/les-huit-coups-de-lhorloge-les-aventures-dars%C3%A8ne-lupin/id1623487701?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/d9/7b/f4d97be7-202c-aeb0-3001-3b7c39708f1e/9782821101654.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f4/d9/7b/f4d97be7-202c-aeb0-3001-3b7c39708f1e/9782821101654.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2022 SAGA Egmont",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2011-01-01T08:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/fb/e7/7b/fbe77b05-5b0b-7855-ed88-d7a261e4e257/mzaf_17689575198145862678.std.aac.p.m4a",
+      "description": "Dans ce recueil de huit nouvelles, imprégnées de crimes, vols et disparitions, Hortense Daniel et Arsène Lupin&#xa0;– sous l'identité du prince Rénine&#xa0;– font un pacte&#xa0;: pendant trois mois, ils s'associeront pour résoudre des énigmes. Et Lupin a bien une idée de ce qu'il espère être à la clef…\n«&#xa0;Ces huit aventures me furent contées jadis par Arsène Lupin, qui les attribuait à l'un de ses amis, le prince Rénine. Il m'est impossible de ne pas confondre les deux amis l'un avec l'autre&#xa0;: Arsène Lupin est un fantaisiste aussi capable de renier certaines de ses aventures que de s'en accorder quelques-unes dont il ne fut pas le héros. Le lecteur jugera, mais je reste persuadé que le prince Rénine et Arsène Lupin ne sont qu'une seule et même personne...&#xa0;»\nPrêt pour des quêtes aux côtés de deux des esprits les plus brillants du monde criminel français&#xa0;?\nCe livre audio regroupe les nouvelles suivantes&#xa0;:\n1. Au sommet de la tour\n2. La Carafe d'eau\n3. Thérèse et Germaine\n4. Le Film révélateur\n5. Le Cas de Jean-Louis\n6. La Dame à la Hache\n7. Des Pas sur le neige\n8. Au dieu Mercure"
+    }
+  ]
+}
