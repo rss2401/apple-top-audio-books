@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 658178634,
+      "collectionId": 1505946690,
+      "artistName": "Christelle Dabos",
+      "collectionName": "La Passe-Miroir (Livre 4) - La tempête des échos",
+      "collectionCensoredName": "La Passe-Miroir (Livre 4) - La tempête des échos",
+      "artistViewUrl": "https://books.apple.com/fr/author/christelle-dabos/id658178634?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/la-passe-miroir-livre-4-la-temp%C3%AAte-des-%C3%A9chos/id1505946690?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e7/a6/02/e7a6020f-915a-a6bd-a187-7ea4ca09821b/9782075141208.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e7/a6/02/e7a6020f-915a-a6bd-a187-7ea4ca09821b/9782075141208.jpg/100x100bb.jpg",
+      "collectionPrice": 18.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2020 Editions Gallimard Jeunesse",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2020-04-06T07:00:00Z",
+      "primaryGenreName": "SF et fantasy",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/40/81/f0/4081f029-64e0-3e01-08aa-d0609afeae82/mzaf_2795446214077653571.std.aac.p.m4a",
+      "description": "Les effondrements se multiplient, de plus en plus impressionnants: Babel, le Pôle, Anima... aucune arche n'est épargnée. Pour éviter l'anéantissement total il faut trouver le responsable. Trouver l'Autre. Mais comment faire sans même savoir à quoi il ressemble? Plus unis que jamais, Ophélie et Thorn s'engagent sur des chemins inconnus où les échos du passé et du présent les mèneront vers la clef de toutes les énigmes."
+    }
+  ]
+}

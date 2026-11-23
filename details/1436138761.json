@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1435917572,
+      "collectionId": 1436138761,
+      "artistName": "Jeffery Deaver",
+      "collectionName": "Das Teufelsspiel",
+      "collectionCensoredName": "Das Teufelsspiel",
+      "artistViewUrl": "https://books.apple.com/de/author/jeffery-deaver/id1435917572?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/das-teufelsspiel/id1436138761?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/80/5f/58805f32-6d64-1cc1-6e34-03ff957aee45/9783837180404.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/80/5f/58805f32-6d64-1cc1-6e34-03ff957aee45/9783837180404.jpg/100x100bb.jpg",
+      "collectionPrice": 23.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2007-08-15T07:00:00Z",
+      "primaryGenreName": "Belletristik",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/87/c6/79/87c67967-ad54-bd41-ff16-a0f9619c021f/mzaf_9125424379407139264.std.aac.p.m4a",
+      "description": "Lincoln Rhyme, der geniale gelähmte Ermittler, und seine Partnerin Amelia Sachs in einem gnadenlosen Katz- und Mausspiel, bei dem der Preis das Leben eines jungen Mädchens ist. Und der Gegner ebenso unberechenbar wie perfekt verborgen…<br />Frühmorgens im New Yorker Museum für afroamerikanische Geschichte: Das schrille Lachen in ihrem Rücken lässt Geneva Settle aufhorchen. Ein Mann schleicht sich an sie heran – in seinen Augen steht der Tod…<br />Nur mit einer List kann die junge Schülerin aus Harlem ihrem Angreifer entkommen. Die Spuren, die Lincoln Rhyme und Amelia Sachs am Tatort finden, deuten auf eine versuchte Vergewaltigung hin. Aber Rhyme ist überzeugt: Geneva ist ins Fadenkreuz eines gerissenen Profikillers geraten.<br />Mit scharfem Verstand versuchen die beiden Ermittler das Leben des Mädchen zu schützen und zugleich einen skrupellosen Mörder zu entlarven, der vor nichts zurückschreckt – und dessen Motive möglicherweise 140 Jahre alt sind. Doch selbst die modernste forensischen Analyse kann in diesem mysteriösen Fall nicht alle Fragen beantworten. Und so geht das Teufelsspiel unaufhaltsam in seine zweite, tödliche Runde…"
+    }
+  ]
+}

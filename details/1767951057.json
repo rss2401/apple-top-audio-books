@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 628387027,
+      "collectionId": 1767951057,
+      "artistName": "志賀直哉",
+      "collectionName": "サウンド文学館パルナス 小僧の神様",
+      "collectionCensoredName": "サウンド文学館パルナス 小僧の神様",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E5%BF%97%E8%B3%80%E7%9B%B4%E5%93%89/id628387027?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E6%96%87%E5%AD%A6%E9%A4%A8%E3%83%91%E3%83%AB%E3%83%8A%E3%82%B9-%E5%B0%8F%E5%83%A7%E3%81%AE%E7%A5%9E%E6%A7%98/id1767951057?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/55/e4/8055e4d0-daf5-5a5b-7d4e-516686087abf/square_artwork.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/55/e4/8055e4d0-daf5-5a5b-7d4e-516686087abf/square_artwork.jpg/100x100bb.jpg",
+      "collectionPrice": 509,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2024-09-03T07:00:00Z",
+      "primaryGenreName": "名作",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c7/8c/41/c78c4100-4f1b-0456-eede-df3a4de43a71/mzaf_1323716339984011315.std.aac.p.m4a",
+      "description": "学研サウンド文学館パルナスから、オーディオブックで厳選復刻。\n現代の文壇を代表する編集委員が、内外の作家の傑作を厳選。\nパルナスとは、「詩人」や「詩歌」という意味があります。\n超一流ナレーター陣で、かつてない文学体験をお楽しみください。\n\n【収録タイトル】\n小僧の神様"
+    }
+  ]
+}

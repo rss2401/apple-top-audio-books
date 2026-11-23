@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 292023928,
+      "collectionId": 1453971193,
+      "artistName": "カリン・パーソンズ",
+      "collectionName": "How High The Moon",
+      "collectionCensoredName": "How High The Moon",
+      "artistViewUrl": "https://itunes.apple.com/jp/artist/%E3%82%AB%E3%83%AA%E3%83%B3-%E3%83%91%E3%83%BC%E3%82%BD%E3%83%B3%E3%82%BA/292023928?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/how-high-the-moon/id1453971193?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2d/35/c8/2d35c8a7-084f-807f-1fb8-2f27a2572674/9780241413609.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2d/35/c8/2d35c8a7-084f-807f-1fb8-2f27a2572674/9780241413609.jpg/100x100bb.jpg",
+      "collectionPrice": 1019,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2019-03-07T08:00:00Z",
+      "primaryGenreName": "キッズ／ヤングアダルト",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/52/46/8f/52468f49-f323-1912-f9cf-d663020647ae/mzaf_16979266416088569142.std.aac.p.m4a",
+      "description": "<b>Penguin presents the audiobook edition of <i>How High The Moon </i>by Karyn Parsons, read by Sisi Aisha Jonshon.</b><br /><br />It's 1944, and in a small Southern town, eleven-year-old Ella spends her summers running wild with her cousins and friends. But life isn't always so sunny. The deep racial tension that simmers beneath their town's peaceful facade never quite goes away, and Ella misses her mama - a beautiful jazz singer, who lives in Boston.<br /><br />So when an invitation arrives to come to visit Boston Ella is ecstatic - and for the first time, Ella sees what life outside of segregation is like, and begins to dream of a very different future. But her happiness is shattered when she returns home to the news that her classmate has been arrested for the murder of two white girls - and nothing will ever be the same again."
+    }
+  ]
+}

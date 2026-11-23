@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 344558596,
+      "collectionId": 1660989435,
+      "artistName": "Brad Klontz & Ted Klontz",
+      "collectionName": "A mente acima do dinheiro",
+      "collectionCensoredName": "A mente acima do dinheiro",
+      "artistViewUrl": "https://books.apple.com/jp/author/brad-klontz/id344558596?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/a-mente-acima-do-dinheiro/id1660989435?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/8a/75/39/8a75390d-d8ea-a0dc-1809-a11facf5344f/9786555614701.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/8a/75/39/8a75390d-d8ea-a0dc-1809-a11facf5344f/9786555614701.jpg/100x100bb.jpg",
+      "collectionPrice": 968,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2017 Editora Novo Século",
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2022-12-21T08:00:00Z",
+      "primaryGenreName": "ビジネス",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/1b/16/c2/1b16c24e-53ff-5b27-3e89-a88a5004254b/mzaf_15185415385866106891.std.aac.p.m4a",
+      "description": "<b>Livro indicado por Nathalia Arcuri do Me Poupe!: \"Por que você age da forma que age com o seu dinheiro?\"</b><br />O dinheiro é a causa do seu estresse? Você se preocupa com o fato de estar gastando demais?<br />Talvez suas finanças estejam equilibradas, mas você ainda não consiga controlar sua ansiedade em relação ao dinheiro. Talvez as desavenças sobre os gastos o estejam afastando de seu cônjuge, ou, quem sabe, você tenha dificuldade em falar sobre dinheiro com seus filhos ou outros membros da família. Quer você esteja enfrentando problemas em lidar com seus investimentos ou apenas lutando para que o salário dure até o fim do mês, saiba de uma coisa: você não é o único.<br />Com anos de experiência ajudando pessoas a resolverem seus problemas financeiros, os Klontzes afirmam que as doze disfunções financeiras mais comuns, como infidelidade financeira, compulsão por compras ou dificuldade em poupar, têm solução. Eles ensinam como identificá-las, descobrir suas causas e superá-las.<br />Se você quer tomar decisões financeiras melhores e saber como lidar com os desafios econômicos atuais, \"A mente acima do dinheiro\" lhe ajudará a ter uma vida financeira saudável."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 348057686,
+      "collectionId": 1680546004,
+      "artistName": "Nicolas Mathieu",
+      "collectionName": "Aux animaux la guerre - Prix Ginkgo 2023",
+      "collectionCensoredName": "Aux animaux la guerre - Prix Ginkgo 2023",
+      "artistViewUrl": "https://books.apple.com/fr/artist/nicolas-mathieu/348057686?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/aux-animaux-la-guerre-prix-ginkgo-2023/id1680546004?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5c/1f/47/5c1f473d-9dd6-79fc-3610-e4034e596eaa/9782330178291.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5c/1f/47/5c1f473d-9dd6-79fc-3610-e4034e596eaa/9782330178291.jpg/100x100bb.jpg",
+      "collectionPrice": 16.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2023 Actes Sud",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2023-01-04T08:00:00Z",
+      "primaryGenreName": "Policier et suspense",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/4f/6e/ef/4f6eefd5-ed06-d6fc-3d18-daf1db0347aa/mzaf_2407498855010923151.std.aac.p.m4a",
+      "description": "Une usine qui ferme dans les Vosges, tout le monde s’en fout. Une centaine de types qui se retrouvent sur le carreau, chômage, RSA, le petit dernier qui n’ira pas en colo cet été, un ou deux reportages sur France 3 Lorraine Champagne-Ardenne, et «basta». Sauf que les usines sont pleines de types n'ayant plus rien à perdre. Comme ces deux qui ont la mauvaise idée de kidnapper une fille sur les trottoirs de Strasbourg pour la revendre à deux caïds qui font la pluie et le beau temps entre Épinal et Nancy. Une fille, un Colt 45, la neige, à partir de là, tout s’enchaîne…"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 491688579,
+      "collectionId": 1672354746,
+      "artistName": "Eric Fouassier",
+      "collectionName": "Le Piège de verre",
+      "collectionCensoredName": "Le Piège de verre",
+      "artistViewUrl": "https://books.apple.com/fr/author/eric-fouassier/id491688579?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/le-pi%C3%A8ge-de-verre/id1672354746?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d4/f8/fa/d4f8fad4-ca49-b200-3200-e9e9f286b4cf/9791036626463.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d4/f8/fa/d4f8fad4-ca49-b200-3200-e9e9f286b4cf/9791036626463.jpg/100x100bb.jpg",
+      "collectionPrice": 18.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "2023 © Éditions Jean-Claude Lattès, 2017..℗ Lizzie, un département d'Univers Poche, Paris, 2023",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2023-03-09T08:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/7b/e5/ca/7be5ca01-9df6-9854-ee34-6db6a63f2d4c/mzaf_3560806914505311989.std.aac.p.m4a",
+      "description": "Une intrigue du plus haut romanesque qui fait mouche. Historia. 1503. Trois alchimistes sont retrouvés assassinés. Convaincue qu'un complot se trame à l'ombre de la Couronne, la reine Anne de Bretagne fait appel pour mener l'enquête à la jeune apothicaire Héloïse Sanglar et au baron de Comballec, un soldat autoritaire et rude. Mystérieux parchemin, vitrail aux pouvoirs mortifères, sciences occultes, disparitions mystérieuses... les menaces pleuvent sur Héloïse, bien décidée à venir à bout des adversaires du roi. Mais les temps sont difficiles quand on est une femme, et, afin de survivre, il lui faudra l'aide de tous ses alliés, peut-être même celle de son amour de jeunesse, le chevalier Bayard. À moins que l'attrait grandissant que Comballec exerce sur elle ne bouleverse ses plans... Dans ce récit captivant, entre roman historique et thriller ésotérique, Éric Fouassier nous entraîne dans une véritable course contre la montre au cœur de la France de la Renaissance."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 206249503,
+      "collectionId": 1633033600,
+      "amgArtistId": 874183,
+      "artistName": "Ladybird",
+      "collectionName": "Peppa Pig: Peppa’s Winter Wonderland",
+      "collectionCensoredName": "Peppa Pig: Peppa’s Winter Wonderland",
+      "artistViewUrl": "https://books.apple.com/jp/author/ladybird/id206249503?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/peppa-pig-peppas-winter-wonderland/id1633033600?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d2/eb/1a/d2eb1a75-e5b2-38be-f7fc-0e2ba82ee93e/9780241568538.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d2/eb/1a/d2eb1a75-e5b2-38be-f7fc-0e2ba82ee93e/9780241568538.jpg/100x100bb.jpg",
+      "collectionPrice": 611,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2022-10-27T07:00:00Z",
+      "primaryGenreName": "キッズ／ヤングアダルト",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/4b/df/0f/4bdf0fca-b71b-6bf8-5319-2d5dd95f2ece/mzaf_16036449741453515396.std.aac.p.m4a",
+      "description": "<b>Brought to you by Ladybird.</b><br /><br />Penguin presents the unabridged, downloadable audiobook edition of <i>Peppa's Winter Wonderland</i> by Ladybird, narrated by John Sparkes.<br /><br />A collection of 10 newly recorded audio stories based on Peppa Pig, the hit TV show!<br /><br />Wrap up warm with Peppa and her friends in this cosy winter themed collection with stories including: Mr Potato's Christmas Show, Snow, Ice Skating, Cold Winter's Day, Santa's Grotto, Santa's Visit, George's Woolly Hat, Father Christmas and Winter Games.<br /><br /><b>Also Available: </b><br />Peppa Pig: Bedtime Stories<br />Peppa Pig: Play Days<br />Peppa Pig: Adventures with Peppa<br />Peppa Pig: On the Road with Peppa<br /><br />© Ladybird 2022 (P) Penguin Audio 2022"
+    }
+  ]
+}

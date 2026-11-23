@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 981093459,
+      "collectionId": 6808542394,
+      "artistName": "David Elbaz",
+      "collectionName": "Le Syndrome de la tache rose - Le nouveau récit de l'univers",
+      "collectionCensoredName": "Le Syndrome de la tache rose - Le nouveau récit de l'univers",
+      "artistViewUrl": "https://books.apple.com/fr/author/david-elbaz/id981093459?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/le-syndrome-de-la-tache-rose-le-nouveau-r%C3%A9cit-de-lunivers/id6808542394?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/dd/53/02dd5334-f9c7-b69b-df36-43a4c9a46e55/9791036657566.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/dd/53/02dd5334-f9c7-b69b-df36-43a4c9a46e55/9791036657566.jpg/100x100bb.jpg",
+      "collectionPrice": 19.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "2026 © Éditions Robert Laffont, S.A.S., Paris, 2026..℗ Lizzie, un département d'Univers Poche, Paris, 2026..",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2026-10-29T07:00:00Z",
+      "primaryGenreName": "Essais et sciences humaines",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/11/b9/84/11b984d0-e471-06f3-491e-be0605c8afbd/mzaf_14946738751433293030.std.aac.p.m4a",
+      "description": "LE JOUR D'APRÈS EINSTEIN EST-IL ARRIVÉ ? Un homme sur une plage s'étale de la crème solaire sur tout le corps. Tout ... sauf une zone dans le milieu du dos. Inaccessible à ses mains, invisible à ses yeux, elle rougit au soleil sans qu'il le sache.C'est le syndrome de la tache rose. Et si c'était aussi le mal dont souffre l'astrophysique aujourd'hui ? Une part essentielle de l'univers dont nous ignorons même l'existence, comme cette tache dans notre dos.Depuis que le télescope spatial James Webb scrute les profondeurs du cosmos, quelque chose ne va plus. Des galaxies trop massives, trop tôt. Des trous noirs plus nombreux que prévu. Des objets qui ne devraient pas exister, et qui pourtant sont là. De nouveaux observatoires découvrent que l'expansion de l'univers échappe à la théorie d'Einstein. C'est tout l'édifice scientifique qui vacille – et, avec lui, notre vision de l'univers, de nos origines, peut-être de notre avenir.A la manière d'un conteur, David Elbaz nous entraine dans ce récit : les débats entre chercheurs, les découvertes inattendues, les certitudes qui s'effritent. Car les révolutions scientifiques naissent à l'instant où certains ont l'audace d'accepter ce qui semblait absurde.Nous vivons l'un de ces moments rares. Ce livre audio nous y emmène.Interprétation humaine"
+    }
+  ]
+}

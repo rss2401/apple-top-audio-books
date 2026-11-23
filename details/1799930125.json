@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 275649968,
+      "collectionId": 1799930125,
+      "amgArtistId": 2071271,
+      "artistName": "Rick Riordan",
+      "collectionName": "Diebe im Olymp - Percy Jackson, Teil 1 (Ungekürzt)",
+      "collectionCensoredName": "Diebe im Olymp - Percy Jackson, Teil 1 (Ungekürzt)",
+      "artistViewUrl": "https://books.apple.com/de/author/rick-riordan/id275649968?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/diebe-im-olymp-percy-jackson-teil-1-ungek%C3%BCrzt/id1799930125?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/8d/0b/628d0b9c-b3b2-28b9-51fd-58a932e24be9/9783754018613_3000.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/8d/0b/628d0b9c-b3b2-28b9-51fd-58a932e24be9/9783754018613_3000.jpg/100x100bb.jpg",
+      "collectionPrice": 16.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2025 Lübbe Audio, Bastei Lübbe AG",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2025-03-28T07:00:00Z",
+      "primaryGenreName": "Belletristik",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/04/a9/75/04a975c4-e5ff-6d68-e2fb-3cce1d834dca/mzaf_7657325875451994621.std.aac.p.m4a",
+      "description": "Teil 1 der spannenden PERCY JACKSON-Reihe\nPercy versteht die Welt nicht mehr. Jedes Jahr fliegt er von einer anderen Schule. Ständig passieren ihm seltsame Unfälle. Und jetzt soll er auch noch an einem Tornado Schuld sein! Langsam wird ihm klar: Irgendjemand hat es auf ihn abgesehen.\nAls Percy sich mit Hilfe seines Freundes Grover vor einem Minotaurus ins Camp Half-Blood rettet, erfährt er die Wahrheit: Sein Vater ist der Meeresgott Poseidon, Percy also ein Halbgott. Und er hat einen mächtigen Feind: Kronos, den Titanen. Die Götter stehen Kopf - und Percy und seine Freunde vor einem unglaublichen Abenteuer ..."
+    }
+  ]
+}

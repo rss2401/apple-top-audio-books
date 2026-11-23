@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 297583323,
+      "collectionId": 1440367020,
+      "artistName": "Pierre Boulle",
+      "collectionName": "La Planète des singes",
+      "collectionCensoredName": "La Planète des singes",
+      "artistViewUrl": "https://books.apple.com/fr/artist/pierre-boulle/297583323?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/la-plan%C3%A8te-des-singes/id1440367020?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/80/dd/f0/80ddf0bd-5dd0-a9d0-50df-b97250a25a50/9782356417558.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/80/dd/f0/80ddf0bd-5dd0-a9d0-50df-b97250a25a50/9782356417558.jpg/100x100bb.jpg",
+      "collectionPrice": 16.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2014-07-02T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/4d/a8/42/4da8427c-aa35-87c8-c1da-95ae0fe3fa57/mzaf_2935990046170913591.std.aac.p.m4a",
+      "description": "<b>Vendu à plusieurs millions d’exemplaires dans le monde, sans cesse réédité depuis sa première parution et plusieurs fois adapté au cinéma, La Planète des singes, le chef-d’oeuvre de Pierre Boulle, est l’un des plus grands classiques de la science-fiction et du roman d’aventures.</b><br /><br />Y a-t-il des êtres humains ailleurs que dans notre galaxie ? C’est la question que se posent les passagers d’un vaisseau spatial survolant une planète proche de Bételgeuse : on y aperçoit des villes, des routes curieusement semblables à celles de notre Terre. Après s’y être posés, les trois hommes découvrent que la planète est habitée par des singes. Ceux-ci vont les capturer et se livrer sur eux à des expériences. Il faudra, devant les singes, faire la preuve de son humanité...<br /><br />L’interprétation de Bernard Gabay redonne toute sa force première à ce grand classique de la science-fiction où les hommes sont confrontés à la barbarie de ces primates qui les ont pris pour modèles."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 459814932,
+      "collectionId": 6797896951,
+      "artistName": "Jean-Paul Desprat",
+      "collectionName": "Danton: Bonhomme ou démon",
+      "collectionCensoredName": "Danton: Bonhomme ou démon",
+      "artistViewUrl": "https://books.apple.com/fr/author/jean-paul-desprat/id459814932?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/danton-bonhomme-ou-d%C3%A9mon/id6797896951?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f4/66/70/f4667040-d8f8-0e26-ea1d-ddf15ab880f0/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f4/66/70/f4667040-d8f8-0e26-ea1d-ddf15ab880f0/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 25.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 2,
+      "copyright": "© 2026 Sixtrid",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2026-09-03T07:00:00Z",
+      "primaryGenreName": "Biographies et mémoires",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bd/36/c2/bd36c20e-63cd-53c4-8b81-f6e179542ec3/mzaf_8952523217827033112.std.aac.p.m4a",
+      "description": "La personnalité de Danton a captivé de nombreux historiens, dramaturges ou cinéastes et, pourtant, elle reste une énigme.<br /><br />Était-il le joyeux compagnon, bon ami et bon père que décrivent unanimement ses proches ? Ou bien l'homme prêt à tout immoler pour le succès de la Révolution, jusqu'à encourager les massacres du 2 septembre et machiner la mort du roi ? Autre hypothèse : peut-être a-t-il su, plus que tout autre politique en son temps, prendre le pouls du peuple révolutionnaire, accompagner les débordements mortifères de la multitude tout en évitant, sitôt après, d'être discrédité, taxé de lâcheté, dès lors que le retour à la raison s'avérait indispensable ?<br /><br />S'appuyant sur des sources inédites, l'auteur réévalue l'influence de Danton sur les grands événements révolutionnaires. Au fil des chapitres, nous découvrons ses stratégies, ses amitiés, ses trahisons et son ultime courage face à la mort. Cette biographie restitue toute l'humanité d'un homme souvent réduit à des clichés."
+    }
+  ]
+}

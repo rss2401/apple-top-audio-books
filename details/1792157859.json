@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 375250475,
+      "collectionId": 1792157859,
+      "artistName": "JJ Green",
+      "collectionName": "Space Colony One Books 7 - 9",
+      "collectionCensoredName": "Space Colony One Books 7 - 9",
+      "artistViewUrl": "https://books.apple.com/jp/author/jj-green/id375250475?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/space-colony-one-books-7-9/id1792157859?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/ab/b3/b2abb3a2-911a-773d-7b1a-571dbef384a7/9798347735204.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b2/ab/b3/b2abb3a2-911a-773d-7b1a-571dbef384a7/9798347735204.png/100x100bb.jpg",
+      "collectionPrice": 407,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2025 J.J. Green",
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2025-01-18T08:00:00Z",
+      "primaryGenreName": "SF／ファンタジー",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/43/d8/d6/43d8d6a7-a1a9-d158-5565-1226e3f8b1aa/mzaf_8313316280313070761.std.aac.p.m4a",
+      "description": "Revenge works both ways<br /><br />When humanity’s first deep-space colonists touched down on their new planet, they had no idea it was the birthplace of a hostile alien species.<br /><br />After enduring numerous attacks, the survivors realize the aliens are about to get their revenge by invading Earth.<br /><br />The colonists build a starship to journey to the homeworld and warn the inhabitants of the impending war.<br /><br />Generations have passed since the original colony ship departed Earth. What will the returners find when they arrive? And will they make it back in time to avert a disaster?<br /><br />So begins the final part of the epic space colonization adventure, Space Colony One."
+    }
+  ]
+}

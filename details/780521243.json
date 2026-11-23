@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1151011474,
+      "collectionId": 780521243,
+      "artistName": "日本のおとぎ話",
+      "collectionName": "朗読「日本昔話」",
+      "collectionCensoredName": "朗読「日本昔話」",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%81%8A%E3%81%A8%E3%81%8E%E8%A9%B1/id1151011474?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/%E6%9C%97%E8%AA%AD-%E6%97%A5%E6%9C%AC%E6%98%94%E8%A9%B1/id780521243?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/d1/55/95d1557b-18ee-6979-490d-b9f658aabe3f/lg_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/d1/55/95d1557b-18ee-6979-490d-b9f658aabe3f/lg_image.jpg/100x100bb.jpg",
+      "collectionPrice": 1120,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2013 ことのは出版",
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2013-12-16T08:00:00Z",
+      "primaryGenreName": "キッズ／ヤングアダルト",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bf/3f/16/bf3f1679-230a-2561-fc7c-4d9c8d3eb769/mzaf_253738190679936616.std.aac.p.m4a",
+      "description": "朗読「日本昔話」ではみなさんのよく知る日本の昔話を8人の語り部がおもしろく、楽しく語ります。収録作品『かぐや姫』『笠地蔵』『鶴の恩返し』『おむすびころりん』『舌切りすずめ』『花咲かじいさん』『カチカチ山』『桃太郎』(C)2012 AJBRC"
+    }
+  ]
+}

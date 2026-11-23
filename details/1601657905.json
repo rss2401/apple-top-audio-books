@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 454940231,
+      "collectionId": 1601657905,
+      "artistName": "Yamamoto Tsunetomo",
+      "collectionName": "Hagakure: Ecrits sur la voie du samouraï",
+      "collectionCensoredName": "Hagakure: Ecrits sur la voie du samouraï",
+      "artistViewUrl": "https://books.apple.com/fr/author/yamamoto-tsunetomo/id454940231?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/hagakure-ecrits-sur-la-voie-du-samoura%C3%AF/id1601657905?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/98/51/639851b7-6e3c-dff7-2234-45271c166a72/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/98/51/639851b7-6e3c-dff7-2234-45271c166a72/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 10.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2021 Audible Studios",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2021-12-30T08:00:00Z",
+      "primaryGenreName": "Sports",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/5c/a0/11/5ca0118f-9942-08f4-f3e9-598cf0b08cbe/mzaf_12838723032106428045.std.aac.p.m4a",
+      "description": "<i>Le Hagakure</i>, qui fut écrit au début du XVIIIe siècle, rassemble des préceptes, leçons et épisodes historiques liés à la voie du samouraï. Ce livre audio fut dicté par un samouraï devenu moine, Tsunetomo Yamamoto, à l'un de ses disciples, Tashiro.<br /><br />Tsuramoto, qui compila les récits de son maître dans quelque onze volumes. Depuis la fin de la Seconde Guerre mondiale, aucun livre n'a été condamné avec autant de véhémence que le Hagakure car il serait à l'origine de l'engagement aveugle des jeunes soldats japonais à se précipiter dans la mort plutôt que de connaître le déshonneur de la défaite. Récemment, en 2000, le livre fut encensé par le cinéma dans <i>Ghost Dog, la Voie du Samouraï</i> de Jim Jarmusch avec Forest Whitaker.<br /><br />Hagakure fait partie des grands classiques du bushidô, la voie des samouraïs."
+    }
+  ]
+}

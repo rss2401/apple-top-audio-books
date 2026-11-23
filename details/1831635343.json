@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 326020144,
+      "collectionId": 1831635343,
+      "amgArtistId": 371195,
+      "artistName": "Pema Chödrön",
+      "collectionName": "Wenn alles zusammenbricht",
+      "collectionCensoredName": "Wenn alles zusammenbricht",
+      "artistViewUrl": "https://books.apple.com/de/author/pema-ch%C3%B6dr%C3%B6n/id326020144?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/wenn-alles-zusammenbricht/id1831635343?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/15/6a/1f156af2-0439-fd26-fd09-220f44aab666/9783442340804.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/15/6a/1f156af2-0439-fd26-fd09-220f44aab666/9783442340804.jpg/100x100bb.jpg",
+      "collectionPrice": 16.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2010-09-08T07:00:00Z",
+      "primaryGenreName": "Ratgeber",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ff/61/67/ff616764-3bad-9d14-4b9a-5a7ab819d801/mzaf_1187158382459650316.std.aac.p.m4a",
+      "description": "<b>Ein bedeutender Text, der hilft, schmerzliche Erfahrungen in Lernprozesse umzusetzen</b><br /><br />Eine der Grundaussagen des Buddhismus lautet, dass es für jeden Menschen Wege zu Zufriedenheit und dauerhaftem Glück gibt. Die buddhistische Nonne Pema Chödrön zeigt in diesem Hörbuch sehr pragmatische Möglichkeiten auf, wie man sich von seinem Leid befreien kann. Sie berichtet offenherzig von ihren eigenen schmerzhaften Erfahrungen und von ihrer Lösung: Gelassenheit, die lernbar ist. Belohnt wird der mühsame Weg mit der Erkenntnis, dass Glück und Zufriedenheit der wahren Natur des Menschen entsprechen."
+    }
+  ]
+}

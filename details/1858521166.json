@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1179659191,
+      "collectionId": 1858521166,
+      "artistName": "伊坂 幸太郎",
+      "collectionName": "パズル/『パズルと天気』より",
+      "collectionCensoredName": "パズル/『パズルと天気』より",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E4%BC%8A%E5%9D%82-%E5%B9%B8%E5%A4%AA%E9%83%8E/id1179659191?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/%E3%83%91%E3%82%BA%E3%83%AB-%E3%83%91%E3%82%BA%E3%83%AB%E3%81%A8%E5%A4%A9%E6%B0%97-%E3%82%88%E3%82%8A/id1858521166?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/af/a4/83afa4cf-d110-b9f7-47aa-44610d9f47b4/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/af/a4/83afa4cf-d110-b9f7-47aa-44610d9f47b4/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 1019,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2025 Audible Studios",
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2025-12-17T08:00:00Z",
+      "primaryGenreName": "フィクション",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/65/c5/ba/65c5ba60-571e-c12e-4123-cdcba7e14ac7/mzaf_11844751941016865195.std.aac.p.m4a",
+      "description": "「で、何に関する謎を解いてほしいんですか」。恋人の様子がおかしいと悩んでいた秀磨は、“マッチングアプリでプロフィール欄に『解けない謎があります』と書くと会える名探偵”財音杏に事情を話した。彼女が導き出した答えは予想外のもので……。『パズルと天気』収録、伊坂幸太郎書き下ろしの優しさと謎に満ちた傑作短編。"
+    }
+  ]
+}

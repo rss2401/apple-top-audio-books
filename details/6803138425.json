@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 429100792,
+      "collectionId": 6803138425,
+      "artistName": "Tony Tulathimutte",
+      "collectionName": "Fiasko: Fiktionen (ungekürzt)",
+      "collectionCensoredName": "Fiasko: Fiktionen (ungekürzt)",
+      "artistViewUrl": "https://books.apple.com/de/author/tony-tulathimutte/id429100792?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/fiasko-fiktionen-ungek%C3%BCrzt/id6803138425?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/ce/8a/1dce8a2d-a390-952d-37f9-414a5bd12f8a/4066004857602_3000.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/ce/8a/1dce8a2d-a390-952d-37f9-414a5bd12f8a/4066004857602_3000.jpg/100x100bb.jpg",
+      "collectionPrice": 20.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2026 audiolino",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2026-08-13T07:00:00Z",
+      "primaryGenreName": "Belletristik",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/82/ad/ad/82adad9a-7a11-a037-65e4-50392df5b603/mzaf_16998638119380168988.std.aac.p.m4a",
+      "description": "Von der Kritik gefeiert, von Lesern leidenschaftlich diskutiert, erzählt Tony Tulathimutte so brillant wie zum Totcringen komisch von Millennials, Misfits und Masturbauteurs: Ein erklärter Feminist fällt ins Wurmloch der Incel-Szene. Eine Frau versinkt in einer selbstzerstörerischen Spirale, als ein One-Night-Stand nicht zur erhofften Beziehung führt. Ein schwuler Thai-Amerikaner bringt es nicht über sich, seinem Freund seinen ultranischigen Fetisch zu gestehen. Wie die Facetten eines Kaleidoskops zeigen ihre Geschichten die monströs schillernden Formen, die die Sehnsucht nach echter Nähe in einer Welt zwischen Dating-Apps und Doomscrolling annimmt. Fiasko gräbt sich tief in die Zwänge und Miseren unserer Gegenwart."
+    }
+  ]
+}

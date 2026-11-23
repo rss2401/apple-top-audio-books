@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 581175101,
+      "collectionId": 1415627120,
+      "artistName": "吉川英治",
+      "collectionName": "三国志 第1話 「桃園の誓い」総集編",
+      "collectionCensoredName": "三国志 第1話 「桃園の誓い」総集編",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E5%90%89%E5%B7%9D%E8%8B%B1%E6%B2%BB/id581175101?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/%E4%B8%89%E5%9B%BD%E5%BF%97-%E7%AC%AC1%E8%A9%B1-%E6%A1%83%E5%9C%92%E3%81%AE%E8%AA%93%E3%81%84-%E7%B7%8F%E9%9B%86%E7%B7%A8/id1415627120?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/d7/98/a9/d798a9b4-0958-9fd4-a848-dbb9c9999ef5/artwork.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/d7/98/a9/d798a9b4-0958-9fd4-a848-dbb9c9999ef5/artwork.jpg/100x100bb.jpg",
+      "collectionPrice": 102,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2016-10-06T07:00:00Z",
+      "primaryGenreName": "名作",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/b8/93/ee/b893ee8d-3969-429f-b870-9ead1c4fd4f9/mzaf_4978877842340875127.std.aac.p.m4a",
+      "description": "吉川英治『三国志』の名場面を迫力のある朗読でお届けするシリーズ『週刊 三国志』。\n\nまだこの人気作をお聞きいただいたことがない方のために、\n物語の冒頭、第1話「桃園の誓い」を総集編でお届けします。\n\n【あらすじ】\n楼桑村出身の青年、劉備玄徳。\n彼は、漢の中山靖王劉勝の血を引く男であった。\n\nある日、問屋への帰り、彼はある高札を目にする。\nそれは黄巾賊に対抗する義勇の士を募るものであった。\n高札を前に考え込む劉備の前に、以前彼を助けた偉丈夫が現れる。"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1068142356,
+      "collectionId": 1677129086,
+      "artistName": "Cyril Tarquinio",
+      "collectionName": "Les maladies ne tombent peut-être pas du ciel",
+      "collectionCensoredName": "Les maladies ne tombent peut-être pas du ciel",
+      "artistViewUrl": "https://books.apple.com/fr/author/cyril-tarquinio/id1068142356?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/les-maladies-ne-tombent-peut-%C3%AAtre-pas-du-ciel/id1677129086?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/42/f7/64/42f76445-850c-f697-261f-de1671939358/9791035412722.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/42/f7/64/42f76445-850c-f697-261f-de1671939358/9791035412722.jpg/100x100bb.jpg",
+      "collectionPrice": 18.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2023-04-26T07:00:00Z",
+      "primaryGenreName": "Santé et bien-être",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/23/ba/a9/23baa9ca-ed14-fa82-6c0d-dabfd09b8b15/mzaf_13270527285635441151.std.aac.p.m4a",
+      "description": "Existe-t-il un lien réel entre nos traumatismes d'enfant et les maladies que va déclencher notre corps ? Sans aucun doute. Douleurs chroniques, migraines, crampes au ventre, maux de dos, troubles cardio-vasculaires, cancers… Ces maladies ne sont pas seulement le signe physique d’un dérèglement de notre organisme, elles sont aussi un signal fort que quelque chose ne va pas dans notre mental.<br />Grâce à la psychologie, la médecine ou encore les neurosciences, Cyril Tarquinio nous invite à mettre en perspective l’impact de notre histoire de vie sur notre (dé)construction, mais aussi sur celle de nos enfants.<br />Cette balade à la fois humaniste, introspective et ludique devrait permettre à chacun d’entre nous de s’interroger sur son parcours personnel et son héritage éducatif, et de comprendre pourquoi il est l’individu qu’il est devenu."
+    }
+  ]
+}

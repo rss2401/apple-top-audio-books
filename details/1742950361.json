@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 375250475,
+      "collectionId": 1742950361,
+      "artistName": "JJ Green",
+      "collectionName": "Space Colony One Books 1 - 3",
+      "collectionCensoredName": "Space Colony One Books 1 - 3",
+      "artistViewUrl": "https://books.apple.com/jp/author/jj-green/id375250475?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/space-colony-one-books-1-3/id1742950361?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/83/6a/21836a1e-4551-69c4-a0ed-7150b4537f37/9798882439124.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/83/6a/21836a1e-4551-69c4-a0ed-7150b4537f37/9798882439124.png/100x100bb.jpg",
+      "collectionPrice": 407,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 2,
+      "copyright": "© 2024 J.J. Green",
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2024-04-17T07:00:00Z",
+      "primaryGenreName": "SF／ファンタジー",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/09/19/43/0919432d-efc1-87c8-42c7-38dfdc83415a/mzaf_11897868388532707958.std.aac.p.m4a",
+      "description": "Terror stalks a new world colony<br /><br />After nearly two hundred years’ space travel, humanity’s first deep space colony expedition has arrived at its new home.<br /><br />Ethan, the descendant of six generations who lived and died aboard ship, treads on soil and feels the wind and rain for the first time.<br /><br />But the new planet is not the paradise the scientists predicted. Alien predators lurk beyond the camp’s perimeter, and stowaway saboteurs are determined no one will survive.<br /><br />Tensions in the new colony rise, and Ethan must fight to preserve the last hope of humankind.<br /><br />Download books 1 to 3 today and start this epic space colonization adventure!"
+    }
+  ]
+}

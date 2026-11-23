@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 652068522,
+      "collectionId": 1494692844,
+      "artistName": "渡 航",
+      "collectionName": "[8巻] やはり俺の青春ラブコメはまちがっている。8(ガガガ文庫): (小学館): (小学館)",
+      "collectionCensoredName": "[8巻] やはり俺の青春ラブコメはまちがっている。8(ガガガ文庫): (小学館): (小学館)",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E6%B8%A1-%E8%88%AA/id652068522?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/8%E5%B7%BB-%E3%82%84%E3%81%AF%E3%82%8A%E4%BF%BA%E3%81%AE%E9%9D%92%E6%98%A5%E3%83%A9%E3%83%96%E3%82%B3%E3%83%A1%E3%81%AF%E3%81%BE%E3%81%A1%E3%81%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B-8-%E3%82%AC%E3%82%AC%E3%82%AC%E6%96%87%E5%BA%AB-%E5%B0%8F%E5%AD%A6%E9%A4%A8-%E5%B0%8F%E5%AD%A6%E9%A4%A8/id1494692844?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fc/d9/19/fcd91928-6667-2d51-7134-170fff081c08/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fc/d9/19/fcd91928-6667-2d51-7134-170fff081c08/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 2546,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2020 Audible Studios",
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2020-01-20T08:00:00Z",
+      "primaryGenreName": "ライトノベル",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/7d/d8/a5/7dd8a588-e679-49de-73b4-d22e9c23fbd2/mzaf_17954267641676913054.std.aac.p.m4a",
+      "description": "奉仕部に舞い込んだ「生徒会長選挙」がらみの依頼。八幡のやり方に疑問を持ったままの雪乃と結衣は、それぞれ別々の行動を取る。分かっていたことだった……変わることができないことも、この関係が続かないことも。"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 190184746,
+      "collectionId": 347197562,
+      "amgArtistId": 571943,
+      "artistName": "L. Frank Baum",
+      "collectionName": "オズの魔法使い 世界の童話シリーズその30",
+      "collectionCensoredName": "オズの魔法使い 世界の童話シリーズその30",
+      "artistViewUrl": "https://books.apple.com/jp/author/l-frank-baum/id190184746?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/%E3%82%AA%E3%82%BA%E3%81%AE%E9%AD%94%E6%B3%95%E4%BD%BF%E3%81%84-%E4%B8%96%E7%95%8C%E3%81%AE%E7%AB%A5%E8%A9%B1%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E3%81%9D%E3%81%AE30/id347197562?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/8c/a6/bc/8ca6bc03-36d9-ead2-e816-1d803b0364c8/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/8c/a6/bc/8ca6bc03-36d9-ead2-e816-1d803b0364c8/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 560,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2009 ことのは出版",
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2009-12-15T08:00:00Z",
+      "primaryGenreName": "キッズ／ヤングアダルト",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0c/b1/bf/0cb1bf21-8ebc-9ee5-b3f6-750b49c29d98/mzaf_10864601042032561224.std.aac.p.m4a",
+      "description": "yellow bird project制作、世界の童話シリーズ第30話。大人も子供も楽しめる童話オーディオブックを、多彩なキャストとBGMでお届けします。『竜巻によってオズの国に迷い込んでしまった女の子「ドロシー」。ドロシーは自分の家に帰るために、飼い犬のトト、しゃべるカカシ、弱虫のライオン、ブリキの木こりとともに、オズの王様の住む、エメラルドの街を目指します。』"
+    }
+  ]
+}

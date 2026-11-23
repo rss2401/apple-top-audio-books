@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1151002343,
+      "collectionId": 383448442,
+      "artistName": "鎌田 東二",
+      "collectionName": "超訳 古事記",
+      "collectionCensoredName": "超訳 古事記",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E9%8E%8C%E7%94%B0-%E6%9D%B1%E4%BA%8C/id1151002343?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/%E8%B6%85%E8%A8%B3-%E5%8F%A4%E4%BA%8B%E8%A8%98/id383448442?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/8e/13/f3/8e13f3fd-210b-3faf-5077-1dc62715e0b2/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/8e/13/f3/8e13f3fd-210b-3faf-5077-1dc62715e0b2/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 2750,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2010 ことのは出版",
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2010-07-30T07:00:00Z",
+      "primaryGenreName": "名作",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ca/5d/62/ca5d6203-474c-4f45-29b5-fdf228e1a300/mzaf_16065375111684767108.std.aac.p.m4a",
+      "description": "日本誕生の神話が、現代に蘇る!すいすい読めると好評の『超訳 古事記』が、著者朗読により新たな生命を得る!『古事記』とは、1300年前、稗田阿礼が語り、太安万侶が聞き書きした口伝伝承であり、『超訳 古事記』(ミシマ社刊行、ISBN:978-4-903908-15-1)は、鎌田東二が現代の稗田阿礼となって現代語で語り、書き取ってできた、まさに神語りの再現。その著者でありフリーランス神主・神道ソングライターでもある鎌田東二が、自ら朗読して完成した、究極の神語りが、このオーディオブックです。 リズム良く、そして厳かに、大胆に語られる日本生誕物語。聴けば古事記とはこんなに面白かったのか!と魅入られてしまうこと間違いありません。本州や九州、四国はこんなふうに誕生したのか!出雲の国から初代天皇(すめらのみこと)誕生まで、しっかりと知っておきたい古の神々の物語が一気に楽しめます。"
+    }
+  ]
+}

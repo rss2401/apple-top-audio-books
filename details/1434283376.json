@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 168329371,
+      "collectionId": 1434283376,
+      "artistName": "ジュール・ベルヌ",
+      "collectionName": "海底2万マイル",
+      "collectionCensoredName": "海底2万マイル",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB-%E3%83%99%E3%83%AB%E3%83%8C/id168329371?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/%E6%B5%B7%E5%BA%952%E4%B8%87%E3%83%9E%E3%82%A4%E3%83%AB/id1434283376?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/00/a4/01/00a4012e-4ffa-372b-99ef-1d5144fdafa2/artwork.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/00/a4/01/00a4012e-4ffa-372b-99ef-1d5144fdafa2/artwork.jpg/100x100bb.jpg",
+      "collectionPrice": 815,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2010-05-10T07:00:00Z",
+      "primaryGenreName": "フィクション",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/72/4c/da/724cda10-d38e-893f-f794-5e4841eafebb/mzaf_5987439761678112903.std.aac.p.m4a",
+      "description": "海の奥底で繰り広げられる、謎の潜水艦でのスリリングな冒険。SFの先駆けとなった、大人も子供も楽しめるジュール・ヴェルヌの名作です。<br /><br />謎の人物ネモ艦長が指揮する潜水艦ノーチラス号に<br />捕われの身となった生物学者アロンナクス博士、<br />忠実な助手コンセーユ、銛打ちの名人ネッドの三人は、<br />ある時は神秘的な海底散歩、ある時は人類未踏の南極点到達、<br />またある時は巨大なタコとの壮絶な戦い、<br />更にネモ艦長の復讐の海戦と次々に驚くべき体験をして行きます。"
+    }
+  ]
+}

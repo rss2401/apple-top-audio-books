@@ -1,4 +1,27 @@
 {
-  "resultCount": 0,
-  "results": []
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1793767843,
+      "collectionId": 6818589036,
+      "artistName": "Mark Dawson Thriller, Krimi und Thriller Hörbücher & Hörbuch Bestseller",
+      "collectionName": "Blackout  - Thriller ( John Milton 10 )",
+      "collectionCensoredName": "Blackout  - Thriller ( John Milton 10 )",
+      "artistViewUrl": "https://books.apple.com/de/artist/mark-dawson-thriller/1793767843?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/blackout-thriller-john-milton-10/id6818589036?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/de/cf/84/decf8417-b967-3eca-73a4-1af9826101f3/4071576011291.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/de/cf/84/decf8417-b967-3eca-73a4-1af9826101f3/4071576011291.jpg/100x100bb.jpg",
+      "collectionPrice": 7.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2026 Winterfeld Verlag",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2026-11-23T08:00:00Z",
+      "primaryGenreName": "Krimis und Thriller",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/64/38/c2/6438c221-1eb0-14f5-86ab-9d3f73969c23/mzaf_16026116360362655658.std.aac.p.m4a",
+      "description": "Hörbuchempfehlung für Mark Dawson Fans: \"Der Uhrmacher\" von Bestsellerautor Pierre Schreiber - unbedingt anhören!\r\n\r\nEin Angebot, dem er nicht widerstehen konnte. Ein Mord, an den er sich nicht erinnern kann …\r\n\r\nJohn Miltons Leben wird nie wieder dasselbe sein. Der ehemalige Auftragsmörder der Regierung folgt einer Einladung nach Manila, die sein Leben verändern könnte. Doch er hat nicht damit gerechnet, in einem fremden Hotelzimmer aufzuwachen, neben einer Leiche. Und zu seinem Pech kann Milton sich an nichts aus der Nacht zuvor erinnern.\r\n\r\nWeggesperrt in einem brutalen Filipino-Knast, muss er die wenigen Spuren zusammenfügen, die er besitzt, um herauszufinden, wer ihn betrogen hat. Ohne Verbündete oder Hoffnung, muss Milton seinen ganzen Verstand einsetzen, um zu entkommen und sich an denen zu rächen, die ihn eingesperrt haben – falls er den Versuch überlebt …\r\n\r\nBlackout ist der neueste Band in Mark Dawsons spannender Thrillerreihe. Wer spannungsgeladene Action mit um die Welt reisenden Spionen und rasanten Abenteuern mag, wird die millionenfach verkaufte John-Milton-Reihe lieben."
+    }
+  ]
 }

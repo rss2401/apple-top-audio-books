@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 364564693,
+      "collectionId": 1531188454,
+      "artistName": "Jeffrey Pfeffer",
+      "collectionName": "Power",
+      "collectionCensoredName": "Power",
+      "artistViewUrl": "https://books.apple.com/jp/author/jeffrey-pfeffer/id364564693?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/power/id1531188454?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7a/e6/6c/7ae66c54-2cf1-daea-dcc0-efadba2b65f9/9780063072404.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7a/e6/6c/7ae66c54-2cf1-daea-dcc0-efadba2b65f9/9780063072404.jpg/100x100bb.jpg",
+      "collectionPrice": 3259,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2020-09-29T07:00:00Z",
+      "primaryGenreName": "ビジネス",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/95/ad/de/95addeac-cc47-b59d-3047-5e2f98ba8c95/mzaf_8798125399903070281.std.aac.p.m4a",
+      "description": "“Pfeffer [blends] academic rigor and practical genius into wonderfully readable text. The leading thinker on the topic of power, Pfeffer here distills his wisdom into an indispensable guide.”&#xa0;—Jim Collins, author of&#xa0;New York Times&#xa0;bestselling author&#xa0;Good to Great&#xa0;and&#xa0;How the Mighty Fall<br /><br />Some people have it, and others don’t. Jeffrey Pfeffer explores why, in&#xa0;Power.<br /><br />One of the greatest minds in management theory and author or co-author of thirteen books, including the seminal business-school text&#xa0;Managing With Power, Jeffrey Pfeffer shows readers how to succeed and wield power in the real world."
+    }
+  ]
+}

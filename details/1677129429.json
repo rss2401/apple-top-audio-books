@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 422523393,
+      "collectionId": 1677129429,
+      "artistName": "Susan Cain",
+      "collectionName": "Le Bonheur d'être triste",
+      "collectionCensoredName": "Le Bonheur d'être triste",
+      "artistViewUrl": "https://books.apple.com/fr/author/susan-cain/id422523393?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/le-bonheur-d%C3%AAtre-triste/id1677129429?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b6/db/24/b6db24b5-5d20-8a75-153c-89e4aa33e9cf/9791035412166.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b6/db/24/b6db24b5-5d20-8a75-153c-89e4aa33e9cf/9791035412166.jpg/100x100bb.jpg",
+      "collectionPrice": 20.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2023-04-26T07:00:00Z",
+      "primaryGenreName": "Santé et bien-être",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/3a/bb/4b/3abb4bee-23b8-244e-cc8b-9540eb2d9f2f/mzaf_12406747116813620373.std.aac.p.m4a",
+      "description": "Dans ce monde où règne la tyrannie de la pensée positive, la mélancolie n’a pas sa place. Elle est cette émotion négative dont il faut se défaire pour ne pas être faible.<br />Pourtant, pour Susan Cain, la mélancolie est avant tout une force motrice à la source de toutes les grandes réalisations humaines. Puisant dans son histoire personnelle et dans notre riche héritage culturel et historique, Susan Cain nous invite à reconsidérer la puissance sociale, créatrice et consolatrice de la mélancolie.<br />Alors si vous écoutez Leonard Cohen en boucle, si vous avez une conscience aiguë du temps qui passe, si vous trouvez les jours de pluie réconfortants et inspirants, vous faites sans nul doute partie des personnalités à forte tendance mélancolique. Grâce à ce livre, vous allez enfin comprendre en quoi cette part de vous-même recèle un pouvoir insoupçonné."
+    }
+  ]
+}

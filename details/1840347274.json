@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 126322054,
+      "collectionId": 1840347274,
+      "artistName": "Éric-Emmanuel Schmitt",
+      "collectionName": "Les Deux Royaumes",
+      "collectionCensoredName": "Les Deux Royaumes",
+      "artistViewUrl": "https://books.apple.com/fr/author/%C3%A9ric-emmanuel-schmitt/id126322054?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/les-deux-royaumes/id1840347274?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/9b/10/489b1019-1980-16d4-2669-0a4f0786770c/9791035418816.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/9b/10/489b1019-1980-16d4-2669-0a4f0786770c/9791035418816.jpg/100x100bb.jpg",
+      "collectionPrice": 21.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2025-10-01T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d0/85/65/d0856570-f4f5-2ca4-40f6-1e08c981a651/mzaf_14258425961175818410.std.aac.p.m4a",
+      "description": "La cueillette du gui, un élixir de jouvence cent pour cent gaulois, une assemblée de druides à l’ombre des grands chênes… Le fabuleux monde celtique n’en finit pas d’émerveiller Noam lorsqu’il débarque en Gaule. Mais bientôt l’irruption d’envahisseurs d’un genre nouveau, les Romains, vient bouleverser l’équilibre des forces.<br />Du célèbre Spartacus, figure de révolte et d’espérance qui défie la République romaine, à l’empereur Auguste et à son épouse Livie, nouveaux maîtres de Rome au prix de morts suspectes et de crimes irrésolus, Noam assiste, perplexe, à l’apparition d’une concentration du pouvoir sans limites.<br />Très loin de là, à Jérusalem, un certain Jésus tient un tout autre discours que celui de Rome. Prônant l’égalité entre tous les hommes, sa parole ouvre un horizon radicalement neuf et suscite un espoir infini. Deux « royaumes » se dessinent : l’un terrestre et hégémonique, l’autre céleste et accessible à tous. Entre ces deux conceptions du monde, Noam devra-t-il choisir ?<br />&#xa0; <br />D’un romanesque flamboyant et d’une érudition qui coule de source, ce nouveau roman d’Éric-Emmanuel Schmitt embrasse plusieurs civilisations fascinantes et met en présence deux visions de notre condition humaine, qui, sous d’autres visages, s’affrontent encore aujourd’hui.<br />&#xa0; <br />Avec la participation d’Audrey d’Hulstère.<br /><br />Interprétation humaine"
+    }
+  ]
+}

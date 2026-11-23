@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 441754964,
+      "collectionId": 1551948862,
+      "artistName": "Kazuo Ishiguro",
+      "collectionName": "Klara and the Sun",
+      "collectionCensoredName": "Klara and the Sun",
+      "artistViewUrl": "https://books.apple.com/gb/author/kazuo-ishiguro/id441754964?uo=4",
+      "collectionViewUrl": "https://books.apple.com/gb/audiobook/klara-and-the-sun/id1551948862?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5b/70/09/5b700901-cba0-4979-6225-94732b00a91d/9780571365500.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5b/70/09/5b700901-cba0-4979-6225-94732b00a91d/9780571365500.jpg/100x100bb.jpg",
+      "collectionPrice": 14.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2021 Faber & Faber",
+      "country": "GBR",
+      "currency": "GBP",
+      "releaseDate": "2021-03-02T08:00:00Z",
+      "primaryGenreName": "Fiction",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/b0/e3/bd/b0e3bd95-4c54-6eda-7d82-cf8d5937808a/mzaf_4182099665094709651.std.aac.p.m4a",
+      "description": "AVAILABLE TO PREORDER NOW\n\n\nFrom the bestselling and Booker Prize winning author of Never Let me Go and The Remains of the Day, a stunning new novel - his first since winning the Nobel Prize in Literature - that asks, what does it mean to love? A thrilling feat of world-building, a novel of exquisite tenderness and impeccable restraint, Klara and the Sun is a magnificent achievement, and an international literary event."
+    }
+  ]
+}

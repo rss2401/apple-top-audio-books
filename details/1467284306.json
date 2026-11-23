@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 110188933,
+      "collectionId": 1467284306,
+      "amgArtistId": 1003123,
+      "artistName": "Suzanne Collins",
+      "collectionName": "Mockingjay: Special Edition",
+      "collectionCensoredName": "Mockingjay: Special Edition",
+      "artistViewUrl": "https://books.apple.com/us/author/suzanne-collins/id110188933?uo=4",
+      "collectionViewUrl": "https://books.apple.com/us/audiobook/mockingjay-special-edition/id1467284306?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/50/fd/6c50fdb0-6ccd-edc6-edca-cb91d2ee6831/9781338589047.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/50/fd/6c50fdb0-6ccd-edc6-edca-cb91d2ee6831/9781338589047.png/100x100bb.jpg",
+      "collectionPrice": 16.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2019 Scholastic",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2019-06-17T07:00:00Z",
+      "primaryGenreName": "Kids & Young Adults",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5b/2c/19/5b2c1910-5ff5-7a31-66fc-6749a7bb209a/mzaf_6051004468159466478.std.aac.p.m4a",
+      "description": "<b>Emmy Award-winning actress Tatiana Maslany narrates a brand-new recording of the final audiobook in the worldwide bestselling trilogy from Suzanne Collins!</b><br /><br />Katniss Everdeen, girl on fire, has survived, even though her home has been destroyed. Gale has escaped. Katniss’s family is safe. Peeta has been captured by the Capitol. District 13 really does exist. There are rebels. There are new leaders. A revolution is unfolding. It is by design that Katniss was rescued from the arena in the cruel and haunting Quarter Quell, and it is by design that she has long been part of the revolution without knowing it. District 13 has come out of the shadows and is plotting to overthrow the Capitol. Everyone, it seems, has had a hand in the carefully laid plans — except Katniss.<br /><br />The success of the rebellion hinges on Katniss’s willingness to be a pawn, to accept responsibility for countless lives, and to change the course of the future of Panem. To do this, she must put aside her feelings of anger and distrust. She must become the rebels’ Mockingjay — no matter what the personal cost."
+    }
+  ]
+}

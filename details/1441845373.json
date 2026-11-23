@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 2035795,
+      "collectionId": 1441845373,
+      "amgArtistId": 1867533,
+      "artistName": "アガサ・クリスティ",
+      "collectionName": "The Murder of Roger Ackroyd (Abridged)",
+      "collectionCensoredName": "The Murder of Roger Ackroyd (Abridged)",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E3%82%A2%E3%82%AC%E3%82%B5-%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%86%E3%82%A3/id2035795?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/the-murder-of-roger-ackroyd-abridged/id1441845373?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/93/9d/ea/939dea69-9fff-d7a7-ecbd-df388f57c9ff/9780008210489.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/93/9d/ea/939dea69-9fff-d7a7-ecbd-df388f57c9ff/9780008210489.jpg/100x100bb.jpg",
+      "collectionPrice": 1273,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2016-10-13T07:00:00Z",
+      "primaryGenreName": "言語",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/88/a4/8c/88a48c53-37a5-9041-2f7b-e3a32903f2ba/mzaf_16908527772723131156.std.aac.p.m4a",
+      "description": "Collins brings the Queen of Crime, Agatha Christie, to English language learners.<br /><br />Agatha Christie is the most widely published author of all time and in any language. Now Collins has adapted her famous detective novels for English language learners. These carefully abridged versions are shorter with the language targeted at learners of English.<br /><br />Roger Ackroyd is a man who knows too much.<br /><br />He knows the woman he loved poisoned her first husband. He knows someone was blackmailing her – and now he knows she killed herself.<br /><br />When Roger Ackroyd is found murdered, the famous Belgian<br />detective, Hercule Poirot, is called in to find out who the killer is.<br /><br />About the author<br /><br />Agatha Christie is known throughout the world as the Queen of Crime. Her books have sold over a billion copies in English with another billion in over 70 foreign languages. She is the most widely published author of all time and in any language, outsold only by the Bible and Shakespeare. She is the author of 80 crime novels and short story collections, 20 plays, and six novels written under the name of Mary Westmacott."
+    }
+  ]
+}

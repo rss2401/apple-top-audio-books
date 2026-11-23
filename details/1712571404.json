@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 766191295,
+      "collectionId": 1712571404,
+      "artistName": "René Barjavel",
+      "collectionName": "La nuit des temps",
+      "collectionCensoredName": "La nuit des temps",
+      "artistViewUrl": "https://books.apple.com/fr/author/ren%C3%A9-barjavel/id766191295?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/la-nuit-des-temps/id1712571404?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/78/6a/28/786a28da-25bd-038d-05e7-085efbd8a30b/9791036618208.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/78/6a/28/786a28da-25bd-038d-05e7-085efbd8a30b/9791036618208.jpg/100x100bb.jpg",
+      "collectionPrice": 17.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "2022 © Presses de la Cité, 1968.℗ Lizzie, un département d'Univers Poche, Paris, 2022",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2022-10-13T07:00:00Z",
+      "primaryGenreName": "SF et fantasy",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/20/9a/a9/209aa9a0-8964-7b8b-c1dc-8630321dd0a0/mzaf_13705365808801650613.std.aac.p.m4a",
+      "description": "Dans les steppes glacées de l'Antarctique, le mythe des amants légendaires revisité par Barjavel. Un grand classique de la littérature, toujours en tête de liste des romans préférés des Français. Dans le grand silence blanc de l'Antarctique, les membres d'une mission des Expéditions polaires françaises s'activent à prélever des carottes de glace. L'épaisseur de la banquise atteint plus de 1 000 mètres, les couches les plus profondes remontant à 900 000 ans... C'est alors que l'incroyable intervient : les appareils sondeurs enregistrent un signal provenant du niveau du sol. Il y a un émetteur sous la glace. La nouvelle éclate comme une bombe et les journaux du monde entier rivalisent de gros titres : \" Une ville sous la glace \", \" Un cœur sous la banquise \", etc. Que vont découvrir les savants et les techniciens qui, venus du monde entier, forent la glace à la rencontre du mystère ? Reportage, épopée et chant d'amour passionné, La Nuit des temps est tout cela à la fois."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 5367371,
+      "collectionId": 1441945894,
+      "amgArtistId": 329751,
+      "artistName": "Roald Dahl",
+      "collectionName": "La potion magique de Georges Bouillon",
+      "collectionCensoredName": "La potion magique de Georges Bouillon",
+      "artistViewUrl": "https://books.apple.com/fr/author/roald-dahl/id5367371?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/la-potion-magique-de-georges-bouillon/id1441945894?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0b/31/9f/0b319fb8-824c-1ede-3a7d-aecef81a9370/9782075002868.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0b/31/9f/0b319fb8-824c-1ede-3a7d-aecef81a9370/9782075002868.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2004 Éditions Gallimard",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2018-08-30T07:00:00Z",
+      "primaryGenreName": "Jeunesse",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/62/f4/87/62f48729-2a26-1e78-ae11-39c6ca33c4c1/mzaf_7303129344942011997.std.aac.p.m4a",
+      "description": "La plupart des grands-mères sont d'adorables vieilles dames, gentilles et serviables. Hélas, ce n'est pas le cas de la grand-mère de Georges ! Grincheuse, affreuse et égoïste, elle ressemble trop à une sorcière. Et puis elle a de curieux goûts : elle aime se régaler de limaces, de chenilles... Un jour, alors qu'elle vient une fois de plus de le terroriser, Georges décide de lui préparer une terrible potion magique. Une potion aux effets surprenants, extraordinaires, hilarants... \nDeux grands comédiens, Perrette Pradier et Roger Carel, prêtent leurs voix profondément sympathiques et empreintes de bonhomie à l'un des textes les plus drôles de Roald Dahl."
+    }
+  ]
+}

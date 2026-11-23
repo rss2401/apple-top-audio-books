@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1757844195,
+      "collectionId": 1853798123,
+      "artistName": "Le Coran",
+      "collectionName": "Le Coran en français",
+      "collectionCensoredName": "Le Coran en français",
+      "artistViewUrl": "https://music.apple.com/fr/artist/le-coran/1757844195?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/le-coran-en-fran%C3%A7ais/id1853798123?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/06/5e/57065e93-063b-b39b-d69a-9abddb01e755/9798260803936.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/06/5e/57065e93-063b-b39b-d69a-9abddb01e755/9798260803936.png/100x100bb.jpg",
+      "collectionPrice": 13.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2025 Believe Publishing",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2025-11-04T08:00:00Z",
+      "primaryGenreName": "Religion et spiritualité",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cf/28/d6/cf28d64e-c9a0-a0f9-bf47-b4e3a2f9f4a5/mzaf_5708826901270755048.std.aac.p.m4a",
+      "description": "Le Coran en français : une porte ouverte sur la spiritualité islamique<br /><br />Le Coran, texte sacré de l'islam, est considéré par les croyants comme la parole littérale de Dieu (Allah) révélée au prophète Mahomet. À l'origine rédigé en arabe classique, sa langue est vénérée pour son style inimitable. Pour les non-arabophones, la lecture du Coran en français, souvent intitulée « Le Coran » ou « Le Saint Coran », offre une compréhension essentielle de son message.<br /><br />La traduction la plus répandue et respectée dans le monde francophone est celle de Mohammed Hamidullah, intitulée simplement « Le Coran ». Son travail est salué pour sa rigueur et sa clarté. Il est crucial de noter que ces versions sont des « traductions du sens », car la beauté poétique et la profondeur de l'original arabe sont réputées inégalables. Les traductions françaises s'accompagnent donc souvent de commentaires (tafsir) pour éclairer le contexte et l'interprétation des versets.<br /><br />Ainsi, le Coran en français constitue un outil précieux pour approcher les fondements de la foi musulmane, ses récits prophétiques, ses préceptes éthiques et sa vision du divin, rendant ce texte accessible à un large public."
+    }
+  ]
+}

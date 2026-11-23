@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1532395664,
+      "collectionId": 1804972501,
+      "artistName": "Aimée Bianca",
+      "collectionName": "Riversend",
+      "collectionCensoredName": "Riversend",
+      "artistViewUrl": "https://books.apple.com/fr/author/aim%C3%A9e-bianca/id1532395664?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/riversend/id1804972501?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c2/50/a6/c250a64e-bd71-27c9-5ed0-9364c99431de/9791036642692.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c2/50/a6/c250a64e-bd71-27c9-5ed0-9364c99431de/9791036642692.jpg/100x100bb.jpg",
+      "collectionPrice": 18.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "2025 Edisource  Éditions Addictives..℗ Lizzie, un département d'Univers Poche, Paris, 2025..Couverture : VEZE_001 / © Laurine Colin d'après : Dip, BigJoy - Adobe Stock",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2025-04-24T07:00:00Z",
+      "primaryGenreName": "Romance",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ce/1f/3c/ce1f3ca7-b861-57b1-169e-77f2b73aa3fa/mzaf_17245397379576848842.std.aac.p.m4a",
+      "description": "Kidnappée par l'ennemi, trahie par sa famille Riversend est une ville où le pouvoir se gagne dans l'ombre et la peur. Beatriz Blackwood, fille d'un chef mafieux redouté, se retrouve piégée dans un jeu dangereux lorsqu'elle est kidnappée par la famille rivale. Au centre de cette machination, Ezekiel Hunter, un homme aux multiples visages, réveille en elle des émotions qu'elle n'aurait jamais cru possibles. Alors que la frontière entre ennemis et alliés se brouille, Beatriz doit faire des choix décisifs. Peut-elle se fier à son instinct quand son avenir est en jeu ? --- Attention, ce livre audio contient des scènes difficiles pouvant heurter la sensibilité des lecteurs."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 296784545,
+      "collectionId": 1440761447,
+      "artistName": "Roland Barthes",
+      "collectionName": "Fragments d'un discours amoureux",
+      "collectionCensoredName": "Fragments d'un discours amoureux",
+      "artistViewUrl": "https://books.apple.com/fr/author/roland-barthes/id296784545?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/fragments-dun-discours-amoureux/id1440761447?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/c7/97/aa/c797aa03-d100-9a95-3855-7954ceb0d4b0/9782356413437.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/c7/97/aa/c797aa03-d100-9a95-3855-7954ceb0d4b0/9782356413437.jpg/100x100bb.jpg",
+      "collectionPrice": 14.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2011-01-19T08:00:00Z",
+      "primaryGenreName": "Essais et sciences humaines",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/7c/75/84/7c7584cb-4662-86de-a836-047efd0dd652/mzaf_7329616829433210428.std.aac.p.m4a",
+      "description": "Décrivant son projet pour <i>Fragments d’un discours amoureux</i>, Barthes précise que « tout est parti du principe qu'il fallait faire entendre la voix de l'amoureux ». D’où le choix d'une « méthode dramatique\": ici, pas de théorisation de ce discours amoureux, mais sa seule expression. « C'est un portrait qui est proposé, mais ce portrait n'est pas psychologique » ; il se fait l’écho de « quelqu'un qui parle en lui-même, amoureusement, face à l'autre - l'objet aimé -, qui ne parle pas »<br />Un texte si juste qu’il retentit en chacun, longuement…<br /><br /><b>« C’est donc un amoureux qui parle et qui dit… »</b><br /><br />1.Absence<br />2.Altération - 3.Angoisse<br />4.Annulation - 5.Atopos - 6.Attente<br />7.Casés - 8.Conduite<br />9. Contacts<br />10.Dédicace -11.Etreinte<br />12.Fading -13.Fête -14.Insupportable<br />15.Jalousie -16. Je-t-aime-<br />17.Rencontre<br /><br />Pour cette « dramaturgie » d’un discours amoureux tour à tour lucide, ironique, douloureux, impossible de rêver plus subtile interprétation que celle de Fabrice Luchini, dont l’intelligence et l’amour des mots rendent à Roland Barthes le plus bel hommage qui soit."
+    }
+  ]
+}

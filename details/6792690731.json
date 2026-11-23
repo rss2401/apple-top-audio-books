@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1593249117,
+      "collectionId": 6792690731,
+      "artistName": "Kassra Zargaran",
+      "collectionName": "Die Straße vergisst nicht",
+      "collectionCensoredName": "Die Straße vergisst nicht",
+      "artistViewUrl": "https://books.apple.com/de/author/kassra-zargaran/id1593249117?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/die-stra%C3%9Fe-vergisst-nicht/id6792690731?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c9/0a/8f/c90a8f61-a80f-c428-3979-94c043218cfe/9783742331496.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c9/0a/8f/c90a8f61-a80f-c428-3979-94c043218cfe/9783742331496.jpg/100x100bb.jpg",
+      "collectionPrice": 16.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2026 riva Verlag",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2026-11-23T08:00:00Z",
+      "primaryGenreName": "Sachbücher",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7e/54/96/7e5496ce-2121-af10-7e63-a0319832efd8/mzaf_6745184408540865862.std.aac.p.m4a",
+      "description": "Als »der Perser« war Kassra Zargaran einst Mitglied der berüchtigten Hells Angels. Heute, zwölf Jahre nach seinem Ausstieg, lebt er ein anderes Leben. Doch ein zufälliges Wiedersehen mit einem alten Bekannten aus der Szene macht ihm klar: Die Vergangenheit ist nicht vorbei – und die alten Strukturen sind noch da. In seinem neuen Buch berichtet der Perser von wahren Fällen aus dem Rockermilieu, die ihn bis heute verfolgen: von blutigen Machtkämpfen, Mordaufträgen aus dem Gefängnis und Hinrichtungen am helllichten Tag. Er zeigt, wie eng Rap, Geld und Gewalt miteinander verflochten sind, und warum viele Morde bis heute ungesühnt bleiben. Mit schonungsloser Offenheit und exklusivem Insiderwissen führt Kassra Zargaran mitten in die Welt der organisierten Kriminalität – zu den Orten, an denen Loyalität tödlich enden kann."
+    }
+  ]
+}

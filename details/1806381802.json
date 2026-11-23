@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1151532096,
+      "collectionId": 1806381802,
+      "artistName": "Fedor Dostoievski, Livres audio en français & Livre audio classique",
+      "collectionName": "L'Idiot - Livre Audio",
+      "collectionCensoredName": "L'Idiot - Livre Audio",
+      "artistViewUrl": "https://books.apple.com/fr/author/fedor-dostoievski/id1151532096?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/lidiot-livre-audio/id1806381802?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/4a/16/274a167b-1439-fc95-3112-8fc6a1891bee/4069828265684.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/4a/16/274a167b-1439-fc95-3112-8fc6a1891bee/4069828265684.jpg/100x100bb.jpg",
+      "collectionPrice": 3.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 2,
+      "copyright": "© 2025 Golden Age Audio",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2025-04-10T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3b/fa/44/3bfa44b5-4db0-d304-f07f-8aca199db4c5/mzaf_1937352362253465389.std.aac.p.m4a",
+      "description": "L'Idiot est l'un des romans les plus profonds et philosophiques de Fiodor Dostoïevski, explorant la nature de la bonté dans un monde régi par l'égoïsme et l'ambition. L'histoire suit le prince Lev Mychkine, un homme d'une bonté et d'une sincérité extraordinaires, qui retourne en Russie après des années de traitement médical à l'étranger. Son innocence et son honnêteté le distinguent de la société manipulatrice qu'il découvre, où sa bonté est perçue tantôt comme une faiblesse, tantôt comme de la naïveté.\r\n\r\nAlors que Mychkine tente de naviguer dans les complexités de la haute société, il se retrouve pris dans un enchevêtrement de relations, chacune mettant à l'épreuve ses idéaux et sa force morale. Dostoïevski utilise son protagoniste pour poser des questions fondamentales sur la nature humaine, l'amour, et le combat entre pureté et corruption. L'Idiot est un roman bouleversant et profond qui pousse le lecteur à s'interroger : la vraie bonté peut-elle survivre dans un monde rempli de tromperie et de cruauté ?"
+    }
+  ]
+}

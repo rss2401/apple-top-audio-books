@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1435944438,
+      "collectionId": 1661508875,
+      "artistName": "江戸川乱歩",
+      "collectionName": "江戸川乱歩セット2(小学館の名作文芸朗読)",
+      "collectionCensoredName": "江戸川乱歩セット2(小学館の名作文芸朗読)",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E6%B1%9F%E6%88%B8%E5%B7%9D%E4%B9%B1%E6%AD%A9/id1435944438?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/%E6%B1%9F%E6%88%B8%E5%B7%9D%E4%B9%B1%E6%AD%A9%E3%82%BB%E3%83%83%E3%83%882-%E5%B0%8F%E5%AD%A6%E9%A4%A8%E3%81%AE%E5%90%8D%E4%BD%9C%E6%96%87%E8%8A%B8%E6%9C%97%E8%AA%AD/id1661508875?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/c1/fc/84/c1fc841c-6f7b-87db-2330-af0df79705df/square_artwork.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/c1/fc/84/c1fc841c-6f7b-87db-2330-af0df79705df/square_artwork.jpg/100x100bb.jpg",
+      "collectionPrice": 1222,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2022-12-15T08:00:00Z",
+      "primaryGenreName": "名作",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/23/f0/b2/23f0b2c1-697b-9a39-7aee-3d4dc71996ec/mzaf_2201648076061036074.std.aac.p.m4a",
+      "description": "【小学館の名作文芸朗読】\n\n江戸川乱歩おススメセット!\n「収録内容」\n「日記帳」\n「押絵と旅する男」\n「一人二役」"
+    }
+  ]
+}

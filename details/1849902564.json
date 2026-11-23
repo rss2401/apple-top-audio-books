@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 422089628,
+      "collectionId": 1849902564,
+      "artistName": "Stefan Ahnhem",
+      "collectionName": "Wellengrab (Ein Fabian-Risk-Krimi 7)",
+      "collectionCensoredName": "Wellengrab (Ein Fabian-Risk-Krimi 7)",
+      "artistViewUrl": "https://books.apple.com/de/author/stefan-ahnhem/id422089628?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/wellengrab-ein-fabian-risk-krimi-7/id1849902564?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/51/14/e35114d5-0183-075c-1582-64899acb5369/9783844945225.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/51/14/e35114d5-0183-075c-1582-64899acb5369/9783844945225.jpg/100x100bb.jpg",
+      "collectionPrice": 24.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2026 Hörbuch Hamburg HHV GmbH",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2026-01-29T08:00:00Z",
+      "primaryGenreName": "Krimis und Thriller",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/78/b3/8b/78b38b46-7f42-e2f5-7b9e-6e2448260424/mzaf_12784773905007845977.std.aac.p.m4a",
+      "description": "»Ein hochaktueller, packender Kriminalroman. Ahnhems bester Fabian-Risk-Roman bislang.«&#xa0;Skånska Dagbladet&#xa0;\nAn einem Spätsommerabend versinkt die Küste Schwedens plötzlich in völliger Dunkelheit. Fabian Risk erlebt den Stromausfall von seinem Segelboot aus, gemeinsam mit seiner Tochter Matilda.&#xa0;\nZurück in Helsingborg sehen sich Fabian und seine Kollegen mit einer Reihe scheinbar unerklärlicher Fälle konfrontiert, die auf den rätselhaften Blackout folgen. Zeugen verhalten sich seltsam, und nichts will zusammenzupassen.&#xa0;\nMitten in diesem Chaos meldet sich auch eine frühere Freundin von Fabian – ihre Tochter ist verschwunden. Wurde sie in der Dunkelheit entführt? Oder steckt der Vater hinter ihrem Verschwinden?&#xa0;\nBei der Suche nach dem Mädchen beginnt Fabian, einen Zusammenhang mit dem Stromausfall zu erkennen. Doch was übersieht er?"
+    }
+  ]
+}

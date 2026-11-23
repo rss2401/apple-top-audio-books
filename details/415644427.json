@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 2023824,
+      "collectionId": 415644427,
+      "amgArtistId": 176757,
+      "artistName": "アーサー・コナン・ドイル",
+      "collectionName": "シャーロック・ホームズ「株式仲買人」",
+      "collectionCensoredName": "シャーロック・ホームズ「株式仲買人」",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E3%82%A2%E3%83%BC%E3%82%B5%E3%83%BC-%E3%82%B3%E3%83%8A%E3%83%B3-%E3%83%89%E3%82%A4%E3%83%AB/id2023824?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%AD%E3%83%83%E3%82%AF-%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%BA-%E6%A0%AA%E5%BC%8F%E4%BB%B2%E8%B2%B7%E4%BA%BA/id415644427?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/20/9f/2a/209f2ab9-0d85-04cf-bc5d-350b92e52d05/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/20/9f/2a/209f2ab9-0d85-04cf-bc5d-350b92e52d05/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 306,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2011 パンローリング株式会社",
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2011-01-28T08:00:00Z",
+      "primaryGenreName": "フィクション",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8c/b5/96/8cb596c1-e569-e579-219e-65f5bb15cfaa/mzaf_2443071145274290407.std.aac.p.m4a",
+      "description": "『四人の誓い』事件後、結婚し医院を開業したワトソンのもとをホームズが訪れた。依頼人とともにバーミンガムまで同行してほしいと言う。その依頼人は、若いロンドンっ子で、株の仲買人。失業後、才能が買われ勤めることになった会社はとても厚遇してくれるのだが、何かがおかしい…。ホームズとワトソンは一大事件に関わることに!『株式仲買人』(原題: THE STOCK-BROKER'S CLERK)は、『株式仲買店員』『株屋の店員』などの邦題で知られている。(1893年3月初出)/「シャーロック・ホームズの記憶」よりFirst published in the Strand Magazine, March. 1893"
+    }
+  ]
+}

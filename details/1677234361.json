@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 483471105,
+      "collectionId": 1677234361,
+      "artistName": "Michel Bussi",
+      "collectionName": "Le Temps est assassin",
+      "collectionCensoredName": "Le Temps est assassin",
+      "artistViewUrl": "https://books.apple.com/fr/author/michel-bussi/id483471105?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/le-temps-est-assassin/id1677234361?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f5/af/2c/f5af2c8f-d49e-c736-d603-e31ff22c09c1/9791036625237.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f5/af/2c/f5af2c8f-d49e-c736-d603-e31ff22c09c1/9791036625237.jpg/100x100bb.jpg",
+      "collectionPrice": 19.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "2023 © Michel Bussi et Presses de la Cité, 2016..℗ Lizzie, un département d'Univers Poche, Paris, 2023..",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2023-03-16T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/62/13/3d/62133d13-0157-0277-72a7-abddc806f2ba/mzaf_9446810724502948223.std.aac.p.m4a",
+      "description": "Votre été sera corsé ! Eté 1989 La Corse, presqu'île de la Revellata, entre mer et montagne. Une route en corniche, un ravin de vingt mètres, une voiture qui roule trop vite... et bascule dans le vide. Une seule survivante : Clotilde, quinze ans. Ses parents et son frère sont morts sous ses yeux. Eté 2016 Clotilde revient pour la première fois sur les lieux de l'accident, avec son mari et sa fille ado, en vacances, pour exorciser le passé. A l'endroit même où elle a passé son dernier été avec ses parents, elle reçoit une lettre. Une lettre signée de sa mère. Vivante ?"
+    }
+  ]
+}

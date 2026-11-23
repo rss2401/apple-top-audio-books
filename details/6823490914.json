@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 593297618,
+      "collectionId": 6823490914,
+      "artistName": "山口周",
+      "collectionName": "コンテキスト・リーダーシップ 「最高の上司」と「最悪の上司」は文脈で決まる",
+      "collectionCensoredName": "コンテキスト・リーダーシップ 「最高の上司」と「最悪の上司」は文脈で決まる",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E5%B1%B1%E5%8F%A3%E5%91%A8/id593297618?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/%E3%82%B3%E3%83%B3%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88-%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%B7%E3%83%83%E3%83%97-%E6%9C%80%E9%AB%98%E3%81%AE%E4%B8%8A%E5%8F%B8-%E3%81%A8-%E6%9C%80%E6%82%AA%E3%81%AE%E4%B8%8A%E5%8F%B8-%E3%81%AF%E6%96%87%E8%84%88%E3%81%A7%E6%B1%BA%E3%81%BE%E3%82%8B/id6823490914?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4a/cf/14/4acf1484-20ec-94d2-9672-6548b948bb48/square_artwork.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4a/cf/14/4acf1484-20ec-94d2-9672-6548b948bb48/square_artwork.jpg/100x100bb.jpg",
+      "collectionPrice": 1273,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 2,
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2026-10-09T07:00:00Z",
+      "primaryGenreName": "ビジネス",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/15/c7/c2/15c7c2f1-2e1e-069e-6f88-15efc4a5b1fe/mzaf_17650277071407935563.std.aac.p.m4a",
+      "description": "本書の目的は、リーダーシップに関して蔓延している「危険な誤解」を解き、読者の皆さんに「文脈=コンテキスト」という、リーダーシップについて考える新しい視点を与えることにあります。\n\nリーダーシップについて書かれた書籍や論文はごまんとありますが、それらの多くが「優れたリーダーは○○をする」という考え方、すなわち「行為論としてリーダーシップを捉える」という考え方に立脚しています。近年であれば「優れたリーダーはビジョンを示す」「優れたリーダーは仕事を任せる」「優れたリーダーは部下を傾聴する」といったあたりが典型でしょうか。\nここまでの説明を読んで特段の違和感を覚えないとすれば、あなたはすでにリーダーシップについて蔓延している「危険な誤解」に囚われてしまっている可能性があります。\n\n――27万部突破『世界のエリートはなぜ「美意識」を鍛えるのか?』の著者による最新リーダーシップ論。すべてのリーダー、リーダー候補者、そして全ビジネスパーソン必読の一冊。"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1425146653,
+      "collectionId": 6778581466,
+      "artistName": "Emily Brontë & Livres audio en français",
+      "collectionName": "Les Hauts de Hurlevent - Livre Audio",
+      "collectionCensoredName": "Les Hauts de Hurlevent - Livre Audio",
+      "artistViewUrl": "https://books.apple.com/fr/author/emily-bront%C3%AB/id1425146653?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/les-hauts-de-hurlevent-livre-audio/id6778581466?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/2e/08/c12e08ff-1ca9-5371-6d1f-07760dead21f/4069829190107.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/2e/08/c12e08ff-1ca9-5371-6d1f-07760dead21f/4069829190107.jpg/100x100bb.jpg",
+      "collectionPrice": 3.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2026 Golden Age Audio",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2026-06-12T07:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ca/b4/3d/cab43d04-1850-e0c4-d53c-58c07d22fb09/mzaf_12977049936295654834.std.aac.p.m4a",
+      "description": "Les Hauts de Hurlevent est un roman passionnel, sombre et envoûtant où l'amour se mêle à la vengeance. Emily Brontë y déploie l'histoire tourmentée de Heathcliff et Catherine, deux âmes liées par une passion destructrice. Leur relation, intense et impossible, marque durablement tous ceux qui les entourent, transformant les landes du Yorkshire en un théâtre de passions déchaînées.\r\n\r\nÀ travers une narration complexe et des personnages inoubliables, l'autrice explore la folie des sentiments humains, la douleur du rejet et la force des liens qui défient le temps. L'atmosphère sauvage et mélancolique donne au roman une puissance unique, presque mythique.\r\n\r\nChef-d'œuvre du romantisme noir, Les Hauts de Hurlevent captive les lecteurs depuis sa parution et continue de fasciner par sa beauté tragique et sa profondeur émotionnelle."
+    }
+  ]
+}

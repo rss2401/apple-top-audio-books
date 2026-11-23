@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1294725981,
+      "collectionId": 6781253001,
+      "artistName": "Yael Inokai",
+      "collectionName": "Die Auster",
+      "collectionCensoredName": "Die Auster",
+      "artistViewUrl": "https://books.apple.com/de/author/yael-inokai/id1294725981?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/die-auster/id6781253001?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/4a/46/6d4a46d1-7254-bfad-09e8-85a6e3026dae/4066004788999_3000.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/4a/46/6d4a46d1-7254-bfad-09e8-85a6e3026dae/4066004788999_3000.jpg/100x100bb.jpg",
+      "collectionPrice": 18.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2026 derDiwan Hörbuchverlag",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2026-07-21T07:00:00Z",
+      "primaryGenreName": "Belletristik",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/07/3e/b2/073eb2d9-8259-e603-9b2a-630b7fd75ba6/mzaf_12707831018073928730.std.aac.p.m4a",
+      "description": "Der Geschäftsführer eines legendären Kaufhauses wird ermordet aufgefunden. Doch bis die Polizei am Tatort eintrifft, hat Leonora Bloch alle Spuren beseitigt, so diskret und gründlich, wie sie schon seit 45 Jahren als Reinigungskraft bei Dr. Bronstett jeder Form von Unordnung begegnet. Als die Ermittlungen in die Austernbar in der fünften Etage führen, ist man schon mittendrin im Mikrokosmos dieses Kaufhauses, das von der paradoxen Sehnsucht nach vergangener Pracht und erschwinglichem Luxus lebt. Und niemand scheint sich in dieser Welt, wo Glanz und Elend, Armut und Reichtum so entwaffnend aufeinandertreffen, besser auszukennen als die 73-jährige Leonora. Doch kennt sie wirklich alle Geheimnisse und welche hütet sie selbst?\nDie gefeierte Stilistin Yael Inokai inszeniert eine Kriminalgeschichte, die ein feingefügtes Netz menschlicher Schicksale birgt."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 584416917,
+      "collectionId": 1435947405,
+      "artistName": "チャールズ・ラム & メアリー・ラム",
+      "collectionName": "シェイクスピア四大悲劇",
+      "collectionCensoredName": "シェイクスピア四大悲劇",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AB%E3%82%BA-%E3%83%A9%E3%83%A0/id584416917?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AF%E3%82%B9%E3%83%94%E3%82%A2%E5%9B%9B%E5%A4%A7%E6%82%B2%E5%8A%87/id1435947405?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/1c/7d/92/1c7d927a-9921-e977-230f-6b6bb81d43b1/square_artwork.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/1c/7d/92/1c7d927a-9921-e977-230f-6b6bb81d43b1/square_artwork.jpg/100x100bb.jpg",
+      "collectionPrice": 764,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2016-01-12T08:00:00Z",
+      "primaryGenreName": "言語",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/a7/f9/9d/a7f99df7-a812-9fc5-3efc-78e3463c23ae/mzaf_7171774792031709647.std.aac.p.m4a",
+      "description": "ルネッサンス時代イギリスで一世を風靡し、以来世界中で愛され続けてきたシェイクスピア。彼が残した作品の数々から、四大悲劇「ハムレット」「オセロー」「リア王」「マクベス」を収録。オリジナルの戯曲を小説形式にしたラム姉弟版をベースにした本書では、難解さでも知られるシェイクスピア作品を、原書の雰囲気そのままにやさしい英語で楽しむことができます。卓越した心理描写と、暗いだけではなくどこかユーモアも感じさせる、悲劇の最高峰。やさしい英語で書かれたラダーシリーズのレベル4使用語彙2000語 / TOEIC®テスト470点未満 / 英検準2級以上"
+    }
+  ]
+}

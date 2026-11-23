@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1435679757,
+      "collectionId": 1436317530,
+      "artistName": "Jostein Gaarder",
+      "collectionName": "Sofies Welt",
+      "collectionCensoredName": "Sofies Welt",
+      "artistViewUrl": "https://books.apple.com/de/author/jostein-gaarder/id1435679757?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/sofies-welt/id1436317530?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/7b/fe/26/7bfe26a4-6ecc-dcf5-a3fa-79e3ee0b70fe/9783837180329.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/7b/fe/26/7bfe26a4-6ecc-dcf5-a3fa-79e3ee0b70fe/9783837180329.jpg/100x100bb.jpg",
+      "collectionPrice": 11.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2010-09-28T07:00:00Z",
+      "primaryGenreName": "Kinder und Jugend",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/1f/79/50/1f7950c5-ab64-3119-e67a-87663e5b5dee/mzaf_7759939264442180214.std.aac.p.m4a",
+      "description": "<b>Abtauchen in die Geschichte der Philosophie</b><br /><br />Zwei anonyme Briefe findet die 14-Jährige Sofie in ihrem Briefkasten. In beiden steht nur ein Satz: \"Wer bist du?\" und \"Woher kommt die Welt?\" So beginnt Sofies abenteuerliche Zeitreise durch die Jahrtausende der Philosophie. Doch: Wer gibt ihr eigentlich diesen Fernkurs in Philosophie und bringt damit ihren Alltag durcheinander? Und wer ist dieser UN-Major, der seiner Tochter Hilde Geburtstagskarten an Sofies Adresse schreibt? Können Sokrates und Platon dies erklären ...?Sofie entdeckt staunend Galileis Gesetz der Schwerkraft und versucht, mit Hilfe des Computerprogramms Laila den UN-Major ausfindig zu machen, der immer dreister in Sofies Wirklichkeit eingreift. Wer ist Hilde, wer ist sie selbst? Ist Sofie Hilde? - Kurz vor ihrem und Hildes Geburtstag spitzen sich die Ereignisse zu. Zwischen Kant, Hegel und Marx sinnt Sofie darüber nach, wie sie den Major austricksen kann. Da kommt Hilde zu Hilfe ..."
+    }
+  ]
+}

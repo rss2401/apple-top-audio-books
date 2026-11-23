@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1573058497,
+      "collectionId": 1618501424,
+      "artistName": "Thomas Kehl & Mona Linke",
+      "collectionName": "Das einzige Buch, das du über Finanzen lesen solltest",
+      "collectionCensoredName": "Das einzige Buch, das du über Finanzen lesen solltest",
+      "artistViewUrl": "https://books.apple.com/de/author/thomas-kehl/id1573058497?uo=4",
+      "collectionViewUrl": "https://books.apple.com/de/audiobook/das-einzige-buch-das-du-%C3%BCber-finanzen-lesen-solltest/id1618501424?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1d/7d/4b/1d7d4b3c-0431-286f-a872-de18d5ed994b/9783748402893.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/1d/7d/4b/1d7d4b3c-0431-286f-a872-de18d5ed994b/9783748402893.jpg/100x100bb.jpg",
+      "collectionPrice": 14.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2022 Audio Verlag München",
+      "country": "DEU",
+      "currency": "EUR",
+      "releaseDate": "2022-04-27T07:00:00Z",
+      "primaryGenreName": "Sachbücher",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/e6/b2/3c/e6b23c1d-07bf-2547-d559-f662aa876910/mzaf_2322491256933525374.std.aac.p.m4a",
+      "description": "Ab sofort gibt es keine Ausreden mehr, den Vermögensaufbau zu vertagen. Nie war es so einfach wie heute, sein Geld trotz Nullzinsen gewinnbringend anzulegen. Das Buch von den Machern des erfolgreichen YouTube-Kanals »Finanzfluss« holt die Leser ab und gibt Impulse, Verantwortung für die eigene finanzielle Situation zu übernehmen und Begeisterung für die persönliche Vermögensbildung zu entfachen. Der ehemalige Investmentbanker Thomas Kehl und die Journalistin Mona Linke erklären, wie man mithilfe von Aktien und ETFs passiv ein Vermögen aufbauen kann, ohne dabei viel Risiko einzugehen, und wie das genau funktioniert. Ein Empowerment-Programm und Schnellkurs in Sachen Vermögensaufbau für alle  verständlich, motivierend und vor allem wirksam!"
+    }
+  ]
+}

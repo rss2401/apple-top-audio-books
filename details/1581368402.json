@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1468454933,
+      "collectionId": 1581368402,
+      "artistName": "裕夢",
+      "collectionName": "千歳くんはラムネ瓶のなか 2(ガガガ文庫)",
+      "collectionCensoredName": "千歳くんはラムネ瓶のなか 2(ガガガ文庫)",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E8%A3%95%E5%A4%A2/id1468454933?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/%E5%8D%83%E6%AD%B3%E3%81%8F%E3%82%93%E3%81%AF%E3%83%A9%E3%83%A0%E3%83%8D%E7%93%B6%E3%81%AE%E3%81%AA%E3%81%8B-2-%E3%82%AC%E3%82%AC%E3%82%AC%E6%96%87%E5%BA%AB/id1581368402?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/66/cf/3b/66cf3be4-5637-8c81-8b12-7ad4e7cffbf3/square_artwork.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/66/cf/3b/66cf3be4-5637-8c81-8b12-7ad4e7cffbf3/square_artwork.jpg/100x100bb.jpg",
+      "collectionPrice": 1884,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2021-08-20T07:00:00Z",
+      "primaryGenreName": "フィクション",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/9d/ab/04/9dab049f-097f-8287-58af-718a6972f54c/mzaf_12627578209139606523.std.aac.p.m4a",
+      "description": "「千歳しかいないの。私と付き合ってください」そんな告白から、俺と七瀬悠月の恋人関係は始まった。けれど、うまい話には大概裏がある。はたして、偽りの恋の結末は――?大人気“リア充側”青春ラブコメ、第2弾!\n\n(C)HIROMU 2019"
+    }
+  ]
+}

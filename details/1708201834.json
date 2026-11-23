@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1457825464,
+      "collectionId": 1708201834,
+      "artistName": "Caroline Goldman",
+      "collectionName": "File dans ta chambre !",
+      "collectionCensoredName": "File dans ta chambre !",
+      "artistViewUrl": "https://books.apple.com/fr/author/caroline-goldman/id1457825464?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/file-dans-ta-chambre/id1708201834?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/be/c9/5b/bec95b14-1161-6bad-732c-cce9be4e79ec/9791035414849.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/be/c9/5b/bec95b14-1161-6bad-732c-cce9be4e79ec/9791035414849.jpg/100x100bb.jpg",
+      "collectionPrice": 16.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2023-10-25T07:00:00Z",
+      "primaryGenreName": "Santé et bien-être",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/34/bd/49/34bd4940-dc57-00c2-c041-ca07e9665f03/mzaf_10154871178567499392.std.aac.p.m4a",
+      "description": "Le petit enfant explore spontanément le monde, guidé par son instinct et son plaisir. À partir de l’âge de 1 an, il a pourtant besoin que les adultes qui l’entourent l’aident à donner un format plus structuré à ses relations et à son comportement.<br />Bien des parents refusent à juste titre de céder aux violences éducatives ordinaires, s’attachent à suivre les principes d'une éducation bienveillante, expliquent et répètent inlassablement les interdits à leur enfant. Malgré cette volonté de bien faire, ils se trouvent parfois confrontés à une dégradation de l'attitude de l’enfant : refus de l’autorité, intolérance à la frustration, agressivité verbale et physique…<br />Dans cet ouvrage didactique, écrit sans langue de bois, Caroline Goldman replace l’apprentissage des limites au centre d’un développement psychique serein, en pointant les écueils d’une parentalité « excessivement positive ». Elle justifie, à l’aide d’une feuille de route pratique et détaillée, l’usage d’une action éducative non violente pour résoudre rapidement ces troubles du comportement. Et retrouver ainsi des relations apaisées et la confiance en soi.<br />&#xa0; <br />&#xa0; <br />&#xa0; TABLE DES MATIERES<br /><br />Partie 1. L’enfant sain appelle les limites.&#xa0; <br />Les excitations normales de l’enfance.<br />Les symptômes de l’enfant qui recherche les limites.<br />Ne pas offrir de limites à un enfant : quelles conséquences ?<br />Les écueils de l’éducation « positive ».<br />&#xa0; <br />Partie 2. Comprendre et utiliser la feuille de route.<br />La feuille de route : mode d’emploi.<br />Vous doutez encore ?<br />Le rôle de l’histoire familiale.<br />&#xa0; <br />Conclusion.<br />Les feuilles de route."
+    }
+  ]
+}

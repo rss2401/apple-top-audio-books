@@ -1,0 +1,28 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 49949629,
+      "collectionId": 1854200629,
+      "amgArtistId": 1776304,
+      "artistName": "Fédor Dostoïevski, André Comte-Sponville & André Markowicz",
+      "collectionName": "Le joueur",
+      "collectionCensoredName": "Le joueur",
+      "artistViewUrl": "https://books.apple.com/fr/author/f%C3%A9dor-dosto%C3%AFevski/id49949629?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/le-joueur/id1854200629?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/66/1d/28661d69-3609-010c-c64b-1fed714bfe03/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/66/1d/28661d69-3609-010c-c64b-1fed714bfe03/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 11.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2025 Actes Sud Audio",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2025-11-21T08:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ef/89/9c/ef899c49-04aa-73e0-b173-7d4eb3cfbeda/mzaf_12824869761510662743.std.aac.p.m4a",
+      "description": "<i>Le Joueur</i> est la confession directe d'un possédé à la voix haletante et familière. Le destin d'Alexis Ivanovitch, consumé par deux passions égales, le jeu et l'amour d'une femme, révèle l'image d'une humanité pleine de désirs fous et d'aspirations incontrôlées, condamnée à l'éternelle nostalgie du bonheur ou à l'espérance du salut.<br /><br />\nLe label « IH » (« Interprétation Humaine ») signifie que ce livre audio a été enregistré par un comédien ou une comédienne."
+    }
+  ]
+}

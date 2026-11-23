@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 680525830,
+      "collectionId": 6834153962,
+      "artistName": "池井戸 潤",
+      "collectionName": "劇場で会いましょう",
+      "collectionCensoredName": "劇場で会いましょう",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E6%B1%A0%E4%BA%95%E6%88%B8-%E6%BD%A4/id680525830?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/%E5%8A%87%E5%A0%B4%E3%81%A7%E4%BC%9A%E3%81%84%E3%81%BE%E3%81%97%E3%82%87%E3%81%86/id6834153962?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/75/6a/ba756a03-6ed2-4221-f7ce-ffe417936851/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/75/6a/ba756a03-6ed2-4221-f7ce-ffe417936851/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 2852,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2026 Audible Studios",
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2026-11-13T08:00:00Z",
+      "primaryGenreName": "フィクション",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/45/00/4f/45004fb7-0ebb-b500-1da0-e574edd5f4ea/mzaf_2560401864505107910.std.aac.p.m4a",
+      "description": "劇場には人生がつまっている――。ベストセラー作家の素顔と偏愛を覗く、ここでしか読めない著者初のエッセイ集。「半沢直樹」スピンオフ作品も読める!<br /><br />第一幕 劇場で会いましょう<br />著者が足繁く通うミュージカルへの愛を綴ったエッセイ<br /><br />第二幕 奈落はそこにある<br />60年を経て閉館した帝国劇場への思いを語る<br /><br />第三幕 コトブキ・ジローと五人のお客さま 半沢直樹編<br />「半沢直樹」のアノ人物たちが次々と登場する極上スピンオフ・ショートショート"
+    }
+  ]
+}

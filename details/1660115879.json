@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1282140052,
+      "collectionId": 1660115879,
+      "artistName": "Maud Ankaoua",
+      "collectionName": "Plus jamais sans moi",
+      "collectionCensoredName": "Plus jamais sans moi",
+      "artistViewUrl": "https://books.apple.com/fr/author/maud-ankaoua/id1282140052?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/plus-jamais-sans-moi/id1660115879?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/60/52/b5/6052b5d9-f867-62c6-a293-5445b65adf77/9791036625862.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/60/52/b5/6052b5d9-f867-62c6-a293-5445b65adf77/9791036625862.jpg/100x100bb.jpg",
+      "collectionPrice": 18.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "2023 © Éditions Eyrolles, 2023.℗ Lizzie, un département d'Univers Poche, Paris, 2023",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2023-01-05T08:00:00Z",
+      "primaryGenreName": "Romans et littérature",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/c3/71/4a/c3714a82-a674-4f24-0bd2-7785a057bfa1/mzaf_11343718315688094382.std.aac.p.m4a",
+      "description": "Et s'il était temps pour vous de rencontrer enfin le grand amour ? Constance, avocate brillante, a obtenu le poste qu'elle convoitait dans un cabinet d'élite. Pourtant, à l'approche de la quarantaine, elle se sent fragile et peu sûre d'elle. Très amoureuse de Lucas, elle attend que celui-ci quitte sa femme comme il le lui a promis. Alors qu'elle vient de signer son contrat, Constance découvre qu'elle doit effectuer une période d'essai d'un genre... peu conventionnel ! Soutenue par ses amis, elle accepte de s'écarter dangereusement de sa zone de confort. Une expérience qui bouleversera sa vision d'elle-même et de l'amour. Une nouvelle fois, Maud Ankaoua nous entraîne dans un univers captivant et émouvant dont on ressort grandi. Elle nous livre avec générosité, inspiration et conviction les clés de l'amour vrai, celui qui rend profondément heureux. \"Quand un homme marche vers son destin, il est bien souvent forcé de changer de direction.\" Paulo Coelho"
+    }
+  ]
+}

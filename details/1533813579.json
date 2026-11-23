@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 18941465,
+      "collectionId": 1533813579,
+      "artistName": "Brian Christian",
+      "collectionName": "The Alignment Problem: Machine Learning and Human Values (Unabridged)",
+      "collectionCensoredName": "The Alignment Problem: Machine Learning and Human Values (Unabridged)",
+      "artistViewUrl": "https://books.apple.com/fr/artist/brian-christian/18941465?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/the-alignment-problem-machine-learning-and-human/id1533813579?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/75/48/dd754852-c267-b1a2-b363-68badfa7e10b/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dd/75/48/dd754852-c267-b1a2-b363-68badfa7e10b/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 13.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 2,
+      "copyright": "© 2020 Brilliance Audio",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2020-10-06T07:00:00Z",
+      "primaryGenreName": "Sciences",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1d/d3/80/1dd3800f-fe0a-cf37-3580-c6a098ec9f3a/mzaf_6505753878766235122.std.aac.p.m4a",
+      "description": "<b>A jaw-dropping exploration of everything that goes wrong when we build AI systems and the movement to fix them.</b><br /><br />Today’s “machine-learning” systems, trained by data, are so effective that we’ve invited them to see and hear for us―and to make decisions on our behalf. But alarm bells are ringing. Recent years have seen an eruption of concern as the field of machine learning advances. When the systems we attempt to teach will not, in the end, do what we want or what we expect, ethical and potentially existential risks emerge. Researchers call this the alignment problem.<br /><br />Systems cull résumés until, years later, we discover that they have inherent gender biases. Algorithms decide bail and parole―and appear to assess Black and White defendants differently. We can no longer assume that our mortgage application, or even our medical tests, will be seen by human eyes. And as autonomous vehicles share our streets, we are increasingly putting our lives in their hands.<br /><br />The mathematical and computational models driving these changes range in complexity from something that can fit on a spreadsheet to a complex system that might credibly be called “artificial intelligence.” They are steadily replacing both human judgment and explicitly programmed software.<br /><br />In best-selling author Brian Christian’s riveting account, we meet the alignment problem’s “first-responders,” and learn their ambitious plan to solve it before our hands are completely off the wheel. In a masterful blend of history and on-the ground reporting, Christian traces the explosive growth in the field of machine learning and surveys its current, sprawling frontier. Readers encounter a discipline finding its legs amid exhilarating and sometimes terrifying progress. Whether they―and we―succeed or fail in solving the alignment problem will be a defining human story.<br /><br /><i>The Alignment Problem</i> offers an unflinching reckoning with humanity’s biases and blind spots, our own unstated assumptions and often contradictory goals. A dazzlingly interdisciplinary work, it takes a hard look not only at our technology but at our culture―and finds a story by turns harrowing and hopeful."
+    }
+  ]
+}

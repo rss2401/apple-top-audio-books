@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 1159281620,
+      "collectionId": 1159281577,
+      "artistName": "青崎 有吾",
+      "collectionName": "体育館の殺人",
+      "collectionCensoredName": "体育館の殺人",
+      "artistViewUrl": "https://books.apple.com/jp/author/%E9%9D%92%E5%B4%8E-%E6%9C%89%E5%90%BE/id1159281620?uo=4",
+      "collectionViewUrl": "https://books.apple.com/jp/audiobook/%E4%BD%93%E8%82%B2%E9%A4%A8%E3%81%AE%E6%AE%BA%E4%BA%BA/id1159281577?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/9c/47/d8/9c47d89e-1fa0-356d-acc9-7e9fe56c4e81/rm_image.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/9c/47/d8/9c47d89e-1fa0-356d-acc9-7e9fe56c4e81/rm_image.jpg/100x100bb.jpg",
+      "collectionPrice": 3259,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 1,
+      "copyright": "© 2016 (株)アールアールジェイ",
+      "country": "JPN",
+      "currency": "JPY",
+      "releaseDate": "2016-09-30T07:00:00Z",
+      "primaryGenreName": "フィクション",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ae/36/f8/ae36f8f0-46ea-b9f3-b7f9-cd283ec055f5/mzaf_14746079509015156583.std.aac.p.m4a",
+      "description": "風ヶ丘高校の旧体育館で、放課後、放送部の少年が刺殺された。外は激しい雨で、密室状態の体育館にいた唯一の人物、女子卓球部部長の犯行だと警察は決めてかかる。卓球部員・柚乃は、部長を救うために、学内一の天才と呼ばれている裏染天馬に真相の解明を頼んだ。アニメオタクの駄目人間に──。“平成のエラリー・クイーン”が、論理に磨きをかけて読者に挑戦! 第22回鮎川哲也賞受賞作。"
+    }
+  ]
+}

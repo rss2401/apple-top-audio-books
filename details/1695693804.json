@@ -1,0 +1,27 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "audiobook",
+      "artistId": 307444196,
+      "collectionId": 1695693804,
+      "artistName": "Raymond E. Feist & Janny Wurts",
+      "collectionName": "Maîtresse de l'empire",
+      "collectionCensoredName": "Maîtresse de l'empire",
+      "artistViewUrl": "https://books.apple.com/fr/author/raymond-e-feist/id307444196?uo=4",
+      "collectionViewUrl": "https://books.apple.com/fr/audiobook/ma%C3%AEtresse-de-lempire/id1695693804?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d5/59/16/d559167b-cfce-0600-0549-54d168dfd55a/9782374344027.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d5/59/16/d559167b-cfce-0600-0549-54d168dfd55a/9782374344027.jpg/100x100bb.jpg",
+      "collectionPrice": 21.99,
+      "collectionExplicitness": "cleaned",
+      "trackCount": 2,
+      "copyright": "© 2022 Hardigan",
+      "country": "FRA",
+      "currency": "EUR",
+      "releaseDate": "2022-12-30T08:00:00Z",
+      "primaryGenreName": "SF et fantasy",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/34/42/f2/3442f268-1a2b-0ab1-db71-d4c80b9d255b/mzaf_10294452147741109798.std.aac.p.m4a",
+      "description": "Dame Mara des Acoma, pair de l'empire, se sent enfin en sécurité, hors d'atteinte de ses ennemis pour la première fois de sa vie. Elle a tort. Une nouvelle tentative d'assassinat la frappe plus cruellement que jamais.\nEmbrasée par le désir de vengeance, Mara repart en guerre. Car elle en est sûre : Jiro des Anasati, son vieux rival, est derrière ce crime. Mais ses plans sont perturbés par l'Assemblée des magiciens qui, comme Mara commence à le comprendre, est le véritable pouvoir de l'empire.\nEn quête d'alliés pour combattre ses ennemis et assurer la paix, Mara devra voyager au-delà des frontières de la civilisation, à la recherche d'un ancien secret. Rassemblant tout son courage et sa ruse, elle mènera la plus grande bataille de son existence : pour sa propre vie, son foyer et l'empire lui-même.\nCe livre audio est interprété par une voix humaine, dans le respect des engagements d'Hardigan."
+    }
+  ]
+}
