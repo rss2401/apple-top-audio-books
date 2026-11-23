@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 9,
+      "artistName": "Lucie Rico",
+      "id": "6825835540",
+      "name": "Mais que fait ce sang sur le pull de Jennifer ? - Prix de Flore 2026",
+      "releaseDate": "2026-10-23",
+      "kind": "audio-books",
+      "artistId": "1500027214",
+      "artistUrl": "https://books.apple.com/fr/author/lucie-rico/id1500027214",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/de/06/dd/de06dd6b-f2eb-4322-6a9c-18402ee0f785/9782073192646.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/mais-que-fait-ce-sang-sur-le-pull-de-jennifer-prix/id6825835540"
+    }
+  ]
+}

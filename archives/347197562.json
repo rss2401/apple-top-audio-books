@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 78,
+      "artistName": "L. Frank Baum",
+      "id": "347197562",
+      "name": "オズの魔法使い 世界の童話シリーズその30",
+      "releaseDate": "2009-12-15",
+      "kind": "audio-books",
+      "artistId": "190184746",
+      "artistUrl": "https://books.apple.com/jp/author/l-frank-baum/id190184746",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/8c/a6/bc/8ca6bc03-36d9-ead2-e816-1d803b0364c8/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000044",
+          "name": "キッズ／ヤングアダルト",
+          "url": "https://itunes.apple.com/jp/genre/id50000044"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E3%82%AA%E3%82%BA%E3%81%AE%E9%AD%94%E6%B3%95%E4%BD%BF%E3%81%84-%E4%B8%96%E7%95%8C%E3%81%AE%E7%AB%A5%E8%A9%B1%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E3%81%9D%E3%81%AE30/id347197562"
+    }
+  ]
+}

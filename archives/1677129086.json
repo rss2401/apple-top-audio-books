@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 94,
+      "artistName": "Cyril Tarquinio",
+      "id": "1677129086",
+      "name": "Les maladies ne tombent peut-être pas du ciel",
+      "releaseDate": "2023-04-26",
+      "kind": "audio-books",
+      "artistId": "1068142356",
+      "artistUrl": "https://books.apple.com/fr/author/cyril-tarquinio/id1068142356",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/42/f7/64/42f76445-850c-f697-261f-de1671939358/9791035412722.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000056",
+          "name": "Santé et bien-être",
+          "url": "https://itunes.apple.com/fr/genre/id50000056"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000052",
+          "name": "Essais et sciences humaines",
+          "url": "https://itunes.apple.com/fr/genre/id50000052"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/les-maladies-ne-tombent-peut-%C3%AAtre-pas-du-ciel/id1677129086"
+    }
+  ]
+}

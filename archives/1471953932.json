@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 32,
+      "artistName": "小林 正観",
+      "id": "1471953932",
+      "name": "小林正観さん3時間講座 楽しい子育て孫育て",
+      "releaseDate": "2019-07-18",
+      "kind": "audio-books",
+      "artistId": "629197740",
+      "artistUrl": "https://books.apple.com/jp/author/%E5%B0%8F%E6%9E%97-%E6%AD%A3%E8%A6%B3/id629197740",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/6a/cf/75/6acf75dd-c782-3150-9674-3f9ef876faa9/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000052",
+          "name": "ノンフィクション",
+          "url": "https://itunes.apple.com/jp/genre/id50000052"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        },
+        {
+          "genreId": "50000056",
+          "name": "自己啓発",
+          "url": "https://itunes.apple.com/jp/genre/id50000056"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E5%B0%8F%E6%9E%97%E6%AD%A3%E8%A6%B3%E3%81%95%E3%82%933%E6%99%82%E9%96%93%E8%AC%9B%E5%BA%A7-%E6%A5%BD%E3%81%97%E3%81%84%E5%AD%90%E8%82%B2%E3%81%A6%E5%AD%AB%E8%82%B2%E3%81%A6/id1471953932"
+    }
+  ]
+}

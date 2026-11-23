@@ -92,26 +92,26 @@
   {
     "Name": "de_audio-books_top-audio-books.json",
     "RelativePath": "rankings/202611/de_audio-books_top-audio-books.json",
-    "Length": 94780
+    "Length": 96042
   },
   {
     "Name": "fr_audio-books_top-audio-books.json",
     "RelativePath": "rankings/202611/fr_audio-books_top-audio-books.json",
-    "Length": 102634
+    "Length": 100824
   },
   {
     "Name": "gb_audio-books_top-audio-books.json",
     "RelativePath": "rankings/202611/gb_audio-books_top-audio-books.json",
-    "Length": 105089
+    "Length": 103817
   },
   {
     "Name": "jp_audio-books_top-audio-books.json",
     "RelativePath": "rankings/202611/jp_audio-books_top-audio-books.json",
-    "Length": 113375
+    "Length": 114754
   },
   {
     "Name": "us_audio-books_top-audio-books.json",
     "RelativePath": "rankings/202611/us_audio-books_top-audio-books.json",
-    "Length": 101446
+    "Length": 101714
   }
 ]

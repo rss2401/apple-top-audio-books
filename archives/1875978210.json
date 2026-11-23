@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 97,
+      "artistName": "Stephen King & Peter Straub",
+      "id": "1875978210",
+      "name": "Other Worlds Than These",
+      "releaseDate": "2026-10-06",
+      "kind": "audio-books",
+      "artistId": "2024797",
+      "artistUrl": "https://books.apple.com/gb/author/stephen-king/id2024797",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/01/52/4c0152e2-0e61-6f8f-aa54-581aecd7bbd4/9781399757249.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Fiction",
+          "url": "https://itunes.apple.com/gb/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Audiobooks",
+          "url": "https://itunes.apple.com/gb/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/gb/audiobook/other-worlds-than-these/id1875978210"
+    }
+  ]
+}

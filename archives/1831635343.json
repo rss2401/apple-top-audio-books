@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 67,
+      "artistName": "Pema Chödrön",
+      "id": "1831635343",
+      "name": "Wenn alles zusammenbricht",
+      "releaseDate": "2010-09-08",
+      "kind": "audio-books",
+      "artistId": "326020144",
+      "artistUrl": "https://books.apple.com/de/author/pema-ch%C3%B6dr%C3%B6n/id326020144",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/15/6a/1f156af2-0439-fd26-fd09-220f44aab666/9783442340804.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000056",
+          "name": "Ratgeber",
+          "url": "https://itunes.apple.com/de/genre/id50000056"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/wenn-alles-zusammenbricht/id1831635343"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 68,
+      "artistName": "Matt Dinniman & Stephan Kleiner - Übersetzer",
+      "id": "6810907563",
+      "name": "Operation Bounce House: Kampf um New Sonora",
+      "releaseDate": "2026-09-23",
+      "kind": "audio-books",
+      "artistId": "713342715",
+      "artistUrl": "https://books.apple.com/de/author/matt-dinniman/id713342715",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/47/27/6247274a-292b-50c8-d51b-f49cf070332e/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000055",
+          "name": "Science-Fiction und Fantasy",
+          "url": "https://itunes.apple.com/de/genre/id50000055"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/operation-bounce-house-kampf-um-new-sonora/id6810907563"
+    }
+  ]
+}

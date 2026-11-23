@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 44,
+      "artistName": "René Barjavel",
+      "id": "1712571404",
+      "name": "La nuit des temps",
+      "releaseDate": "2022-10-13",
+      "kind": "audio-books",
+      "artistId": "766191295",
+      "artistUrl": "https://books.apple.com/fr/author/ren%C3%A9-barjavel/id766191295",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/78/6a/28/786a28da-25bd-038d-05e7-085efbd8a30b/9791036618208.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000055",
+          "name": "SF et fantasy",
+          "url": "https://itunes.apple.com/fr/genre/id50000055"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/la-nuit-des-temps/id1712571404"
+    }
+  ]
+}

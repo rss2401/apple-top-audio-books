@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 100,
+      "artistName": "Susan Cain",
+      "id": "1677129429",
+      "name": "Le Bonheur d'être triste",
+      "releaseDate": "2023-04-26",
+      "kind": "audio-books",
+      "artistId": "422523393",
+      "artistUrl": "https://books.apple.com/fr/author/susan-cain/id422523393",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b6/db/24/b6db24b5-5d20-8a75-153c-89e4aa33e9cf/9791035412166.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000056",
+          "name": "Santé et bien-être",
+          "url": "https://itunes.apple.com/fr/genre/id50000056"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/le-bonheur-d%C3%AAtre-triste/id1677129429"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 53,
+      "artistName": "伊坂 幸太郎",
+      "id": "1858521166",
+      "name": "パズル/『パズルと天気』より",
+      "releaseDate": "2025-12-17",
+      "kind": "audio-books",
+      "artistId": "1179659191",
+      "artistUrl": "https://books.apple.com/jp/author/%E4%BC%8A%E5%9D%82-%E5%B9%B8%E5%A4%AA%E9%83%8E/id1179659191",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/af/a4/83afa4cf-d110-b9f7-47aa-44610d9f47b4/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "フィクション",
+          "url": "https://itunes.apple.com/jp/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E3%83%91%E3%82%BA%E3%83%AB-%E3%83%91%E3%82%BA%E3%83%AB%E3%81%A8%E5%A4%A9%E6%B0%97-%E3%82%88%E3%82%8A/id1858521166"
+    }
+  ]
+}

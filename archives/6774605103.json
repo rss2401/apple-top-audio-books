@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 11,
+      "artistName": "Wendy Sue Lawton",
+      "id": "6774605103",
+      "name": "Cry Baby",
+      "releaseDate": "2026-06-17",
+      "kind": "audio-books",
+      "artistId": "6774605318",
+      "artistUrl": "https://books.apple.com/fr/author/wendy-sue-lawton/id6774605318",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/5c/a3/f25ca3c7-bb69-3c6a-89e9-e039a02f99f5/9788727339672.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000069",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/fr/genre/id50000069"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/cry-baby/id6774605103"
+    }
+  ]
+}

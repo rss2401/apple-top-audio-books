@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 93,
+      "artistName": "Olivia Hayle",
+      "id": "6824567678",
+      "name": "The Perfect Mistake",
+      "releaseDate": "2026-11-13",
+      "kind": "audio-books",
+      "artistId": "1560595071",
+      "artistUrl": "https://books.apple.com/de/author/olivia-hayle/id1560595071",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ec/09/11/ec091145-44a8-ad50-92b2-33c0025ece3f/9783757022327.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000069",
+          "name": "Liebesromane",
+          "url": "https://itunes.apple.com/de/genre/id50000069"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/the-perfect-mistake/id6824567678"
+    }
+  ]
+}

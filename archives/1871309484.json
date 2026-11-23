@@ -1,5 +1,5 @@
 {
-  "resultCount": 3,
+  "resultCount": 4,
   "results": [
     {
       "month": "202604",
@@ -87,6 +87,55 @@
         }
       ],
       "url": "https://books.apple.com/us/audiobook/haunting-adeline-cat-and-mouse-duet-book-1-unabridged/id1871309484"
+    },
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 92,
+      "artistName": "H. D. Carlton",
+      "id": "1871309484",
+      "name": "Haunting Adeline: Cat and Mouse Duet, Book 1 (Unabridged)",
+      "releaseDate": "2026-01-22",
+      "kind": "audio-books",
+      "artistId": "1446356474",
+      "artistUrl": "https://books.apple.com/fr/author/h-d-carlton/id1446356474",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/67/49/53674996-72db-d23a-740c-dfc3edb749a7/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000069",
+          "name": "Romance",
+          "url": "https://itunes.apple.com/fr/genre/id50000069"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000092",
+          "name": "Érotisme",
+          "url": "https://itunes.apple.com/fr/genre/id50000092"
+        },
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000055",
+          "name": "SF et fantasy",
+          "url": "https://itunes.apple.com/fr/genre/id50000055"
+        },
+        {
+          "genreId": "50000051",
+          "name": "Policier et suspense",
+          "url": "https://itunes.apple.com/fr/genre/id50000051"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/haunting-adeline-cat-and-mouse-duet-book-1-unabridged/id1871309484"
     }
   ]
 }

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 6,
+      "artistName": "Sam Dit Bien",
+      "id": "1775534283",
+      "name": "TON ENFANT EST HYPERACTIF… OU PAS [Your Child Is Hyperactive… or Not]: 10 Règles à respecter avant de diagnostiquer [10 Rules to Follow Before Diagnosing] (Unabridged)",
+      "releaseDate": "2026-05-02",
+      "kind": "audio-books",
+      "artistId": "1773062664",
+      "artistUrl": "https://books.apple.com/fr/author/sam-dit-bien/id1773062664",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/92/bf/5f/92bf5f8f-10d1-6ad8-e798-e2097fdef759/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000056",
+          "name": "Santé et bien-être",
+          "url": "https://itunes.apple.com/fr/genre/id50000056"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000052",
+          "name": "Essais et sciences humaines",
+          "url": "https://itunes.apple.com/fr/genre/id50000052"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/ton-enfant-est-hyperactif-ou-pas-your-child-is-hyperactive/id1775534283"
+    }
+  ]
+}

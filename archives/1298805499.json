@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 66,
+      "artistName": "吴帝聪 - 吳帝聰 - Wu Dicong",
+      "id": "1298805499",
+      "name": "小米内幕 - 小米內幕 [Inside Stories of MIUI] (Unabridged)",
+      "releaseDate": "2017-10-23",
+      "kind": "audio-books",
+      "artistId": "1298805501",
+      "artistUrl": "https://books.apple.com/jp/author/%E5%90%B4%E5%B8%9D%E8%81%AA-%E5%90%B3%E5%B8%9D%E8%81%B0-wu-dicong/id1298805501",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/fd/50/9f/fd509f36-c0f8-f84a-9747-bce36e5412f7/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000043",
+          "name": "ビジネス",
+          "url": "https://itunes.apple.com/jp/genre/id50000043"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        },
+        {
+          "genreId": "50000054",
+          "name": "科学",
+          "url": "https://itunes.apple.com/jp/genre/id50000054"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E5%B0%8F%E7%B1%B3%E5%86%85%E5%B9%95-%E5%B0%8F%E7%B1%B3%E5%85%A7%E5%B9%95-inside-stories-of-miui-unabridged/id1298805499"
+    }
+  ]
+}

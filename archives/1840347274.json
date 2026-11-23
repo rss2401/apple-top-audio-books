@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 70,
+      "artistName": "Éric-Emmanuel Schmitt",
+      "id": "1840347274",
+      "name": "Les Deux Royaumes",
+      "releaseDate": "2025-10-01",
+      "kind": "audio-books",
+      "artistId": "126322054",
+      "artistUrl": "https://books.apple.com/fr/author/%C3%A9ric-emmanuel-schmitt/id126322054",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/9b/10/489b1019-1980-16d4-2669-0a4f0786770c/9791035418816.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/les-deux-royaumes/id1840347274"
+    }
+  ]
+}

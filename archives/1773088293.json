@@ -1,0 +1,34 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 99,
+      "artistName": "Holly Jackson",
+      "id": "1773088293",
+      "name": "Not Quite Dead Yet",
+      "releaseDate": "2025-07-17",
+      "kind": "audio-books",
+      "artistId": "375666088",
+      "artistUrl": "https://books.apple.com/fr/author/holly-jackson/id375666088",
+      "contentAdvisoryRating": "Explict",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/07/44/c6/0744c6bd-ecbd-b550-767b-ffc3406782ac/9781405977883.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000051",
+          "name": "Policier et suspense",
+          "url": "https://itunes.apple.com/fr/genre/id50000051"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/not-quite-dead-yet/id1773088293"
+    }
+  ]
+}

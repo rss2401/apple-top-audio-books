@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 1,
+      "artistName": "Lea Jansen",
+      "id": "1815205947",
+      "name": "MORD UND MEER - Tatort Laboe",
+      "releaseDate": "2025-07-24",
+      "kind": "audio-books",
+      "artistId": "1449993519",
+      "artistUrl": "https://books.apple.com/de/author/lea-jansen/id1449993519",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/13/13/f813132d-dc12-c264-1330-39bdb0c9ab57/9783982737706.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Belletristik",
+          "url": "https://itunes.apple.com/de/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/mord-und-meer-tatort-laboe/id1815205947"
+    }
+  ]
+}

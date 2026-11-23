@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 5,
+      "artistName": "Fedor Dostoievski, Livres audio en français & Livre audio classique",
+      "id": "1806381802",
+      "name": "L'Idiot - Livre Audio",
+      "releaseDate": "2025-04-10",
+      "kind": "audio-books",
+      "artistId": "1151532096",
+      "artistUrl": "https://books.apple.com/fr/author/fedor-dostoievski/id1151532096",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/4a/16/274a167b-1439-fc95-3112-8fc6a1891bee/4069828265684.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/lidiot-livre-audio/id1806381802"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 38,
+      "artistName": "Sarina Bowen",
+      "id": "1701151399",
+      "name": "The Five Year Lie",
+      "releaseDate": "2024-05-07",
+      "kind": "audio-books",
+      "artistId": "805806998",
+      "artistUrl": "https://books.apple.com/us/author/sarina-bowen/id805806998",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ac/d5/a7/acd5a7ad-7c72-e479-f11e-cd86450a6073/9780063280625.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000051",
+          "name": "Mysteries & Thrillers",
+          "url": "https://itunes.apple.com/us/genre/id50000051"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Audiobooks",
+          "url": "https://itunes.apple.com/us/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/us/audiobook/the-five-year-lie/id1701151399"
+    }
+  ]
+}

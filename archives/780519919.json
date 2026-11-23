@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 98,
+      "artistName": "でじじ",
+      "id": "780519919",
+      "name": "いっしょに楽しむ にほんむかしばなし 八",
+      "releaseDate": "2013-12-16",
+      "kind": "audio-books",
+      "artistId": "602958184",
+      "artistUrl": "https://books.apple.com/jp/author/%E3%81%A7%E3%81%98%E3%81%98/id602958184",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fa/97/7e/fa977e78-fbb7-6556-9418-c81963397128/lg_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000044",
+          "name": "キッズ／ヤングアダルト",
+          "url": "https://itunes.apple.com/jp/genre/id50000044"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E3%81%84%E3%81%A3%E3%81%97%E3%82%87%E3%81%AB%E6%A5%BD%E3%81%97%E3%82%80-%E3%81%AB%E3%81%BB%E3%82%93%E3%82%80%E3%81%8B%E3%81%97%E3%81%B0%E3%81%AA%E3%81%97-%E5%85%AB/id780519919"
+    }
+  ]
+}

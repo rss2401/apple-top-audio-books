@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 92,
+      "artistName": "A.A. Gill",
+      "id": "1648829749",
+      "name": "Pour Me a Life",
+      "releaseDate": "2016-10-01",
+      "kind": "audio-books",
+      "artistId": "358472856",
+      "artistUrl": "https://books.apple.com/us/author/a-a-gill/id358472856",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4f/3b/f4/4f3bf453-dbc2-ef6d-9acf-e990151673e2/9781469065168.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000056",
+          "name": "Self-Development",
+          "url": "https://itunes.apple.com/us/genre/id50000056"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Audiobooks",
+          "url": "https://itunes.apple.com/us/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/us/audiobook/pour-me-a-life/id1648829749"
+    }
+  ]
+}

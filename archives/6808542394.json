@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 33,
+      "artistName": "David Elbaz",
+      "id": "6808542394",
+      "name": "Le Syndrome de la tache rose - Le nouveau récit de l'univers",
+      "releaseDate": "2026-10-29",
+      "kind": "audio-books",
+      "artistId": "981093459",
+      "artistUrl": "https://books.apple.com/fr/author/david-elbaz/id981093459",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/dd/53/02dd5334-f9c7-b69b-df36-43a4c9a46e55/9791036657566.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000052",
+          "name": "Essais et sciences humaines",
+          "url": "https://itunes.apple.com/fr/genre/id50000052"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/le-syndrome-de-la-tache-rose-le-nouveau-r%C3%A9cit-de-lunivers/id6808542394"
+    }
+  ]
+}

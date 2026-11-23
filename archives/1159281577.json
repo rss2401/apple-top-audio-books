@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 6,
+      "artistName": "青崎 有吾",
+      "id": "1159281577",
+      "name": "体育館の殺人",
+      "releaseDate": "2016-09-30",
+      "kind": "audio-books",
+      "artistId": "1159281620",
+      "artistUrl": "https://books.apple.com/jp/author/%E9%9D%92%E5%B4%8E-%E6%9C%89%E5%90%BE/id1159281620",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/9c/47/d8/9c47d89e-1fa0-356d-acc9-7e9fe56c4e81/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "フィクション",
+          "url": "https://itunes.apple.com/jp/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        },
+        {
+          "genreId": "50000051",
+          "name": "ミステリー",
+          "url": "https://itunes.apple.com/jp/genre/id50000051"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E4%BD%93%E8%82%B2%E9%A4%A8%E3%81%AE%E6%AE%BA%E4%BA%BA/id1159281577"
+    }
+  ]
+}

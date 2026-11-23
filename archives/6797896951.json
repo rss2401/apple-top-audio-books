@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 96,
+      "artistName": "Jean-Paul Desprat",
+      "id": "6797896951",
+      "name": "Danton: Bonhomme ou démon",
+      "releaseDate": "2026-09-03",
+      "kind": "audio-books",
+      "artistId": "459814932",
+      "artistUrl": "https://books.apple.com/fr/author/jean-paul-desprat/id459814932",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f4/66/70/f4667040-d8f8-0e26-ea1d-ddf15ab880f0/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000042",
+          "name": "Biographies et mémoires",
+          "url": "https://itunes.apple.com/fr/genre/id50000042"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/danton-bonhomme-ou-d%C3%A9mon/id6797896951"
+    }
+  ]
+}

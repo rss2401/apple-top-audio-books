@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 63,
+      "artistName": "Steven Wright",
+      "id": "1661494088",
+      "name": "Harold (Unabridged)",
+      "releaseDate": "2023-05-16",
+      "kind": "audio-books",
+      "artistId": "578485862",
+      "artistUrl": "https://books.apple.com/jp/author/steven-wright/id578485862",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ed/2c/05/ed2c05b7-70b7-a88b-84f7-a6a5e589e907/9781797161525.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "フィクション",
+          "url": "https://itunes.apple.com/jp/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/harold-unabridged/id1661494088"
+    }
+  ]
+}

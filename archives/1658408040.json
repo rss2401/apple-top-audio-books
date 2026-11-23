@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 98,
+      "artistName": "Gary Thomas",
+      "id": "1658408040",
+      "name": "Vous allez dire oui à qui ? [Who Are You Going to Say Yes To?]: Et surtout, pourquoi vous allez lui dire oui [And Above All, Why Are You Going to Say Yes to Him?] (Unabridged)",
+      "releaseDate": "2022-10-26",
+      "kind": "audio-books",
+      "artistId": "61627133",
+      "artistUrl": "https://books.apple.com/fr/author/gary-thomas/id61627133",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/61/cd/39/61cd39f1-06b4-aa44-e9d3-4176fd0d944d/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000053",
+          "name": "Religion et spiritualité",
+          "url": "https://itunes.apple.com/fr/genre/id50000053"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/vous-allez-dire-oui-%C3%A0-qui-who-are-you-going-to-say/id1658408040"
+    }
+  ]
+}

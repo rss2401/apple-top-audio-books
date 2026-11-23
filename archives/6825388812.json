@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 57,
+      "artistName": "Thiệu Rino",
+      "id": "6825388812",
+      "name": "Rốt cuộc bạn đang sợ cái quái gì?",
+      "releaseDate": "2026-12-31",
+      "kind": "audio-books",
+      "artistId": "1480667110",
+      "artistUrl": "https://books.apple.com/jp/author/thi%E1%BB%87u-rino/id1480667110",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fb/b4/10/fbb41022-cc21-13a0-ab95-d56e92518f53/9780466001254.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000052",
+          "name": "ノンフィクション",
+          "url": "https://itunes.apple.com/jp/genre/id50000052"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        },
+        {
+          "genreId": "50000056",
+          "name": "自己啓発",
+          "url": "https://itunes.apple.com/jp/genre/id50000056"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/r%E1%BB%91t-cu%E1%BB%99c-b%E1%BA%A1n-%C4%91ang-s%E1%BB%A3-c%C3%A1i-qu%C3%A1i-g%C3%AC/id6825388812"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 65,
+      "artistName": "Pierre Boulle",
+      "id": "1440367020",
+      "name": "La Planète des singes",
+      "releaseDate": "2014-07-02",
+      "kind": "audio-books",
+      "artistId": "297583323",
+      "artistUrl": "https://books.apple.com/fr/author/pierre-boulle/id297583323",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/80/dd/f0/80ddf0bd-5dd0-a9d0-50df-b97250a25a50/9782356417558.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000055",
+          "name": "SF et fantasy",
+          "url": "https://itunes.apple.com/fr/genre/id50000055"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/la-plan%C3%A8te-des-singes/id1440367020"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 91,
+      "artistName": "Fédor Dostoïevski, André Comte-Sponville & André Markowicz",
+      "id": "1854200629",
+      "name": "Le joueur",
+      "releaseDate": "2025-11-21",
+      "kind": "audio-books",
+      "artistId": "49949629",
+      "artistUrl": "https://books.apple.com/fr/author/f%C3%A9dor-dosto%C3%AFevski/id49949629",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/28/66/1d/28661d69-3609-010c-c64b-1fed714bfe03/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000045",
+          "name": "Classiques",
+          "url": "https://itunes.apple.com/fr/genre/id50000045"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/le-joueur/id1854200629"
+    }
+  ]
+}

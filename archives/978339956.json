@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 80,
+      "artistName": "ウェルツミュージック",
+      "id": "978339956",
+      "name": "さくらノイズ 第二夜、レイニーブルース。",
+      "releaseDate": "2015-03-25",
+      "kind": "audio-books",
+      "artistId": "734125364",
+      "artistUrl": "https://books.apple.com/jp/author/%E3%82%A6%E3%82%A7%E3%83%AB%E3%83%84%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF/id734125364",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/da/5f/29da5fc2-ed65-6169-af70-97bdf8ff5487/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000093",
+          "name": "ライトノベル",
+          "url": "https://itunes.apple.com/jp/genre/id50000093"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E3%81%95%E3%81%8F%E3%82%89%E3%83%8E%E3%82%A4%E3%82%BA-%E7%AC%AC%E4%BA%8C%E5%A4%9C-%E3%83%AC%E3%82%A4%E3%83%8B%E3%83%BC%E3%83%96%E3%83%AB%E3%83%BC%E3%82%B9/id978339956"
+    }
+  ]
+}

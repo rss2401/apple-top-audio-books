@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 58,
+      "artistName": "Gary John Bishop",
+      "id": "1441419101",
+      "name": "Unfu*k Yourself",
+      "releaseDate": "2017-08-01",
+      "kind": "audio-books",
+      "artistId": "1236674331",
+      "artistUrl": "https://books.apple.com/us/author/gary-john-bishop/id1236674331",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/dd/55/60/dd5560d0-040c-1196-5237-eb6d2f644a95/9780062819499.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000056",
+          "name": "Self-Development",
+          "url": "https://itunes.apple.com/us/genre/id50000056"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Audiobooks",
+          "url": "https://itunes.apple.com/us/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/us/audiobook/unfu-k-yourself/id1441419101"
+    }
+  ]
+}

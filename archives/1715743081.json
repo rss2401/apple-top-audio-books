@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 48,
+      "artistName": "劉 慈欣, 大森 望, 光吉 さくら & ワン チャイ",
+      "id": "1715743081",
+      "name": "超新星紀元",
+      "releaseDate": "2023-11-10",
+      "kind": "audio-books",
+      "artistId": "1512112327",
+      "artistUrl": "https://books.apple.com/jp/author/%E5%8A%89-%E6%85%88%E6%AC%A3/id1512112327",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/77/98/02/77980265-843b-0dd5-3142-0aa72d66fabd/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000055",
+          "name": "SF／ファンタジー",
+          "url": "https://itunes.apple.com/jp/genre/id50000055"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E8%B6%85%E6%96%B0%E6%98%9F%E7%B4%80%E5%85%83/id1715743081"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 15,
+      "artistName": "ジュール・ベルヌ",
+      "id": "1434283376",
+      "name": "海底2万マイル",
+      "releaseDate": "2010-05-10",
+      "kind": "audio-books",
+      "artistId": "168329371",
+      "artistUrl": "https://books.apple.com/jp/author/%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB-%E3%83%99%E3%83%AB%E3%83%8C/id168329371",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/00/a4/01/00a4012e-4ffa-372b-99ef-1d5144fdafa2/artwork.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "フィクション",
+          "url": "https://itunes.apple.com/jp/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E6%B5%B7%E5%BA%952%E4%B8%87%E3%83%9E%E3%82%A4%E3%83%AB/id1434283376"
+    }
+  ]
+}

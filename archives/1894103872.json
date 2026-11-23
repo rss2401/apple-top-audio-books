@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 22,
+      "artistName": "Kim Faber",
+      "id": "1894103872",
+      "name": "Grenzland",
+      "releaseDate": "2026-11-16",
+      "kind": "audio-books",
+      "artistId": "1453183561",
+      "artistUrl": "https://books.apple.com/de/author/kim-faber/id1453183561",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b3/ec/89/b3ec89ab-8124-40ad-8a46-6384f6a49f8a/9783759904010.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Belletristik",
+          "url": "https://itunes.apple.com/de/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/grenzland/id1894103872"
+    }
+  ]
+}

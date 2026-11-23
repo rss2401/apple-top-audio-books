@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 86,
+      "artistName": "Séverine Lumen",
+      "id": "1725560305",
+      "name": "La voix des êtres de lumière: Comprendre les messages de vos guides spirituels, décrypter les signes de l’au-delà, se connecter à vos anges gardiens pour une transformation personnelle et une vie spirituelle épanouie",
+      "releaseDate": "2024-01-06",
+      "kind": "audio-books",
+      "artistId": "1725560306",
+      "artistUrl": "https://books.apple.com/fr/author/s%C3%A9verine-lumen/id1725560306",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/60/b1/b9/60b1b96f-e49f-3886-ee81-8b567f6ea42e/9798868789328.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000056",
+          "name": "Santé et bien-être",
+          "url": "https://itunes.apple.com/fr/genre/id50000056"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/la-voix-des-%C3%AAtres-de-lumi%C3%A8re-comprendre-les-messages/id1725560305"
+    }
+  ]
+}

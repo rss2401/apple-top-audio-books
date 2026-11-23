@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 64,
+      "artistName": "Suzanne Collins",
+      "id": "1518605891",
+      "name": "Hunger Games - La Ballade du serpent et de l'oiseau chanteur",
+      "releaseDate": "2020-06-24",
+      "kind": "audio-books",
+      "artistId": "110188933",
+      "artistUrl": "https://books.apple.com/fr/author/suzanne-collins/id110188933",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/96/ee/97/96ee976d-c255-1012-d2e5-e01a5fd827c6/9791035401733.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000044",
+          "name": "Jeunesse",
+          "url": "https://itunes.apple.com/fr/genre/id50000044"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/hunger-games-la-ballade-du-serpent-et-de-loiseau-chanteur/id1518605891"
+    }
+  ]
+}

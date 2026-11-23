@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 51,
+      "artistName": "Susanne Hanika",
+      "id": "6832576888",
+      "name": "Der Tod schickt keine Neujahrsgrüße - Sofia und die Hirschgrund-Morde, Teil 30 (Ein Bayernkrimi)",
+      "releaseDate": "2026-12-01",
+      "kind": "audio-books",
+      "artistId": "1530678452",
+      "artistUrl": "https://books.apple.com/de/author/susanne-hanika/id1530678452",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/08/f3/6b08f3b0-e35e-318c-3fef-961c60ca3097/cover.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000051",
+          "name": "Krimis und Thriller",
+          "url": "https://itunes.apple.com/de/genre/id50000051"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/der-tod-schickt-keine-neujahrsgr%C3%BC%C3%9Fe-sofia-und-die-hirschgrund/id6832576888"
+    }
+  ]
+}

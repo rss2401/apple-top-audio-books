@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 13,
+      "artistName": "鎌田 東二",
+      "id": "383448442",
+      "name": "超訳 古事記",
+      "releaseDate": "2010-07-30",
+      "kind": "audio-books",
+      "artistId": "1151002343",
+      "artistUrl": "https://books.apple.com/jp/author/%E9%8E%8C%E7%94%B0-%E6%9D%B1%E4%BA%8C/id1151002343",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/8e/13/f3/8e13f3fd-210b-3faf-5077-1dc62715e0b2/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000045",
+          "name": "名作",
+          "url": "https://itunes.apple.com/jp/genre/id50000045"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        },
+        {
+          "genreId": "50000040",
+          "name": "フィクション",
+          "url": "https://itunes.apple.com/jp/genre/id50000040"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E8%B6%85%E8%A8%B3-%E5%8F%A4%E4%BA%8B%E8%A8%98/id383448442"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 58,
+      "artistName": "Tony Tulathimutte",
+      "id": "6803138425",
+      "name": "Fiasko: Fiktionen (ungekürzt)",
+      "releaseDate": "2026-08-13",
+      "kind": "audio-books",
+      "artistId": "429100792",
+      "artistUrl": "https://books.apple.com/de/author/tony-tulathimutte/id429100792",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/ce/8a/1dce8a2d-a390-952d-37f9-414a5bd12f8a/4066004857602_3000.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Belletristik",
+          "url": "https://itunes.apple.com/de/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/fiasko-fiktionen-ungek%C3%BCrzt/id6803138425"
+    }
+  ]
+}

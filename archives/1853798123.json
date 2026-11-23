@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 84,
+      "artistName": "Le Coran",
+      "id": "1853798123",
+      "name": "Le Coran en français",
+      "releaseDate": "2025-11-04",
+      "kind": "audio-books",
+      "artistId": "1757844195",
+      "artistUrl": "https://books.apple.com/fr/author/le-coran/id1757844195",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/57/06/5e/57065e93-063b-b39b-d69a-9abddb01e755/9798260803936.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000053",
+          "name": "Religion et spiritualité",
+          "url": "https://itunes.apple.com/fr/genre/id50000053"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/le-coran-en-fran%C3%A7ais/id1853798123"
+    }
+  ]
+}

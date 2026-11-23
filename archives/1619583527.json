@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 50,
+      "artistName": "Michael Reaves",
+      "id": "1619583527",
+      "name": "Shadow Hunter: Star Wars Legends (Darth Maul) (Unabridged)",
+      "releaseDate": "2022-08-02",
+      "kind": "audio-books",
+      "artistId": "830672616",
+      "artistUrl": "https://books.apple.com/jp/author/michael-reaves/id830672616",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a3/1c/78/a31c783c-c97d-ad1a-7d90-663044fdb04c/9780593583821.d.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000055",
+          "name": "SF／ファンタジー",
+          "url": "https://itunes.apple.com/jp/genre/id50000055"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        },
+        {
+          "genreId": "50000040",
+          "name": "フィクション",
+          "url": "https://itunes.apple.com/jp/genre/id50000040"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/shadow-hunter-star-wars-legends-darth-maul-unabridged/id1619583527"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
     {
       "month": "202607",
@@ -28,6 +28,34 @@
         }
       ],
       "url": "https://books.apple.com/de/audiobook/nein-sagen-%C3%BCber-den-20-juli-1944-meine-eltern-und-pers%C3%B6nliche/id1874020286"
+    },
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 74,
+      "artistName": "Matthias Brandt",
+      "id": "1874020286",
+      "name": "Nein sagen",
+      "releaseDate": "2026-03-12",
+      "kind": "audio-books",
+      "artistId": "84239813",
+      "artistUrl": "https://books.apple.com/de/author/matthias-brandt/id84239813",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f9/b6/b8/f9b6b81f-7a6e-7cb6-77cf-10b3e055cbb2/9783732488704.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Belletristik",
+          "url": "https://itunes.apple.com/de/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/nein-sagen/id1874020286"
     }
   ]
 }

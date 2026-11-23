@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 54,
+      "artistName": "Lisa Jewell",
+      "id": "6810577956",
+      "name": "Ça aurait pu être elle",
+      "releaseDate": "2026-11-04",
+      "kind": "audio-books",
+      "artistId": "262725607",
+      "artistUrl": "https://books.apple.com/fr/author/lisa-jewell/id262725607",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/06/f4/e5/06f4e5ec-7d57-d121-0c25-322b2002133c/9791035427139-001-y.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/%C3%A7a-aurait-pu-%C3%AAtre-elle/id6810577956"
+    }
+  ]
+}

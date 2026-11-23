@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 84,
+      "artistName": "パム・グラウト",
+      "id": "1416418024",
+      "name": "「感謝」で思考は現実になる",
+      "releaseDate": "2017-11-21",
+      "kind": "audio-books",
+      "artistId": "868713340",
+      "artistUrl": "https://books.apple.com/jp/author/%E3%83%91%E3%83%A0-%E3%82%B0%E3%83%A9%E3%82%A6%E3%83%88/id868713340",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/68/28/b6/6828b634-d9b1-b3d1-5647-e2a9acc95c9e/square_artwork.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000056",
+          "name": "自己啓発",
+          "url": "https://itunes.apple.com/jp/genre/id50000056"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E6%84%9F%E8%AC%9D-%E3%81%A7%E6%80%9D%E8%80%83%E3%81%AF%E7%8F%BE%E5%AE%9F%E3%81%AB%E3%81%AA%E3%82%8B/id1416418024"
+    }
+  ]
+}

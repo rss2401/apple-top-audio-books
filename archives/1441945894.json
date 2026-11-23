@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 17,
+      "artistName": "Roald Dahl",
+      "id": "1441945894",
+      "name": "La potion magique de Georges Bouillon",
+      "releaseDate": "2018-08-30",
+      "kind": "audio-books",
+      "artistId": "5367371",
+      "artistUrl": "https://books.apple.com/fr/author/roald-dahl/id5367371",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0b/31/9f/0b319fb8-824c-1ede-3a7d-aecef81a9370/9782075002868.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000044",
+          "name": "Jeunesse",
+          "url": "https://itunes.apple.com/fr/genre/id50000044"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/la-potion-magique-de-georges-bouillon/id1441945894"
+    }
+  ]
+}

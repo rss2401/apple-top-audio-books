@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 21,
+      "artistName": "吉川英治",
+      "id": "1415627120",
+      "name": "三国志 第1話 「桃園の誓い」総集編",
+      "releaseDate": "2016-10-06",
+      "kind": "audio-books",
+      "artistId": "581175101",
+      "artistUrl": "https://books.apple.com/jp/author/%E5%90%89%E5%B7%9D%E8%8B%B1%E6%B2%BB/id581175101",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/d7/98/a9/d798a9b4-0958-9fd4-a848-dbb9c9999ef5/artwork.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000045",
+          "name": "名作",
+          "url": "https://itunes.apple.com/jp/genre/id50000045"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        },
+        {
+          "genreId": "50000040",
+          "name": "フィクション",
+          "url": "https://itunes.apple.com/jp/genre/id50000040"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E4%B8%89%E5%9B%BD%E5%BF%97-%E7%AC%AC1%E8%A9%B1-%E6%A1%83%E5%9C%92%E3%81%AE%E8%AA%93%E3%81%84-%E7%B7%8F%E9%9B%86%E7%B7%A8/id1415627120"
+    }
+  ]
+}

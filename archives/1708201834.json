@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 15,
+      "artistName": "Caroline Goldman",
+      "id": "1708201834",
+      "name": "File dans ta chambre !",
+      "releaseDate": "2023-10-25",
+      "kind": "audio-books",
+      "artistId": "1457825464",
+      "artistUrl": "https://books.apple.com/fr/author/caroline-goldman/id1457825464",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/be/c9/5b/bec95b14-1161-6bad-732c-cce9be4e79ec/9791035414849.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000056",
+          "name": "Santé et bien-être",
+          "url": "https://itunes.apple.com/fr/genre/id50000056"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/file-dans-ta-chambre/id1708201834"
+    }
+  ]
+}

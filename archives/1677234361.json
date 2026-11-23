@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 82,
+      "artistName": "Michel Bussi",
+      "id": "1677234361",
+      "name": "Le Temps est assassin",
+      "releaseDate": "2023-03-16",
+      "kind": "audio-books",
+      "artistId": "483471105",
+      "artistUrl": "https://books.apple.com/fr/author/michel-bussi/id483471105",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f5/af/2c/f5af2c8f-d49e-c736-d603-e31ff22c09c1/9791036625237.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/le-temps-est-assassin/id1677234361"
+    }
+  ]
+}

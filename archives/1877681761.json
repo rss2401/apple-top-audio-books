@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 56,
+      "artistName": "Sebastian Fitzek",
+      "id": "1877681761",
+      "name": "Der Nachtwandler",
+      "releaseDate": "2026-02-20",
+      "kind": "audio-books",
+      "artistId": "258171023",
+      "artistUrl": "https://books.apple.com/de/author/sebastian-fitzek/id258171023",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d2/5e/11/d25e11bb-0050-0c46-f86f-9f84a2d2c662/9783732489541.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Belletristik",
+          "url": "https://itunes.apple.com/de/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/der-nachtwandler/id1877681761"
+    }
+  ]
+}

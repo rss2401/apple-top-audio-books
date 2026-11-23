@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 73,
+      "artistName": "Eric Fouassier",
+      "id": "1672354746",
+      "name": "Le Piège de verre",
+      "releaseDate": "2023-03-09",
+      "kind": "audio-books",
+      "artistId": "491688579",
+      "artistUrl": "https://books.apple.com/fr/author/eric-fouassier/id491688579",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d4/f8/fa/d4f8fad4-ca49-b200-3200-e9e9f286b4cf/9791036626463.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/le-pi%C3%A8ge-de-verre/id1672354746"
+    }
+  ]
+}

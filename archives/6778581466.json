@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 89,
+      "artistName": "Emily Brontë & Livres audio en français",
+      "id": "6778581466",
+      "name": "Les Hauts de Hurlevent - Livre Audio",
+      "releaseDate": "2026-06-12",
+      "kind": "audio-books",
+      "artistId": "1425146653",
+      "artistUrl": "https://books.apple.com/fr/author/emily-bront%C3%AB/id1425146653",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/2e/08/c12e08ff-1ca9-5371-6d1f-07760dead21f/4069829190107.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/les-hauts-de-hurlevent-livre-audio/id6778581466"
+    }
+  ]
+}

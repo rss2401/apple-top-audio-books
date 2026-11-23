@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 96,
+      "artistName": "Bruce Holsinger",
+      "id": "1802162062",
+      "name": "Culpability: A Novel",
+      "releaseDate": "2025-07-08",
+      "kind": "audio-books",
+      "artistId": "361931610",
+      "artistUrl": "https://books.apple.com/us/author/bruce-holsinger/id361931610",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/a0/ab/43a0abfe-e02c-4dca-dd9e-d5cf1d093b66/9798347711529.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Fiction",
+          "url": "https://itunes.apple.com/us/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Audiobooks",
+          "url": "https://itunes.apple.com/us/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/us/audiobook/culpability-a-novel/id1802162062"
+    }
+  ]
+}

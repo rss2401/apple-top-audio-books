@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 34,
+      "artistName": "Kimberly McCreight",
+      "id": "1840786373",
+      "name": "Someone Else's Husband: Katie Couric Book Club: A Novel (Unabridged)",
+      "releaseDate": "2026-06-16",
+      "kind": "audio-books",
+      "artistId": "533629171",
+      "artistUrl": "https://books.apple.com/us/author/kimberly-mccreight/id533629171",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/b0/4f/65b04f81-0c78-9411-dbd5-590fa8681c47/9798217340095.d.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Fiction",
+          "url": "https://itunes.apple.com/us/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Audiobooks",
+          "url": "https://itunes.apple.com/us/genre/id50000024"
+        },
+        {
+          "genreId": "50000051",
+          "name": "Mysteries & Thrillers",
+          "url": "https://itunes.apple.com/us/genre/id50000051"
+        }
+      ],
+      "url": "https://books.apple.com/us/audiobook/someone-elses-husband-katie-couric-book-club-a/id1840786373"
+    }
+  ]
+}

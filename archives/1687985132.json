@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 70,
+      "artistName": "Kristin Hannah",
+      "id": "1687985132",
+      "name": "The Women",
+      "releaseDate": "2024-02-06",
+      "kind": "audio-books",
+      "artistId": "279488103",
+      "artistUrl": "https://books.apple.com/us/author/kristin-hannah/id279488103",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5f/6a/7a/5f6a7ad2-7843-edfb-263e-b3d5ff38c632/9781250317957.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Fiction",
+          "url": "https://itunes.apple.com/us/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Audiobooks",
+          "url": "https://itunes.apple.com/us/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/us/audiobook/the-women/id1687985132"
+    }
+  ]
+}

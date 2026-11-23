@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 76,
+      "artistName": "Yamamoto Tsunetomo",
+      "id": "1601657905",
+      "name": "Hagakure: Ecrits sur la voie du samouraï",
+      "releaseDate": "2021-12-30",
+      "kind": "audio-books",
+      "artistId": "454940231",
+      "artistUrl": "https://books.apple.com/fr/author/yamamoto-tsunetomo/id454940231",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/98/51/639851b7-6e3c-dff7-2234-45271c166a72/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000057",
+          "name": "Sports",
+          "url": "https://itunes.apple.com/fr/genre/id50000057"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/hagakure-ecrits-sur-la-voie-du-samoura%C3%AF/id1601657905"
+    }
+  ]
+}

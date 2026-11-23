@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 60,
+      "artistName": "Jen Sincero",
+      "id": "1439860677",
+      "name": "You Are a Badass at Making Money",
+      "releaseDate": "2017-04-20",
+      "kind": "audio-books",
+      "artistId": "358501055",
+      "artistUrl": "https://books.apple.com/gb/author/jen-sincero/id358501055",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/0b/95/c8/0b95c8ac-7af7-d927-e9a2-2038ac14cd72/9781473663060.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000056",
+          "name": "Self-Development",
+          "url": "https://itunes.apple.com/gb/genre/id50000056"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Audiobooks",
+          "url": "https://itunes.apple.com/gb/genre/id50000024"
+        },
+        {
+          "genreId": "50000043",
+          "name": "Business & Personal Finance",
+          "url": "https://itunes.apple.com/gb/genre/id50000043"
+        }
+      ],
+      "url": "https://books.apple.com/gb/audiobook/you-are-a-badass-at-making-money/id1439860677"
+    }
+  ]
+}

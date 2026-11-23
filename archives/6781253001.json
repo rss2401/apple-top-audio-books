@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 84,
+      "artistName": "Yael Inokai",
+      "id": "6781253001",
+      "name": "Die Auster",
+      "releaseDate": "2026-07-21",
+      "kind": "audio-books",
+      "artistId": "1294725981",
+      "artistUrl": "https://books.apple.com/de/author/yael-inokai/id1294725981",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/4a/46/6d4a46d1-7254-bfad-09e8-85a6e3026dae/4066004788999_3000.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Belletristik",
+          "url": "https://itunes.apple.com/de/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/die-auster/id6781253001"
+    }
+  ]
+}

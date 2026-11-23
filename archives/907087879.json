@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 68,
+      "artistName": "Docteur Patrick-André Chéné & Docteur Marie-Andrée Auquier",
+      "id": "907087879",
+      "name": "Sophrologie - Relaxation dynamique 1",
+      "releaseDate": "2006-08-07",
+      "kind": "audio-books",
+      "artistId": "779351665",
+      "artistUrl": "https://books.apple.com/fr/author/docteur-patrick-andr%C3%A9-ch%C3%A9n%C3%A9/id779351665",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/00/d2/e5/00d2e572-b406-fb55-6da6-90d9e9ac38c8/itunes.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000056",
+          "name": "Santé et bien-être",
+          "url": "https://itunes.apple.com/fr/genre/id50000056"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/sophrologie-relaxation-dynamique-1/id907087879"
+    }
+  ]
+}

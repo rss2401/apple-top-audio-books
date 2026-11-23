@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 18,
+      "artistName": "L. Ron Hubbard",
+      "id": "1615363919",
+      "name": "La Dianétique: La Puissance de la Pensée sur le Corps",
+      "releaseDate": "2010-01-01",
+      "kind": "audio-books",
+      "artistId": "2705569",
+      "artistUrl": "https://books.apple.com/fr/author/l-ron-hubbard/id2705569",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/77/26/d0/7726d0da-6833-982a-ec3f-394985d42664/9788743205081_2_cover.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000056",
+          "name": "Santé et bien-être",
+          "url": "https://itunes.apple.com/fr/genre/id50000056"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/la-dian%C3%A9tique-la-puissance-de-la-pens%C3%A9e-sur-le-corps/id1615363919"
+    }
+  ]
+}

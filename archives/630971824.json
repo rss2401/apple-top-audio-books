@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 93,
+      "artistName": "でじじ",
+      "id": "630971824",
+      "name": "いっしょに楽しむ にほんむかしばなし 四 一休さんのとんちばなし",
+      "releaseDate": "2013-04-10",
+      "kind": "audio-books",
+      "artistId": "602958184",
+      "artistUrl": "https://books.apple.com/jp/author/%E3%81%A7%E3%81%98%E3%81%98/id602958184",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/75/3f/56/753f56f7-8fd1-e4ab-c007-269ed0303b02/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000044",
+          "name": "キッズ／ヤングアダルト",
+          "url": "https://itunes.apple.com/jp/genre/id50000044"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/%E3%81%84%E3%81%A3%E3%81%97%E3%82%87%E3%81%AB%E6%A5%BD%E3%81%97%E3%82%80-%E3%81%AB%E3%81%BB%E3%82%93%E3%82%80%E3%81%8B%E3%81%97%E3%81%B0%E3%81%AA%E3%81%97-%E5%9B%9B-%E4%B8%80%E4%BC%91%E3%81%95%E3%82%93%E3%81%AE%E3%81%A8%E3%82%93%E3%81%A1%E3%81%B0%E3%81%AA%E3%81%97/id630971824"
+    }
+  ]
+}

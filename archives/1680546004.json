@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 93,
+      "artistName": "Nicolas Mathieu",
+      "id": "1680546004",
+      "name": "Aux animaux la guerre - Prix Ginkgo 2023",
+      "releaseDate": "2023-01-04",
+      "kind": "audio-books",
+      "artistId": "348057686",
+      "artistUrl": "https://books.apple.com/fr/author/nicolas-mathieu/id348057686",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/5c/1f/47/5c1f473d-9dd6-79fc-3610-e4034e596eaa/9782330178291.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000051",
+          "name": "Policier et suspense",
+          "url": "https://itunes.apple.com/fr/genre/id50000051"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Livres audio",
+          "url": "https://itunes.apple.com/fr/genre/id50000024"
+        },
+        {
+          "genreId": "50000040",
+          "name": "Romans et littérature",
+          "url": "https://itunes.apple.com/fr/genre/id50000040"
+        }
+      ],
+      "url": "https://books.apple.com/fr/audiobook/aux-animaux-la-guerre-prix-ginkgo-2023/id1680546004"
+    }
+  ]
+}

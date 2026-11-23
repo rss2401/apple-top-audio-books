@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 61,
+      "artistName": "JJ Green",
+      "id": "1763396074",
+      "name": "Space Colony One Books 4 - 6",
+      "releaseDate": "2024-07-20",
+      "kind": "audio-books",
+      "artistId": "375250475",
+      "artistUrl": "https://books.apple.com/jp/author/jj-green/id375250475",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/a8/20/1fa820e1-ef8c-38c6-0c0c-fd3eb64d37a8/9798882303265.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000055",
+          "name": "SF／ファンタジー",
+          "url": "https://itunes.apple.com/jp/genre/id50000055"
+        },
+        {
+          "genreId": "50000024",
+          "name": "オーディオブック",
+          "url": "https://itunes.apple.com/jp/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/jp/audiobook/space-colony-one-books-4-6/id1763396074"
+    }
+  ]
+}

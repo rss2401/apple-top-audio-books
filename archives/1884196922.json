@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 75,
+      "artistName": "Mary Lawson",
+      "id": "1884196922",
+      "name": "Solace in Winter: Oprah's Book Club: A Novel (Unabridged)",
+      "releaseDate": "2026-11-10",
+      "kind": "audio-books",
+      "artistId": "299126753",
+      "artistUrl": "https://books.apple.com/us/author/mary-lawson/id299126753",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ac/76/a2/ac76a213-3217-501c-d953-4e465d98c75b/9781039059924.d.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000040",
+          "name": "Fiction",
+          "url": "https://itunes.apple.com/us/genre/id50000040"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Audiobooks",
+          "url": "https://itunes.apple.com/us/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/us/audiobook/solace-in-winter-oprahs-book-club-a-novel-unabridged/id1884196922"
+    }
+  ]
+}

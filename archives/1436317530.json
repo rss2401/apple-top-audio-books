@@ -1,0 +1,33 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 66,
+      "artistName": "Jostein Gaarder",
+      "id": "1436317530",
+      "name": "Sofies Welt",
+      "releaseDate": "2010-09-28",
+      "kind": "audio-books",
+      "artistId": "1435679757",
+      "artistUrl": "https://books.apple.com/de/author/jostein-gaarder/id1435679757",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/7b/fe/26/7bfe26a4-6ecc-dcf5-a3fa-79e3ee0b70fe/9783837180329.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000044",
+          "name": "Kinder und Jugend",
+          "url": "https://itunes.apple.com/de/genre/id50000044"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/sofies-welt/id1436317530"
+    }
+  ]
+}

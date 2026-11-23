@@ -1,0 +1,38 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "audio-books",
+      "feed": "top-audio-books",
+      "rank": 63,
+      "artistName": "Russ Harris",
+      "id": "1735319976",
+      "name": "Wer dem Glück hinterherrennt, läuft daran vorbei: Ein Umdenkbuch",
+      "releaseDate": "2023-10-26",
+      "kind": "audio-books",
+      "artistId": "373756984",
+      "artistUrl": "https://books.apple.com/de/author/russ-harris/id373756984",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/79/b4/7279b4c0-f8b9-97af-dbc7-c25581d4c13d/rm_image.jpg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "50000056",
+          "name": "Ratgeber",
+          "url": "https://itunes.apple.com/de/genre/id50000056"
+        },
+        {
+          "genreId": "50000024",
+          "name": "Hörbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000024"
+        },
+        {
+          "genreId": "50000052",
+          "name": "Sachbücher",
+          "url": "https://itunes.apple.com/de/genre/id50000052"
+        }
+      ],
+      "url": "https://books.apple.com/de/audiobook/wer-dem-gl%C3%BCck-hinterherrennt-l%C3%A4uft-daran-vorbei-ein/id1735319976"
+    }
+  ]
+}
